@@ -2,7 +2,7 @@ name: Update ZIP Locale Detail
 
 on:
   schedule:
-    - cron: "0 6 * * *" # daily at 06:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -30,13 +30,12 @@ jobs:
 
       - name: Commit changes
         run: |
-          # Never commit node_modules
+          # Ensure node_modules is ignored
           echo "node_modules/" >> .gitignore
 
-          # Stage only intended artifacts
+          # Stage only generated artifacts + lockfile
           git add data package-lock.json .gitignore
 
-          # Commit only if something actually changed
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
