@@ -16,7 +16,8 @@ const __dirname = path.dirname(__filename);
 const BASE_URL = "https://postalpro.usps.com";
 const PAGE_URL = `${BASE_URL}/ZIP_Locale_Detail`;
 
-const OUTPUT_PATH = path.resolve(__dirname, "../data/zip_locale_detail.json");
+const OUTPUT_ALL = path.resolve(__dirname, "../data/zip_locale_detail.json");
+const OUTPUT_STATES_DIR = path.resolve(__dirname, "../data/states");
 
 /* ------------------------------------------------------------------ */
 /* http client with cache                                              */
@@ -26,7 +27,7 @@ const axios = axiosPkg.default ?? axiosPkg;
 const setupCache = cachePkg.setupCache;
 
 const http = setupCache(axios.create(), {
-  ttl: 1000 * 60 * 60 * 6, // 6 hours
+  ttl: 1000 * 60 * 60 * 6,
   interpretHeader: true,
   staleIfError: true
 });
@@ -56,8 +57,7 @@ async function main() {
   const xlsRes = await http.get(fileUrl, { responseType: "arraybuffer" });
 
   const workbook = XLSX.read(xlsRes.data, { type: "buffer" });
-  const sheetName = workbook.SheetNames[0];
-  const sheet = workbook.Sheets[sheetName];
+  const sheet = workbook.Sheets[workbook.SheetNames[0]];
 
   const rows = XLSX.utils.sheet_to_json(sheet, {
     defval: null,
@@ -65,6 +65,10 @@ async function main() {
   });
 
   console.log(`Parsed ${rows.length} rows`);
+
+  /* ------------------------------------------------------------------ */
+  /* normalize rows (unchanged schema)                                  */
+  /* ------------------------------------------------------------------ */
 
   const normalized = rows.map(r => ({
     area_name: r["AREA NAME"],
@@ -80,14 +84,35 @@ async function main() {
     physical_zip4: r["PHYSICAL ZIP 4"]
   }));
 
-  fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true });
-  fs.writeFileSync(
-    OUTPUT_PATH,
-    JSON.stringify(normalized, null, 2),
-    "utf8"
-  );
+  /* ------------------------------------------------------------------ */
+  /* write full file (unchanged)                                        */
+  /* ------------------------------------------------------------------ */
 
-  console.log("Wrote JSON:", OUTPUT_PATH);
+  fs.mkdirSync(path.dirname(OUTPUT_ALL), { recursive: true });
+  fs.writeFileSync(OUTPUT_ALL, JSON.stringify(normalized, null, 2), "utf8");
+
+  console.log("Wrote full ZIP dataset:", OUTPUT_ALL);
+
+  /* ------------------------------------------------------------------ */
+  /* split by state                                                     */
+  /* ------------------------------------------------------------------ */
+
+  fs.mkdirSync(OUTPUT_STATES_DIR, { recursive: true });
+
+  const byState = {};
+
+  for (const row of normalized) {
+    const state = row.physical_state || "UNKNOWN";
+    if (!byState[state]) byState[state] = [];
+    byState[state].push(row);
+  }
+
+  for (const [state, entries] of Object.entries(byState)) {
+    const filePath = path.join(OUTPUT_STATES_DIR, `${state}.json`);
+    fs.writeFileSync(filePath, JSON.stringify(entries, null, 2), "utf8");
+  }
+
+  console.log(`Wrote ${Object.keys(byState).length} state files`);
 }
 
 /* ------------------------------------------------------------------ */
