@@ -1,0 +1,67 @@
+[
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96950",
+    "locale_name": "CPU CAPITOL HILL",
+    "physical_delivery_address": "1 CAPITOL HL",
+    "physical_city": "SAIPAN",
+    "physical_state": "MP",
+    "physical_zip": "96950",
+    "physical_zip4": "9997"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96950",
+    "locale_name": "CPU GARAPAN RURAL BRANCH",
+    "physical_delivery_address": "520 ALAIHAI AVE",
+    "physical_city": "SAIPAN",
+    "physical_state": "MP",
+    "physical_zip": "96950",
+    "physical_zip4": "9994"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96950",
+    "locale_name": "CPU SAN VICENTE",
+    "physical_delivery_address": "1 SAN VICENTE VLG",
+    "physical_city": "SAIPAN",
+    "physical_state": "MP",
+    "physical_zip": "96950",
+    "physical_zip4": "9995"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96950",
+    "locale_name": "SAIPAN",
+    "physical_delivery_address": "1 CHALAN KANOA VLG",
+    "physical_city": "SAIPAN",
+    "physical_state": "MP",
+    "physical_zip": "96950",
+    "physical_zip4": "9996"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96951",
+    "locale_name": "ROTA",
+    "physical_delivery_address": "1 SONG SONG VLG",
+    "physical_city": "ROTA",
+    "physical_state": "MP",
+    "physical_zip": "96951",
+    "physical_zip4": "9997"
+  }
+]

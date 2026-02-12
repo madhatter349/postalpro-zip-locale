@@ -1,0 +1,28 @@
+[
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96960",
+    "locale_name": "MAJURO",
+    "physical_delivery_address": "1 ULIGA TOWN",
+    "physical_city": "MAJURO",
+    "physical_state": "MH",
+    "physical_zip": "96960",
+    "physical_zip4": "9997"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96970",
+    "locale_name": "EBEYE",
+    "physical_delivery_address": "1 EBEYE TOWN",
+    "physical_city": "EBEYE",
+    "physical_state": "MH",
+    "physical_zip": "96970",
+    "physical_zip4": "9997"
+  }
+]

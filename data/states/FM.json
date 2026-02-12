@@ -1,0 +1,54 @@
+[
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96941",
+    "locale_name": "POHNPEI",
+    "physical_delivery_address": "1 KOLONIA TOWN",
+    "physical_city": "POHNPEI",
+    "physical_state": "FM",
+    "physical_zip": "96941",
+    "physical_zip4": "9997"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96942",
+    "locale_name": "CHUUK",
+    "physical_delivery_address": "1 WENO",
+    "physical_city": "CHUUK",
+    "physical_state": "FM",
+    "physical_zip": "96942",
+    "physical_zip4": "9997"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96943",
+    "locale_name": "YAP",
+    "physical_delivery_address": "1 COLONIA",
+    "physical_city": "YAP",
+    "physical_state": "FM",
+    "physical_zip": "96943",
+    "physical_zip4": "9997"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96944",
+    "locale_name": "KOSRAE",
+    "physical_delivery_address": "1 TOFOL",
+    "physical_city": "KOSRAE",
+    "physical_state": "FM",
+    "physical_zip": "96944",
+    "physical_zip4": "9997"
+  }
+]
