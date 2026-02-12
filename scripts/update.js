@@ -1,16 +1,16 @@
-import axios from "axios";
-import { setupCache } from "axios-cache-interceptor";
-import cheerio from "cheerio";
-import XLSX from "xlsx";
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+import * as axiosPkg from "axios";
+import * as cachePkg from "axios-cache-interceptor";
+import * as cheerio from "cheerio";
+import * as XLSX from "xlsx";
+import * as fs from "fs";
+import * as path from "path";
+import * as url from "url";
 
 /* ------------------------------------------------------------------ */
 /* setup                                                              */
 /* ------------------------------------------------------------------ */
 
-const __filename = fileURLToPath(import.meta.url);
+const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const BASE_URL = "https://postalpro.usps.com";
@@ -22,9 +22,12 @@ const OUTPUT_PATH = path.resolve(__dirname, "../data/zip_locale_detail.json");
 /* http client with cache                                              */
 /* ------------------------------------------------------------------ */
 
+const axios = axiosPkg.default ?? axiosPkg;
+const setupCache = cachePkg.setupCache;
+
 const http = setupCache(axios.create(), {
-  ttl: 1000 * 60 * 60 * 6,        // 6 hours
-  interpretHeader: true,          // respect ETag / Last-Modified
+  ttl: 1000 * 60 * 60 * 6, // 6 hours
+  interpretHeader: true,
   staleIfError: true
 });
 
