@@ -1,0 +1,36 @@
+name: Update ZIP Locale Detail
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install
+
+      - run: npm run update
+
+      - name: Commit changes
+        run: |
+          if git status --porcelain | grep .; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add data/zip_locale_detail.json
+            git commit -m "Update ZIP Locale Detail data"
+            git push
+          else
+            echo "No changes"
+          fi
