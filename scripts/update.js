@@ -18,6 +18,7 @@ const PAGE_URL = `${BASE_URL}/ZIP_Locale_Detail`;
 
 const OUTPUT_ALL = path.resolve(__dirname, "../data/zip_locale_detail.json");
 const OUTPUT_STATES_DIR = path.resolve(__dirname, "../data/states");
+const LAST_UPDATED_FILE = path.resolve(__dirname, "../data/last_updated.txt");
 
 /* ------------------------------------------------------------------ */
 /* http client with cache                                              */
@@ -41,6 +42,35 @@ async function main() {
 
   const pageRes = await http.get(PAGE_URL);
   const $ = cheerio.load(pageRes.data);
+
+  /* ------------------------------------------------------------------ */
+  /* check last-updated date on the page                                */
+  /* ------------------------------------------------------------------ */
+
+  const pageDateText = $(".mb-2").first().text().trim();
+  const pageDate = pageDateText ? new Date(pageDateText) : null;
+
+  if (!pageDate || isNaN(pageDate.getTime())) {
+    console.warn("Could not parse page date from:", pageDateText);
+    console.log("Proceeding with update anyway");
+  } else {
+    console.log("Page last updated:", pageDateText);
+
+    let lastKnownDate = null;
+    if (fs.existsSync(LAST_UPDATED_FILE)) {
+      const stored = fs.readFileSync(LAST_UPDATED_FILE, "utf8").trim();
+      lastKnownDate = new Date(stored);
+    }
+
+    if (lastKnownDate && !isNaN(lastKnownDate.getTime()) && pageDate.getTime() <= lastKnownDate.getTime()) {
+      console.log("No new data — page date matches stored date. Skipping.");
+      return;
+    }
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* download XLS                                                       */
+  /* ------------------------------------------------------------------ */
 
   const relativeLink = $("a[href$='ZIP_Locale_Detail.xls']").attr("href");
   if (!relativeLink) {
@@ -113,6 +143,15 @@ async function main() {
   }
 
   console.log(`Wrote ${Object.keys(byState).length} state files`);
+
+  /* ------------------------------------------------------------------ */
+  /* save last-updated date                                             */
+  /* ------------------------------------------------------------------ */
+
+  if (pageDate && !isNaN(pageDate.getTime())) {
+    fs.writeFileSync(LAST_UPDATED_FILE, pageDateText, "utf8");
+    console.log("Saved last-updated date:", pageDateText);
+  }
 }
 
 /* ------------------------------------------------------------------ */
