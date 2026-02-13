@@ -47,11 +47,19 @@ async function main() {
   /* check last-updated date on the page                                */
   /* ------------------------------------------------------------------ */
 
-  const pageDateText = $(".mb-2").first().text().trim();
+  // The date sits in a .mb-2 div right above the download link.
+  // Target it via the sibling relationship to avoid other .mb-2 elements.
+  const pageDateText = $("a[href$='ZIP_Locale_Detail.xls']")
+    .closest("div")
+    .find(".mb-2")
+    .first()
+    .text()
+    .trim();
+
   const pageDate = pageDateText ? new Date(pageDateText) : null;
 
   if (!pageDate || isNaN(pageDate.getTime())) {
-    console.warn("Could not parse page date from:", pageDateText);
+    console.warn("Could not parse page date from:", pageDateText || "(empty)");
     console.log("Proceeding with update anyway");
   } else {
     console.log("Page last updated:", pageDateText);
