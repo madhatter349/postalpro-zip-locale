@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>USPS ZIP Locale Detail API</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0c0e13;
+      --surface: #13161d;
+      --surface-2: #1a1e27;
+      --border: #262b38;
+      --border-light: #333a4a;
+      --text: #e2e4e9;
+      --text-dim: #8b90a0;
+      --text-faint: #555b6e;
+      --accent: #47b5ff;
+      --accent-dim: #2d7ab3;
+      --accent-glow: rgba(71, 181, 255, 0.08);
+      --green: #4ade80;
+      --green-dim: rgba(74, 222, 128, 0.12);
+      --orange: #fb923c;
+      --red: #f87171;
+      --mono: 'JetBrains Mono', monospace;
+      --sans: 'DM Sans', sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* -- noise overlay -- */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    .container {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* -- header -- */
+    header {
+      padding: 80px 0 48px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--green);
+      background: var(--green-dim);
+      padding: 5px 12px;
+      border-radius: 4px;
+      margin-bottom: 20px;
+    }
+
+    .badge::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      background: var(--green);
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    h1 {
+      font-family: var(--mono);
+      font-size: 28px;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      margin-bottom: 12px;
+      color: #fff;
+    }
+
+    header p {
+      color: var(--text-dim);
+      font-size: 16px;
+      max-width: 600px;
+    }
+
+    /* -- sections -- */
+    section {
+      padding: 48px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    section:last-of-type {
+      border-bottom: none;
+    }
+
+    h2 {
+      font-family: var(--mono);
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+      margin-bottom: 24px;
+    }
+
+    /* -- endpoint cards -- */
+    .endpoint {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 16px;
+      transition: border-color 0.2s;
+    }
+
+    .endpoint:hover {
+      border-color: var(--border-light);
+    }
+
+    .endpoint-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 20px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .method {
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      padding: 4px 10px;
+      border-radius: 4px;
+      background: var(--green-dim);
+      color: var(--green);
+      flex-shrink: 0;
+    }
+
+    .endpoint-path {
+      font-family: var(--mono);
+      font-size: 14px;
+      color: var(--text);
+      flex: 1;
+    }
+
+    .endpoint-path .param {
+      color: var(--accent);
+    }
+
+    .endpoint-desc {
+      color: var(--text-dim);
+      font-size: 13px;
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    .endpoint-toggle {
+      color: var(--text-faint);
+      font-size: 18px;
+      transition: transform 0.2s;
+      flex-shrink: 0;
+    }
+
+    .endpoint.open .endpoint-toggle {
+      transform: rotate(45deg);
+    }
+
+    .endpoint-body {
+      display: none;
+      padding: 0 20px 20px;
+      border-top: 1px solid var(--border);
+    }
+
+    .endpoint.open .endpoint-body {
+      display: block;
+    }
+
+    .endpoint-body p {
+      color: var(--text-dim);
+      font-size: 14px;
+      margin: 16px 0 12px;
+    }
+
+    /* -- code blocks -- */
+    .code-block {
+      position: relative;
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .code-block-label {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--text-faint);
+      padding: 8px 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .copy-btn {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text-dim);
+      font-family: var(--mono);
+      font-size: 11px;
+      padding: 3px 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .copy-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .copy-btn.copied {
+      border-color: var(--green);
+      color: var(--green);
+    }
+
+    pre {
+      padding: 16px;
+      overflow-x: auto;
+      font-family: var(--mono);
+      font-size: 13px;
+      line-height: 1.7;
+      color: var(--text);
+    }
+
+    pre .comment { color: var(--text-faint); }
+    pre .string { color: var(--green); }
+    pre .keyword { color: var(--accent); }
+    pre .key { color: var(--orange); }
+
+    /* -- states grid -- */
+    .states-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(64px, 1fr));
+      gap: 6px;
+      margin-top: 16px;
+    }
+
+    .state-chip {
+      font-family: var(--mono);
+      font-size: 12px;
+      font-weight: 500;
+      text-align: center;
+      padding: 8px 4px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text-dim);
+      text-decoration: none;
+      transition: all 0.15s;
+    }
+
+    .state-chip:hover {
+      background: var(--accent-glow);
+      border-color: var(--accent-dim);
+      color: var(--accent);
+    }
+
+    /* -- try it -- */
+    .try-it {
+      display: flex;
+      gap: 8px;
+      margin-top: 16px;
+    }
+
+    .try-input {
+      flex: 1;
+      font-family: var(--mono);
+      font-size: 13px;
+      padding: 10px 14px;
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    .try-input:focus {
+      border-color: var(--accent);
+    }
+
+    .try-input::placeholder {
+      color: var(--text-faint);
+    }
+
+    .try-btn {
+      font-family: var(--mono);
+      font-size: 13px;
+      font-weight: 500;
+      padding: 10px 20px;
+      background: var(--accent);
+      color: var(--bg);
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+      white-space: nowrap;
+    }
+
+    .try-btn:hover { opacity: 0.85; }
+
+    .try-result {
+      margin-top: 12px;
+      display: none;
+    }
+
+    .try-result.visible {
+      display: block;
+    }
+
+    .try-result pre {
+      max-height: 320px;
+    }
+
+    .try-error {
+      color: var(--red);
+      font-family: var(--mono);
+      font-size: 13px;
+      padding: 12px 16px;
+      background: rgba(248, 113, 113, 0.08);
+      border: 1px solid rgba(248, 113, 113, 0.2);
+      border-radius: 6px;
+    }
+
+    /* -- schema table -- */
+    .schema-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+      margin-top: 8px;
+    }
+
+    .schema-table th {
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--text-faint);
+      text-align: left;
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .schema-table td {
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .schema-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .schema-table .field-name {
+      font-family: var(--mono);
+      font-size: 13px;
+      color: var(--accent);
+    }
+
+    .schema-table .field-type {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--text-faint);
+    }
+
+    .schema-table .field-desc {
+      color: var(--text-dim);
+    }
+
+    /* -- footer -- */
+    footer {
+      padding: 40px 0;
+      text-align: center;
+      color: var(--text-faint);
+      font-size: 13px;
+    }
+
+    footer a {
+      color: var(--text-dim);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    footer a:hover { color: var(--accent); }
+
+    /* -- loading shimmer -- */
+    .loading {
+      background: linear-gradient(90deg, var(--surface-2) 25%, var(--border) 50%, var(--surface-2) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+      border-radius: 4px;
+      height: 18px;
+      width: 120px;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+    /* -- responsive -- */
+    @media (max-width: 640px) {
+      header { padding: 48px 0 32px; }
+      h1 { font-size: 22px; }
+      .endpoint-desc { display: none; }
+      .states-grid { grid-template-columns: repeat(auto-fill, minmax(56px, 1fr)); }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <div class="badge">Free &middot; No auth required</div>
+    <h1>USPS ZIP Locale Detail</h1>
+    <p>
+      Auto-updated JSON mirror of the USPS PostalPro ZIP Locale Detail dataset.
+      Fetch state-level or full data directly from static endpoints — no API key,
+      no rate limits, no server.
+    </p>
+  </header>
+
+  <!-- BASE URL -->
+  <section>
+    <h2>Base URL</h2>
+    <div class="code-block">
+      <div class="code-block-label">
+        <span>HTTPS</span>
+        <button class="copy-btn" onclick="copyText('https://madhatter349.github.io/postalpro-zip-locale', this)">Copy</button>
+      </div>
+      <pre>https://madhatter349.github.io/postalpro-zip-locale</pre>
+    </div>
+  </section>
+
+  <!-- ENDPOINTS -->
+  <section>
+    <h2>Endpoints</h2>
+
+    <!-- Full dataset -->
+    <div class="endpoint" onclick="toggleEndpoint(this)">
+      <div class="endpoint-header">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/data/zip_locale_detail.json</span>
+        <span class="endpoint-desc">Full dataset</span>
+        <span class="endpoint-toggle">+</span>
+      </div>
+      <div class="endpoint-body">
+        <p>Returns every ZIP locale record in a single JSON array. Large file — consider using a state-specific endpoint when possible.</p>
+        <div class="code-block">
+          <div class="code-block-label">
+            <span>Example</span>
+            <button class="copy-btn" onclick="event.stopPropagation(); copyText(`fetch('https://madhatter349.github.io/postalpro-zip-locale/data/zip_locale_detail.json')\n  .then(r => r.json())\n  .then(data => console.log(data.length, 'records'))`, this)">Copy</button>
+          </div>
+          <pre><span class="keyword">fetch</span>(<span class="string">'https://madhatter349.github.io/postalpro-zip-locale/data/zip_locale_detail.json'</span>)
+  .then(r =&gt; r.json())
+  .then(data =&gt; console.log(data.length, <span class="string">'records'</span>))</pre>
+        </div>
+      </div>
+    </div>
+
+    <!-- By state -->
+    <div class="endpoint" onclick="toggleEndpoint(this)">
+      <div class="endpoint-header">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/data/states/<span class="param">{STATE}</span>.json</span>
+        <span class="endpoint-desc">Filter by state</span>
+        <span class="endpoint-toggle">+</span>
+      </div>
+      <div class="endpoint-body">
+        <p>Returns all records for a given state. Use the 2-letter state abbreviation in uppercase (e.g. <code style="color:var(--accent)">CA</code>, <code style="color:var(--accent)">NY</code>, <code style="color:var(--accent)">TX</code>).</p>
+        <div class="code-block">
+          <div class="code-block-label">
+            <span>Example</span>
+            <button class="copy-btn" onclick="event.stopPropagation(); copyText(`fetch('https://madhatter349.github.io/postalpro-zip-locale/data/states/CA.json')\n  .then(r => r.json())\n  .then(data => console.log(data))`, this)">Copy</button>
+          </div>
+          <pre><span class="keyword">fetch</span>(<span class="string">'https://madhatter349.github.io/postalpro-zip-locale/data/states/CA.json'</span>)
+  .then(r =&gt; r.json())
+  .then(data =&gt; console.log(data))</pre>
+        </div>
+      </div>
+    </div>
+
+    <!-- Last updated -->
+    <div class="endpoint" onclick="toggleEndpoint(this)">
+      <div class="endpoint-header">
+        <span class="method">GET</span>
+        <span class="endpoint-path">/data/last_updated.txt</span>
+        <span class="endpoint-desc">Last update date</span>
+        <span class="endpoint-toggle">+</span>
+      </div>
+      <div class="endpoint-body">
+        <p>Returns the date USPS last published a new version of the dataset. Plain text response.</p>
+        <div class="code-block">
+          <div class="code-block-label">
+            <span>Example</span>
+            <button class="copy-btn" onclick="event.stopPropagation(); copyText(`fetch('https://madhatter349.github.io/postalpro-zip-locale/data/last_updated.txt')\n  .then(r => r.text())\n  .then(date => console.log('Last updated:', date))`, this)">Copy</button>
+          </div>
+          <pre><span class="keyword">fetch</span>(<span class="string">'https://madhatter349.github.io/postalpro-zip-locale/data/last_updated.txt'</span>)
+  .then(r =&gt; r.text())
+  .then(date =&gt; console.log(<span class="string">'Last updated:'</span>, date))</pre>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRY IT -->
+  <section>
+    <h2>Try It</h2>
+    <p style="color: var(--text-dim); font-size: 14px; margin-bottom: 4px;">Enter a 2-letter state code to fetch its data live.</p>
+    <div class="try-it">
+      <input class="try-input" id="stateInput" type="text" placeholder="e.g. NY" maxlength="2" />
+      <button class="try-btn" id="tryBtn" onclick="tryFetch()">Fetch</button>
+    </div>
+    <div class="try-result" id="tryResult"></div>
+  </section>
+
+  <!-- SCHEMA -->
+  <section>
+    <h2>Record Schema</h2>
+    <div style="overflow-x: auto;">
+      <table class="schema-table">
+        <thead>
+          <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="field-name">area_name</td><td class="field-type">string</td><td class="field-desc">USPS area name</td></tr>
+          <tr><td class="field-name">area_code</td><td class="field-type">string</td><td class="field-desc">USPS area code</td></tr>
+          <tr><td class="field-name">district_name</td><td class="field-type">string</td><td class="field-desc">USPS district name</td></tr>
+          <tr><td class="field-name">district_no</td><td class="field-type">string</td><td class="field-desc">USPS district number</td></tr>
+          <tr><td class="field-name">delivery_zipcode</td><td class="field-type">string</td><td class="field-desc">5-digit ZIP code</td></tr>
+          <tr><td class="field-name">locale_name</td><td class="field-type">string</td><td class="field-desc">Post office / locale name</td></tr>
+          <tr><td class="field-name">physical_delivery_address</td><td class="field-type">string</td><td class="field-desc">Street address of the post office</td></tr>
+          <tr><td class="field-name">physical_city</td><td class="field-type">string</td><td class="field-desc">City</td></tr>
+          <tr><td class="field-name">physical_state</td><td class="field-type">string</td><td class="field-desc">2-letter state code</td></tr>
+          <tr><td class="field-name">physical_zip</td><td class="field-type">string</td><td class="field-desc">Physical location ZIP</td></tr>
+          <tr><td class="field-name">physical_zip4</td><td class="field-type">string|null</td><td class="field-desc">ZIP+4 extension</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- AVAILABLE STATES -->
+  <section>
+    <h2>Available States</h2>
+    <p style="color: var(--text-dim); font-size: 14px;">Click any state to view its JSON. <span id="statesStatus" class="loading" style="margin-left: 4px;"></span></p>
+    <div class="states-grid" id="statesGrid"></div>
+  </section>
+
+  <footer>
+    Data sourced from <a href="https://postalpro.usps.com/ZIP_Locale_Detail" target="_blank" rel="noopener">USPS PostalPro</a>.
+    Updated daily via GitHub Actions.
+    <br><br>
+    <a href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">View on GitHub</a>
+  </footer>
+</div>
+
+<script>
+  const BASE = 'https://madhatter349.github.io/postalpro-zip-locale';
+
+  /* -- toggle endpoint accordion -- */
+  function toggleEndpoint(el) {
+    el.classList.toggle('open');
+  }
+
+  /* -- copy to clipboard -- */
+  function copyText(text, btn) {
+    event.stopPropagation();
+    navigator.clipboard.writeText(text).then(() => {
+      btn.textContent = 'Copied!';
+      btn.classList.add('copied');
+      setTimeout(() => {
+        btn.textContent = 'Copy';
+        btn.classList.remove('copied');
+      }, 1500);
+    });
+  }
+
+  /* -- try it live -- */
+  async function tryFetch() {
+    const input = document.getElementById('stateInput');
+    const result = document.getElementById('tryResult');
+    const state = input.value.trim().toUpperCase();
+
+    if (!/^[A-Z]{2}$/.test(state)) {
+      result.className = 'try-result visible';
+      result.innerHTML = '<div class="try-error">Enter a valid 2-letter state code.</div>';
+      return;
+    }
+
+    const url = `${BASE}/data/states/${state}.json`;
+    result.className = 'try-result visible';
+    result.innerHTML = '<div class="code-block"><pre style="color:var(--text-dim)">Loading…</pre></div>';
+
+    try {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`${res.status} — state file not found`);
+      const data = await res.json();
+      const preview = data.slice(0, 3);
+      const json = JSON.stringify(preview, null, 2);
+      result.innerHTML = `
+        <div class="code-block">
+          <div class="code-block-label">
+            <span>${state}.json — showing 3 of ${data.length.toLocaleString()} records</span>
+          </div>
+          <pre>${escapeHtml(json)}</pre>
+        </div>`;
+    } catch (err) {
+      result.innerHTML = `<div class="try-error">${escapeHtml(err.message)}</div>`;
+    }
+  }
+
+  document.getElementById('stateInput').addEventListener('keydown', e => {
+    if (e.key === 'Enter') tryFetch();
+  });
+
+  /* -- load available states -- */
+  async function loadStates() {
+    const grid = document.getElementById('statesGrid');
+    const status = document.getElementById('statesStatus');
+
+    try {
+      /* We fetch the full dataset index and extract unique states */
+      const res = await fetch(`${BASE}/data/zip_locale_detail.json`);
+      if (!res.ok) throw new Error('Could not load dataset');
+
+      const data = await res.json();
+      const states = [...new Set(data.map(r => r.physical_state).filter(Boolean))].sort();
+
+      status.className = '';
+      status.textContent = `${states.length} states & territories`;
+
+      grid.innerHTML = states.map(s =>
+        `<a class="state-chip" href="${BASE}/data/states/${s}.json" target="_blank" rel="noopener">${s}</a>`
+      ).join('');
+    } catch {
+      status.className = '';
+      status.textContent = '';
+
+      /* Fallback: show common states */
+      const common = [
+        'AL','AK','AZ','AR','CA','CO','CT','DE','DC','FL','GA','HI','ID','IL',
+        'IN','IA','KS','KY','LA','ME','MD','MA','MI','MN','MS','MO','MT','NE',
+        'NV','NH','NJ','NM','NY','NC','ND','OH','OK','OR','PA','RI','SC','SD',
+        'TN','TX','UT','VT','VA','WA','WV','WI','WY'
+      ];
+      grid.innerHTML = common.map(s =>
+        `<a class="state-chip" href="${BASE}/data/states/${s}.json" target="_blank" rel="noopener">${s}</a>`
+      ).join('');
+    }
+  }
+
+  loadStates();
+
+  function escapeHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+</script>
+
+</body>
+</html>
