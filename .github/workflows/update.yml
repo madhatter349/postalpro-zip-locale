@@ -30,11 +30,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          # Ensure node_modules is ignored
-          echo "node_modules/" >> .gitignore
-
           # Stage only generated artifacts + lockfile
-          git add data package-lock.json .gitignore
+          git add data package-lock.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
