@@ -2787,12 +2787,12 @@
     "district_name": "WASHINGTON",
     "district_no": "980",
     "delivery_zipcode": "98279",
-    "locale_name": "EASTSOUND",
-    "physical_delivery_address": "221 A ST STE 1",
-    "physical_city": "EASTSOUND",
+    "locale_name": "OLGA",
+    "physical_delivery_address": "7034 OLGA RD",
+    "physical_city": "OLGA",
     "physical_state": "WA",
-    "physical_zip": "98245",
-    "physical_zip4": "8933"
+    "physical_zip": "98279",
+    "physical_zip4": "9996"
   },
   {
     "area_name": "WESTPAC",
@@ -8651,7 +8651,7 @@
     "district_no": "980",
     "delivery_zipcode": "99146",
     "locale_name": "LAURIER",
-    "physical_delivery_address": "27007 N HIGHWAY 395 STE 1",
+    "physical_delivery_address": "27007 HIGHWAY 395 N STE 1",
     "physical_city": "LAURIER",
     "physical_state": "WA",
     "physical_zip": "99146",

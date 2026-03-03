@@ -5876,6 +5876,19 @@
     "physical_zip4": "9998"
   },
   {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "IA-NE-SD",
+    "district_no": "500",
+    "delivery_zipcode": "58568",
+    "locale_name": "MC LAUGHLIN",
+    "physical_delivery_address": "221 MAIN ST",
+    "physical_city": "MC LAUGHLIN",
+    "physical_state": "SD",
+    "physical_zip": "57642",
+    "physical_zip4": "9998"
+  },
+  {
     "area_name": "WESTPAC",
     "area_code": "4E",
     "district_name": "ID-MT-OR",

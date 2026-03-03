@@ -5647,19 +5647,6 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "41048",
-    "locale_name": "HEBRON CARRIER ANNEX",
-    "physical_delivery_address": "72 CLAY DR",
-    "physical_city": "HEBRON",
-    "physical_state": "KY",
-    "physical_zip": "41048",
-    "physical_zip4": "9808"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "41048",
     "locale_name": "HEBRON KY SDC",
     "physical_delivery_address": "76 CLAY DR",
     "physical_city": "HEBRON",
@@ -5920,12 +5907,12 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "41080",
-    "locale_name": "HEBRON CARRIER ANNEX",
-    "physical_delivery_address": "72 CLAY DR",
+    "locale_name": "HEBRON KY SDC",
+    "physical_delivery_address": "76 CLAY DR",
     "physical_city": "HEBRON",
     "physical_state": "KY",
     "physical_zip": "41048",
-    "physical_zip4": "9808"
+    "physical_zip4": "9903"
   },
   {
     "area_name": "CENTRAL",
@@ -13109,24 +13096,11 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "42404",
-    "locale_name": "CLAY CARRIERS",
-    "physical_delivery_address": "409 N MAIN ST",
-    "physical_city": "STURGIS",
+    "locale_name": "CLAY",
+    "physical_delivery_address": "39 E ELM ST",
+    "physical_city": "CLAY",
     "physical_state": "KY",
-    "physical_zip": "42459",
-    "physical_zip4": "9900"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "42404",
-    "locale_name": "STURGIS",
-    "physical_delivery_address": "409 N MAIN ST",
-    "physical_city": "STURGIS",
-    "physical_state": "KY",
-    "physical_zip": "42459",
+    "physical_zip": "42404",
     "physical_zip4": "9998"
   },
   {
@@ -14692,15 +14666,15 @@
   {
     "area_name": "CENTRAL",
     "area_code": "4J",
-    "district_name": "OHIO 2",
-    "district_no": "450",
+    "district_name": "KY-WV",
+    "district_no": "400",
     "delivery_zipcode": "45275",
-    "locale_name": "CINCINNATI AIRPORT RETAIL",
+    "locale_name": "HEBRON KY SDC",
     "physical_delivery_address": "76 CLAY DR",
     "physical_city": "HEBRON",
     "physical_state": "KY",
     "physical_zip": "41048",
-    "physical_zip4": "9900"
+    "physical_zip4": "9903"
   },
   {
     "area_name": "CENTRAL",

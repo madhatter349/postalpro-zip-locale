@@ -8078,24 +8078,11 @@
     "district_name": "TENNESSEE",
     "district_no": "370",
     "delivery_zipcode": "38253",
-    "locale_name": "RIVES CARRIERS",
-    "physical_delivery_address": "114 W WASHINGTON AVE",
-    "physical_city": "UNION CITY",
+    "locale_name": "RIVES",
+    "physical_delivery_address": "498 S FRONT ST",
+    "physical_city": "RIVES",
     "physical_state": "TN",
-    "physical_zip": "38261",
-    "physical_zip4": "9905"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TENNESSEE",
-    "district_no": "370",
-    "delivery_zipcode": "38253",
-    "locale_name": "UNION CITY",
-    "physical_delivery_address": "114 W WASHINGTON AVE",
-    "physical_city": "UNION CITY",
-    "physical_state": "TN",
-    "physical_zip": "38261",
+    "physical_zip": "38253",
     "physical_zip4": "9998"
   },
   {
@@ -9760,19 +9747,6 @@
     "physical_city": "WILLIAMSPORT",
     "physical_state": "TN",
     "physical_zip": "38487",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TENNESSEE",
-    "district_no": "370",
-    "delivery_zipcode": "38488",
-    "locale_name": "ARDMORE",
-    "physical_delivery_address": "26050 MAIN ST",
-    "physical_city": "ARDMORE",
-    "physical_state": "TN",
-    "physical_zip": "38449",
     "physical_zip4": "9998"
   },
   {

@@ -564,12 +564,12 @@
     "district_name": "CALIFORNIA 5",
     "district_no": "900",
     "delivery_zipcode": "90036",
-    "locale_name": "BICENTENNIAL",
+    "locale_name": "LOS ANGELES CA BICENTL SDC",
     "physical_delivery_address": "7610 BEVERLY BLVD",
     "physical_city": "LOS ANGELES",
     "physical_state": "CA",
     "physical_zip": "90048",
-    "physical_zip4": "9998"
+    "physical_zip4": "5805"
   },
   {
     "area_name": "WESTPAC",
@@ -759,12 +759,12 @@
     "district_name": "CALIFORNIA 5",
     "district_no": "900",
     "delivery_zipcode": "90048",
-    "locale_name": "BICENTENNIAL",
+    "locale_name": "LOS ANGELES CA BICENTL SDC",
     "physical_delivery_address": "7610 BEVERLY BLVD",
     "physical_city": "LOS ANGELES",
     "physical_state": "CA",
     "physical_zip": "90048",
-    "physical_zip4": "9998"
+    "physical_zip4": "5805"
   },
   {
     "area_name": "WESTPAC",
@@ -1071,12 +1071,12 @@
     "district_name": "CALIFORNIA 5",
     "district_no": "900",
     "delivery_zipcode": "90069",
-    "locale_name": "BICENTENNIAL",
+    "locale_name": "LOS ANGELES CA BICENTL SDC",
     "physical_delivery_address": "7610 BEVERLY BLVD",
     "physical_city": "LOS ANGELES",
     "physical_state": "CA",
     "physical_zip": "90048",
-    "physical_zip4": "9998"
+    "physical_zip4": "5805"
   },
   {
     "area_name": "WESTPAC",
@@ -17931,19 +17931,6 @@
     "area_code": "4E",
     "district_name": "CALIFORNIA 3",
     "district_no": "913",
-    "delivery_zipcode": "93702",
-    "locale_name": "CEDAR ANNEX",
-    "physical_delivery_address": "2382 S CEDAR AVE",
-    "physical_city": "FRESNO",
-    "physical_state": "CA",
-    "physical_zip": "93725",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CALIFORNIA 3",
-    "district_no": "913",
     "delivery_zipcode": "93703",
     "locale_name": "CLINTER",
     "physical_delivery_address": "2601 E OLIVE AVE",
@@ -17984,12 +17971,12 @@
     "district_name": "CALIFORNIA 3",
     "district_no": "913",
     "delivery_zipcode": "93706",
-    "locale_name": "CEDAR ANNEX",
+    "locale_name": "BARTON",
     "physical_delivery_address": "2382 S CEDAR AVE",
     "physical_city": "FRESNO",
     "physical_state": "CA",
     "physical_zip": "93725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "WESTPAC",
@@ -18153,12 +18140,12 @@
     "district_name": "CALIFORNIA 3",
     "district_no": "913",
     "delivery_zipcode": "93721",
-    "locale_name": "CEDAR ANNEX",
+    "locale_name": "BARTON",
     "physical_delivery_address": "2382 S CEDAR AVE",
     "physical_city": "FRESNO",
     "physical_state": "CA",
     "physical_zip": "93725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "WESTPAC",
@@ -18192,12 +18179,12 @@
     "district_name": "CALIFORNIA 3",
     "district_no": "913",
     "delivery_zipcode": "93725",
-    "locale_name": "CEDAR ANNEX",
+    "locale_name": "BARTON",
     "physical_delivery_address": "2382 S CEDAR AVE",
     "physical_city": "FRESNO",
     "physical_state": "CA",
     "physical_zip": "93725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "WESTPAC",
@@ -18218,12 +18205,12 @@
     "district_name": "CALIFORNIA 3",
     "district_no": "913",
     "delivery_zipcode": "93727",
-    "locale_name": "CEDAR ANNEX",
+    "locale_name": "BARTON",
     "physical_delivery_address": "2382 S CEDAR AVE",
     "physical_city": "FRESNO",
     "physical_state": "CA",
     "physical_zip": "93725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "WESTPAC",
@@ -18270,12 +18257,12 @@
     "district_name": "CALIFORNIA 3",
     "district_no": "913",
     "delivery_zipcode": "93737",
-    "locale_name": "CEDAR ANNEX",
+    "locale_name": "BARTON",
     "physical_delivery_address": "2382 S CEDAR AVE",
     "physical_city": "FRESNO",
     "physical_state": "CA",
     "physical_zip": "93725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "WESTPAC",

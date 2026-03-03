@@ -1357,12 +1357,12 @@
     "district_name": "MARYLAND",
     "district_no": "200",
     "delivery_zipcode": "20741",
-    "locale_name": "NORTH COLLEGE PARK",
-    "physical_delivery_address": "9591 BALTIMORE AVE",
+    "locale_name": "COLLEGE PARK",
+    "physical_delivery_address": "4815 CALVERT RD",
     "physical_city": "COLLEGE PARK",
     "physical_state": "MD",
     "physical_zip": "20740",
-    "physical_zip4": "9996"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "ATLANTIC",

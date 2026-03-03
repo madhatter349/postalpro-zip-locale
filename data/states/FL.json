@@ -1734,12 +1734,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32201",
-    "locale_name": "JACKSONVILLE MOWU",
+    "locale_name": "JACKSONVILLE FL SDC",
     "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
     "physical_zip": "32203",
-    "physical_zip4": "9001"
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -1760,12 +1760,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32203",
-    "locale_name": "JACKSONVILLE MOWU",
+    "locale_name": "JACKSONVILLE FL SDC",
     "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
     "physical_zip": "32203",
-    "physical_zip4": "9001"
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -1812,12 +1812,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32205",
-    "locale_name": "MURRAY HILL",
-    "physical_delivery_address": "5455 VERNA BLVD",
+    "locale_name": "JACKSONVILLE FL SDC",
+    "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
-    "physical_zip": "32205",
-    "physical_zip4": "9998"
+    "physical_zip": "32203",
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -2111,12 +2111,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32231",
-    "locale_name": "JACKSONVILLE MOWU",
+    "locale_name": "JACKSONVILLE FL SDC",
     "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
     "physical_zip": "32203",
-    "physical_zip4": "9001"
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -2124,12 +2124,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32232",
-    "locale_name": "JACKSONVILLE MOWU",
+    "locale_name": "JACKSONVILLE FL SDC",
     "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
     "physical_zip": "32203",
-    "physical_zip4": "9001"
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -3047,12 +3047,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32360",
-    "locale_name": "TELOGIA",
-    "physical_delivery_address": "27134 NE COUNTY ROAD 67",
-    "physical_city": "TELOGIA",
+    "locale_name": "HOSFORD",
+    "physical_delivery_address": "16827 NE STATE ROAD 65",
+    "physical_city": "HOSFORD",
     "physical_state": "FL",
-    "physical_zip": "32360",
-    "physical_zip4": "3098"
+    "physical_zip": "32334",
+    "physical_zip4": "2403"
   },
   {
     "area_name": "SOUTHERN",
@@ -6466,12 +6466,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "32820",
-    "locale_name": "ALAFAYA CARRIER ANNEX",
+    "locale_name": "ORLANDO FL ALAFAYA SDC",
     "physical_delivery_address": "1000 N ALAFAYA TRL",
     "physical_city": "ORLANDO",
     "physical_state": "FL",
     "physical_zip": "32828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9700"
   },
   {
     "area_name": "SOUTHERN",
@@ -6518,12 +6518,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "32825",
-    "locale_name": "ALAFAYA CARRIER ANNEX",
+    "locale_name": "ORLANDO FL ALAFAYA SDC",
     "physical_delivery_address": "1000 N ALAFAYA TRL",
     "physical_city": "ORLANDO",
     "physical_state": "FL",
     "physical_zip": "32828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9700"
   },
   {
     "area_name": "SOUTHERN",
@@ -6531,12 +6531,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "32826",
-    "locale_name": "ALAFAYA CARRIER ANNEX",
+    "locale_name": "ORLANDO FL ALAFAYA SDC",
     "physical_delivery_address": "1000 N ALAFAYA TRL",
     "physical_city": "ORLANDO",
     "physical_state": "FL",
     "physical_zip": "32828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9700"
   },
   {
     "area_name": "SOUTHERN",
@@ -6557,12 +6557,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "32828",
-    "locale_name": "ALAFAYA CARRIER ANNEX",
+    "locale_name": "ORLANDO FL ALAFAYA SDC",
     "physical_delivery_address": "1000 N ALAFAYA TRL",
     "physical_city": "ORLANDO",
     "physical_state": "FL",
     "physical_zip": "32828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9700"
   },
   {
     "area_name": "SOUTHERN",
@@ -6596,12 +6596,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "32831",
-    "locale_name": "ALAFAYA CARRIER ANNEX",
+    "locale_name": "ORLANDO FL ALAFAYA SDC",
     "physical_delivery_address": "1000 N ALAFAYA TRL",
     "physical_city": "ORLANDO",
     "physical_state": "FL",
     "physical_zip": "32828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9700"
   },
   {
     "area_name": "SOUTHERN",
@@ -6622,12 +6622,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "32833",
-    "locale_name": "ALAFAYA CARRIER ANNEX",
+    "locale_name": "ORLANDO FL ALAFAYA SDC",
     "physical_delivery_address": "1000 N ALAFAYA TRL",
     "physical_city": "ORLANDO",
     "physical_state": "FL",
     "physical_zip": "32828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9700"
   },
   {
     "area_name": "SOUTHERN",
@@ -8403,12 +8403,12 @@
     "district_name": "FLORIDA 3",
     "district_no": "330",
     "delivery_zipcode": "33071",
-    "locale_name": "ATLANTIC",
-    "physical_delivery_address": "8801 W ATLANTIC BLVD",
-    "physical_city": "CORAL SPRINGS",
+    "locale_name": "POMPANO BEACH FL S&DC",
+    "physical_delivery_address": "3150 NW 33RD ST",
+    "physical_city": "POMPANO BEACH",
     "physical_state": "FL",
-    "physical_zip": "33071",
-    "physical_zip4": "9998"
+    "physical_zip": "33069",
+    "physical_zip4": "9805"
   },
   {
     "area_name": "SOUTHERN",
@@ -8455,12 +8455,12 @@
     "district_name": "FLORIDA 3",
     "district_no": "330",
     "delivery_zipcode": "33076",
-    "locale_name": "ATLANTIC",
-    "physical_delivery_address": "8801 W ATLANTIC BLVD",
-    "physical_city": "CORAL SPRINGS",
+    "locale_name": "POMPANO BEACH FL S&DC",
+    "physical_delivery_address": "3150 NW 33RD ST",
+    "physical_city": "POMPANO BEACH",
     "physical_state": "FL",
-    "physical_zip": "33071",
-    "physical_zip4": "9998"
+    "physical_zip": "33069",
+    "physical_zip4": "9805"
   },
   {
     "area_name": "SOUTHERN",
@@ -11211,12 +11211,12 @@
     "district_name": "FLORIDA 3",
     "district_no": "330",
     "delivery_zipcode": "33459",
-    "locale_name": "LAKE HARBOR",
-    "physical_delivery_address": "15 W CORKSCREW BLVD",
-    "physical_city": "LAKE HARBOR",
+    "locale_name": "SOUTH BAY",
+    "physical_delivery_address": "190 US HIGHWAY 27 S",
+    "physical_city": "SOUTH BAY",
     "physical_state": "FL",
-    "physical_zip": "33459",
-    "physical_zip4": "9798"
+    "physical_zip": "33493",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "SOUTHERN",
@@ -16177,12 +16177,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "34218",
-    "locale_name": "LONGBOAT KEY",
-    "physical_delivery_address": "560 BAY ISLES RD",
-    "physical_city": "LONGBOAT KEY",
+    "locale_name": "BRADENTON BEACH",
+    "physical_delivery_address": "116 BRIDGE ST",
+    "physical_city": "BRADENTON BEACH",
     "physical_state": "FL",
-    "physical_zip": "34228",
-    "physical_zip4": "9998"
+    "physical_zip": "34217",
+    "physical_zip4": "2435"
   },
   {
     "area_name": "SOUTHERN",

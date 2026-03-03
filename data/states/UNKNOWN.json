@@ -1,0 +1,15 @@
+[
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ALASKA",
+    "district_no": "995",
+    "delivery_zipcode": "99702",
+    "locale_name": "EIELSON AFB",
+    "physical_delivery_address": "PO BOX 9998",
+    "physical_city": null,
+    "physical_state": null,
+    "physical_zip": "99702",
+    "physical_zip4": "9998"
+  }
+]

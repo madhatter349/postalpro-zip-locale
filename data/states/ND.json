@@ -3788,12 +3788,12 @@
     "district_name": "MN-ND",
     "district_no": "553",
     "delivery_zipcode": "58501",
-    "locale_name": "BISMARCK",
+    "locale_name": "BISMARCK ND SDC",
     "physical_delivery_address": "403 AIRPORT RD",
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9998"
+    "physical_zip4": "9702"
   },
   {
     "area_name": "CENTRAL",
@@ -3814,12 +3814,12 @@
     "district_name": "MN-ND",
     "district_no": "553",
     "delivery_zipcode": "58503",
-    "locale_name": "BISMARCK",
+    "locale_name": "BISMARCK ND SDC",
     "physical_delivery_address": "403 AIRPORT RD",
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9998"
+    "physical_zip4": "9702"
   },
   {
     "area_name": "CENTRAL",
@@ -3827,25 +3827,12 @@
     "district_name": "MN-ND",
     "district_no": "553",
     "delivery_zipcode": "58504",
-    "locale_name": "BISMARCK",
+    "locale_name": "BISMARCK ND SDC",
     "physical_delivery_address": "403 AIRPORT RD",
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58506",
-    "locale_name": "BISMARCK",
-    "physical_delivery_address": "403 AIRPORT RD",
-    "physical_city": "BISMARCK",
-    "physical_state": "ND",
-    "physical_zip": "58504",
-    "physical_zip4": "9998"
+    "physical_zip4": "9702"
   },
   {
     "area_name": "CENTRAL",
@@ -3859,6 +3846,19 @@
     "physical_state": "ND",
     "physical_zip": "58501",
     "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "MN-ND",
+    "district_no": "553",
+    "delivery_zipcode": "58506",
+    "locale_name": "BISMARCK ND SDC",
+    "physical_delivery_address": "403 AIRPORT RD",
+    "physical_city": "BISMARCK",
+    "physical_state": "ND",
+    "physical_zip": "58504",
+    "physical_zip4": "9702"
   },
   {
     "area_name": "CENTRAL",
@@ -3918,12 +3918,12 @@
     "district_name": "MN-ND",
     "district_no": "553",
     "delivery_zipcode": "58521",
-    "locale_name": "BISMARCK",
+    "locale_name": "BISMARCK ND SDC",
     "physical_delivery_address": "403 AIRPORT RD",
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9998"
+    "physical_zip4": "9702"
   },
   {
     "area_name": "CENTRAL",
@@ -4230,12 +4230,12 @@
     "district_name": "MN-ND",
     "district_no": "553",
     "delivery_zipcode": "58558",
-    "locale_name": "BISMARCK",
+    "locale_name": "BISMARCK ND SDC",
     "physical_delivery_address": "403 AIRPORT RD",
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9998"
+    "physical_zip4": "9702"
   },
   {
     "area_name": "CENTRAL",
@@ -4378,19 +4378,6 @@
     "physical_city": "MANDAN",
     "physical_state": "ND",
     "physical_zip": "58554",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "58568",
-    "locale_name": "FORT YATES",
-    "physical_delivery_address": "110 S RIVER RD",
-    "physical_city": "FORT YATES",
-    "physical_state": "ND",
-    "physical_zip": "58538",
     "physical_zip4": "9998"
   },
   {

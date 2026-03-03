@@ -876,19 +876,6 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "15064",
-    "locale_name": "BRIDGEVILLE",
-    "physical_delivery_address": "700 WASHINGTON AVE",
-    "physical_city": "BRIDGEVILLE",
-    "physical_state": "PA",
-    "physical_zip": "15017",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "PENNSYLVANIA 1",
-    "district_no": "150",
-    "delivery_zipcode": "15064",
     "locale_name": "MORGAN",
     "physical_delivery_address": "514 MILLERS RUN RD",
     "physical_city": "MORGAN",
@@ -2689,19 +2676,6 @@
     "physical_state": "PA",
     "physical_zip": "15310",
     "physical_zip4": "1453"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "PENNSYLVANIA 1",
-    "district_no": "150",
-    "delivery_zipcode": "15311",
-    "locale_name": "AMITY",
-    "physical_delivery_address": "630 AMITY RIDGE RD",
-    "physical_city": "AMITY",
-    "physical_state": "PA",
-    "physical_zip": "15311",
-    "physical_zip4": "1344"
   },
   {
     "area_name": "ATLANTIC",
@@ -6978,19 +6952,6 @@
     "physical_city": "PUNXSUTAWNEY",
     "physical_state": "PA",
     "physical_zip": "15767",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "PENNSYLVANIA 1",
-    "district_no": "150",
-    "delivery_zipcode": "15765",
-    "locale_name": "CLYMER",
-    "physical_delivery_address": "735 FRANKLIN ST",
-    "physical_city": "CLYMER",
-    "physical_state": "PA",
-    "physical_zip": "15728",
     "physical_zip4": "9998"
   },
   {
@@ -23418,11 +23379,11 @@
     "district_name": "DE-PA 2",
     "district_no": "190",
     "delivery_zipcode": "18437",
-    "locale_name": "SUSQUEHANNA",
-    "physical_delivery_address": "1186 MAIN ST",
-    "physical_city": "SUSQUEHANNA",
+    "locale_name": "LAKEWOOD",
+    "physical_delivery_address": "1436 CROSSTOWN HWY",
+    "physical_city": "LAKEWOOD",
     "physical_state": "PA",
-    "physical_zip": "18847",
+    "physical_zip": "18439",
     "physical_zip4": "9998"
   },
   {

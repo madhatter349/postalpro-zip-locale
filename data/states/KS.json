@@ -2189,12 +2189,12 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "66409",
-    "locale_name": "BERRYTON",
-    "physical_delivery_address": "7049 SE BERRYTON RD",
-    "physical_city": "BERRYTON",
+    "locale_name": "BERRYTON CARRIERS",
+    "physical_delivery_address": "339 SE TECUMSEH RD",
+    "physical_city": "TECUMSEH",
     "physical_state": "KS",
-    "physical_zip": "66409",
-    "physical_zip4": "9998"
+    "physical_zip": "66542",
+    "physical_zip4": "9997"
   },
   {
     "area_name": "CENTRAL",
@@ -2202,12 +2202,12 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "66409",
-    "locale_name": "BERRYTON CARRIERS",
+    "locale_name": "TECUMSEH",
     "physical_delivery_address": "339 SE TECUMSEH RD",
     "physical_city": "TECUMSEH",
     "physical_state": "KS",
     "physical_zip": "66542",
-    "physical_zip4": "9997"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "CENTRAL",
@@ -3294,12 +3294,12 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "66546",
-    "locale_name": "BERRYTON",
-    "physical_delivery_address": "7049 SE BERRYTON RD",
-    "physical_city": "BERRYTON",
+    "locale_name": "BERRYTON CARRIERS",
+    "physical_delivery_address": "339 SE TECUMSEH RD",
+    "physical_city": "TECUMSEH",
     "physical_state": "KS",
-    "physical_zip": "66409",
-    "physical_zip4": "9998"
+    "physical_zip": "66542",
+    "physical_zip4": "9997"
   },
   {
     "area_name": "CENTRAL",
@@ -9006,6 +9006,19 @@
     "physical_city": "RAMONA",
     "physical_state": "KS",
     "physical_zip": "67475",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KS-MO",
+    "district_no": "630",
+    "delivery_zipcode": "67484",
+    "locale_name": "MINNEAPOLIS",
+    "physical_delivery_address": "112 W 2ND ST",
+    "physical_city": "MINNEAPOLIS",
+    "physical_state": "KS",
+    "physical_zip": "67467",
     "physical_zip4": "9998"
   },
   {

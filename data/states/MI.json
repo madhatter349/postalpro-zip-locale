@@ -3112,12 +3112,12 @@
     "district_name": "MICHIGAN 1",
     "district_no": "481",
     "delivery_zipcode": "48243",
-    "locale_name": "RENAISSANCE CENTER",
-    "physical_delivery_address": "100 RENAISSANCE CTR STE 2-2101",
+    "locale_name": "DETROIT",
+    "physical_delivery_address": "1401 W FORT ST RM 1006",
     "physical_city": "DETROIT",
     "physical_state": "MI",
-    "physical_zip": "48243",
-    "physical_zip4": "5000"
+    "physical_zip": "48233",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "CENTRAL",
@@ -7024,6 +7024,19 @@
     "area_code": "4J",
     "district_name": "MICHIGAN 2",
     "district_no": "493",
+    "delivery_zipcode": "48807",
+    "locale_name": "ELSIE",
+    "physical_delivery_address": "153 E MAIN ST",
+    "physical_city": "ELSIE",
+    "physical_state": "MI",
+    "physical_zip": "48831",
+    "physical_zip4": "5113"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "MICHIGAN 2",
+    "district_no": "493",
     "delivery_zipcode": "48808",
     "locale_name": "BATH",
     "physical_delivery_address": "14137 WEBSTER RD",
@@ -9266,7 +9279,7 @@
     "physical_city": "MATTAWAN",
     "physical_state": "MI",
     "physical_zip": "49071",
-    "physical_zip4": "9800"
+    "physical_zip4": "9809"
   },
   {
     "area_name": "CENTRAL",
@@ -12772,7 +12785,7 @@
     "district_no": "493",
     "delivery_zipcode": "49510",
     "locale_name": "SEYMOUR SQUARE",
-    "physical_delivery_address": "2017 EASTERN AVE SE STE 1",
+    "physical_delivery_address": "2017 EASTERN AVE SE STE A",
     "physical_city": "GRAND RAPIDS",
     "physical_state": "MI",
     "physical_zip": "49507",

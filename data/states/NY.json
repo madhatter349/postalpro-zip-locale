@@ -24016,19 +24016,6 @@
     "district_name": "NEW YORK 3",
     "district_no": "120",
     "delivery_zipcode": "14058",
-    "locale_name": "ELBA CARRIERS",
-    "physical_delivery_address": "28 MAIN ST",
-    "physical_city": "OAKFIELD",
-    "physical_state": "NY",
-    "physical_zip": "14125",
-    "physical_zip4": "9900"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW YORK 3",
-    "district_no": "120",
-    "delivery_zipcode": "14058",
     "locale_name": "OAKFIELD",
     "physical_delivery_address": "28 MAIN ST",
     "physical_city": "OAKFIELD",
@@ -24710,6 +24697,19 @@
     "physical_city": "RANSOMVILLE",
     "physical_state": "NY",
     "physical_zip": "14131",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "NEW YORK 3",
+    "district_no": "120",
+    "delivery_zipcode": "14132",
+    "locale_name": "LA SALLE",
+    "physical_delivery_address": "9860 NIAGARA FALLS BLVD",
+    "physical_city": "NIAGARA FALLS",
+    "physical_state": "NY",
+    "physical_zip": "14304",
     "physical_zip4": "9998"
   },
   {

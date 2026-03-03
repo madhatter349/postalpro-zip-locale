@@ -4659,24 +4659,11 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "63735",
-    "locale_name": "CHAFFEE",
-    "physical_delivery_address": "217 S MAIN ST",
-    "physical_city": "CHAFFEE",
+    "locale_name": "BELL CITY",
+    "physical_delivery_address": "25233 WALNUT ST",
+    "physical_city": "BELL CITY",
     "physical_state": "MO",
-    "physical_zip": "63740",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KS-MO",
-    "district_no": "630",
-    "delivery_zipcode": "63735",
-    "locale_name": "PERKINS",
-    "physical_delivery_address": "622 HIGHWAY P",
-    "physical_city": "PERKINS",
-    "physical_state": "MO",
-    "physical_zip": "63774",
+    "physical_zip": "63735",
     "physical_zip4": "9998"
   },
   {
@@ -5595,11 +5582,11 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "63847",
-    "locale_name": "GIBSON",
-    "physical_delivery_address": "110 MAIN ST",
-    "physical_city": "GIBSON",
+    "locale_name": "HOLCOMB",
+    "physical_delivery_address": "205 CHURCH ST",
+    "physical_city": "HOLCOMB",
     "physical_state": "MO",
-    "physical_zip": "63847",
+    "physical_zip": "63852",
     "physical_zip4": "9998"
   },
   {
@@ -15818,6 +15805,19 @@
     "physical_city": "AVA",
     "physical_state": "MO",
     "physical_zip": "65608",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KS-MO",
+    "district_no": "630",
+    "delivery_zipcode": "65609",
+    "locale_name": "BAKERSFIELD",
+    "physical_delivery_address": "56 MAIN ST",
+    "physical_city": "BAKERSFIELD",
+    "physical_state": "MO",
+    "physical_zip": "65609",
     "physical_zip4": "9998"
   },
   {

@@ -9339,19 +9339,6 @@
     "district_name": "TEXAS 1",
     "district_no": "752",
     "delivery_zipcode": "76363",
-    "locale_name": "GOREE",
-    "physical_delivery_address": "105 N 5TH ST",
-    "physical_city": "GOREE",
-    "physical_state": "TX",
-    "physical_zip": "76363",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TEXAS 1",
-    "district_no": "752",
-    "delivery_zipcode": "76363",
     "locale_name": "MUNDAY",
     "physical_delivery_address": "241 W B ST",
     "physical_city": "MUNDAY",
@@ -9579,19 +9566,6 @@
     "physical_state": "TX",
     "physical_zip": "76371",
     "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TEXAS 1",
-    "district_no": "752",
-    "delivery_zipcode": "76388",
-    "locale_name": "WEINERT",
-    "physical_delivery_address": "105 S BREUSTEDT ST",
-    "physical_city": "WEINERT",
-    "physical_state": "TX",
-    "physical_zip": "76388",
-    "physical_zip4": "9700"
   },
   {
     "area_name": "SOUTHERN",
@@ -13102,6 +13076,19 @@
     "physical_state": "TX",
     "physical_zip": "76934",
     "physical_zip4": "9802"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 3",
+    "district_no": "780",
+    "delivery_zipcode": "76934",
+    "locale_name": "SAN ANGELO",
+    "physical_delivery_address": "1 N ABE ST",
+    "physical_city": "SAN ANGELO",
+    "physical_state": "TX",
+    "physical_zip": "76902",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "SOUTHERN",
@@ -16884,7 +16871,7 @@
     "physical_city": "PRAIRIE VIEW",
     "physical_state": "TX",
     "physical_zip": "77446",
-    "physical_zip4": "4100"
+    "physical_zip4": "4110"
   },
   {
     "area_name": "SOUTHERN",
@@ -23124,7 +23111,7 @@
     "physical_city": "INGLESIDE",
     "physical_state": "TX",
     "physical_zip": "78362",
-    "physical_zip4": "4139"
+    "physical_zip4": "4167"
   },
   {
     "area_name": "SOUTHERN",

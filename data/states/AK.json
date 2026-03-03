@@ -2181,7 +2181,7 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "9997"
+    "physical_zip4": "3422"
   },
   {
     "area_name": "WESTPAC",
@@ -2195,19 +2195,6 @@
     "physical_state": "AK",
     "physical_zip": "99709",
     "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ALASKA",
-    "district_no": "995",
-    "delivery_zipcode": "99702",
-    "locale_name": "EIELSON AFB",
-    "physical_delivery_address": "365 KODIAK ST",
-    "physical_city": "EIELSON AFB",
-    "physical_state": "AK",
-    "physical_zip": "99702",
-    "physical_zip4": "5300"
   },
   {
     "area_name": "WESTPAC",
@@ -2311,7 +2298,7 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "9997"
+    "physical_zip4": "3422"
   },
   {
     "area_name": "WESTPAC",

@@ -1202,11 +1202,11 @@
     "district_no": "400",
     "delivery_zipcode": "24938",
     "locale_name": "FRANKFORD",
-    "physical_delivery_address": "21981 SENECA TRL N",
+    "physical_delivery_address": "21535 SENECA TRL N",
     "physical_city": "FRANKFORD",
     "physical_state": "WV",
     "physical_zip": "24938",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "CENTRAL",
@@ -3612,19 +3612,6 @@
     "physical_state": "WV",
     "physical_zip": "25301",
     "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "25302",
-    "locale_name": "STONEWALL",
-    "physical_delivery_address": "401 VIRGINIA ST W",
-    "physical_city": "CHARLESTON",
-    "physical_state": "WV",
-    "physical_zip": "25302",
-    "physical_zip4": "5000"
   },
   {
     "area_name": "CENTRAL",
@@ -8131,11 +8118,11 @@
     "district_no": "400",
     "delivery_zipcode": "26146",
     "locale_name": "FRIENDLY",
-    "physical_delivery_address": "2096 FRIENDLY RD",
+    "physical_delivery_address": "8130 ENERGY HWY",
     "physical_city": "FRIENDLY",
     "physical_state": "WV",
     "physical_zip": "26146",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "CENTRAL",

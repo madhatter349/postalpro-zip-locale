@@ -2787,11 +2787,11 @@
     "district_name": "ME-NH-VT",
     "district_no": "040",
     "delivery_zipcode": "03769",
-    "locale_name": "LYME CENTER",
-    "physical_delivery_address": "181 DORCHESTER RD UNIT 3",
-    "physical_city": "LYME CENTER",
+    "locale_name": "LYME",
+    "physical_delivery_address": "5 MAIN ST UNIT 5",
+    "physical_city": "LYME",
     "physical_state": "NH",
-    "physical_zip": "03769",
+    "physical_zip": "03768",
     "physical_zip4": "9998"
   },
   {
