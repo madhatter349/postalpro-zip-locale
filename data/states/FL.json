@@ -1785,19 +1785,6 @@
     "area_code": "4G",
     "district_name": "FLORIDA 1",
     "district_no": "320",
-    "delivery_zipcode": "32204",
-    "locale_name": "MURRAY HILL",
-    "physical_delivery_address": "5455 VERNA BLVD",
-    "physical_city": "JACKSONVILLE",
-    "physical_state": "FL",
-    "physical_zip": "32205",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "FLORIDA 1",
-    "district_no": "320",
     "delivery_zipcode": "32205",
     "locale_name": "CPU HERSCHEL GATES CONTRACT",
     "physical_delivery_address": "3980 HERSCHEL ST",
@@ -1864,6 +1851,19 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32208",
+    "locale_name": "JACKSONVILLE FL SDC",
+    "physical_delivery_address": "1100 KINGS RD",
+    "physical_city": "JACKSONVILLE",
+    "physical_state": "FL",
+    "physical_zip": "32203",
+    "physical_zip4": "9706"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "FLORIDA 1",
+    "district_no": "320",
+    "delivery_zipcode": "32208",
     "locale_name": "LAKE FOREST",
     "physical_delivery_address": "1440 EDGEWOOD AVE W",
     "physical_city": "JACKSONVILLE",
@@ -1883,6 +1883,19 @@
     "physical_state": "FL",
     "physical_zip": "32209",
     "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "FLORIDA 1",
+    "district_no": "320",
+    "delivery_zipcode": "32209",
+    "locale_name": "JACKSONVILLE FL SDC",
+    "physical_delivery_address": "1100 KINGS RD",
+    "physical_city": "JACKSONVILLE",
+    "physical_state": "FL",
+    "physical_zip": "32203",
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -1981,12 +1994,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32219",
-    "locale_name": "LAKE FOREST",
-    "physical_delivery_address": "1440 EDGEWOOD AVE W",
+    "locale_name": "JACKSONVILLE FL SDC",
+    "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
-    "physical_zip": "32208",
-    "physical_zip4": "9998"
+    "physical_zip": "32203",
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -1994,12 +2007,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32220",
-    "locale_name": "MURRAY HILL",
-    "physical_delivery_address": "5455 VERNA BLVD",
+    "locale_name": "JACKSONVILLE FL SDC",
+    "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
-    "physical_zip": "32205",
-    "physical_zip4": "9998"
+    "physical_zip": "32203",
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -2007,12 +2020,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32221",
-    "locale_name": "MURRAY HILL",
-    "physical_delivery_address": "5455 VERNA BLVD",
+    "locale_name": "JACKSONVILLE FL SDC",
+    "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
-    "physical_zip": "32205",
-    "physical_zip4": "9998"
+    "physical_zip": "32203",
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -2306,12 +2319,12 @@
     "district_name": "FLORIDA 1",
     "district_no": "320",
     "delivery_zipcode": "32254",
-    "locale_name": "MURRAY HILL",
-    "physical_delivery_address": "5455 VERNA BLVD",
+    "locale_name": "JACKSONVILLE FL SDC",
+    "physical_delivery_address": "1100 KINGS RD",
     "physical_city": "JACKSONVILLE",
     "physical_state": "FL",
-    "physical_zip": "32205",
-    "physical_zip4": "9998"
+    "physical_zip": "32203",
+    "physical_zip4": "9706"
   },
   {
     "area_name": "SOUTHERN",
@@ -8247,12 +8260,12 @@
     "district_name": "FLORIDA 3",
     "district_no": "330",
     "delivery_zipcode": "33061",
-    "locale_name": "TROPICAL REEF",
-    "physical_delivery_address": "1950 NE 6TH ST",
+    "locale_name": "TROPICAL REEF NEW",
+    "physical_delivery_address": "860 N FEDERAL HWY",
     "physical_city": "POMPANO BEACH",
     "physical_state": "FL",
-    "physical_zip": "33060",
-    "physical_zip4": "9998"
+    "physical_zip": "33062",
+    "physical_zip4": "9997"
   },
   {
     "area_name": "SOUTHERN",
@@ -15137,11 +15150,11 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "33938",
-    "locale_name": "MURDOCK",
-    "physical_delivery_address": "19190 COCHRAN BLVD FRNT",
+    "locale_name": "PORT CHARLOTTE",
+    "physical_delivery_address": "3740 TAMIAMI TRL",
     "physical_city": "PORT CHARLOTTE",
     "physical_state": "FL",
-    "physical_zip": "33948",
+    "physical_zip": "33952",
     "physical_zip4": "9998"
   },
   {
@@ -15650,19 +15663,6 @@
     "physical_state": "FL",
     "physical_zip": "34102",
     "physical_zip4": "6706"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "FLORIDA 2",
-    "district_no": "335",
-    "delivery_zipcode": "34107",
-    "locale_name": "COCO RIVER",
-    "physical_delivery_address": "1130 CREEKSIDE PKWY",
-    "physical_city": "NAPLES",
-    "physical_state": "FL",
-    "physical_zip": "34108",
-    "physical_zip4": "1929"
   },
   {
     "area_name": "SOUTHERN",

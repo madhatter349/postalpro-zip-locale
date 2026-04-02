@@ -4841,11 +4841,11 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "66850",
-    "locale_name": "STRONG CITY CARRIERS",
-    "physical_delivery_address": "206 BROADWAY ST",
-    "physical_city": "COTTONWOOD FALLS",
+    "locale_name": "STRONG CITY",
+    "physical_delivery_address": "309 COTTONWOOD ST",
+    "physical_city": "STRONG CITY",
     "physical_state": "KS",
-    "physical_zip": "66845",
+    "physical_zip": "66869",
     "physical_zip4": "9998"
   },
   {
@@ -5132,6 +5132,19 @@
     "physical_city": "STRONG CITY",
     "physical_state": "KS",
     "physical_zip": "66869",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KS-MO",
+    "district_no": "630",
+    "delivery_zipcode": "66870",
+    "locale_name": "MADISON",
+    "physical_delivery_address": "115 S 3RD ST",
+    "physical_city": "MADISON",
+    "physical_state": "KS",
+    "physical_zip": "66860",
     "physical_zip4": "9998"
   },
   {

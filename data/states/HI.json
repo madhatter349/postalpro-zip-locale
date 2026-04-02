@@ -1487,12 +1487,12 @@
     "district_name": "HAWAII",
     "district_no": "967",
     "delivery_zipcode": "96818",
-    "locale_name": "MAIN OFFICE CARRIERS",
-    "physical_delivery_address": "3600 AOLELE ST RM 400",
+    "locale_name": "HONOLULU",
+    "physical_delivery_address": "3600 AOLELE ST RM 208C",
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96820",
-    "physical_zip4": "9711"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "WESTPAC",

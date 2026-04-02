@@ -1851,12 +1851,12 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "63166",
-    "locale_name": "MAIN OFFICE FIN POSTAL STORE",
-    "physical_delivery_address": "1720 MARKET ST LBBY",
+    "locale_name": "SAINT LOUIS",
+    "physical_delivery_address": "1720 MARKET ST RM 3025",
     "physical_city": "SAINT LOUIS",
     "physical_state": "MO",
     "physical_zip": "63155",
-    "physical_zip4": "9989"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "CENTRAL",
@@ -1877,12 +1877,12 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "63177",
-    "locale_name": "MAIN OFFICE FIN POSTAL STORE",
-    "physical_delivery_address": "1720 MARKET ST LBBY",
+    "locale_name": "SAINT LOUIS",
+    "physical_delivery_address": "1720 MARKET ST RM 3025",
     "physical_city": "SAINT LOUIS",
     "physical_state": "MO",
     "physical_zip": "63155",
-    "physical_zip4": "9989"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "CENTRAL",
@@ -1903,12 +1903,12 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "63179",
-    "locale_name": "MAIN OFFICE FIN POSTAL STORE",
-    "physical_delivery_address": "1720 MARKET ST LBBY",
+    "locale_name": "SAINT LOUIS",
+    "physical_delivery_address": "1720 MARKET ST RM 3025",
     "physical_city": "SAINT LOUIS",
     "physical_state": "MO",
     "physical_zip": "63155",
-    "physical_zip4": "9989"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "CENTRAL",
@@ -8533,12 +8533,12 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "64196",
-    "locale_name": "KANSAS CITY MAIN OFFICE",
-    "physical_delivery_address": "300 W PERSHING RD",
+    "locale_name": "KANSAS CITY MO RETAIL",
+    "physical_delivery_address": "30 W PERSHING RD STE 112",
     "physical_city": "KANSAS CITY",
     "physical_state": "MO",
     "physical_zip": "64108",
-    "physical_zip4": "4318"
+    "physical_zip4": "9712"
   },
   {
     "area_name": "CENTRAL",

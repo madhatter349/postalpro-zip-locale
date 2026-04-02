@@ -3866,12 +3866,12 @@
     "district_name": "TENNESSEE",
     "district_no": "370",
     "delivery_zipcode": "37643",
-    "locale_name": "ELIZABETHTON",
-    "physical_delivery_address": "901 W ELK AVE",
-    "physical_city": "ELIZABETHTON",
+    "locale_name": "JOHNSON CITY TN SDC",
+    "physical_delivery_address": "128 ROWELAND DR",
+    "physical_city": "JOHNSON CITY",
     "physical_state": "TN",
-    "physical_zip": "37643",
-    "physical_zip4": "9998"
+    "physical_zip": "37601",
+    "physical_zip4": "3823"
   },
   {
     "area_name": "SOUTHERN",
@@ -4139,6 +4139,19 @@
     "district_name": "TENNESSEE",
     "district_no": "370",
     "delivery_zipcode": "37686",
+    "locale_name": "JOHNSON CITY TN SDC",
+    "physical_delivery_address": "128 ROWELAND DR",
+    "physical_city": "JOHNSON CITY",
+    "physical_state": "TN",
+    "physical_zip": "37601",
+    "physical_zip4": "3823"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TENNESSEE",
+    "district_no": "370",
+    "delivery_zipcode": "37686",
     "locale_name": "PINEY FLATS",
     "physical_delivery_address": "257 JONESBORO RD",
     "physical_city": "PINEY FLATS",
@@ -4230,12 +4243,12 @@
     "district_name": "TENNESSEE",
     "district_no": "370",
     "delivery_zipcode": "37694",
-    "locale_name": "ELIZABETHTON",
-    "physical_delivery_address": "901 W ELK AVE",
-    "physical_city": "ELIZABETHTON",
+    "locale_name": "JOHNSON CITY TN SDC",
+    "physical_delivery_address": "128 ROWELAND DR",
+    "physical_city": "JOHNSON CITY",
     "physical_state": "TN",
-    "physical_zip": "37643",
-    "physical_zip4": "9998"
+    "physical_zip": "37601",
+    "physical_zip4": "3823"
   },
   {
     "area_name": "SOUTHERN",

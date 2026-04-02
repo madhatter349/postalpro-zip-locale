@@ -7519,12 +7519,12 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "15863",
-    "locale_name": "SYKESVILLE",
-    "physical_delivery_address": "14 W MAIN ST",
-    "physical_city": "SYKESVILLE",
+    "locale_name": "STUMP CREEK",
+    "physical_delivery_address": "6871 ROUTE 119",
+    "physical_city": "STUMP CREEK",
     "physical_state": "PA",
-    "physical_zip": "15865",
-    "physical_zip4": "1080"
+    "physical_zip": "15863",
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -17568,11 +17568,11 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "17504",
-    "locale_name": "BAUSMAN",
-    "physical_delivery_address": "220 ROSEDALE AVE",
-    "physical_city": "BAUSMAN",
+    "locale_name": "MILLERSVILLE",
+    "physical_delivery_address": "431 N GEORGE ST",
+    "physical_city": "MILLERSVILLE",
     "physical_state": "PA",
-    "physical_zip": "17504",
+    "physical_zip": "17551",
     "physical_zip4": "9998"
   },
   {
@@ -30360,12 +30360,12 @@
     "district_name": "DE-PA 2",
     "district_no": "190",
     "delivery_zipcode": "19484",
-    "locale_name": "KING OF PRUSSIA",
-    "physical_delivery_address": "620 ALLENDALE RD STE 125",
-    "physical_city": "KING OF PRUSSIA",
+    "locale_name": "VALLEY FORGE",
+    "physical_delivery_address": "1721 VALLEY FORGE RD",
+    "physical_city": "VALLEY FORGE",
     "physical_state": "PA",
-    "physical_zip": "19406",
-    "physical_zip4": "9990"
+    "physical_zip": "19481",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",

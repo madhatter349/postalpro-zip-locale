@@ -551,11 +551,11 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "24844",
-    "locale_name": "IAEGER",
-    "physical_delivery_address": "5265 COAL HERITAGE RD",
-    "physical_city": "IAEGER",
+    "locale_name": "RODERFIELD",
+    "physical_delivery_address": "12790 COAL HERITAGE RD",
+    "physical_city": "RODERFIELD",
     "physical_state": "WV",
-    "physical_zip": "24844",
+    "physical_zip": "24881",
     "physical_zip4": "9998"
   },
   {
@@ -772,11 +772,11 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "24869",
-    "locale_name": "IAEGER",
-    "physical_delivery_address": "5265 COAL HERITAGE RD",
-    "physical_city": "IAEGER",
+    "locale_name": "RODERFIELD",
+    "physical_delivery_address": "12790 COAL HERITAGE RD",
+    "physical_city": "RODERFIELD",
     "physical_state": "WV",
-    "physical_zip": "24844",
+    "physical_zip": "24881",
     "physical_zip4": "9998"
   },
   {
@@ -9136,19 +9136,6 @@
     "physical_city": "WEBSTER SPRINGS",
     "physical_state": "WV",
     "physical_zip": "26288",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "26289",
-    "locale_name": "DAVIS",
-    "physical_delivery_address": "421 WILLIAM AVE",
-    "physical_city": "DAVIS",
-    "physical_state": "WV",
-    "physical_zip": "26260",
     "physical_zip4": "9998"
   },
   {

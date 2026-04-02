@@ -121,6 +121,19 @@
     "area_code": "4B",
     "district_name": "MARYLAND",
     "district_no": "200",
+    "delivery_zipcode": "20607",
+    "locale_name": "WALDORF MD SDC",
+    "physical_delivery_address": "110 PAUL MELLON CT",
+    "physical_city": "WALDORF",
+    "physical_state": "MD",
+    "physical_zip": "20602",
+    "physical_zip4": "9900"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MARYLAND",
+    "district_no": "200",
     "delivery_zipcode": "20608",
     "locale_name": "HUGHESVILLE",
     "physical_delivery_address": "15485 PRINCE FREDERICK RD",
@@ -505,6 +518,19 @@
     "physical_state": "MD",
     "physical_zip": "20646",
     "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MARYLAND",
+    "district_no": "200",
+    "delivery_zipcode": "20646",
+    "locale_name": "WALDORF MD SDC",
+    "physical_delivery_address": "110 PAUL MELLON CT",
+    "physical_city": "WALDORF",
+    "physical_state": "MD",
+    "physical_zip": "20602",
+    "physical_zip4": "9900"
   },
   {
     "area_name": "ATLANTIC",

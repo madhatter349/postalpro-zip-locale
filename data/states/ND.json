@@ -2188,19 +2188,6 @@
     "area_code": "4J",
     "district_name": "MN-ND",
     "district_no": "553",
-    "delivery_zipcode": "58331",
-    "locale_name": "EGELAND",
-    "physical_delivery_address": "123 MAIN ST",
-    "physical_city": "EGELAND",
-    "physical_state": "ND",
-    "physical_zip": "58331",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
     "delivery_zipcode": "58332",
     "locale_name": "ESMOND",
     "physical_delivery_address": "117 1ST AVE N",
@@ -3846,19 +3833,6 @@
     "physical_state": "ND",
     "physical_zip": "58501",
     "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58506",
-    "locale_name": "BISMARCK ND SDC",
-    "physical_delivery_address": "403 AIRPORT RD",
-    "physical_city": "BISMARCK",
-    "physical_state": "ND",
-    "physical_zip": "58504",
-    "physical_zip4": "9702"
   },
   {
     "area_name": "CENTRAL",

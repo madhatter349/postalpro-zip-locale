@@ -202,7 +202,7 @@
     "delivery_zipcode": "19720",
     "locale_name": "CENTERPOINT",
     "physical_delivery_address": "105 JOHNSON WAY",
-    "physical_city": "HISTORIC NEW CASTLE",
+    "physical_city": "NEW CASTLE",
     "physical_state": "DE",
     "physical_zip": "19720",
     "physical_zip4": "9997"
@@ -501,7 +501,7 @@
     "delivery_zipcode": "19850",
     "locale_name": "WILMINGTON BOX",
     "physical_delivery_address": "147 QUIGLEY BLVD",
-    "physical_city": "HISTORIC NEW CASTLE",
+    "physical_city": "NEW CASTLE",
     "physical_state": "DE",
     "physical_zip": "19720",
     "physical_zip4": "9696"
@@ -514,7 +514,7 @@
     "delivery_zipcode": "19880",
     "locale_name": "WILMINGTON BOX",
     "physical_delivery_address": "147 QUIGLEY BLVD",
-    "physical_city": "HISTORIC NEW CASTLE",
+    "physical_city": "NEW CASTLE",
     "physical_state": "DE",
     "physical_zip": "19720",
     "physical_zip4": "9696"

@@ -8805,19 +8805,6 @@
     "area_code": "4J",
     "district_name": "ILLINOIS 2",
     "district_no": "604",
-    "delivery_zipcode": "61265",
-    "locale_name": "QC AIRPORT DPOBU",
-    "physical_delivery_address": "2200 69TH AVE",
-    "physical_city": "MOLINE",
-    "physical_state": "IL",
-    "physical_zip": "61265",
-    "physical_zip4": "8316"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "ILLINOIS 2",
-    "district_no": "604",
     "delivery_zipcode": "61266",
     "locale_name": "MOLINE",
     "physical_delivery_address": "514 17TH ST",
@@ -16580,12 +16567,12 @@
     "district_name": "ILLINOIS 2",
     "district_no": "604",
     "delivery_zipcode": "62306",
-    "locale_name": "ORVILLE H BROWNING",
-    "physical_delivery_address": "200 N 8TH ST STE 1",
+    "locale_name": "QUINCY",
+    "physical_delivery_address": "3535 LOCUST ST",
     "physical_city": "QUINCY",
     "physical_state": "IL",
     "physical_zip": "62301",
-    "physical_zip4": "9996"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "CENTRAL",

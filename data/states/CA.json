@@ -9409,7 +9409,7 @@
     "physical_city": "IMPERIAL",
     "physical_state": "CA",
     "physical_zip": "92251",
-    "physical_zip4": "9817"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "WESTPAC",
@@ -12810,12 +12810,12 @@
     "district_name": "CALIFORNIA 4",
     "district_no": "926",
     "delivery_zipcode": "92702",
-    "locale_name": "SANTA ANA CA NORTH GRAND SDC",
-    "physical_delivery_address": "2201 N GRAND AVE",
+    "locale_name": "SPURGEON",
+    "physical_delivery_address": "615 N BUSH ST",
     "physical_city": "SANTA ANA",
     "physical_state": "CA",
-    "physical_zip": "92711",
-    "physical_zip4": "9930"
+    "physical_zip": "92702",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "WESTPAC",
@@ -16989,19 +16989,6 @@
     "physical_state": "CA",
     "physical_zip": "93534",
     "physical_zip4": "2514"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CALIFORNIA 3",
-    "district_no": "913",
-    "delivery_zipcode": "93586",
-    "locale_name": "LANCASTER CARRIER ANNEX",
-    "physical_delivery_address": "1008 W AVENUE J2",
-    "physical_city": "LANCASTER",
-    "physical_state": "CA",
-    "physical_zip": "93534",
-    "physical_zip4": "9998"
   },
   {
     "area_name": "WESTPAC",
