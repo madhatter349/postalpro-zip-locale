@@ -2462,19 +2462,6 @@
     "district_name": "IA-NE-SD",
     "district_no": "500",
     "delivery_zipcode": "57331",
-    "locale_name": "DIMOCK",
-    "physical_delivery_address": "501 S MAIN ST",
-    "physical_city": "DIMOCK",
-    "physical_state": "SD",
-    "physical_zip": "57331",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57331",
     "locale_name": "PARKSTON",
     "physical_delivery_address": "111 N 1ST ST",
     "physical_city": "PARKSTON",
@@ -3144,19 +3131,6 @@
     "physical_state": "SD",
     "physical_zip": "57420",
     "physical_zip4": "2000"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57421",
-    "locale_name": "AMHERST",
-    "physical_delivery_address": "519 FRONT ST",
-    "physical_city": "AMHERST",
-    "physical_state": "SD",
-    "physical_zip": "57421",
-    "physical_zip4": "9998"
   },
   {
     "area_name": "CENTRAL",

@@ -1539,19 +1539,6 @@
     "district_name": "ID-MT-OR",
     "district_no": "970",
     "delivery_zipcode": "97138",
-    "locale_name": "GEARHART",
-    "physical_delivery_address": "546 PACIFIC WAY",
-    "physical_city": "SEASIDE",
-    "physical_state": "OR",
-    "physical_zip": "97138",
-    "physical_zip4": "4100"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97138",
     "locale_name": "SEASIDE",
     "physical_delivery_address": "300 AVENUE A",
     "physical_city": "SEASIDE",
@@ -3859,19 +3846,6 @@
     "physical_state": "OR",
     "physical_zip": "97435",
     "physical_zip4": "9706"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97435",
-    "locale_name": "YONCALLA",
-    "physical_delivery_address": "173 ALDER ST",
-    "physical_city": "YONCALLA",
-    "physical_state": "OR",
-    "physical_zip": "97499",
-    "physical_zip4": "9735"
   },
   {
     "area_name": "WESTPAC",
@@ -6817,11 +6791,11 @@
     "district_name": "ID-MT-OR",
     "district_no": "970",
     "delivery_zipcode": "97920",
-    "locale_name": "WESTFALL",
-    "physical_delivery_address": "3870 N MAIN ST",
-    "physical_city": "WESTFALL",
+    "locale_name": "HARPER",
+    "physical_delivery_address": "2965 A ST",
+    "physical_city": "HARPER",
     "physical_state": "OR",
-    "physical_zip": "97920",
-    "physical_zip4": "5000"
+    "physical_zip": "97906",
+    "physical_zip4": "4000"
   }
 ]

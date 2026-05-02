@@ -2605,24 +2605,11 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07421",
-    "locale_name": "HEWITT CARRIERS",
-    "physical_delivery_address": "1560 UNION VALLEY RD",
-    "physical_city": "WEST MILFORD",
+    "locale_name": "HEWITT",
+    "physical_delivery_address": "1926 UNION VALLEY RD STE E",
+    "physical_city": "HEWITT",
     "physical_state": "NJ",
-    "physical_zip": "07480",
-    "physical_zip4": "9601"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW JERSEY",
-    "district_no": "070",
-    "delivery_zipcode": "07421",
-    "locale_name": "WEST MILFORD",
-    "physical_delivery_address": "1560 UNION VALLEY RD",
-    "physical_city": "WEST MILFORD",
-    "physical_state": "NJ",
-    "physical_zip": "07480",
+    "physical_zip": "07421",
     "physical_zip4": "9998"
   },
   {
@@ -5556,11 +5543,11 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07851",
-    "locale_name": "LAYTON",
-    "physical_delivery_address": "122 COUNTY ROAD 560",
-    "physical_city": "LAYTON",
+    "locale_name": "BRANCHVILLE",
+    "physical_delivery_address": "1 BROAD ST",
+    "physical_city": "BRANCHVILLE",
     "physical_state": "NJ",
-    "physical_zip": "07851",
+    "physical_zip": "07826",
     "physical_zip4": "9998"
   },
   {
@@ -7017,6 +7004,19 @@
     "physical_city": "CAMDEN",
     "physical_state": "NJ",
     "physical_zip": "08104",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "NEW JERSEY",
+    "district_no": "070",
+    "delivery_zipcode": "08032",
+    "locale_name": "BLACKWOOD",
+    "physical_delivery_address": "200 DAVISTOWN RD",
+    "physical_city": "BLACKWOOD",
+    "physical_state": "NJ",
+    "physical_zip": "08012",
     "physical_zip4": "9998"
   },
   {
@@ -8689,11 +8689,11 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08217",
-    "locale_name": "HAMMONTON",
-    "physical_delivery_address": "114 S 3RD ST",
-    "physical_city": "HAMMONTON",
+    "locale_name": "ELWOOD",
+    "physical_delivery_address": "4401 WHITE HORSE PIKE",
+    "physical_city": "ELWOOD",
     "physical_state": "NJ",
-    "physical_zip": "08037",
+    "physical_zip": "08217",
     "physical_zip4": "9998"
   },
   {

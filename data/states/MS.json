@@ -4438,11 +4438,11 @@
     "district_name": "AL-MS",
     "district_no": "350",
     "delivery_zipcode": "39304",
-    "locale_name": "WEST MERIDIAN",
-    "physical_delivery_address": "708 45TH AVE",
+    "locale_name": "MERIDIAN",
+    "physical_delivery_address": "2100 9TH ST",
     "physical_city": "MERIDIAN",
     "physical_state": "MS",
-    "physical_zip": "39307",
+    "physical_zip": "39301",
     "physical_zip4": "9998"
   },
   {

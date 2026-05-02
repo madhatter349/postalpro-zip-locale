@@ -9637,19 +9637,6 @@
     "area_code": "4J",
     "district_name": "KS-MO",
     "district_no": "630",
-    "delivery_zipcode": "64486",
-    "locale_name": "SHERIDAN",
-    "physical_delivery_address": "126 W JEFFERSON ST",
-    "physical_city": "SHERIDAN",
-    "physical_state": "MO",
-    "physical_zip": "64486",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KS-MO",
-    "district_no": "630",
     "delivery_zipcode": "64487",
     "locale_name": "MARYVILLE",
     "physical_delivery_address": "507 N FILLMORE ST",
@@ -11107,19 +11094,6 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "64726",
-    "locale_name": "BLAIRSTOWN",
-    "physical_delivery_address": "120 N MAIN ST",
-    "physical_city": "BLAIRSTOWN",
-    "physical_state": "MO",
-    "physical_zip": "64726",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KS-MO",
-    "district_no": "630",
-    "delivery_zipcode": "64726",
     "locale_name": "GARDEN CITY",
     "physical_delivery_address": "201 N 3RD ST",
     "physical_city": "GARDEN CITY",
@@ -11355,11 +11329,11 @@
     "district_no": "630",
     "delivery_zipcode": "64745",
     "locale_name": "FOSTER",
-    "physical_delivery_address": "203 MAIN ST",
+    "physical_delivery_address": "8733 SW 6TH ST",
     "physical_city": "FOSTER",
     "physical_state": "MO",
     "physical_zip": "64745",
-    "physical_zip4": "9998"
+    "physical_zip4": "9900"
   },
   {
     "area_name": "CENTRAL",
@@ -17944,19 +17918,6 @@
     "area_code": "4J",
     "district_name": "KS-MO",
     "district_no": "630",
-    "delivery_zipcode": "65755",
-    "locale_name": "SQUIRES",
-    "physical_delivery_address": "1 MAIN ST",
-    "physical_city": "SQUIRES",
-    "physical_state": "MO",
-    "physical_zip": "65755",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KS-MO",
-    "district_no": "630",
     "delivery_zipcode": "65756",
     "locale_name": "MONETT",
     "physical_delivery_address": "300 4TH ST",
@@ -18080,19 +18041,6 @@
     "physical_city": "THORNFIELD",
     "physical_state": "MO",
     "physical_zip": "65762",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KS-MO",
-    "district_no": "630",
-    "delivery_zipcode": "65764",
-    "locale_name": "TUNAS",
-    "physical_delivery_address": "4 STATE RD E",
-    "physical_city": "TUNAS",
-    "physical_state": "MO",
-    "physical_zip": "65764",
     "physical_zip4": "9998"
   },
   {

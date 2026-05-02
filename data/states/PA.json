@@ -10079,6 +10079,19 @@
     "area_code": "4B",
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
+    "delivery_zipcode": "16253",
+    "locale_name": "NEW BETHLEHEM",
+    "physical_delivery_address": "451 BROAD ST",
+    "physical_city": "NEW BETHLEHEM",
+    "physical_state": "PA",
+    "physical_zip": "16242",
+    "physical_zip4": "1100"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
     "delivery_zipcode": "16254",
     "locale_name": "SHIPPENVILLE",
     "physical_delivery_address": "305 MAIN ST",
@@ -10249,11 +10262,11 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "16312",
-    "locale_name": "CHANDLERS VALLEY",
-    "physical_delivery_address": "9243 JACKSON RUN RD",
-    "physical_city": "CHANDLERS VALLEY",
+    "locale_name": "SUGAR GROVE",
+    "physical_delivery_address": "14 ABBOTT ST",
+    "physical_city": "SUGAR GROVE",
     "physical_state": "PA",
-    "physical_zip": "16312",
+    "physical_zip": "16350",
     "physical_zip4": "9800"
   },
   {
@@ -10769,11 +10782,11 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "16370",
-    "locale_name": "WEST HICKORY",
-    "physical_delivery_address": "3518 MAIN ST",
-    "physical_city": "WEST HICKORY",
+    "locale_name": "ENDEAVOR",
+    "physical_delivery_address": "17520 ROUTE 666",
+    "physical_city": "ENDEAVOR",
     "physical_state": "PA",
-    "physical_zip": "16370",
+    "physical_zip": "16322",
     "physical_zip4": "9800"
   },
   {
@@ -12212,11 +12225,11 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "16671",
-    "locale_name": "RAMEY",
-    "physical_delivery_address": "351 MAIN ST",
-    "physical_city": "RAMEY",
+    "locale_name": "HOUTZDALE",
+    "physical_delivery_address": "721 MCATEER ST",
+    "physical_city": "HOUTZDALE",
     "physical_state": "PA",
-    "physical_zip": "16671",
+    "physical_zip": "16651",
     "physical_zip4": "9998"
   },
   {
@@ -23410,19 +23423,6 @@
     "physical_city": "LAKEWOOD",
     "physical_state": "PA",
     "physical_zip": "18439",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "DE-PA 2",
-    "district_no": "190",
-    "delivery_zipcode": "18439",
-    "locale_name": "SUSQUEHANNA",
-    "physical_delivery_address": "1186 MAIN ST",
-    "physical_city": "SUSQUEHANNA",
-    "physical_state": "PA",
-    "physical_zip": "18847",
     "physical_zip4": "9998"
   },
   {

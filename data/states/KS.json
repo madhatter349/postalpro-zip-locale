@@ -3723,19 +3723,6 @@
     "district_name": "KS-MO",
     "district_no": "630",
     "delivery_zipcode": "66710",
-    "locale_name": "ALTOONA",
-    "physical_delivery_address": "732 MAIN ST",
-    "physical_city": "ALTOONA",
-    "physical_state": "KS",
-    "physical_zip": "66710",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KS-MO",
-    "district_no": "630",
-    "delivery_zipcode": "66710",
     "locale_name": "NEODESHA",
     "physical_delivery_address": "123 N 5TH ST",
     "physical_city": "NEODESHA",
@@ -9032,19 +9019,6 @@
     "physical_city": "MINNEAPOLIS",
     "physical_state": "KS",
     "physical_zip": "67467",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KS-MO",
-    "district_no": "630",
-    "delivery_zipcode": "67484",
-    "locale_name": "TESCOTT",
-    "physical_delivery_address": "101 S MAIN ST",
-    "physical_city": "TESCOTT",
-    "physical_state": "KS",
-    "physical_zip": "67484",
     "physical_zip4": "9998"
   },
   {

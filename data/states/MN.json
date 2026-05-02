@@ -1799,7 +1799,7 @@
     "district_name": "MN-ND",
     "district_no": "553",
     "delivery_zipcode": "55308",
-    "locale_name": "BECKER",
+    "locale_name": "BECKER DPOBU",
     "physical_delivery_address": "13974 1ST ST",
     "physical_city": "BECKER",
     "physical_state": "MN",
@@ -8053,11 +8053,11 @@
     "district_no": "553",
     "delivery_zipcode": "56131",
     "locale_name": "FULDA",
-    "physical_delivery_address": "109 N MARYLAND AVE",
+    "physical_delivery_address": "109 N BALTIMORE AVE",
     "physical_city": "FULDA",
     "physical_state": "MN",
     "physical_zip": "56131",
-    "physical_zip4": "2001"
+    "physical_zip4": "1402"
   },
   {
     "area_name": "CENTRAL",

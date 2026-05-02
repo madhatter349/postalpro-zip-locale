@@ -63,5 +63,18 @@
     "physical_state": "MP",
     "physical_zip": "96951",
     "physical_zip4": "9997"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96952",
+    "locale_name": "TINIAN",
+    "physical_delivery_address": "1 SAN JOSE VLG",
+    "physical_city": "TINIAN",
+    "physical_state": "MP",
+    "physical_zip": "96952",
+    "physical_zip4": "9997"
   }
 ]

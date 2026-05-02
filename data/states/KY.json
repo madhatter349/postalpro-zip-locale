@@ -2540,11 +2540,11 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "40348",
-    "locale_name": "MILLERSBURG",
-    "physical_delivery_address": "425 MAIN ST",
-    "physical_city": "MILLERSBURG",
+    "locale_name": "PARIS",
+    "physical_delivery_address": "201 W 8TH ST STE 105",
+    "physical_city": "PARIS",
     "physical_state": "KY",
-    "physical_zip": "40348",
+    "physical_zip": "40361",
     "physical_zip4": "9998"
   },
   {
@@ -2597,6 +2597,19 @@
     "physical_city": "NEW LIBERTY",
     "physical_state": "KY",
     "physical_zip": "40355",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KY-WV",
+    "district_no": "400",
+    "delivery_zipcode": "40355",
+    "locale_name": "OWENTON",
+    "physical_delivery_address": "1065 HIGHWAY 127 N",
+    "physical_city": "OWENTON",
+    "physical_state": "KY",
+    "physical_zip": "40359",
     "physical_zip4": "9998"
   },
   {
@@ -7323,19 +7336,6 @@
     "area_code": "4J",
     "district_name": "KY-WV",
     "district_no": "400",
-    "delivery_zipcode": "41348",
-    "locale_name": "LOST CREEK",
-    "physical_delivery_address": "9950 HIGHWAY 15 S",
-    "physical_city": "LOST CREEK",
-    "physical_state": "KY",
-    "physical_zip": "41348",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
     "delivery_zipcode": "41351",
     "locale_name": "BOONEVILLE",
     "physical_delivery_address": "830 KY 11 N",
@@ -7888,19 +7888,6 @@
     "physical_city": "FOREST HILLS",
     "physical_state": "KY",
     "physical_zip": "41527",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "41528",
-    "locale_name": "FREEBURN",
-    "physical_delivery_address": "43903 STATE HIGHWAY 194 E",
-    "physical_city": "FREEBURN",
-    "physical_state": "KY",
-    "physical_zip": "41528",
     "physical_zip4": "9998"
   },
   {
@@ -10014,19 +10001,6 @@
     "area_code": "4J",
     "district_name": "KY-WV",
     "district_no": "400",
-    "delivery_zipcode": "41831",
-    "locale_name": "LEBURN",
-    "physical_delivery_address": "2028 HIGHWAY 550 E",
-    "physical_city": "LEBURN",
-    "physical_state": "KY",
-    "physical_zip": "41831",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
     "delivery_zipcode": "41832",
     "locale_name": "WHITESBURG",
     "physical_delivery_address": "71 HIGHWAY 119 S",
@@ -10756,11 +10730,11 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "42037",
-    "locale_name": "DYCUSBURG",
-    "physical_delivery_address": "9699 STATE ROUTE 70",
-    "physical_city": "DYCUSBURG",
+    "locale_name": "CRAYNE",
+    "physical_delivery_address": "4577 US HIGHWAY 641",
+    "physical_city": "CRAYNE",
     "physical_state": "KY",
-    "physical_zip": "42037",
+    "physical_zip": "42033",
     "physical_zip4": "9998"
   },
   {
@@ -12562,6 +12536,19 @@
     "area_code": "4J",
     "district_name": "KY-WV",
     "district_no": "400",
+    "delivery_zipcode": "42324",
+    "locale_name": "GREENVILLE",
+    "physical_delivery_address": "102 COURT ST",
+    "physical_city": "GREENVILLE",
+    "physical_state": "KY",
+    "physical_zip": "42345",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KY-WV",
+    "district_no": "400",
     "delivery_zipcode": "42325",
     "locale_name": "BREMEN",
     "physical_delivery_address": "4710 MAIN ST",
@@ -12698,6 +12685,19 @@
     "physical_city": "DRAKESBORO",
     "physical_state": "KY",
     "physical_zip": "42337",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KY-WV",
+    "district_no": "400",
+    "delivery_zipcode": "42338",
+    "locale_name": "HARTFORD",
+    "physical_delivery_address": "1101 S MAIN ST",
+    "physical_city": "HARTFORD",
+    "physical_state": "KY",
+    "physical_zip": "42347",
     "physical_zip4": "9998"
   },
   {

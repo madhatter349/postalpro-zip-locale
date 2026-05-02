@@ -330,11 +330,11 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "24813",
-    "locale_name": "WAR",
-    "physical_delivery_address": "14175 ROCKET BOYS DR",
-    "physical_city": "WAR",
+    "locale_name": "RAYSAL",
+    "physical_delivery_address": "8672 MARSHALL HWY",
+    "physical_city": "RAYSAL",
     "physical_state": "WV",
-    "physical_zip": "24892",
+    "physical_zip": "24879",
     "physical_zip4": "9998"
   },
   {
@@ -3281,19 +3281,6 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "25251",
-    "locale_name": "LEFT HAND",
-    "physical_delivery_address": "9346 CLAY RD",
-    "physical_city": "LEFT HAND",
-    "physical_state": "WV",
-    "physical_zip": "25251",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "25251",
     "locale_name": "LOONEYVILLE",
     "physical_delivery_address": "6233 CLAY RD",
     "physical_city": "LOONEYVILLE",
@@ -3338,19 +3325,6 @@
     "physical_city": "MASON",
     "physical_state": "WV",
     "physical_zip": "25260",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "25259",
-    "locale_name": "LEFT HAND",
-    "physical_delivery_address": "9346 CLAY RD",
-    "physical_city": "LEFT HAND",
-    "physical_state": "WV",
-    "physical_zip": "25251",
     "physical_zip4": "9998"
   },
   {
@@ -10722,6 +10696,19 @@
     "physical_city": "MANNINGTON",
     "physical_state": "WV",
     "physical_zip": "26582",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KY-WV",
+    "district_no": "400",
+    "delivery_zipcode": "26586",
+    "locale_name": "FAIRMONT",
+    "physical_delivery_address": "331 MADISON ST",
+    "physical_city": "FAIRMONT",
+    "physical_state": "WV",
+    "physical_zip": "26554",
     "physical_zip4": "9998"
   },
   {

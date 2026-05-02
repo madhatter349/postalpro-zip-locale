@@ -14916,11 +14916,11 @@
     "district_name": "ILLINOIS 2",
     "district_no": "604",
     "delivery_zipcode": "62059",
-    "locale_name": "LOVEJOY",
-    "physical_delivery_address": "413 S 3RD ST",
-    "physical_city": "LOVEJOY",
+    "locale_name": "EAST SAINT LOUIS",
+    "physical_delivery_address": "950 MISSOURI AVE",
+    "physical_city": "EAST SAINT LOUIS",
     "physical_state": "IL",
-    "physical_zip": "62059",
+    "physical_zip": "62201",
     "physical_zip4": "9998"
   },
   {
@@ -21858,11 +21858,11 @@
     "district_name": "ILLINOIS 2",
     "district_no": "604",
     "delivery_zipcode": "62950",
-    "locale_name": "GORHAM",
-    "physical_delivery_address": "407 MAIN ST",
-    "physical_city": "GORHAM",
+    "locale_name": "AVA",
+    "physical_delivery_address": "222 W MAIN ST",
+    "physical_city": "AVA",
     "physical_state": "IL",
-    "physical_zip": "62940",
+    "physical_zip": "62907",
     "physical_zip4": "9998"
   },
   {
@@ -21871,11 +21871,11 @@
     "district_name": "ILLINOIS 2",
     "district_no": "604",
     "delivery_zipcode": "62950",
-    "locale_name": "JACOB",
-    "physical_delivery_address": "3093 E JACOB RD",
-    "physical_city": "JACOB",
+    "locale_name": "GORHAM",
+    "physical_delivery_address": "407 MAIN ST",
+    "physical_city": "GORHAM",
     "physical_state": "IL",
-    "physical_zip": "62950",
+    "physical_zip": "62940",
     "physical_zip4": "9998"
   },
   {

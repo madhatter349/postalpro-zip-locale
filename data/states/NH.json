@@ -2345,12 +2345,12 @@
     "district_name": "ME-NH-VT",
     "district_no": "040",
     "delivery_zipcode": "03586",
-    "locale_name": "SUGAR HILL NPU",
-    "physical_delivery_address": "1410 ROUTE 117",
-    "physical_city": "SUGAR HILL",
+    "locale_name": "LISBON",
+    "physical_delivery_address": "80 N MAIN ST",
+    "physical_city": "LISBON",
     "physical_state": "NH",
-    "physical_zip": "03586",
-    "physical_zip4": "9997"
+    "physical_zip": "03585",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",

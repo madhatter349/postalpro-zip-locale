@@ -6830,11 +6830,11 @@
     "district_name": "CALIFORNIA 4",
     "district_no": "926",
     "delivery_zipcode": "91793",
-    "locale_name": "SOUTH HILL",
-    "physical_delivery_address": "1418 S AZUSA AVE STE D1",
+    "locale_name": "WEST COVINA",
+    "physical_delivery_address": "396 S CALIFORNIA AVE",
     "physical_city": "WEST COVINA",
     "physical_state": "CA",
-    "physical_zip": "91791",
+    "physical_zip": "91793",
     "physical_zip4": "9998"
   },
   {
@@ -26954,12 +26954,12 @@
     "district_name": "CALIFORNIA 1",
     "district_no": "940",
     "delivery_zipcode": "95406",
-    "locale_name": "CODDINGTOWN",
-    "physical_delivery_address": "1200 CODDINGTOWN CTR",
+    "locale_name": "CODDINGTOWN NEW",
+    "physical_delivery_address": "1000 CODDINGTOWN CTR",
     "physical_city": "SANTA ROSA",
     "physical_state": "CA",
     "physical_zip": "95401",
-    "physical_zip4": "3500"
+    "physical_zip4": "9700"
   },
   {
     "area_name": "WESTPAC",
@@ -33206,6 +33206,19 @@
     "area_code": "4E",
     "district_name": "CALIFORNIA 2",
     "district_no": "956",
+    "delivery_zipcode": "96111",
+    "locale_name": "TRUCKEE",
+    "physical_delivery_address": "10050 BRIDGE ST",
+    "physical_city": "TRUCKEE",
+    "physical_state": "CA",
+    "physical_zip": "96161",
+    "physical_zip4": "0212"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "CALIFORNIA 2",
+    "district_no": "956",
     "delivery_zipcode": "96112",
     "locale_name": "FORT BIDWELL",
     "physical_delivery_address": "47 E BRIDGE ST",
@@ -33421,6 +33434,19 @@
     "physical_state": "CA",
     "physical_zip": "96128",
     "physical_zip4": "9068"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "CALIFORNIA 2",
+    "district_no": "956",
+    "delivery_zipcode": "96129",
+    "locale_name": "PORTOLA",
+    "physical_delivery_address": "440 S GULLING ST",
+    "physical_city": "PORTOLA",
+    "physical_state": "CA",
+    "physical_zip": "96122",
+    "physical_zip4": "9995"
   },
   {
     "area_name": "WESTPAC",

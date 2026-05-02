@@ -9339,6 +9339,19 @@
     "district_name": "TEXAS 1",
     "district_no": "752",
     "delivery_zipcode": "76363",
+    "locale_name": "GOREE",
+    "physical_delivery_address": "105 N 5TH ST",
+    "physical_city": "GOREE",
+    "physical_state": "TX",
+    "physical_zip": "76363",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 1",
+    "district_no": "752",
+    "delivery_zipcode": "76363",
     "locale_name": "MUNDAY",
     "physical_delivery_address": "241 W B ST",
     "physical_city": "MUNDAY",
@@ -9566,6 +9579,19 @@
     "physical_state": "TX",
     "physical_zip": "76371",
     "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 1",
+    "district_no": "752",
+    "delivery_zipcode": "76388",
+    "locale_name": "WEINERT",
+    "physical_delivery_address": "105 S BREUSTEDT ST",
+    "physical_city": "WEINERT",
+    "physical_state": "TX",
+    "physical_zip": "76388",
+    "physical_zip4": "9700"
   },
   {
     "area_name": "SOUTHERN",
@@ -17801,19 +17827,6 @@
     "area_code": "4G",
     "district_name": "TEXAS 2",
     "district_no": "770",
-    "delivery_zipcode": "77522",
-    "locale_name": "STATION A BAYTOWN",
-    "physical_delivery_address": "3508 MARKET ST",
-    "physical_city": "BAYTOWN",
-    "physical_state": "TX",
-    "physical_zip": "77520",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TEXAS 2",
-    "district_no": "770",
     "delivery_zipcode": "77523",
     "locale_name": "BAYTOWN",
     "physical_delivery_address": "601 W BAKER RD",
@@ -22235,11 +22248,11 @@
     "district_name": "TEXAS 3",
     "district_no": "780",
     "delivery_zipcode": "78237",
-    "locale_name": "LOS JARDINES",
-    "physical_delivery_address": "5555 SAN FERNANDO ST",
+    "locale_name": "ARSENAL",
+    "physical_delivery_address": "1140 S LAREDO ST",
     "physical_city": "SAN ANTONIO",
     "physical_state": "TX",
-    "physical_zip": "78237",
+    "physical_zip": "78204",
     "physical_zip4": "9998"
   },
   {
@@ -27838,12 +27851,12 @@
     "district_name": "TEXAS 3",
     "district_no": "780",
     "delivery_zipcode": "79025",
-    "locale_name": "DAWN",
-    "physical_delivery_address": "101 FRYE AVE",
-    "physical_city": "DAWN",
+    "locale_name": "HEREFORD",
+    "physical_delivery_address": "408 MAIN ST",
+    "physical_city": "HEREFORD",
     "physical_state": "TX",
-    "physical_zip": "79025",
-    "physical_zip4": "9801"
+    "physical_zip": "79045",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "SOUTHERN",

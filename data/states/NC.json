@@ -1383,19 +1383,6 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27283",
-    "locale_name": "JULIAN",
-    "physical_delivery_address": "6600 LIBERTY RD",
-    "physical_city": "JULIAN",
-    "physical_state": "NC",
-    "physical_zip": "27283",
-    "physical_zip4": "9253"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NORTH CAROLINA",
-    "district_no": "270",
-    "delivery_zipcode": "27283",
     "locale_name": "LIBERTY",
     "physical_delivery_address": "416 W SWANNANOA AVE",
     "physical_city": "LIBERTY",
@@ -2202,12 +2189,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27401",
-    "locale_name": "GREENSBORO",
+    "locale_name": "GREENSBORO NC DOWNTOWN SDC",
     "physical_delivery_address": "201 N MURROW BLVD",
     "physical_city": "GREENSBORO",
     "physical_state": "NC",
     "physical_zip": "27401",
-    "physical_zip4": "2914"
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -2215,12 +2202,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27402",
-    "locale_name": "GREENSBORO",
+    "locale_name": "GREENSBORO NC DOWNTOWN SDC",
     "physical_delivery_address": "201 N MURROW BLVD",
     "physical_city": "GREENSBORO",
     "physical_state": "NC",
     "physical_zip": "27401",
-    "physical_zip4": "2914"
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -2228,12 +2215,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27403",
-    "locale_name": "GREENSBORO",
+    "locale_name": "GREENSBORO NC DOWNTOWN SDC",
     "physical_delivery_address": "201 N MURROW BLVD",
     "physical_city": "GREENSBORO",
     "physical_state": "NC",
     "physical_zip": "27401",
-    "physical_zip4": "2914"
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -2293,12 +2280,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27408",
-    "locale_name": "GREENSBORO",
+    "locale_name": "GREENSBORO NC DOWNTOWN SDC",
     "physical_delivery_address": "201 N MURROW BLVD",
     "physical_city": "GREENSBORO",
     "physical_state": "NC",
     "physical_zip": "27401",
-    "physical_zip4": "2914"
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -2384,12 +2371,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27420",
-    "locale_name": "GREENSBORO",
+    "locale_name": "GREENSBORO NC DOWNTOWN SDC",
     "physical_delivery_address": "201 N MURROW BLVD",
     "physical_city": "GREENSBORO",
     "physical_state": "NC",
     "physical_zip": "27401",
-    "physical_zip4": "2914"
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -2423,12 +2410,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27429",
-    "locale_name": "GREENSBORO",
+    "locale_name": "GREENSBORO NC DOWNTOWN SDC",
     "physical_delivery_address": "201 N MURROW BLVD",
     "physical_city": "GREENSBORO",
     "physical_state": "NC",
     "physical_zip": "27401",
-    "physical_zip4": "2914"
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -2436,12 +2423,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27435",
-    "locale_name": "GREENSBORO",
+    "locale_name": "GREENSBORO NC DOWNTOWN SDC",
     "physical_delivery_address": "201 N MURROW BLVD",
     "physical_city": "GREENSBORO",
     "physical_state": "NC",
     "physical_zip": "27401",
-    "physical_zip4": "2914"
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -2462,12 +2449,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27455",
-    "locale_name": "GREENSBORO",
+    "locale_name": "GREENSBORO NC DOWNTOWN SDC",
     "physical_delivery_address": "201 N MURROW BLVD",
     "physical_city": "GREENSBORO",
     "physical_state": "NC",
     "physical_zip": "27401",
-    "physical_zip4": "2914"
+    "physical_zip4": "9800"
   },
   {
     "area_name": "ATLANTIC",
@@ -13959,7 +13946,7 @@
     "physical_city": "CANDLER",
     "physical_state": "NC",
     "physical_zip": "28715",
-    "physical_zip4": "8241"
+    "physical_zip4": "3000"
   },
   {
     "area_name": "ATLANTIC",

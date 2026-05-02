@@ -1,5 +1,18 @@
 [
   {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "NEW JERSEY",
+    "district_no": "070",
+    "delivery_zipcode": "07851",
+    "locale_name": "LAYTON",
+    "physical_delivery_address": "225 N HUMPHREYS BLVD STE 501",
+    "physical_city": "MEMPHIS",
+    "physical_state": "TN",
+    "physical_zip": "38188",
+    "physical_zip4": "1001"
+  },
+  {
     "area_name": "SOUTHERN",
     "area_code": "4G",
     "district_name": "GEORGIA",
@@ -1531,6 +1544,19 @@
     "physical_city": "RED BOILING SPRINGS",
     "physical_state": "TN",
     "physical_zip": "37150",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TENNESSEE",
+    "district_no": "370",
+    "delivery_zipcode": "37151",
+    "locale_name": "DIXON SPRINGS",
+    "physical_delivery_address": "4 HIGHERS DR",
+    "physical_city": "DIXON SPRINGS",
+    "physical_state": "TN",
+    "physical_zip": "37057",
     "physical_zip4": "9998"
   },
   {
@@ -5015,6 +5041,19 @@
     "physical_city": "LOUISVILLE",
     "physical_state": "TN",
     "physical_zip": "37777",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TENNESSEE",
+    "district_no": "370",
+    "delivery_zipcode": "37778",
+    "locale_name": "MORRISTOWN",
+    "physical_delivery_address": "803 S CUMBERLAND ST",
+    "physical_city": "MORRISTOWN",
+    "physical_state": "TN",
+    "physical_zip": "37813",
     "physical_zip4": "9998"
   },
   {
