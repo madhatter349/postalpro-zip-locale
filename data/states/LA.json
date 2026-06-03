@@ -4399,12 +4399,12 @@
     "district_name": "LOUISIANA",
     "district_no": "700",
     "delivery_zipcode": "70723",
-    "locale_name": "PAULINA",
-    "physical_delivery_address": "2388 LA 44",
-    "physical_city": "PAULINA",
+    "locale_name": "PAULINA CARRIERS",
+    "physical_delivery_address": "6574 LA 44",
+    "physical_city": "CONVENT",
     "physical_state": "LA",
-    "physical_zip": "70763",
-    "physical_zip4": "9998"
+    "physical_zip": "70723",
+    "physical_zip4": "0070"
   },
   {
     "area_name": "SOUTHERN",
@@ -4880,12 +4880,12 @@
     "district_name": "LOUISIANA",
     "district_no": "700",
     "delivery_zipcode": "70763",
-    "locale_name": "PAULINA",
-    "physical_delivery_address": "2388 LA 44",
-    "physical_city": "PAULINA",
+    "locale_name": "PAULINA CARRIERS",
+    "physical_delivery_address": "6574 LA 44",
+    "physical_city": "CONVENT",
     "physical_state": "LA",
-    "physical_zip": "70763",
-    "physical_zip4": "9998"
+    "physical_zip": "70723",
+    "physical_zip4": "0070"
   },
   {
     "area_name": "SOUTHERN",
@@ -8434,6 +8434,19 @@
     "physical_city": "BELMONT",
     "physical_state": "LA",
     "physical_zip": "71406",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "LOUISIANA",
+    "district_no": "700",
+    "delivery_zipcode": "71406",
+    "locale_name": "ROBELINE",
+    "physical_delivery_address": "175 CHAPLIN LOOP",
+    "physical_city": "ROBELINE",
+    "physical_state": "LA",
+    "physical_zip": "71469",
     "physical_zip4": "9998"
   },
   {

@@ -9730,11 +9730,11 @@
     "district_no": "920",
     "delivery_zipcode": "92278",
     "locale_name": "TWENTYNINE PALMS MCB",
-    "physical_delivery_address": "1435 STURGIS ST BLDG 1435",
+    "physical_delivery_address": "1435 STURGIS RD BLDG 1435",
     "physical_city": "TWENTYNINE PALMS",
     "physical_state": "CA",
     "physical_zip": "92278",
-    "physical_zip4": "9800"
+    "physical_zip4": "9802"
   },
   {
     "area_name": "WESTPAC",
@@ -14840,7 +14840,7 @@
     "delivery_zipcode": "93240",
     "locale_name": "LAKE ISABELLA",
     "physical_delivery_address": "6441 LAKE ISABELLA BLVD",
-    "physical_city": "MOUNTAIN MESA",
+    "physical_city": "LAKE ISABELLA",
     "physical_state": "CA",
     "physical_zip": "93240",
     "physical_zip4": "9478"
@@ -23054,12 +23054,12 @@
     "district_name": "CALIFORNIA 1",
     "district_no": "940",
     "delivery_zipcode": "94925",
-    "locale_name": "CORTE MADERA",
-    "physical_delivery_address": "7 PIXLEY AVE",
-    "physical_city": "CORTE MADERA",
+    "locale_name": "CORTE MADERA CIVIC 25",
+    "physical_delivery_address": "2 CIVIC CENTER DR",
+    "physical_city": "SAN RAFAEL",
     "physical_state": "CA",
-    "physical_zip": "94925",
-    "physical_zip4": "1457"
+    "physical_zip": "94903",
+    "physical_zip4": "9993"
   },
   {
     "area_name": "WESTPAC",
@@ -23184,12 +23184,12 @@
     "district_name": "CALIFORNIA 1",
     "district_no": "940",
     "delivery_zipcode": "94939",
-    "locale_name": "CORTE MADERA",
-    "physical_delivery_address": "7 PIXLEY AVE",
-    "physical_city": "CORTE MADERA",
+    "locale_name": "CORTE MADERA MISSION 39",
+    "physical_delivery_address": "910 D ST",
+    "physical_city": "SAN RAFAEL",
     "physical_state": "CA",
-    "physical_zip": "94925",
-    "physical_zip4": "1457"
+    "physical_zip": "94901",
+    "physical_zip4": "9995"
   },
   {
     "area_name": "WESTPAC",
@@ -23548,12 +23548,12 @@
     "district_name": "CALIFORNIA 1",
     "district_no": "940",
     "delivery_zipcode": "94976",
-    "locale_name": "CORTE MADERA",
-    "physical_delivery_address": "7 PIXLEY AVE",
-    "physical_city": "CORTE MADERA",
+    "locale_name": "LARKSPUR",
+    "physical_delivery_address": "120 WARD ST",
+    "physical_city": "LARKSPUR",
     "physical_state": "CA",
-    "physical_zip": "94925",
-    "physical_zip4": "1457"
+    "physical_zip": "94939",
+    "physical_zip4": "1325"
   },
   {
     "area_name": "WESTPAC",
@@ -26954,7 +26954,7 @@
     "district_name": "CALIFORNIA 1",
     "district_no": "940",
     "delivery_zipcode": "95406",
-    "locale_name": "CODDINGTOWN NEW",
+    "locale_name": "CODDINGTOWN",
     "physical_delivery_address": "1000 CODDINGTOWN CTR",
     "physical_city": "SANTA ROSA",
     "physical_state": "CA",
@@ -27635,7 +27635,7 @@
     "physical_city": "OCCIDENTAL",
     "physical_state": "CA",
     "physical_zip": "95465",
-    "physical_zip4": "9365"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "WESTPAC",
@@ -31465,12 +31465,12 @@
     "district_name": "CALIFORNIA 1",
     "district_no": "940",
     "delivery_zipcode": "95951",
-    "locale_name": "MIDTOWN CHICO",
-    "physical_delivery_address": "141 W 5TH ST",
-    "physical_city": "CHICO",
+    "locale_name": "HAMILTON CITY",
+    "physical_delivery_address": "187 MAIN ST",
+    "physical_city": "HAMILTON CITY",
     "physical_state": "CA",
-    "physical_zip": "95928",
-    "physical_zip4": "9998"
+    "physical_zip": "95951",
+    "physical_zip4": "9997"
   },
   {
     "area_name": "WESTPAC",
@@ -33434,19 +33434,6 @@
     "physical_state": "CA",
     "physical_zip": "96128",
     "physical_zip4": "9068"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CALIFORNIA 2",
-    "district_no": "956",
-    "delivery_zipcode": "96129",
-    "locale_name": "PORTOLA",
-    "physical_delivery_address": "440 S GULLING ST",
-    "physical_city": "PORTOLA",
-    "physical_state": "CA",
-    "physical_zip": "96122",
-    "physical_zip4": "9995"
   },
   {
     "area_name": "WESTPAC",

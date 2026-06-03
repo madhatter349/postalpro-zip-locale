@@ -1747,12 +1747,12 @@
     "district_name": "ME-NH-VT",
     "district_no": "040",
     "delivery_zipcode": "04228",
-    "locale_name": "VPO LIVERMORE FALLS",
-    "physical_delivery_address": "1247 PARK ST",
-    "physical_city": "LIVERMORE FALLS",
+    "locale_name": "EAST LIVERMORE",
+    "physical_delivery_address": "1047 PARK ST",
+    "physical_city": "EAST LIVERMORE",
     "physical_state": "ME",
-    "physical_zip": "04254",
-    "physical_zip4": "4600"
+    "physical_zip": "04228",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -2384,12 +2384,12 @@
     "district_name": "ME-NH-VT",
     "district_no": "040",
     "delivery_zipcode": "04289",
-    "locale_name": "SOUTH PARIS",
-    "physical_delivery_address": "13 PARK ST",
-    "physical_city": "SOUTH PARIS",
+    "locale_name": "WEST PARIS",
+    "physical_delivery_address": "141 BETHEL RD STE 9000",
+    "physical_city": "WEST PARIS",
     "physical_state": "ME",
-    "physical_zip": "04281",
-    "physical_zip4": "9998"
+    "physical_zip": "04289",
+    "physical_zip4": "9997"
   },
   {
     "area_name": "ATLANTIC",

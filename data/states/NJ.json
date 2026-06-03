@@ -3137,6 +3137,19 @@
     "area_code": "4B",
     "district_name": "NEW JERSEY",
     "district_no": "070",
+    "delivery_zipcode": "07495",
+    "locale_name": "MAHWAH CARRIER ANNEX",
+    "physical_delivery_address": "46 INDUSTRIAL AVE STE 1",
+    "physical_city": "MAHWAH",
+    "physical_state": "NJ",
+    "physical_zip": "07430",
+    "physical_zip4": "9991"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "NEW JERSEY",
+    "district_no": "070",
     "delivery_zipcode": "07501",
     "locale_name": "PATERSON NJ SDC",
     "physical_delivery_address": "194 WARD ST",
@@ -3534,6 +3547,19 @@
     "physical_state": "NJ",
     "physical_zip": "07606",
     "physical_zip4": "1544"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "NEW JERSEY",
+    "district_no": "070",
+    "delivery_zipcode": "07608",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
+    "physical_delivery_address": "560 HUYLER ST",
+    "physical_city": "SOUTH HACKENSACK",
+    "physical_state": "NJ",
+    "physical_zip": "07606",
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -5543,11 +5569,11 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07851",
-    "locale_name": "BRANCHVILLE",
-    "physical_delivery_address": "1 BROAD ST",
-    "physical_city": "BRANCHVILLE",
+    "locale_name": "LAYTON",
+    "physical_delivery_address": "122 COUNTY ROAD 560",
+    "physical_city": "LAYTON",
     "physical_state": "NJ",
-    "physical_zip": "07826",
+    "physical_zip": "07851",
     "physical_zip4": "9998"
   },
   {
@@ -6557,19 +6583,6 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08008",
-    "locale_name": "BEACH HAVEN",
-    "physical_delivery_address": "510 N BAY AVE UNIT 101",
-    "physical_city": "BEACH HAVEN",
-    "physical_state": "NJ",
-    "physical_zip": "08008",
-    "physical_zip4": "9993"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW JERSEY",
-    "district_no": "070",
-    "delivery_zipcode": "08008",
     "locale_name": "HARVEY CEDARS",
     "physical_delivery_address": "7600 LONG BEACH BLVD STE 3",
     "physical_city": "HARVEY CEDARS",
@@ -6589,6 +6602,19 @@
     "physical_state": "NJ",
     "physical_zip": "08008",
     "physical_zip4": "9997"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "NEW JERSEY",
+    "district_no": "070",
+    "delivery_zipcode": "08008",
+    "locale_name": "SHIP BOTTOM",
+    "physical_delivery_address": "1621 LONG BEACH BLVD",
+    "physical_city": "SHIP BOTTOM",
+    "physical_state": "NJ",
+    "physical_zip": "08008",
+    "physical_zip4": "9991"
   },
   {
     "area_name": "ATLANTIC",
@@ -7004,19 +7030,6 @@
     "physical_city": "CAMDEN",
     "physical_state": "NJ",
     "physical_zip": "08104",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW JERSEY",
-    "district_no": "070",
-    "delivery_zipcode": "08032",
-    "locale_name": "BLACKWOOD",
-    "physical_delivery_address": "200 DAVISTOWN RD",
-    "physical_city": "BLACKWOOD",
-    "physical_state": "NJ",
-    "physical_zip": "08012",
     "physical_zip4": "9998"
   },
   {

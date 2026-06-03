@@ -1,18 +1,5 @@
 [
   {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW JERSEY",
-    "district_no": "070",
-    "delivery_zipcode": "07851",
-    "locale_name": "LAYTON",
-    "physical_delivery_address": "225 N HUMPHREYS BLVD STE 501",
-    "physical_city": "MEMPHIS",
-    "physical_state": "TN",
-    "physical_zip": "38188",
-    "physical_zip4": "1001"
-  },
-  {
     "area_name": "SOUTHERN",
     "area_code": "4G",
     "district_name": "GEORGIA",
@@ -1578,11 +1565,11 @@
     "district_name": "TENNESSEE",
     "district_no": "370",
     "delivery_zipcode": "37152",
-    "locale_name": "GREENBRIER",
-    "physical_delivery_address": "2278 HIGHWAY 41 S",
-    "physical_city": "GREENBRIER",
+    "locale_name": "RIDGETOP",
+    "physical_delivery_address": "1736 HIGHWAY 41 S",
+    "physical_city": "RIDGETOP",
     "physical_state": "TN",
-    "physical_zip": "37073",
+    "physical_zip": "37152",
     "physical_zip4": "9998"
   },
   {

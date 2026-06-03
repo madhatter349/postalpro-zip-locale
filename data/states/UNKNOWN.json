@@ -1,15 +1,28 @@
 [
   {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "03586",
-    "locale_name": "SUGAR HILL NPU",
-    "physical_delivery_address": "80 N MAIN ST",
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 2",
+    "district_no": "770",
+    "delivery_zipcode": "77565",
+    "locale_name": "KEMAH",
+    "physical_delivery_address": "1908 N RAGUET",
     "physical_city": null,
     "physical_state": null,
-    "physical_zip": "03585",
-    "physical_zip4": "6632"
+    "physical_zip": "75903",
+    "physical_zip4": "9901"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "CO-WY",
+    "district_no": "800",
+    "delivery_zipcode": "83122",
+    "locale_name": "GROVER",
+    "physical_delivery_address": "PO BOX 9998",
+    "physical_city": null,
+    "physical_state": null,
+    "physical_zip": "83122",
+    "physical_zip4": "9998"
   }
 ]

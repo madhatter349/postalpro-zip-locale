@@ -10,7 +10,7 @@
     "physical_city": "ALIQUIPPA",
     "physical_state": "PA",
     "physical_zip": "15001",
-    "physical_zip4": "9998"
+    "physical_zip4": "3727"
   },
   {
     "area_name": "ATLANTIC",
@@ -634,7 +634,7 @@
     "physical_city": "ALIQUIPPA",
     "physical_state": "PA",
     "physical_zip": "15001",
-    "physical_zip4": "9998"
+    "physical_zip4": "3727"
   },
   {
     "area_name": "ATLANTIC",
@@ -3970,12 +3970,12 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "15439",
-    "locale_name": "GANS",
-    "physical_delivery_address": "405 GANS RD",
-    "physical_city": "GANS",
+    "locale_name": "POINT MARION",
+    "physical_delivery_address": "100 PENN ST",
+    "physical_city": "POINT MARION",
     "physical_state": "PA",
-    "physical_zip": "15439",
-    "physical_zip4": "1000"
+    "physical_zip": "15474",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -7753,11 +7753,11 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "15921",
-    "locale_name": "BEAVERDALE",
-    "physical_delivery_address": "316 CEDAR ST STE 100",
-    "physical_city": "BEAVERDALE",
+    "locale_name": "SIDMAN",
+    "physical_delivery_address": "367 LOCUST ST STE 101",
+    "physical_city": "SIDMAN",
     "physical_state": "PA",
-    "physical_zip": "15921",
+    "physical_zip": "15955",
     "physical_zip4": "9998"
   },
   {
@@ -10254,6 +10254,19 @@
     "physical_city": "CARLTON",
     "physical_state": "PA",
     "physical_zip": "16311",
+    "physical_zip4": "9800"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "16311",
+    "locale_name": "COCHRANTON",
+    "physical_delivery_address": "107 N FRANKLIN ST",
+    "physical_city": "COCHRANTON",
+    "physical_state": "PA",
+    "physical_zip": "16314",
     "physical_zip4": "9800"
   },
   {
@@ -14384,7 +14397,7 @@
     "district_no": "150",
     "delivery_zipcode": "17010",
     "locale_name": "CAMPBELLTOWN",
-    "physical_delivery_address": "20 N PALMYRA RD",
+    "physical_delivery_address": "20 PALMYRA RD",
     "physical_city": "CAMPBELLTOWN",
     "physical_state": "PA",
     "physical_zip": "17010",

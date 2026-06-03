@@ -6588,7 +6588,7 @@
     "physical_city": "WEST CONCORD",
     "physical_state": "MN",
     "physical_zip": "55985",
-    "physical_zip4": "2003"
+    "physical_zip4": "0210"
   },
   {
     "area_name": "CENTRAL",
@@ -9262,7 +9262,7 @@
     "district_no": "553",
     "delivery_zipcode": "56253",
     "locale_name": "LAKE LILLIAN",
-    "physical_delivery_address": "454 LAKEVIEW ST",
+    "physical_delivery_address": "454 LAKEVIEW ST S",
     "physical_city": "LAKE LILLIAN",
     "physical_state": "MN",
     "physical_zip": "56253",
@@ -9353,7 +9353,7 @@
     "district_no": "553",
     "delivery_zipcode": "56262",
     "locale_name": "MILAN",
-    "physical_delivery_address": "222 N 2ND ST",
+    "physical_delivery_address": "222 2ND ST N",
     "physical_city": "MILAN",
     "physical_state": "MN",
     "physical_zip": "56262",

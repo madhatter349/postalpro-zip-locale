@@ -12719,12 +12719,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "28626",
-    "locale_name": "FLEETWOOD",
-    "physical_delivery_address": "910 RAILROAD GRADE RD",
-    "physical_city": "FLEETWOOD",
+    "locale_name": "TODD",
+    "physical_delivery_address": "4021 TODD RAILROAD GRADE RD",
+    "physical_city": "TODD",
     "physical_state": "NC",
-    "physical_zip": "28626",
-    "physical_zip4": "9168"
+    "physical_zip": "28684",
+    "physical_zip4": "9380"
   },
   {
     "area_name": "ATLANTIC",
@@ -13213,11 +13213,11 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "28664",
-    "locale_name": "PLUMTREE",
-    "physical_delivery_address": "4420 US HIGHWAY 19E S",
-    "physical_city": "PLUMTREE",
+    "locale_name": "MINNEAPOLIS",
+    "physical_delivery_address": "2751 US HIGHWAY 19 E",
+    "physical_city": "MINNEAPOLIS",
     "physical_state": "NC",
-    "physical_zip": "28664",
+    "physical_zip": "28652",
     "physical_zip4": "9800"
   },
   {

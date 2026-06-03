@@ -838,11 +838,11 @@
     "district_no": "040",
     "delivery_zipcode": "05148",
     "locale_name": "LONDONDERRY",
-    "physical_delivery_address": "5660 VT ROUTE 100",
+    "physical_delivery_address": "5690 VT ROUTE 100",
     "physical_city": "LONDONDERRY",
     "physical_state": "VT",
     "physical_zip": "05148",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "ATLANTIC",
@@ -1670,11 +1670,11 @@
     "district_no": "040",
     "delivery_zipcode": "05440",
     "locale_name": "ALBURGH",
-    "physical_delivery_address": "12 S MAIN ST",
+    "physical_delivery_address": "88 S MAIN ST",
     "physical_city": "ALBURGH",
     "physical_state": "VT",
     "physical_zip": "05440",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "ATLANTIC",
@@ -1995,11 +1995,11 @@
     "district_no": "040",
     "delivery_zipcode": "05463",
     "locale_name": "ALBURGH",
-    "physical_delivery_address": "12 S MAIN ST",
+    "physical_delivery_address": "88 S MAIN ST",
     "physical_city": "ALBURGH",
     "physical_state": "VT",
     "physical_zip": "05440",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "ATLANTIC",
@@ -3299,6 +3299,19 @@
     "physical_city": "BELMONT",
     "physical_state": "VT",
     "physical_zip": "05730",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "05758",
+    "locale_name": "MOUNT HOLLY",
+    "physical_delivery_address": "53 BELMONT RD",
+    "physical_city": "MOUNT HOLLY",
+    "physical_state": "VT",
+    "physical_zip": "05758",
     "physical_zip4": "9998"
   },
   {

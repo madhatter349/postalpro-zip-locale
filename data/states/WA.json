@@ -2982,25 +2982,12 @@
     "district_name": "WASHINGTON",
     "district_no": "980",
     "delivery_zipcode": "98295",
-    "locale_name": "LYNDEN",
-    "physical_delivery_address": "600 FRONT ST",
-    "physical_city": "LYNDEN",
+    "locale_name": "SUMAS",
+    "physical_delivery_address": "534 RAILROAD AVE",
+    "physical_city": "SUMAS",
     "physical_state": "WA",
-    "physical_zip": "98264",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "WASHINGTON",
-    "district_no": "980",
-    "delivery_zipcode": "98295",
-    "locale_name": "SUMAS CARRIERS",
-    "physical_delivery_address": "600 FRONT ST",
-    "physical_city": "LYNDEN",
-    "physical_state": "WA",
-    "physical_zip": "98264",
-    "physical_zip4": "9990"
+    "physical_zip": "98295",
+    "physical_zip4": "9900"
   },
   {
     "area_name": "WESTPAC",
@@ -4971,12 +4958,12 @@
     "district_name": "WASHINGTON",
     "district_no": "980",
     "delivery_zipcode": "98542",
-    "locale_name": "ETHEL",
-    "physical_delivery_address": "1421 US HIGHWAY 12",
-    "physical_city": "ETHEL",
+    "locale_name": "ONALASKA",
+    "physical_delivery_address": "1753 STATE HIGHWAY 508",
+    "physical_city": "ONALASKA",
     "physical_state": "WA",
-    "physical_zip": "98542",
-    "physical_zip4": "9732"
+    "physical_zip": "98570",
+    "physical_zip4": "9900"
   },
   {
     "area_name": "WESTPAC",
@@ -6310,19 +6297,6 @@
     "district_name": "WASHINGTON",
     "district_no": "980",
     "delivery_zipcode": "98665",
-    "locale_name": "CPU KATHLEENS HALLMARK",
-    "physical_delivery_address": "7604 NE 5TH AVE STE 104",
-    "physical_city": "VANCOUVER",
-    "physical_state": "WA",
-    "physical_zip": "98665",
-    "physical_zip4": "8200"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "WASHINGTON",
-    "district_no": "980",
-    "delivery_zipcode": "98665",
     "locale_name": "VANCOUVER WA SDC",
     "physical_delivery_address": "2700 CAPLES AVE",
     "physical_city": "VANCOUVER",
@@ -6764,6 +6738,19 @@
     "area_code": "4E",
     "district_name": "WASHINGTON",
     "district_no": "980",
+    "delivery_zipcode": "98827",
+    "locale_name": "TONASKET",
+    "physical_delivery_address": "15 W 5TH ST",
+    "physical_city": "TONASKET",
+    "physical_state": "WA",
+    "physical_zip": "98855",
+    "physical_zip4": "8826"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "WASHINGTON",
+    "district_no": "980",
     "delivery_zipcode": "98828",
     "locale_name": "MALAGA",
     "physical_delivery_address": "3851 MALAGA ALCOA HWY",
@@ -7135,6 +7122,19 @@
     "physical_state": "WA",
     "physical_zip": "98858",
     "physical_zip4": "9800"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "WASHINGTON",
+    "district_no": "980",
+    "delivery_zipcode": "98859",
+    "locale_name": "TONASKET",
+    "physical_delivery_address": "15 W 5TH ST",
+    "physical_city": "TONASKET",
+    "physical_state": "WA",
+    "physical_zip": "98855",
+    "physical_zip4": "8826"
   },
   {
     "area_name": "WESTPAC",

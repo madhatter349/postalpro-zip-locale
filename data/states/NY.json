@@ -12680,6 +12680,19 @@
     "district_name": "NEW YORK 3",
     "district_no": "120",
     "delivery_zipcode": "12494",
+    "locale_name": "BOICEVILLE",
+    "physical_delivery_address": "4117 STATE ROUTE 28",
+    "physical_city": "BOICEVILLE",
+    "physical_state": "NY",
+    "physical_zip": "12412",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "NEW YORK 3",
+    "district_no": "120",
+    "delivery_zipcode": "12494",
     "locale_name": "WEST SHOKAN",
     "physical_delivery_address": "4079 STATE ROUTE 28A",
     "physical_city": "WEST SHOKAN",
@@ -26192,6 +26205,19 @@
     "physical_city": "KEUKA PARK",
     "physical_state": "NY",
     "physical_zip": "14478",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "NEW YORK 3",
+    "district_no": "120",
+    "delivery_zipcode": "14479",
+    "locale_name": "ALBION",
+    "physical_delivery_address": "8 S MAIN ST",
+    "physical_city": "ALBION",
+    "physical_state": "NY",
+    "physical_zip": "14411",
     "physical_zip4": "9998"
   },
   {

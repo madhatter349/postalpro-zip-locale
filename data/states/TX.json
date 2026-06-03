@@ -15727,7 +15727,7 @@
     "physical_city": "COLDSPRING",
     "physical_state": "TX",
     "physical_zip": "77331",
-    "physical_zip4": "9998"
+    "physical_zip4": "4093"
   },
   {
     "area_name": "SOUTHERN",
@@ -15904,6 +15904,19 @@
     "district_name": "TEXAS 2",
     "district_no": "770",
     "delivery_zipcode": "77351",
+    "locale_name": "LIVINGSTON",
+    "physical_delivery_address": "1325 W CHURCH ST",
+    "physical_city": "LIVINGSTON",
+    "physical_state": "TX",
+    "physical_zip": "77351",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 2",
+    "district_no": "770",
+    "delivery_zipcode": "77352",
     "locale_name": "LIVINGSTON",
     "physical_delivery_address": "1325 W CHURCH ST",
     "physical_city": "LIVINGSTON",
@@ -18185,19 +18198,6 @@
     "physical_state": "TX",
     "physical_zip": "77564",
     "physical_zip4": "9800"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TEXAS 2",
-    "district_no": "770",
-    "delivery_zipcode": "77565",
-    "locale_name": "KEMAH",
-    "physical_delivery_address": "1129 HIGHWAY 146",
-    "physical_city": "KEMAH",
-    "physical_state": "TX",
-    "physical_zip": "77565",
-    "physical_zip4": "1601"
   },
   {
     "area_name": "SOUTHERN",
@@ -23072,7 +23072,7 @@
     "physical_city": "FULTON",
     "physical_state": "TX",
     "physical_zip": "78358",
-    "physical_zip4": "9800"
+    "physical_zip4": "2517"
   },
   {
     "area_name": "SOUTHERN",
@@ -24944,6 +24944,19 @@
     "physical_city": "BLANCO",
     "physical_state": "TX",
     "physical_zip": "78606",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 3",
+    "district_no": "780",
+    "delivery_zipcode": "78606",
+    "locale_name": "JOHNSON CITY",
+    "physical_delivery_address": "201 S AVENUE G",
+    "physical_city": "JOHNSON CITY",
+    "physical_state": "TX",
+    "physical_zip": "78636",
     "physical_zip4": "9998"
   },
   {

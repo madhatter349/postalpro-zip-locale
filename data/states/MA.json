@@ -3346,6 +3346,19 @@
     "district_name": "MA-RI",
     "district_no": "020",
     "delivery_zipcode": "01605",
+    "locale_name": "LINCOLN MALL",
+    "physical_delivery_address": "560 LINCOLN ST STE 8",
+    "physical_city": "WORCESTER",
+    "physical_state": "MA",
+    "physical_zip": "01605",
+    "physical_zip4": "1925"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MA-RI",
+    "district_no": "020",
+    "delivery_zipcode": "01605",
     "locale_name": "WORCESTER MA SDC",
     "physical_delivery_address": "4 E CENTRAL ST",
     "physical_city": "WORCESTER",
@@ -8195,11 +8208,11 @@
     "district_name": "MA-RI",
     "district_no": "020",
     "delivery_zipcode": "02447",
-    "locale_name": "BROOKLINE VILLAGE",
-    "physical_delivery_address": "207 WASHINGTON ST",
+    "locale_name": "BROOKLINE",
+    "physical_delivery_address": "1295 BEACON ST",
     "physical_city": "BROOKLINE",
     "physical_state": "MA",
-    "physical_zip": "02445",
+    "physical_zip": "02446",
     "physical_zip4": "9998"
   },
   {
@@ -8253,6 +8266,19 @@
     "physical_state": "MA",
     "physical_zip": "02451",
     "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MA-RI",
+    "district_no": "020",
+    "delivery_zipcode": "02454",
+    "locale_name": "WALTHAM CARRIER ANNEX",
+    "physical_delivery_address": "200 SMITH ST STE 101",
+    "physical_city": "WALTHAM",
+    "physical_state": "MA",
+    "physical_zip": "02451",
+    "physical_zip4": "0006"
   },
   {
     "area_name": "ATLANTIC",

@@ -3104,7 +3104,7 @@
     "physical_city": "PIE TOWN",
     "physical_state": "NM",
     "physical_zip": "87827",
-    "physical_zip4": "5000"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "WESTPAC",
@@ -4235,19 +4235,6 @@
     "physical_city": "ROSWELL",
     "physical_state": "NM",
     "physical_zip": "88201",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "88202",
-    "locale_name": "ROSWELL ANX",
-    "physical_delivery_address": "497 W BRASHER RD",
-    "physical_city": "ROSWELL",
-    "physical_state": "NM",
-    "physical_zip": "88203",
     "physical_zip4": "9998"
   },
   {

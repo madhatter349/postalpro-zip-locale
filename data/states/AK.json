@@ -500,7 +500,7 @@
     "district_no": "995",
     "delivery_zipcode": "99559",
     "locale_name": "BETHEL",
-    "physical_delivery_address": "1484 CHIEF EDDY HOFFMAN HWY",
+    "physical_delivery_address": "1484 CHIEF EDDIE HOFFMAN HWY",
     "physical_city": "BETHEL",
     "physical_state": "AK",
     "physical_zip": "99559",
@@ -1201,11 +1201,11 @@
     "district_name": "ALASKA",
     "district_no": "995",
     "delivery_zipcode": "99614",
-    "locale_name": "ANCHORAGE MAIN OFFICE",
-    "physical_delivery_address": "4141 POSTMARK DR",
+    "locale_name": "MIDTOWN",
+    "physical_delivery_address": "3721 B ST",
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
-    "physical_zip": "99530",
+    "physical_zip": "99503",
     "physical_zip4": "9998"
   },
   {
@@ -1305,12 +1305,12 @@
     "district_name": "ALASKA",
     "district_no": "995",
     "delivery_zipcode": "99622",
-    "locale_name": "ANCHORAGE MAIN OFFICE",
-    "physical_delivery_address": "4141 POSTMARK DR",
-    "physical_city": "ANCHORAGE",
+    "locale_name": "KWIGILLINGOK",
+    "physical_delivery_address": "100 MAIN ST",
+    "physical_city": "KWIGILLINGOK",
     "physical_state": "AK",
-    "physical_zip": "99530",
-    "physical_zip4": "9998"
+    "physical_zip": "99622",
+    "physical_zip4": "9800"
   },
   {
     "area_name": "WESTPAC",
@@ -3104,6 +3104,19 @@
     "physical_city": "TANANA",
     "physical_state": "AK",
     "physical_zip": "99777",
+    "physical_zip4": "9800"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ALASKA",
+    "district_no": "995",
+    "delivery_zipcode": "99778",
+    "locale_name": "TELLER",
+    "physical_delivery_address": "100 MAIN ST",
+    "physical_city": "TELLER",
+    "physical_state": "AK",
+    "physical_zip": "99778",
     "physical_zip4": "9800"
   },
   {

@@ -10717,25 +10717,12 @@
     "district_name": "MICHIGAN 1",
     "district_no": "481",
     "delivery_zipcode": "49268",
-    "locale_name": "ADRIAN",
-    "physical_delivery_address": "413 E MAUMEE ST",
-    "physical_city": "ADRIAN",
+    "locale_name": "PALMYRA",
+    "physical_delivery_address": "6380 PALMYRA RD",
+    "physical_city": "PALMYRA",
     "physical_state": "MI",
-    "physical_zip": "49221",
+    "physical_zip": "49268",
     "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MICHIGAN 1",
-    "district_no": "481",
-    "delivery_zipcode": "49268",
-    "locale_name": "PALMYRA CARRIER",
-    "physical_delivery_address": "413 E MAUMEE ST",
-    "physical_city": "ADRIAN",
-    "physical_state": "MI",
-    "physical_zip": "49221",
-    "physical_zip4": "9878"
   },
   {
     "area_name": "CENTRAL",
@@ -12199,12 +12186,12 @@
     "district_name": "MICHIGAN 2",
     "district_no": "493",
     "delivery_zipcode": "49434",
-    "locale_name": "MACATAWA",
-    "physical_delivery_address": "2150 S SHORE DR",
-    "physical_city": "MACATAWA",
+    "locale_name": "HOLLAND",
+    "physical_delivery_address": "190 E 8TH ST",
+    "physical_city": "HOLLAND",
     "physical_state": "MI",
-    "physical_zip": "49434",
-    "physical_zip4": "9800"
+    "physical_zip": "49423",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "CENTRAL",
