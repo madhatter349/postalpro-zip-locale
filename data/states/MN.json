@@ -1461,6 +1461,19 @@
     "district_name": "MN-ND",
     "district_no": "553",
     "delivery_zipcode": "55118",
+    "locale_name": "EAGAN MN SDC",
+    "physical_delivery_address": "3145 LEXINGTON AVE S",
+    "physical_city": "EAGAN",
+    "physical_state": "MN",
+    "physical_zip": "55121",
+    "physical_zip4": "4100"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "MN-ND",
+    "district_no": "553",
+    "delivery_zipcode": "55118",
     "locale_name": "WEST SAINT PAUL",
     "physical_delivery_address": "1201 ROBERT ST S STE 3",
     "physical_city": "SAINT PAUL",
@@ -5380,6 +5393,19 @@
     "physical_state": "MN",
     "physical_zip": "55806",
     "physical_zip4": "1742"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "MN-ND",
+    "district_no": "553",
+    "delivery_zipcode": "55805",
+    "locale_name": "DULUTH MN SDC",
+    "physical_delivery_address": "2800 W MICHIGAN ST",
+    "physical_city": "DULUTH",
+    "physical_state": "MN",
+    "physical_zip": "55806",
+    "physical_zip4": "9700"
   },
   {
     "area_name": "CENTRAL",

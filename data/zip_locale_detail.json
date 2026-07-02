@@ -9755,12 +9755,12 @@
     "district_name": "MA-RI",
     "district_no": "020",
     "delivery_zipcode": "02153",
-    "locale_name": "TUFTS UNIVERSITY",
-    "physical_delivery_address": "470 BOSTON AVE",
+    "locale_name": "MEDFORD",
+    "physical_delivery_address": "20 FOREST ST",
     "physical_city": "MEDFORD",
     "physical_state": "MA",
     "physical_zip": "02155",
-    "physical_zip4": "5802"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -11003,12 +11003,12 @@
     "district_name": "MA-RI",
     "district_no": "020",
     "delivery_zipcode": "02457",
-    "locale_name": "BABSON PARK",
-    "physical_delivery_address": "231 FOREST ST",
+    "locale_name": "WELLESLEY HILLS",
+    "physical_delivery_address": "337 WASHINGTON ST",
     "physical_city": "WELLESLEY HILLS",
     "physical_state": "MA",
     "physical_zip": "02481",
-    "physical_zip4": "6834"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -11841,6 +11841,19 @@
     "physical_state": "MA",
     "physical_zip": "02575",
     "physical_zip4": "9800"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MA-RI",
+    "district_no": "020",
+    "delivery_zipcode": "02576",
+    "locale_name": "WAREHAM ANNEX",
+    "physical_delivery_address": "25 TOBEY RD",
+    "physical_city": "WAREHAM",
+    "physical_state": "MA",
+    "physical_zip": "02571",
+    "physical_zip4": "1098"
   },
   {
     "area_name": "ATLANTIC",
@@ -26720,6 +26733,19 @@
     "district_name": "ME-NH-VT",
     "district_no": "040",
     "delivery_zipcode": "05155",
+    "locale_name": "LONDONDERRY",
+    "physical_delivery_address": "5690 VT ROUTE 100",
+    "physical_city": "LONDONDERRY",
+    "physical_state": "VT",
+    "physical_zip": "05148",
+    "physical_zip4": "9997"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "05155",
     "locale_name": "SOUTH LONDONDERRY",
     "physical_delivery_address": "67 MAIN ST",
     "physical_city": "SOUTH LONDONDERRY",
@@ -29386,11 +29412,11 @@
     "district_no": "040",
     "delivery_zipcode": "05778",
     "locale_name": "WHITING",
-    "physical_delivery_address": "3 S MAIN ST",
-    "physical_city": "WHITING",
-    "physical_state": "VT",
-    "physical_zip": "05778",
-    "physical_zip4": "9998"
+    "physical_delivery_address": "195 SYKES MOUNTAIN AVE",
+    "physical_city": null,
+    "physical_state": null,
+    "physical_zip": "05001",
+    "physical_zip4": "2022"
   },
   {
     "area_name": "ATLANTIC",
@@ -39681,12 +39707,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07601",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -39720,12 +39746,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07603",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -39746,12 +39772,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07604",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -39772,12 +39798,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07605",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -39785,12 +39811,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07606",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -39811,25 +39837,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07607",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW JERSEY",
-    "district_no": "070",
-    "delivery_zipcode": "07608",
-    "locale_name": "SOUTH HACKENSACK",
-    "physical_delivery_address": "560 HUYLER ST",
-    "physical_city": "SOUTH HACKENSACK",
-    "physical_state": "NJ",
-    "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -40084,12 +40097,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07643",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -44842,12 +44855,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08203",
-    "locale_name": "ATLANTIC CITY CARRIER ANNEX",
-    "physical_delivery_address": "800 ABSECON BLVD",
-    "physical_city": "ATLANTIC CITY",
+    "locale_name": "BRIGANTINE",
+    "physical_delivery_address": "4326 HARBOR BEACH BLVD",
+    "physical_city": "BRIGANTINE",
     "physical_state": "NJ",
-    "physical_zip": "08401",
-    "physical_zip4": "9995"
+    "physical_zip": "08203",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -44855,12 +44868,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08203",
-    "locale_name": "BRIGANTINE",
-    "physical_delivery_address": "4326 HARBOR BEACH BLVD",
-    "physical_city": "BRIGANTINE",
+    "locale_name": "EGG HARBOR TOWNSHIP NJ SDC",
+    "physical_delivery_address": "5 COLUMBUS AVE",
+    "physical_city": "EGG HARBOR TOWNSHIP",
     "physical_state": "NJ",
-    "physical_zip": "08203",
-    "physical_zip4": "9998"
+    "physical_zip": "08234",
+    "physical_zip4": "4062"
   },
   {
     "area_name": "ATLANTIC",
@@ -46103,12 +46116,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08401",
-    "locale_name": "ATLANTIC CITY CARRIER ANNEX",
-    "physical_delivery_address": "800 ABSECON BLVD",
-    "physical_city": "ATLANTIC CITY",
+    "locale_name": "EGG HARBOR TOWNSHIP NJ SDC",
+    "physical_delivery_address": "5 COLUMBUS AVE",
+    "physical_city": "EGG HARBOR TOWNSHIP",
     "physical_state": "NJ",
-    "physical_zip": "08401",
-    "physical_zip4": "9995"
+    "physical_zip": "08234",
+    "physical_zip4": "4062"
   },
   {
     "area_name": "ATLANTIC",
@@ -46181,12 +46194,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08406",
-    "locale_name": "ATLANTIC CITY CARRIER ANNEX",
-    "physical_delivery_address": "800 ABSECON BLVD",
-    "physical_city": "ATLANTIC CITY",
+    "locale_name": "EGG HARBOR TOWNSHIP NJ SDC",
+    "physical_delivery_address": "5 COLUMBUS AVE",
+    "physical_city": "EGG HARBOR TOWNSHIP",
     "physical_state": "NJ",
-    "physical_zip": "08401",
-    "physical_zip4": "9995"
+    "physical_zip": "08234",
+    "physical_zip4": "4062"
   },
   {
     "area_name": "ATLANTIC",
@@ -48495,25 +48508,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08848",
-    "locale_name": "FRENCHTOWN",
-    "physical_delivery_address": "16 TRENTON AVE",
-    "physical_city": "FRENCHTOWN",
+    "locale_name": "MILFORD",
+    "physical_delivery_address": "73 BRIDGE ST",
+    "physical_city": "MILFORD",
     "physical_state": "NJ",
-    "physical_zip": "08825",
+    "physical_zip": "08848",
     "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW JERSEY",
-    "district_no": "070",
-    "delivery_zipcode": "08848",
-    "locale_name": "MILFORD CARRIERS",
-    "physical_delivery_address": "4 KINGS CT",
-    "physical_city": "FLEMINGTON",
-    "physical_state": "NJ",
-    "physical_zip": "08822",
-    "physical_zip4": "9911"
   },
   {
     "area_name": "ATLANTIC",
@@ -70972,11 +70972,11 @@
     "district_name": "NEW YORK 3",
     "district_no": "120",
     "delivery_zipcode": "13687",
-    "locale_name": "SOUTH COLTON",
-    "physical_delivery_address": "3935 STATE HIGHWAY 56",
-    "physical_city": "SOUTH COLTON",
+    "locale_name": "COLTON",
+    "physical_delivery_address": "4841 STATE HIGHWAY 56",
+    "physical_city": "COLTON",
     "physical_state": "NY",
-    "physical_zip": "13687",
+    "physical_zip": "13625",
     "physical_zip4": "9998"
   },
   {
@@ -74963,12 +74963,12 @@
     "district_name": "NEW YORK 3",
     "district_no": "120",
     "delivery_zipcode": "14430",
-    "locale_name": "CLARKSON",
-    "physical_delivery_address": "3720 LAKE RD",
-    "physical_city": "CLARKSON",
+    "locale_name": "BROCKPORT",
+    "physical_delivery_address": "14 MAIN ST",
+    "physical_city": "BROCKPORT",
     "physical_state": "NY",
-    "physical_zip": "14430",
-    "physical_zip4": "9800"
+    "physical_zip": "14420",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -82190,6 +82190,19 @@
     "area_code": "4B",
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
+    "delivery_zipcode": "15329",
+    "locale_name": "WASHINGTON",
+    "physical_delivery_address": "153 JEFFERSON AVE",
+    "physical_city": "WASHINGTON",
+    "physical_state": "PA",
+    "physical_zip": "15301",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
     "delivery_zipcode": "15330",
     "locale_name": "EIGHTY FOUR",
     "physical_delivery_address": "812 ROUTE 519",
@@ -86676,12 +86689,38 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "15848",
+    "locale_name": "DU BOIS",
+    "physical_delivery_address": "229 BEAVER DR",
+    "physical_city": "DU BOIS",
+    "physical_state": "PA",
+    "physical_zip": "15801",
+    "physical_zip4": "2500"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "15848",
     "locale_name": "LUTHERSBURG",
     "physical_delivery_address": "79 CHURCH ST",
     "physical_city": "LUTHERSBURG",
     "physical_state": "PA",
     "physical_zip": "15848",
     "physical_zip4": "9800"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "15849",
+    "locale_name": "DU BOIS",
+    "physical_delivery_address": "229 BEAVER DR",
+    "physical_city": "DU BOIS",
+    "physical_state": "PA",
+    "physical_zip": "15801",
+    "physical_zip4": "2500"
   },
   {
     "area_name": "ATLANTIC",
@@ -86721,6 +86760,19 @@
     "physical_state": "PA",
     "physical_zip": "15853",
     "physical_zip4": "1058"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "15856",
+    "locale_name": "DU BOIS",
+    "physical_delivery_address": "229 BEAVER DR",
+    "physical_city": "DU BOIS",
+    "physical_state": "PA",
+    "physical_zip": "15801",
+    "physical_zip4": "2500"
   },
   {
     "area_name": "ATLANTIC",
@@ -86858,12 +86910,12 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "15866",
-    "locale_name": "LUTHERSBURG",
-    "physical_delivery_address": "79 CHURCH ST",
-    "physical_city": "LUTHERSBURG",
+    "locale_name": "DU BOIS",
+    "physical_delivery_address": "229 BEAVER DR",
+    "physical_city": "DU BOIS",
     "physical_state": "PA",
-    "physical_zip": "15848",
-    "physical_zip4": "9800"
+    "physical_zip": "15801",
+    "physical_zip4": "2500"
   },
   {
     "area_name": "ATLANTIC",
@@ -93643,6 +93695,19 @@
     "area_code": "4B",
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
+    "delivery_zipcode": "17006",
+    "locale_name": "LOYSVILLE",
+    "physical_delivery_address": "3555 SHERMANS VALLEY RD",
+    "physical_city": "LOYSVILLE",
+    "physical_state": "PA",
+    "physical_zip": "17047",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
     "delivery_zipcode": "17007",
     "locale_name": "BOILING SPRINGS",
     "physical_delivery_address": "3 E 1ST ST",
@@ -93883,6 +93948,19 @@
     "physical_city": "ELLIOTTSBURG",
     "physical_state": "PA",
     "physical_zip": "17024",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "17024",
+    "locale_name": "LOYSVILLE",
+    "physical_delivery_address": "3555 SHERMANS VALLEY RD",
+    "physical_city": "LOYSVILLE",
+    "physical_state": "PA",
+    "physical_zip": "17047",
     "physical_zip4": "9998"
   },
   {
@@ -94143,6 +94221,19 @@
     "physical_city": "LANDISBURG",
     "physical_state": "PA",
     "physical_zip": "17040",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "17040",
+    "locale_name": "LOYSVILLE",
+    "physical_delivery_address": "3555 SHERMANS VALLEY RD",
+    "physical_city": "LOYSVILLE",
+    "physical_state": "PA",
+    "physical_zip": "17047",
     "physical_zip4": "9998"
   },
   {
@@ -136219,12 +136310,12 @@
     "district_name": "VIRGINIA",
     "district_no": "230",
     "delivery_zipcode": "24402",
-    "locale_name": "STAUNTON",
-    "physical_delivery_address": "1430 N AUGUSTA ST",
+    "locale_name": "WOODRUM",
+    "physical_delivery_address": "123 W FREDERICK ST STE 1102",
     "physical_city": "STAUNTON",
     "physical_state": "VA",
     "physical_zip": "24401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997"
   },
   {
     "area_name": "ATLANTIC",
@@ -143128,6 +143219,19 @@
     "physical_state": "WV",
     "physical_zip": "25557",
     "physical_zip4": "5000"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KY-WV",
+    "district_no": "400",
+    "delivery_zipcode": "25535",
+    "locale_name": "HUNTINGTON WV S&DC",
+    "physical_delivery_address": "1000 VIRGINIA AVE W",
+    "physical_city": "HUNTINGTON",
+    "physical_state": "WV",
+    "physical_zip": "25704",
+    "physical_zip4": "9991"
   },
   {
     "area_name": "CENTRAL",
@@ -150193,19 +150297,6 @@
     "area_code": "4J",
     "district_name": "KY-WV",
     "district_no": "400",
-    "delivery_zipcode": "26855",
-    "locale_name": "PETERSBURG",
-    "physical_delivery_address": "1 POSTAL SQ",
-    "physical_city": "PETERSBURG",
-    "physical_state": "WV",
-    "physical_zip": "26847",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
     "delivery_zipcode": "26865",
     "locale_name": "YELLOW SPRING",
     "physical_delivery_address": "7966 CARPERS PIKE",
@@ -150935,12 +151026,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27107",
-    "locale_name": "WAUGHTOWN",
-    "physical_delivery_address": "1995 PLEASANT ST",
+    "locale_name": "WINSTON SALEM NC SDC",
+    "physical_delivery_address": "1500 N PATTERSON AVE",
     "physical_city": "WINSTON SALEM",
     "physical_state": "NC",
-    "physical_zip": "27107",
-    "physical_zip4": "9998"
+    "physical_zip": "27105",
+    "physical_zip4": "9900"
   },
   {
     "area_name": "ATLANTIC",
@@ -151026,12 +151117,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27127",
-    "locale_name": "WAUGHTOWN",
-    "physical_delivery_address": "1995 PLEASANT ST",
+    "locale_name": "WINSTON SALEM NC SDC",
+    "physical_delivery_address": "1500 N PATTERSON AVE",
     "physical_city": "WINSTON SALEM",
     "physical_state": "NC",
-    "physical_zip": "27107",
-    "physical_zip4": "9998"
+    "physical_zip": "27105",
+    "physical_zip4": "9900"
   },
   {
     "area_name": "ATLANTIC",
@@ -158475,12 +158566,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "28169",
-    "locale_name": "WACO",
-    "physical_delivery_address": "100 N MAIN ST",
-    "physical_city": "WACO",
+    "locale_name": "CHERRYVILLE",
+    "physical_delivery_address": "107 N MULBERRY ST",
+    "physical_city": "CHERRYVILLE",
     "physical_state": "NC",
-    "physical_zip": "28169",
-    "physical_zip4": "9700"
+    "physical_zip": "28021",
+    "physical_zip4": "2853"
   },
   {
     "area_name": "ATLANTIC",
@@ -176259,12 +176350,12 @@
     "district_name": "GEORGIA",
     "district_no": "300",
     "delivery_zipcode": "30290",
-    "locale_name": "PEACHTREE CITY",
-    "physical_delivery_address": "151 HIGHWAY 74 S",
-    "physical_city": "PEACHTREE CITY",
+    "locale_name": "TYRONE",
+    "physical_delivery_address": "100 COMMERCE DR",
+    "physical_city": "TYRONE",
     "physical_state": "GA",
-    "physical_zip": "30269",
-    "physical_zip4": "9998"
+    "physical_zip": "30290",
+    "physical_zip4": "8000"
   },
   {
     "area_name": "SOUTHERN",
@@ -195499,6 +195590,19 @@
     "district_name": "FLORIDA 3",
     "district_no": "330",
     "delivery_zipcode": "33176",
+    "locale_name": "MIAMI FL SNAPPER CREEK SDC",
+    "physical_delivery_address": "11000 SW 104TH ST",
+    "physical_city": "MIAMI",
+    "physical_state": "FL",
+    "physical_zip": "33116",
+    "physical_zip4": "9700"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "FLORIDA 3",
+    "district_no": "330",
+    "delivery_zipcode": "33176",
     "locale_name": "SNAPPER CREEK",
     "physical_delivery_address": "11000 SW 104TH ST",
     "physical_city": "MIAMI",
@@ -198372,12 +198476,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "33575",
-    "locale_name": "SUN CITY",
-    "physical_delivery_address": "4449 OLD HIGHWAY 41 S",
-    "physical_city": "SUN CITY",
+    "locale_name": "RUSKIN",
+    "physical_delivery_address": "455 N US HIGHWAY 41",
+    "physical_city": "RUSKIN",
     "physical_state": "FL",
-    "physical_zip": "33586",
-    "physical_zip4": "9700"
+    "physical_zip": "33570",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "SOUTHERN",
@@ -204286,19 +204390,6 @@
     "area_code": "4G",
     "district_name": "FLORIDA 2",
     "district_no": "335",
-    "delivery_zipcode": "34729",
-    "locale_name": "MONTVERDE",
-    "physical_delivery_address": "17101 PORTER AVE",
-    "physical_city": "MONTVERDE",
-    "physical_state": "FL",
-    "physical_zip": "34756",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "FLORIDA 2",
-    "district_no": "335",
     "delivery_zipcode": "34731",
     "locale_name": "FRUITLAND PARK",
     "physical_delivery_address": "104 W MILLER ST",
@@ -205917,7 +206008,7 @@
     "physical_city": "HANCEVILLE",
     "physical_state": "AL",
     "physical_zip": "35077",
-    "physical_zip4": "5457"
+    "physical_zip4": "4036"
   },
   {
     "area_name": "SOUTHERN",
@@ -220575,19 +220666,6 @@
     "area_code": "4G",
     "district_name": "TENNESSEE",
     "district_no": "370",
-    "delivery_zipcode": "37755",
-    "locale_name": "HUNTSVILLE",
-    "physical_delivery_address": "215 HUNTSVILLE DR",
-    "physical_city": "HUNTSVILLE",
-    "physical_state": "TN",
-    "physical_zip": "37756",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TENNESSEE",
-    "district_no": "370",
     "delivery_zipcode": "37756",
     "locale_name": "HUNTSVILLE",
     "physical_delivery_address": "215 HUNTSVILLE DR",
@@ -224151,12 +224229,12 @@
     "district_name": "TENNESSEE",
     "district_no": "370",
     "delivery_zipcode": "38314",
-    "locale_name": "BEMIS",
-    "physical_delivery_address": "207 S MISSOURI ST",
+    "locale_name": "JACKSON",
+    "physical_delivery_address": "200 DR MARTIN LUTHER KING JR DR",
     "physical_city": "JACKSON",
     "physical_state": "TN",
     "physical_zip": "38301",
-    "physical_zip4": "7464"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "SOUTHERN",
@@ -239907,12 +239985,12 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "41101",
-    "locale_name": "ASHLAND",
-    "physical_delivery_address": "1140 CARTER AVE",
-    "physical_city": "ASHLAND",
-    "physical_state": "KY",
-    "physical_zip": "41101",
-    "physical_zip4": "9998"
+    "locale_name": "HUNTINGTON WV S&DC",
+    "physical_delivery_address": "1000 VIRGINIA AVE W",
+    "physical_city": "HUNTINGTON",
+    "physical_state": "WV",
+    "physical_zip": "25704",
+    "physical_zip4": "9991"
   },
   {
     "area_name": "CENTRAL",
@@ -239920,12 +239998,12 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "41102",
-    "locale_name": "ASHLAND",
-    "physical_delivery_address": "1140 CARTER AVE",
-    "physical_city": "ASHLAND",
-    "physical_state": "KY",
-    "physical_zip": "41101",
-    "physical_zip4": "9998"
+    "locale_name": "HUNTINGTON WV S&DC",
+    "physical_delivery_address": "1000 VIRGINIA AVE W",
+    "physical_city": "HUNTINGTON",
+    "physical_state": "WV",
+    "physical_zip": "25704",
+    "physical_zip4": "9991"
   },
   {
     "area_name": "CENTRAL",
@@ -240271,12 +240349,12 @@
     "district_name": "KY-WV",
     "district_no": "400",
     "delivery_zipcode": "41169",
-    "locale_name": "ASHLAND",
-    "physical_delivery_address": "1140 CARTER AVE",
-    "physical_city": "ASHLAND",
-    "physical_state": "KY",
-    "physical_zip": "41101",
-    "physical_zip4": "9998"
+    "locale_name": "HUNTINGTON WV S&DC",
+    "physical_delivery_address": "1000 VIRGINIA AVE W",
+    "physical_city": "HUNTINGTON",
+    "physical_state": "WV",
+    "physical_zip": "25704",
+    "physical_zip4": "9991"
   },
   {
     "area_name": "CENTRAL",
@@ -294837,7 +294915,7 @@
     "physical_city": "RODNEY",
     "physical_state": "MI",
     "physical_zip": "49342",
-    "physical_zip4": "9516"
+    "physical_zip4": "9807"
   },
   {
     "area_name": "CENTRAL",
@@ -307955,6 +308033,19 @@
     "physical_state": "IA",
     "physical_zip": "51101",
     "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "IA-NE-SD",
+    "district_no": "500",
+    "delivery_zipcode": "51101",
+    "locale_name": "SIOUX CITY IA SDC",
+    "physical_delivery_address": "214 JACKSON ST",
+    "physical_city": "SIOUX CITY",
+    "physical_state": "IA",
+    "physical_zip": "51101",
+    "physical_zip4": "9909"
   },
   {
     "area_name": "CENTRAL",
@@ -326903,12 +326994,12 @@
     "district_name": "WISCONSIN",
     "district_no": "530",
     "delivery_zipcode": "54846",
-    "locale_name": "GRAND VIEW",
-    "physical_delivery_address": "54595 CUDWORTH AVE",
-    "physical_city": "GRAND VIEW",
+    "locale_name": "ASHLAND",
+    "physical_delivery_address": "615 MAIN ST W",
+    "physical_city": "ASHLAND",
     "physical_state": "WI",
-    "physical_zip": "54839",
-    "physical_zip4": "4474"
+    "physical_zip": "54806",
+    "physical_zip4": "1300"
   },
   {
     "area_name": "CENTRAL",
@@ -327020,12 +327111,12 @@
     "district_name": "WISCONSIN",
     "district_no": "530",
     "delivery_zipcode": "54855",
-    "locale_name": "GRAND VIEW",
-    "physical_delivery_address": "54595 CUDWORTH AVE",
-    "physical_city": "GRAND VIEW",
+    "locale_name": "ASHLAND",
+    "physical_delivery_address": "615 MAIN ST W",
+    "physical_city": "ASHLAND",
     "physical_state": "WI",
-    "physical_zip": "54839",
-    "physical_zip4": "4474"
+    "physical_zip": "54806",
+    "physical_zip4": "1300"
   },
   {
     "area_name": "CENTRAL",
@@ -329834,6 +329925,19 @@
     "physical_state": "MN",
     "physical_zip": "55121",
     "physical_zip4": "4201"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "MN-ND",
+    "district_no": "553",
+    "delivery_zipcode": "55118",
+    "locale_name": "EAGAN MN SDC",
+    "physical_delivery_address": "3145 LEXINGTON AVE S",
+    "physical_city": "EAGAN",
+    "physical_state": "MN",
+    "physical_zip": "55121",
+    "physical_zip4": "4100"
   },
   {
     "area_name": "CENTRAL",
@@ -333760,6 +333864,19 @@
     "physical_state": "MN",
     "physical_zip": "55806",
     "physical_zip4": "1742"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "MN-ND",
+    "district_no": "553",
+    "delivery_zipcode": "55805",
+    "locale_name": "DULUTH MN SDC",
+    "physical_delivery_address": "2800 W MICHIGAN ST",
+    "physical_city": "DULUTH",
+    "physical_state": "MN",
+    "physical_zip": "55806",
+    "physical_zip4": "9700"
   },
   {
     "area_name": "CENTRAL",
@@ -349047,6 +349164,19 @@
     "physical_city": "RUTLAND",
     "physical_state": "ND",
     "physical_zip": "58067",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "MN-ND",
+    "district_no": "553",
+    "delivery_zipcode": "58068",
+    "locale_name": "ENDERLIN",
+    "physical_delivery_address": "309 RAILWAY ST",
+    "physical_city": "ENDERLIN",
+    "physical_state": "ND",
+    "physical_zip": "58027",
     "physical_zip4": "9998"
   },
   {
@@ -405695,6 +405825,19 @@
     "area_code": "4J",
     "district_name": "KS-MO",
     "district_no": "630",
+    "delivery_zipcode": "66849",
+    "locale_name": "WHITE CITY",
+    "physical_delivery_address": "113 W MACKENZIE ST",
+    "physical_city": "WHITE CITY",
+    "physical_state": "KS",
+    "physical_zip": "66872",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "KS-MO",
+    "district_no": "630",
     "delivery_zipcode": "66850",
     "locale_name": "ELMDALE",
     "physical_delivery_address": "120 MAIN ST",
@@ -430369,19 +430512,6 @@
     "area_code": "4G",
     "district_name": "LOUISIANA",
     "district_no": "700",
-    "delivery_zipcode": "71406",
-    "locale_name": "ROBELINE",
-    "physical_delivery_address": "175 CHAPLIN LOOP",
-    "physical_city": "ROBELINE",
-    "physical_state": "LA",
-    "physical_zip": "71469",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "LOUISIANA",
-    "district_no": "700",
     "delivery_zipcode": "71407",
     "locale_name": "BENTLEY",
     "physical_delivery_address": "19497 HIGHWAY 167",
@@ -437331,6 +437461,19 @@
     "physical_state": "AR",
     "physical_zip": "72445",
     "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "AR-OK",
+    "district_no": "730",
+    "delivery_zipcode": "72447",
+    "locale_name": "LEACHVILLE",
+    "physical_delivery_address": "300 W DOC RODMAN ST",
+    "physical_city": "LEACHVILLE",
+    "physical_state": "AR",
+    "physical_zip": "72438",
+    "physical_zip4": "9089"
   },
   {
     "area_name": "SOUTHERN",
@@ -458436,6 +458579,19 @@
     "area_code": "4G",
     "district_name": "TEXAS 1",
     "district_no": "752",
+    "delivery_zipcode": "75853",
+    "locale_name": "TENNESSEE COLONY",
+    "physical_delivery_address": "1816 FM 645",
+    "physical_city": "TENNESSEE COLONY",
+    "physical_state": "TX",
+    "physical_zip": "75861",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 1",
+    "district_no": "752",
     "delivery_zipcode": "75855",
     "locale_name": "OAKWOOD",
     "physical_delivery_address": "315 W BROAD ST",
@@ -470437,11 +470593,11 @@
     "district_no": "770",
     "delivery_zipcode": "77565",
     "locale_name": "KEMAH",
-    "physical_delivery_address": "1908 N RAGUET",
-    "physical_city": null,
-    "physical_state": null,
-    "physical_zip": "75903",
-    "physical_zip4": "9901"
+    "physical_delivery_address": "1129 HIGHWAY 146",
+    "physical_city": "KEMAH",
+    "physical_state": "TX",
+    "physical_zip": "77565",
+    "physical_zip4": "1601"
   },
   {
     "area_name": "SOUTHERN",
@@ -472919,11 +473075,11 @@
     "district_name": "TEXAS 3",
     "district_no": "780",
     "delivery_zipcode": "78041",
-    "locale_name": "DEL MAR",
-    "physical_delivery_address": "2395 E DEL MAR BLVD",
+    "locale_name": "LAREDO",
+    "physical_delivery_address": "2700 E SAUNDERS ST",
     "physical_city": "LAREDO",
     "physical_state": "TX",
-    "physical_zip": "78045",
+    "physical_zip": "78041",
     "physical_zip4": "9998"
   },
   {
@@ -477183,12 +477339,12 @@
     "district_name": "TEXAS 3",
     "district_no": "780",
     "delivery_zipcode": "78606",
-    "locale_name": "BLANCO",
-    "physical_delivery_address": "402 4TH ST",
-    "physical_city": "BLANCO",
+    "locale_name": "BLANCO CARRIERS",
+    "physical_delivery_address": "201 S AVENUE G",
+    "physical_city": "JOHNSON CITY",
     "physical_state": "TX",
-    "physical_zip": "78606",
-    "physical_zip4": "9998"
+    "physical_zip": "78636",
+    "physical_zip4": "0029"
   },
   {
     "area_name": "SOUTHERN",
@@ -479814,19 +479970,6 @@
     "physical_city": "WEIMAR",
     "physical_state": "TX",
     "physical_zip": "78962",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TEXAS 3",
-    "district_no": "780",
-    "delivery_zipcode": "78963",
-    "locale_name": "LA GRANGE",
-    "physical_delivery_address": "113 E COLORADO ST",
-    "physical_city": "LA GRANGE",
-    "physical_state": "TX",
-    "physical_zip": "78945",
     "physical_zip4": "9998"
   },
   {
@@ -487095,6 +487238,19 @@
     "physical_state": "CO",
     "physical_zip": "80202",
     "physical_zip4": "9998"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "CO-WY",
+    "district_no": "800",
+    "delivery_zipcode": "80301",
+    "locale_name": "BOULDER CO SDC",
+    "physical_delivery_address": "2995 55TH ST",
+    "physical_city": "BOULDER",
+    "physical_state": "CO",
+    "physical_zip": "80301",
+    "physical_zip4": "9997"
   },
   {
     "area_name": "WESTPAC",
@@ -499217,6 +499373,19 @@
     "area_code": "4E",
     "district_name": "ID-MT-OR",
     "district_no": "970",
+    "delivery_zipcode": "83702",
+    "locale_name": "BOISE ID SDC",
+    "physical_delivery_address": "770 S 13TH ST",
+    "physical_city": "BOISE",
+    "physical_state": "ID",
+    "physical_zip": "83708",
+    "physical_zip4": "9701"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ID-MT-OR",
+    "district_no": "970",
     "delivery_zipcode": "83703",
     "locale_name": "BOISE",
     "physical_delivery_address": "770 S 13TH ST",
@@ -505210,19 +505379,6 @@
     "area_code": "4E",
     "district_name": "AZ-NM",
     "district_no": "852",
-    "delivery_zipcode": "85020",
-    "locale_name": "SUNNYSLOPE",
-    "physical_delivery_address": "9635 N 7TH ST",
-    "physical_city": "PHOENIX",
-    "physical_state": "AZ",
-    "physical_zip": "85020",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
     "delivery_zipcode": "85021",
     "locale_name": "WASHINGTON",
     "physical_delivery_address": "8155 N BLACK CANYON HWY",
@@ -505237,12 +505393,12 @@
     "district_name": "AZ-NM",
     "district_no": "852",
     "delivery_zipcode": "85022",
-    "locale_name": "SUNNYSLOPE ANNEX",
-    "physical_delivery_address": "9623 N 7TH ST",
+    "locale_name": "PHOENIX AZ NORTH VALLEY SDC",
+    "physical_delivery_address": "2502 W GRANDVIEW RD",
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
-    "physical_zip": "85020",
-    "physical_zip4": "0003"
+    "physical_zip": "85023",
+    "physical_zip4": "9400"
   },
   {
     "area_name": "WESTPAC",
@@ -505302,12 +505458,12 @@
     "district_name": "AZ-NM",
     "district_no": "852",
     "delivery_zipcode": "85029",
-    "locale_name": "SHAW BUTTE",
-    "physical_delivery_address": "12208 N 19TH AVE",
+    "locale_name": "PHOENIX AZ NORTH VALLEY SDC",
+    "physical_delivery_address": "2502 W GRANDVIEW RD",
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
-    "physical_zip": "85029",
-    "physical_zip4": "9998"
+    "physical_zip": "85023",
+    "physical_zip4": "9400"
   },
   {
     "area_name": "WESTPAC",
@@ -505562,12 +505718,12 @@
     "district_name": "AZ-NM",
     "district_no": "852",
     "delivery_zipcode": "85053",
-    "locale_name": "SHAW BUTTE",
-    "physical_delivery_address": "12208 N 19TH AVE",
+    "locale_name": "PHOENIX AZ NORTH VALLEY SDC",
+    "physical_delivery_address": "2502 W GRANDVIEW RD",
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
-    "physical_zip": "85029",
-    "physical_zip4": "9998"
+    "physical_zip": "85023",
+    "physical_zip4": "9400"
   },
   {
     "area_name": "WESTPAC",
@@ -513909,7 +514065,7 @@
     "district_no": "852",
     "delivery_zipcode": "87535",
     "locale_name": "GLORIETA",
-    "physical_delivery_address": "16 CALLE LOMITA",
+    "physical_delivery_address": "13 CALLE LOMITA",
     "physical_city": "GLORIETA",
     "physical_state": "NM",
     "physical_zip": "87535",
@@ -548709,12 +548865,12 @@
     "district_name": "CALIFORNIA 1",
     "district_no": "940",
     "delivery_zipcode": "95585",
-    "locale_name": "GARBERVILLE",
-    "physical_delivery_address": "368 SPROWEL CREEK RD",
-    "physical_city": "GARBERVILLE",
+    "locale_name": "LEGGETT",
+    "physical_delivery_address": "67674 DRIVE THRU TREE RD",
+    "physical_city": "LEGGETT",
     "physical_state": "CA",
-    "physical_zip": "95542",
-    "physical_zip4": "3140"
+    "physical_zip": "95585",
+    "physical_zip4": "9900"
   },
   {
     "area_name": "WESTPAC",

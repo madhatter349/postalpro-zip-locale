@@ -11458,12 +11458,12 @@
     "district_name": "WISCONSIN",
     "district_no": "530",
     "delivery_zipcode": "54846",
-    "locale_name": "GRAND VIEW",
-    "physical_delivery_address": "54595 CUDWORTH AVE",
-    "physical_city": "GRAND VIEW",
+    "locale_name": "ASHLAND",
+    "physical_delivery_address": "615 MAIN ST W",
+    "physical_city": "ASHLAND",
     "physical_state": "WI",
-    "physical_zip": "54839",
-    "physical_zip4": "4474"
+    "physical_zip": "54806",
+    "physical_zip4": "1300"
   },
   {
     "area_name": "CENTRAL",
@@ -11575,12 +11575,12 @@
     "district_name": "WISCONSIN",
     "district_no": "530",
     "delivery_zipcode": "54855",
-    "locale_name": "GRAND VIEW",
-    "physical_delivery_address": "54595 CUDWORTH AVE",
-    "physical_city": "GRAND VIEW",
+    "locale_name": "ASHLAND",
+    "physical_delivery_address": "615 MAIN ST W",
+    "physical_city": "ASHLAND",
     "physical_state": "WI",
-    "physical_zip": "54839",
-    "physical_zip4": "4474"
+    "physical_zip": "54806",
+    "physical_zip4": "1300"
   },
   {
     "area_name": "CENTRAL",

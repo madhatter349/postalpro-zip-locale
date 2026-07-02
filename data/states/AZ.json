@@ -277,19 +277,6 @@
     "area_code": "4E",
     "district_name": "AZ-NM",
     "district_no": "852",
-    "delivery_zipcode": "85020",
-    "locale_name": "SUNNYSLOPE",
-    "physical_delivery_address": "9635 N 7TH ST",
-    "physical_city": "PHOENIX",
-    "physical_state": "AZ",
-    "physical_zip": "85020",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
     "delivery_zipcode": "85021",
     "locale_name": "WASHINGTON",
     "physical_delivery_address": "8155 N BLACK CANYON HWY",
@@ -304,12 +291,12 @@
     "district_name": "AZ-NM",
     "district_no": "852",
     "delivery_zipcode": "85022",
-    "locale_name": "SUNNYSLOPE ANNEX",
-    "physical_delivery_address": "9623 N 7TH ST",
+    "locale_name": "PHOENIX AZ NORTH VALLEY SDC",
+    "physical_delivery_address": "2502 W GRANDVIEW RD",
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
-    "physical_zip": "85020",
-    "physical_zip4": "0003"
+    "physical_zip": "85023",
+    "physical_zip4": "9400"
   },
   {
     "area_name": "WESTPAC",
@@ -369,12 +356,12 @@
     "district_name": "AZ-NM",
     "district_no": "852",
     "delivery_zipcode": "85029",
-    "locale_name": "SHAW BUTTE",
-    "physical_delivery_address": "12208 N 19TH AVE",
+    "locale_name": "PHOENIX AZ NORTH VALLEY SDC",
+    "physical_delivery_address": "2502 W GRANDVIEW RD",
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
-    "physical_zip": "85029",
-    "physical_zip4": "9998"
+    "physical_zip": "85023",
+    "physical_zip4": "9400"
   },
   {
     "area_name": "WESTPAC",
@@ -629,12 +616,12 @@
     "district_name": "AZ-NM",
     "district_no": "852",
     "delivery_zipcode": "85053",
-    "locale_name": "SHAW BUTTE",
-    "physical_delivery_address": "12208 N 19TH AVE",
+    "locale_name": "PHOENIX AZ NORTH VALLEY SDC",
+    "physical_delivery_address": "2502 W GRANDVIEW RD",
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
-    "physical_zip": "85029",
-    "physical_zip4": "9998"
+    "physical_zip": "85023",
+    "physical_zip4": "9400"
   },
   {
     "area_name": "WESTPAC",

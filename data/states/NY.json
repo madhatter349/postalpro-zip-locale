@@ -21832,11 +21832,11 @@
     "district_name": "NEW YORK 3",
     "district_no": "120",
     "delivery_zipcode": "13687",
-    "locale_name": "SOUTH COLTON",
-    "physical_delivery_address": "3935 STATE HIGHWAY 56",
-    "physical_city": "SOUTH COLTON",
+    "locale_name": "COLTON",
+    "physical_delivery_address": "4841 STATE HIGHWAY 56",
+    "physical_city": "COLTON",
     "physical_state": "NY",
-    "physical_zip": "13687",
+    "physical_zip": "13625",
     "physical_zip4": "9998"
   },
   {
@@ -25823,12 +25823,12 @@
     "district_name": "NEW YORK 3",
     "district_no": "120",
     "delivery_zipcode": "14430",
-    "locale_name": "CLARKSON",
-    "physical_delivery_address": "3720 LAKE RD",
-    "physical_city": "CLARKSON",
+    "locale_name": "BROCKPORT",
+    "physical_delivery_address": "14 MAIN ST",
+    "physical_city": "BROCKPORT",
     "physical_state": "NY",
-    "physical_zip": "14430",
-    "physical_zip4": "9800"
+    "physical_zip": "14420",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",

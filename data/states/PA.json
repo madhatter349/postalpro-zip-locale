@@ -2916,6 +2916,19 @@
     "area_code": "4B",
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
+    "delivery_zipcode": "15329",
+    "locale_name": "WASHINGTON",
+    "physical_delivery_address": "153 JEFFERSON AVE",
+    "physical_city": "WASHINGTON",
+    "physical_state": "PA",
+    "physical_zip": "15301",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
     "delivery_zipcode": "15330",
     "locale_name": "EIGHTY FOUR",
     "physical_delivery_address": "812 ROUTE 519",
@@ -7402,12 +7415,38 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "15848",
+    "locale_name": "DU BOIS",
+    "physical_delivery_address": "229 BEAVER DR",
+    "physical_city": "DU BOIS",
+    "physical_state": "PA",
+    "physical_zip": "15801",
+    "physical_zip4": "2500"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "15848",
     "locale_name": "LUTHERSBURG",
     "physical_delivery_address": "79 CHURCH ST",
     "physical_city": "LUTHERSBURG",
     "physical_state": "PA",
     "physical_zip": "15848",
     "physical_zip4": "9800"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "15849",
+    "locale_name": "DU BOIS",
+    "physical_delivery_address": "229 BEAVER DR",
+    "physical_city": "DU BOIS",
+    "physical_state": "PA",
+    "physical_zip": "15801",
+    "physical_zip4": "2500"
   },
   {
     "area_name": "ATLANTIC",
@@ -7447,6 +7486,19 @@
     "physical_state": "PA",
     "physical_zip": "15853",
     "physical_zip4": "1058"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "15856",
+    "locale_name": "DU BOIS",
+    "physical_delivery_address": "229 BEAVER DR",
+    "physical_city": "DU BOIS",
+    "physical_state": "PA",
+    "physical_zip": "15801",
+    "physical_zip4": "2500"
   },
   {
     "area_name": "ATLANTIC",
@@ -7584,12 +7636,12 @@
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
     "delivery_zipcode": "15866",
-    "locale_name": "LUTHERSBURG",
-    "physical_delivery_address": "79 CHURCH ST",
-    "physical_city": "LUTHERSBURG",
+    "locale_name": "DU BOIS",
+    "physical_delivery_address": "229 BEAVER DR",
+    "physical_city": "DU BOIS",
     "physical_state": "PA",
-    "physical_zip": "15848",
-    "physical_zip4": "9800"
+    "physical_zip": "15801",
+    "physical_zip4": "2500"
   },
   {
     "area_name": "ATLANTIC",
@@ -14356,6 +14408,19 @@
     "area_code": "4B",
     "district_name": "PENNSYLVANIA 1",
     "district_no": "150",
+    "delivery_zipcode": "17006",
+    "locale_name": "LOYSVILLE",
+    "physical_delivery_address": "3555 SHERMANS VALLEY RD",
+    "physical_city": "LOYSVILLE",
+    "physical_state": "PA",
+    "physical_zip": "17047",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
     "delivery_zipcode": "17007",
     "locale_name": "BOILING SPRINGS",
     "physical_delivery_address": "3 E 1ST ST",
@@ -14596,6 +14661,19 @@
     "physical_city": "ELLIOTTSBURG",
     "physical_state": "PA",
     "physical_zip": "17024",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "17024",
+    "locale_name": "LOYSVILLE",
+    "physical_delivery_address": "3555 SHERMANS VALLEY RD",
+    "physical_city": "LOYSVILLE",
+    "physical_state": "PA",
+    "physical_zip": "17047",
     "physical_zip4": "9998"
   },
   {
@@ -14856,6 +14934,19 @@
     "physical_city": "LANDISBURG",
     "physical_state": "PA",
     "physical_zip": "17040",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "PENNSYLVANIA 1",
+    "district_no": "150",
+    "delivery_zipcode": "17040",
+    "locale_name": "LOYSVILLE",
+    "physical_delivery_address": "3555 SHERMANS VALLEY RD",
+    "physical_city": "LOYSVILLE",
+    "physical_state": "PA",
+    "physical_zip": "17047",
     "physical_zip4": "9998"
   },
   {

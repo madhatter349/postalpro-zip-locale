@@ -1,16 +1,16 @@
 [
   {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TEXAS 2",
-    "district_no": "770",
-    "delivery_zipcode": "77565",
-    "locale_name": "KEMAH",
-    "physical_delivery_address": "1908 N RAGUET",
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "05778",
+    "locale_name": "WHITING",
+    "physical_delivery_address": "195 SYKES MOUNTAIN AVE",
     "physical_city": null,
     "physical_state": null,
-    "physical_zip": "75903",
-    "physical_zip4": "9901"
+    "physical_zip": "05001",
+    "physical_zip4": "2022"
   },
   {
     "area_name": "WESTPAC",

@@ -6205,6 +6205,19 @@
     "area_code": "4G",
     "district_name": "TEXAS 1",
     "district_no": "752",
+    "delivery_zipcode": "75853",
+    "locale_name": "TENNESSEE COLONY",
+    "physical_delivery_address": "1816 FM 645",
+    "physical_city": "TENNESSEE COLONY",
+    "physical_state": "TX",
+    "physical_zip": "75861",
+    "physical_zip4": "9998"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 1",
+    "district_no": "752",
     "delivery_zipcode": "75855",
     "locale_name": "OAKWOOD",
     "physical_delivery_address": "315 W BROAD ST",
@@ -18205,6 +18218,19 @@
     "district_name": "TEXAS 2",
     "district_no": "770",
     "delivery_zipcode": "77565",
+    "locale_name": "KEMAH",
+    "physical_delivery_address": "1129 HIGHWAY 146",
+    "physical_city": "KEMAH",
+    "physical_state": "TX",
+    "physical_zip": "77565",
+    "physical_zip4": "1601"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "TEXAS 2",
+    "district_no": "770",
+    "delivery_zipcode": "77565",
     "locale_name": "LEAGUE CITY",
     "physical_delivery_address": "240 W GALVESTON ST",
     "physical_city": "LEAGUE CITY",
@@ -20675,11 +20701,11 @@
     "district_name": "TEXAS 3",
     "district_no": "780",
     "delivery_zipcode": "78041",
-    "locale_name": "DEL MAR",
-    "physical_delivery_address": "2395 E DEL MAR BLVD",
+    "locale_name": "LAREDO",
+    "physical_delivery_address": "2700 E SAUNDERS ST",
     "physical_city": "LAREDO",
     "physical_state": "TX",
-    "physical_zip": "78045",
+    "physical_zip": "78041",
     "physical_zip4": "9998"
   },
   {
@@ -24939,12 +24965,12 @@
     "district_name": "TEXAS 3",
     "district_no": "780",
     "delivery_zipcode": "78606",
-    "locale_name": "BLANCO",
-    "physical_delivery_address": "402 4TH ST",
-    "physical_city": "BLANCO",
+    "locale_name": "BLANCO CARRIERS",
+    "physical_delivery_address": "201 S AVENUE G",
+    "physical_city": "JOHNSON CITY",
     "physical_state": "TX",
-    "physical_zip": "78606",
-    "physical_zip4": "9998"
+    "physical_zip": "78636",
+    "physical_zip4": "0029"
   },
   {
     "area_name": "SOUTHERN",
@@ -27570,19 +27596,6 @@
     "physical_city": "WEIMAR",
     "physical_state": "TX",
     "physical_zip": "78962",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TEXAS 3",
-    "district_no": "780",
-    "delivery_zipcode": "78963",
-    "locale_name": "LA GRANGE",
-    "physical_delivery_address": "113 E COLORADO ST",
-    "physical_city": "LA GRANGE",
-    "physical_state": "TX",
-    "physical_zip": "78945",
     "physical_zip4": "9998"
   },
   {

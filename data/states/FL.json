@@ -9378,6 +9378,19 @@
     "district_name": "FLORIDA 3",
     "district_no": "330",
     "delivery_zipcode": "33176",
+    "locale_name": "MIAMI FL SNAPPER CREEK SDC",
+    "physical_delivery_address": "11000 SW 104TH ST",
+    "physical_city": "MIAMI",
+    "physical_state": "FL",
+    "physical_zip": "33116",
+    "physical_zip4": "9700"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "FLORIDA 3",
+    "district_no": "330",
+    "delivery_zipcode": "33176",
     "locale_name": "SNAPPER CREEK",
     "physical_delivery_address": "11000 SW 104TH ST",
     "physical_city": "MIAMI",
@@ -12251,12 +12264,12 @@
     "district_name": "FLORIDA 2",
     "district_no": "335",
     "delivery_zipcode": "33575",
-    "locale_name": "SUN CITY",
-    "physical_delivery_address": "4449 OLD HIGHWAY 41 S",
-    "physical_city": "SUN CITY",
+    "locale_name": "RUSKIN",
+    "physical_delivery_address": "455 N US HIGHWAY 41",
+    "physical_city": "RUSKIN",
     "physical_state": "FL",
-    "physical_zip": "33586",
-    "physical_zip4": "9700"
+    "physical_zip": "33570",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "SOUTHERN",
@@ -18159,19 +18172,6 @@
     "physical_state": "FL",
     "physical_zip": "34711",
     "physical_zip4": "9996"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "FLORIDA 2",
-    "district_no": "335",
-    "delivery_zipcode": "34729",
-    "locale_name": "MONTVERDE",
-    "physical_delivery_address": "17101 PORTER AVE",
-    "physical_city": "MONTVERDE",
-    "physical_state": "FL",
-    "physical_zip": "34756",
-    "physical_zip4": "9998"
   },
   {
     "area_name": "SOUTHERN",

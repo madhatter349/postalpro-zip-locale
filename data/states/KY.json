@@ -6140,32 +6140,6 @@
     "area_code": "4J",
     "district_name": "KY-WV",
     "district_no": "400",
-    "delivery_zipcode": "41101",
-    "locale_name": "ASHLAND",
-    "physical_delivery_address": "1140 CARTER AVE",
-    "physical_city": "ASHLAND",
-    "physical_state": "KY",
-    "physical_zip": "41101",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "41102",
-    "locale_name": "ASHLAND",
-    "physical_delivery_address": "1140 CARTER AVE",
-    "physical_city": "ASHLAND",
-    "physical_state": "KY",
-    "physical_zip": "41101",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
     "delivery_zipcode": "41105",
     "locale_name": "ASHLAND",
     "physical_delivery_address": "1140 CARTER AVE",
@@ -6498,19 +6472,6 @@
     "physical_state": "KY",
     "physical_zip": "41168",
     "physical_zip4": "9996"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "KY-WV",
-    "district_no": "400",
-    "delivery_zipcode": "41169",
-    "locale_name": "ASHLAND",
-    "physical_delivery_address": "1140 CARTER AVE",
-    "physical_city": "ASHLAND",
-    "physical_state": "KY",
-    "physical_zip": "41101",
-    "physical_zip4": "9998"
   },
   {
     "area_name": "CENTRAL",

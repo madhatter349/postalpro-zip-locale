@@ -928,6 +928,19 @@
     "district_name": "ME-NH-VT",
     "district_no": "040",
     "delivery_zipcode": "05155",
+    "locale_name": "LONDONDERRY",
+    "physical_delivery_address": "5690 VT ROUTE 100",
+    "physical_city": "LONDONDERRY",
+    "physical_state": "VT",
+    "physical_zip": "05148",
+    "physical_zip4": "9997"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "05155",
     "locale_name": "SOUTH LONDONDERRY",
     "physical_delivery_address": "67 MAIN ST",
     "physical_city": "SOUTH LONDONDERRY",
@@ -3585,19 +3598,6 @@
     "physical_city": "WEST RUTLAND",
     "physical_state": "VT",
     "physical_zip": "05777",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "05778",
-    "locale_name": "WHITING",
-    "physical_delivery_address": "3 S MAIN ST",
-    "physical_city": "WHITING",
-    "physical_state": "VT",
-    "physical_zip": "05778",
     "physical_zip4": "9998"
   },
   {

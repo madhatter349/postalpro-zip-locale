@@ -7064,12 +7064,12 @@
     "district_name": "MA-RI",
     "district_no": "020",
     "delivery_zipcode": "02153",
-    "locale_name": "TUFTS UNIVERSITY",
-    "physical_delivery_address": "470 BOSTON AVE",
+    "locale_name": "MEDFORD",
+    "physical_delivery_address": "20 FOREST ST",
     "physical_city": "MEDFORD",
     "physical_state": "MA",
     "physical_zip": "02155",
-    "physical_zip4": "5802"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -8312,12 +8312,12 @@
     "district_name": "MA-RI",
     "district_no": "020",
     "delivery_zipcode": "02457",
-    "locale_name": "BABSON PARK",
-    "physical_delivery_address": "231 FOREST ST",
+    "locale_name": "WELLESLEY HILLS",
+    "physical_delivery_address": "337 WASHINGTON ST",
     "physical_city": "WELLESLEY HILLS",
     "physical_state": "MA",
     "physical_zip": "02481",
-    "physical_zip4": "6834"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -9150,6 +9150,19 @@
     "physical_state": "MA",
     "physical_zip": "02575",
     "physical_zip4": "9800"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MA-RI",
+    "district_no": "020",
+    "delivery_zipcode": "02576",
+    "locale_name": "WAREHAM ANNEX",
+    "physical_delivery_address": "25 TOBEY RD",
+    "physical_city": "WAREHAM",
+    "physical_state": "MA",
+    "physical_zip": "02571",
+    "physical_zip4": "1098"
   },
   {
     "area_name": "ATLANTIC",

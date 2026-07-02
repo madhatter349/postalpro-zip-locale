@@ -3398,12 +3398,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07601",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -3437,12 +3437,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07603",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -3463,12 +3463,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07604",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -3489,12 +3489,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07605",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -3502,12 +3502,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07606",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -3528,25 +3528,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07607",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW JERSEY",
-    "district_no": "070",
-    "delivery_zipcode": "07608",
-    "locale_name": "SOUTH HACKENSACK",
-    "physical_delivery_address": "560 HUYLER ST",
-    "physical_city": "SOUTH HACKENSACK",
-    "physical_state": "NJ",
-    "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -3801,12 +3788,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "07643",
-    "locale_name": "SOUTH HACKENSACK",
+    "locale_name": "SOUTH HACKENSACK NJ SDC",
     "physical_delivery_address": "560 HUYLER ST",
     "physical_city": "SOUTH HACKENSACK",
     "physical_state": "NJ",
     "physical_zip": "07606",
-    "physical_zip4": "1544"
+    "physical_zip4": "9708"
   },
   {
     "area_name": "ATLANTIC",
@@ -8559,12 +8546,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08203",
-    "locale_name": "ATLANTIC CITY CARRIER ANNEX",
-    "physical_delivery_address": "800 ABSECON BLVD",
-    "physical_city": "ATLANTIC CITY",
+    "locale_name": "BRIGANTINE",
+    "physical_delivery_address": "4326 HARBOR BEACH BLVD",
+    "physical_city": "BRIGANTINE",
     "physical_state": "NJ",
-    "physical_zip": "08401",
-    "physical_zip4": "9995"
+    "physical_zip": "08203",
+    "physical_zip4": "9998"
   },
   {
     "area_name": "ATLANTIC",
@@ -8572,12 +8559,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08203",
-    "locale_name": "BRIGANTINE",
-    "physical_delivery_address": "4326 HARBOR BEACH BLVD",
-    "physical_city": "BRIGANTINE",
+    "locale_name": "EGG HARBOR TOWNSHIP NJ SDC",
+    "physical_delivery_address": "5 COLUMBUS AVE",
+    "physical_city": "EGG HARBOR TOWNSHIP",
     "physical_state": "NJ",
-    "physical_zip": "08203",
-    "physical_zip4": "9998"
+    "physical_zip": "08234",
+    "physical_zip4": "4062"
   },
   {
     "area_name": "ATLANTIC",
@@ -9820,12 +9807,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08401",
-    "locale_name": "ATLANTIC CITY CARRIER ANNEX",
-    "physical_delivery_address": "800 ABSECON BLVD",
-    "physical_city": "ATLANTIC CITY",
+    "locale_name": "EGG HARBOR TOWNSHIP NJ SDC",
+    "physical_delivery_address": "5 COLUMBUS AVE",
+    "physical_city": "EGG HARBOR TOWNSHIP",
     "physical_state": "NJ",
-    "physical_zip": "08401",
-    "physical_zip4": "9995"
+    "physical_zip": "08234",
+    "physical_zip4": "4062"
   },
   {
     "area_name": "ATLANTIC",
@@ -9898,12 +9885,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08406",
-    "locale_name": "ATLANTIC CITY CARRIER ANNEX",
-    "physical_delivery_address": "800 ABSECON BLVD",
-    "physical_city": "ATLANTIC CITY",
+    "locale_name": "EGG HARBOR TOWNSHIP NJ SDC",
+    "physical_delivery_address": "5 COLUMBUS AVE",
+    "physical_city": "EGG HARBOR TOWNSHIP",
     "physical_state": "NJ",
-    "physical_zip": "08401",
-    "physical_zip4": "9995"
+    "physical_zip": "08234",
+    "physical_zip4": "4062"
   },
   {
     "area_name": "ATLANTIC",
@@ -12212,25 +12199,12 @@
     "district_name": "NEW JERSEY",
     "district_no": "070",
     "delivery_zipcode": "08848",
-    "locale_name": "FRENCHTOWN",
-    "physical_delivery_address": "16 TRENTON AVE",
-    "physical_city": "FRENCHTOWN",
+    "locale_name": "MILFORD",
+    "physical_delivery_address": "73 BRIDGE ST",
+    "physical_city": "MILFORD",
     "physical_state": "NJ",
-    "physical_zip": "08825",
+    "physical_zip": "08848",
     "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "NEW JERSEY",
-    "district_no": "070",
-    "delivery_zipcode": "08848",
-    "locale_name": "MILFORD CARRIERS",
-    "physical_delivery_address": "4 KINGS CT",
-    "physical_city": "FLEMINGTON",
-    "physical_state": "NJ",
-    "physical_zip": "08822",
-    "physical_zip4": "9911"
   },
   {
     "area_name": "ATLANTIC",

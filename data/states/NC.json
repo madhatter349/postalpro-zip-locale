@@ -668,12 +668,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27107",
-    "locale_name": "WAUGHTOWN",
-    "physical_delivery_address": "1995 PLEASANT ST",
+    "locale_name": "WINSTON SALEM NC SDC",
+    "physical_delivery_address": "1500 N PATTERSON AVE",
     "physical_city": "WINSTON SALEM",
     "physical_state": "NC",
-    "physical_zip": "27107",
-    "physical_zip4": "9998"
+    "physical_zip": "27105",
+    "physical_zip4": "9900"
   },
   {
     "area_name": "ATLANTIC",
@@ -759,12 +759,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "27127",
-    "locale_name": "WAUGHTOWN",
-    "physical_delivery_address": "1995 PLEASANT ST",
+    "locale_name": "WINSTON SALEM NC SDC",
+    "physical_delivery_address": "1500 N PATTERSON AVE",
     "physical_city": "WINSTON SALEM",
     "physical_state": "NC",
-    "physical_zip": "27107",
-    "physical_zip4": "9998"
+    "physical_zip": "27105",
+    "physical_zip4": "9900"
   },
   {
     "area_name": "ATLANTIC",
@@ -8208,12 +8208,12 @@
     "district_name": "NORTH CAROLINA",
     "district_no": "270",
     "delivery_zipcode": "28169",
-    "locale_name": "WACO",
-    "physical_delivery_address": "100 N MAIN ST",
-    "physical_city": "WACO",
+    "locale_name": "CHERRYVILLE",
+    "physical_delivery_address": "107 N MULBERRY ST",
+    "physical_city": "CHERRYVILLE",
     "physical_state": "NC",
-    "physical_zip": "28169",
-    "physical_zip4": "9700"
+    "physical_zip": "28021",
+    "physical_zip4": "2853"
   },
   {
     "area_name": "ATLANTIC",

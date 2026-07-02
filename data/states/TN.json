@@ -4814,19 +4814,6 @@
     "area_code": "4G",
     "district_name": "TENNESSEE",
     "district_no": "370",
-    "delivery_zipcode": "37755",
-    "locale_name": "HUNTSVILLE",
-    "physical_delivery_address": "215 HUNTSVILLE DR",
-    "physical_city": "HUNTSVILLE",
-    "physical_state": "TN",
-    "physical_zip": "37756",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "TENNESSEE",
-    "district_no": "370",
     "delivery_zipcode": "37756",
     "locale_name": "HUNTSVILLE",
     "physical_delivery_address": "215 HUNTSVILLE DR",
@@ -8377,12 +8364,12 @@
     "district_name": "TENNESSEE",
     "district_no": "370",
     "delivery_zipcode": "38314",
-    "locale_name": "BEMIS",
-    "physical_delivery_address": "207 S MISSOURI ST",
+    "locale_name": "JACKSON",
+    "physical_delivery_address": "200 DR MARTIN LUTHER KING JR DR",
     "physical_city": "JACKSON",
     "physical_state": "TN",
     "physical_zip": "38301",
-    "physical_zip4": "7464"
+    "physical_zip4": "9998"
   },
   {
     "area_name": "SOUTHERN",
