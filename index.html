@@ -2,84 +2,113 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>USPS ZIP Locale Detail — Open API</title>
   <meta name="description" content="Auto-updated JSON mirror of the USPS PostalPro ZIP Locale Detail dataset. Search ZIPs, cities, and post offices with a free, open static API.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=IBM+Plex+Mono:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/theme.css">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%97%BA%EF%B8%8F%3C/text%3E%3C/svg%3E">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2311120f'/%3E%3Ctext x='50' y='72' font-size='64' text-anchor='middle' fill='%23b5a400' font-family='monospace'%3EZ%3C/text%3E%3C/svg%3E">
 </head>
 <body>
 
-  <!-- ambient background -->
-  <div class="aurora">
-    <div class="orb o1"></div>
-    <div class="orb o2"></div>
-  </div>
-  <div class="grid-overlay"></div>
-
-  <!-- nav -->
-  <nav class="nav">
-    <div class="container nav-inner">
-      <a class="brand" href="#">
-        <span class="brand-mark">▦</span>
-        <span>ZIP Locale</span>
+  <!-- ======== Header ======== -->
+  <header class="marketing-header">
+    <div class="topbar">
+      <a class="brand" href="#top">
+        <span class="brand-mark">Z</span>
+        <span class="brand-text">ZIPLOC</span>
+        <span class="brand-divider"></span>
+        <span class="brand-sub">Locale detail</span>
       </a>
-      <ul class="nav-links">
-        <li><a href="#explorer">Explorer</a></li>
-        <li><a href="#endpoints">Endpoints</a></li>
-        <li><a href="#schema">Schema</a></li>
-        <li><a class="github-link hide-sm" href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">
-          <svg width="15" height="15" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-          GitHub
-        </a></li>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="#explorer">Explorer</a></li>
+          <li><a href="#endpoints">Endpoints</a></li>
+          <li><a href="#states">States</a></li>
+          <li><a href="#schema">Schema</a></li>
+          <li><a class="nav-cta" href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">GitHub →</a></li>
+        </ul>
+        <button class="burger" id="burger" aria-label="Menu" aria-expanded="false">
+          <span></span>
+        </button>
+      </nav>
+    </div>
+    <div class="mobile-menu" id="mobileMenu">
+      <ul>
+        <li><a href="#explorer">01 / Explorer</a></li>
+        <li><a href="#endpoints">02 / Endpoints</a></li>
+        <li><a href="#states">03 / States</a></li>
+        <li><a href="#schema">04 / Schema</a></li>
+        <li><a href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">GitHub</a></li>
       </ul>
     </div>
-  </nav>
-
-  <!-- hero -->
-  <header class="hero container">
-    <div class="badge"><span class="dot"></span> Free &middot; No auth &middot; Auto-updated</div>
-    <h1>USPS ZIP Locale<br>Detail API</h1>
-    <p>A daily-mirrored, open JSON API of the PostalPro ZIP Locale dataset. Query state-level or full data — no key, no rate limits, no server.</p>
-    <p class="sub">github.com/madhatter349/postalpro-zip-locale</p>
   </header>
 
-  <!-- stats -->
-  <section class="container">
-    <div class="stats">
-      <div class="stat-card">
-        <div class="stat-label">Records</div>
-        <div class="stat-value accent" id="statRecords">…</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-label">States &amp; Territories</div>
-        <div class="stat-value green" id="statStates">…</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-label">USPS Published</div>
-        <div class="stat-value orange" id="statUpdated">…</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-label">Last Verified</div>
-        <div class="stat-value" id="statChecked">…</div>
-      </div>
-    </div>
-  </section>
+  <main id="top">
 
-  <!-- explorer -->
-  <section class="section" id="explorer">
-    <div class="container">
-      <div class="section-head">
-        <div>
-          <h2 class="section-title"><span class="hash">#</span> Explore the data</h2>
-          <div class="section-sub">Search by ZIP, city, or post office — sort any column.</div>
+    <!-- ======== Hero ======== -->
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="section-index">01 / THE SYSTEM</div>
+        <h1>Every ZIP. <em class="serif">One open API.</em></h1>
+        <p class="lede">A daily-mirrored JSON mirror of the USPS PostalPro ZIP Locale Detail dataset. Query state-level or full data — no key, no rate limits, no server.</p>
+        <div class="hero-actions">
+          <a class="btn-primary" href="#explorer">Explore the data ↓</a>
+          <a class="btn-secondary" href="#endpoints">Read the docs</a>
         </div>
       </div>
 
-      <div class="glass" id="explorer">
+      <!-- terminal receipt card -->
+      <aside class="routing-card" aria-label="Dataset status">
+        <div class="receipt-header">
+          <span class="receipt-id">zid_<span id="receiptId">0000</span></span>
+          <span class="route-live">Live dataset</span>
+        </div>
+        <div class="receipt-body">
+          <div class="verdict">
+            <div class="verdict-node">✓</div>
+            <div>
+              <div class="verdict-text" id="verdictRecords">44,339 records</div>
+              <div class="verdict-sub">across 59 states &amp; territories</div>
+            </div>
+          </div>
+          <dl class="facts">
+            <div><dt>USPS published</dt><dd id="factUpdated">—</dd></div>
+            <div><dt>Last verified</dt><dd id="factChecked">—</dd></div>
+            <div><dt>Format</dt><dd>JSON / UTF-8</dd></div>
+            <div><dt>Refresh</dt><dd>Daily · 06:00 UTC</dd></div>
+          </dl>
+          <div class="receipt-status">
+            <span class="ok">● API operational</span>
+            <span>v2</span>
+          </div>
+        </div>
+        <div class="receipt-footer">
+          <span>github.com/madhatter349</span>
+          <span>postalpro-zip-locale</span>
+        </div>
+      </aside>
+    </section>
+
+    <!-- ======== Ticker ======== -->
+    <div class="ticker" aria-hidden="true">
+      <div class="ticker-track" id="tickerTrack">
+        <span>Free · No auth required</span><span id="tickerRecords">44,339 records</span><span id="tickerStates">59 states &amp; territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
+        <span>Free · No auth required</span><span id="tickerRecordsDup">44,339 records</span><span id="tickerStatesDup">59 states &amp; territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
+      </div>
+    </div>
+
+    <!-- ======== Explorer ======== -->
+    <section class="section" id="explorer">
+      <div class="section-head">
+        <div class="section-index">02 / EXPLORE</div>
+        <h2>Search the <em class="serif">full dataset.</em></h2>
+        <p>Streams all state files in parallel, then filters instantly — search by ZIP, city, locale, or district, and sort any column.</p>
+      </div>
+
+      <div class="explorer-shell">
         <div class="explorer-toolbar">
           <div class="search">
             <span class="search-icon">⌕</span>
@@ -108,173 +137,190 @@
           <div class="page-btns" id="zlpPageBtns"></div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- endpoints -->
-  <section class="section" id="endpoints">
-    <div class="container">
+    <!-- ======== Endpoints ======== -->
+    <section class="section" id="endpoints">
       <div class="section-head">
-        <div>
-          <h2 class="section-title"><span class="hash">#</span> Endpoints</h2>
-          <div class="section-sub">Base URL — <code style="color:var(--accent)">https://madhatter349.github.io/postalpro-zip-locale</code></div>
-        </div>
-        <button class="btn btn-ghost" data-copy="https://madhatter349.github.io/postalpro-zip-locale" data-label="Copy">Copy base URL</button>
+        <div class="section-index">03 / ENDPOINTS</div>
+        <h2>Five routes. <em class="serif">Zero friction.</em></h2>
+        <p>Base URL — <code style="font-family:var(--font-machine); color:var(--lime-muted)">https://madhatter349.github.io/postalpro-zip-locale</code></p>
       </div>
 
-      <!-- Full dataset -->
-      <div class="endpoint">
-        <div class="endpoint-header">
-          <span class="method">GET</span>
-          <span class="endpoint-path">/data/zip_locale_detail.json</span>
-          <span class="endpoint-desc">Full dataset</span>
-          <span class="endpoint-toggle">+</span>
-        </div>
-        <div class="endpoint-body">
-          <p>Every ZIP locale record in a single JSON array (~15 MB). Prefer a state file or the explorer for most use cases.</p>
-          <div class="code-block">
-            <div class="code-block-label">
-              <span>JavaScript</span>
-              <button class="copy-btn" data-copy="fetch('https://madhatter349.github.io/postalpro-zip-locale/data/zip_locale_detail.json')\n  .then(r => r.json())\n  .then(data => console.log(data.length, 'records'))" data-label="Copy">Copy</button>
-            </div>
-            <pre><span class="keyword">fetch</span>(<span class="string">'…/data/zip_locale_detail.json'</span>)
+      <div class="endpoints-grid">
+        <!-- Full dataset -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/zip_locale_detail.json</span>
+            <span class="endpoint-desc">Full dataset</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>Every ZIP locale record in a single JSON array (~15 MB). Prefer a state file or the explorer.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>JavaScript</span>
+                <button class="copy-btn" data-copy="fetch('https://madhatter349.github.io/postalpro-zip-locale/data/zip_locale_detail.json')\n  .then(r => r.json())\n  .then(data => console.log(data.length, 'records'))" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="keyword">fetch</span>(<span class="string">'…/data/zip_locale_detail.json'</span>)
   .then(<span class="punct">r</span> =&gt; <span class="punct">r</span>.<span class="keyword">json</span>())
   .then(<span class="punct">data</span> =&gt; console.<span class="keyword">log</span>(data.length, <span class="string">'records'</span>))</pre>
+            </div>
           </div>
         </div>
-      </div>
 
-      <!-- By state -->
-      <div class="endpoint">
-        <div class="endpoint-header">
-          <span class="method">GET</span>
-          <span class="endpoint-path">/data/states/<span class="param">{STATE}</span>.json</span>
-          <span class="endpoint-desc">Filter by state</span>
-          <span class="endpoint-toggle">+</span>
-        </div>
-        <div class="endpoint-body">
-          <p>All records for one state. Use the 2-letter uppercase abbreviation (<code style="color:var(--accent)">CA</code>, <code style="color:var(--accent)">NY</code>, <code style="color:var(--accent)">TX</code>…).</p>
-          <div class="code-block">
-            <div class="code-block-label">
-              <span>Python</span>
-              <button class="copy-btn" data-copy="import requests\n\ndata = requests.get(\n    'https://madhatter349.github.io/postalpro-zip-locale/data/states/NY.json'\n).json()\n\nfor record in data[:5]:\n    print(record['delivery_zipcode'], record['locale_name'])" data-label="Copy">Copy</button>
-            </div>
-            <pre><span class="keyword">import</span> requests
+        <!-- By state -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/states/<span class="param">{STATE}</span>.json</span>
+            <span class="endpoint-desc">Filter by state</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>All records for one state. Uppercase 2-letter code (<code style="font-family:var(--font-machine);color:var(--lime-muted)">CA</code>, <code style="font-family:var(--font-machine);color:var(--lime-muted)">NY</code>…).</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>Python</span>
+                <button class="copy-btn" data-copy="import requests\n\ndata = requests.get(\n    'https://madhatter349.github.io/postalpro-zip-locale/data/states/NY.json'\n).json()\n\nfor record in data[:5]:\n    print(record['delivery_zipcode'], record['locale_name'])" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="keyword">import</span> requests
 
 data = requests.<span class="keyword">get</span>(
     <span class="string">'…/data/states/NY.json'</span>
 ).<span class="keyword">json</span>()
 
-<span class="keyword">for</span> record <span class="keyword">in</span> data[:<span class="string">5</span>]:
+<span class="keyword">for</span> record <span class="keyword">in</span> data[:<span class="number">5</span>]:
     print(record[<span class="string">'delivery_zipcode'</span>], record[<span class="string">'locale_name'</span>])</pre>
+            </div>
           </div>
         </div>
-      </div>
 
-      <!-- Index -->
-      <div class="endpoint">
-        <div class="endpoint-header">
-          <span class="method">GET</span>
-          <span class="endpoint-path">/data/index.json</span>
-          <span class="endpoint-desc">States &amp; freshness</span>
-          <span class="endpoint-toggle">+</span>
-        </div>
-        <div class="endpoint-body">
-          <p>Lightweight index: state codes, record counts, and last-updated/verified timestamps. Use this to discover available states without downloading the full dataset.</p>
-          <div class="code-block">
-            <div class="code-block-label">
-              <span>Response</span>
-              <button class="copy-btn" data-copy="curl -s https://madhatter349.github.io/postalpro-zip-locale/data/index.json | jq '.states'" data-label="Copy">Copy</button>
-            </div>
-            <pre><span class="punct">{</span>
-  <span class="key">"total_records"</span>: <span class="string">44339</span>,
-  <span class="key">"state_count"</span>: <span class="string">59</span>,
-  <span class="key">"last_updated"</span>: <span class="string">"July 01, 2026"</span>,
-  <span class="key">"states"</span>: <span class="punct">[</span> <span class="punct">{</span> <span class="key">"state"</span>: <span class="string">"AK"</span>, <span class="key">"count"</span>: <span class="string">281</span> <span class="punct">}</span>, … <span class="punct">]</span>
+        <!-- Index -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/index.json</span>
+            <span class="endpoint-desc">States &amp; freshness</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>Lightweight index: state codes, record counts, and freshness timestamps. Discover available states without the full download.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>cURL</span>
+                <button class="copy-btn" data-copy="curl -s https://madhatter349.github.io/postalpro-zip-locale/data/index.json | jq '.states'" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="comment"># states + counts + last_checked</span>
+<span class="punct">{</span>
+  <span class="keyword">"state_count"</span>: <span class="number">59</span>,
+  <span class="keyword">"last_updated"</span>: <span class="string">"July 01, 2026"</span>,
+  <span class="keyword">"states"</span>: <span class="punct">[</span> <span class="punct">…</span> <span class="punct">]</span>
 <span class="punct">}</span></pre>
+            </div>
           </div>
         </div>
-      </div>
 
-      <!-- Freshness -->
-      <div class="endpoint">
-        <div class="endpoint-header">
-          <span class="method">GET</span>
-          <span class="endpoint-path">/data/last_updated.txt</span>
-          <span class="endpoint-desc">USPS publish date</span>
-          <span class="endpoint-toggle">+</span>
-        </div>
-        <div class="endpoint-body">
-          <p>Date USPS last published a new version of the dataset. Plain text. <code style="color:var(--accent)">/data/last_checked.txt</code> is the ISO timestamp the mirror last verified the source.</p>
-          <div class="code-block">
-            <div class="code-block-label">
-              <span>JavaScript</span>
-              <button class="copy-btn" data-copy="fetch('https://madhatter349.github.io/postalpro-zip-locale/data/last_updated.txt')\n  .then(r => r.text())\n  .then(date => console.log('Last updated:', date))" data-label="Copy">Copy</button>
-            </div>
-            <pre><span class="keyword">fetch</span>(<span class="string">'…/data/last_updated.txt'</span>)
+        <!-- Freshness -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/last_updated.txt</span>
+            <span class="endpoint-desc">USPS publish date</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>Date USPS last published a new dataset version. <code style="font-family:var(--font-machine);color:var(--lime-muted)">/data/last_checked.txt</code> is the last verification time.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>JavaScript</span>
+                <button class="copy-btn" data-copy="fetch('https://madhatter349.github.io/postalpro-zip-locale/data/last_updated.txt')\n  .then(r => r.text())\n  .then(date => console.log('Last updated:', date))" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="keyword">fetch</span>(<span class="string">'…/data/last_updated.txt'</span>)
   .then(<span class="punct">r</span> =&gt; <span class="punct">r</span>.text())
   .then(<span class="punct">date</span> =&gt; console.<span class="keyword">log</span>(<span class="string">'Last updated:'</span>, date))</pre>
+            </div>
+          </div>
+        </div>
+
+        <!-- Health -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/last_checked.txt</span>
+            <span class="endpoint-desc">Mirror health</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>ISO timestamp of the last successful verification run. The daily workflow writes a heartbeat here so the mirror provably stays fresh.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>cURL</span>
+                <button class="copy-btn" data-copy="curl -s https://madhatter349.github.io/postalpro-zip-locale/data/last_checked.txt" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="comment"># e.g.</span>
+2026-08-25T10:11:57.234Z</pre>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- available states -->
-  <section class="section" id="states">
-    <div class="container">
+    <!-- ======== States (dark section) ======== -->
+    <section class="section section-dark" id="states">
       <div class="section-head">
-        <div>
-          <h2 class="section-title"><span class="hash">#</span> Available states</h2>
-          <div class="section-sub" id="statesStatus">Click a state to view its raw JSON.</div>
-        </div>
+        <div class="section-index">04 / STATES</div>
+        <h2>All 59 states &amp; <em class="serif">territories.</em></h2>
+        <p>Click any state to view its raw JSON. Counts shown per state.</p>
       </div>
-      <div class="states-grid" id="statesGrid"></div>
-    </div>
-  </section>
+      <div class="states-grid" id="statesGrid">
+        <div class="shimmer" style="grid-column:1/-1"></div>
+      </div>
+    </section>
 
-  <!-- schema -->
-  <section class="section" id="schema">
-    <div class="container">
+    <!-- ======== Schema ======== -->
+    <section class="section" id="schema">
       <div class="section-head">
-        <div>
-          <h2 class="section-title"><span class="hash">#</span> Record schema</h2>
-          <div class="section-sub">Every record in the dataset shares this shape.</div>
-        </div>
+        <div class="section-index">05 / SCHEMA</div>
+        <h2>One shape for <em class="serif">every record.</em></h2>
+        <p>Every record in the dataset shares this schema.</p>
       </div>
-      <div class="glass">
-        <div style="overflow-x:auto; padding: var(--sp-2) 0;">
-          <table class="schema-table">
-            <thead>
-              <tr><th>Field</th><th>Type</th><th>Description</th></tr>
-            </thead>
-            <tbody>
-              <tr><td class="field-name">area_name</td><td class="field-type">string</td><td class="field-desc">USPS area name</td></tr>
-              <tr><td class="field-name">area_code</td><td class="field-type">string</td><td class="field-desc">USPS area code</td></tr>
-              <tr><td class="field-name">district_name</td><td class="field-type">string</td><td class="field-desc">USPS district name</td></tr>
-              <tr><td class="field-name">district_no</td><td class="field-type">string</td><td class="field-desc">USPS district number</td></tr>
-              <tr><td class="field-name">delivery_zipcode</td><td class="field-type">string</td><td class="field-desc">5-digit delivery ZIP</td></tr>
-              <tr><td class="field-name">locale_name</td><td class="field-type">string</td><td class="field-desc">Post office / locale name</td></tr>
-              <tr><td class="field-name">physical_delivery_address</td><td class="field-type">string</td><td class="field-desc">Street address of the post office</td></tr>
-              <tr><td class="field-name">physical_city</td><td class="field-type">string</td><td class="field-desc">City</td></tr>
-              <tr><td class="field-name">physical_state</td><td class="field-type">string</td><td class="field-desc">2-letter state code</td></tr>
-              <tr><td class="field-name">physical_zip</td><td class="field-type">string</td><td class="field-desc">Physical location ZIP</td></tr>
-              <tr><td class="field-name">physical_zip4</td><td class="field-type">string|null</td><td class="field-desc">ZIP+4 extension</td></tr>
-            </tbody>
-          </table>
-        </div>
+      <div class="schema-wrap">
+        <table class="schema-table">
+          <thead>
+            <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="field-name">area_name</td><td class="field-type">string</td><td class="field-desc">USPS area name</td></tr>
+            <tr><td class="field-name">area_code</td><td class="field-type">string</td><td class="field-desc">USPS area code</td></tr>
+            <tr><td class="field-name">district_name</td><td class="field-type">string</td><td class="field-desc">USPS district name</td></tr>
+            <tr><td class="field-name">district_no</td><td class="field-type">string</td><td class="field-desc">USPS district number</td></tr>
+            <tr><td class="field-name">delivery_zipcode</td><td class="field-type">string</td><td class="field-desc">5-digit delivery ZIP</td></tr>
+            <tr><td class="field-name">locale_name</td><td class="field-type">string</td><td class="field-desc">Post office / locale name</td></tr>
+            <tr><td class="field-name">physical_delivery_address</td><td class="field-type">string</td><td class="field-desc">Street address of the post office</td></tr>
+            <tr><td class="field-name">physical_city</td><td class="field-type">string</td><td class="field-desc">City</td></tr>
+            <tr><td class="field-name">physical_state</td><td class="field-type">string</td><td class="field-desc">2-letter state code</td></tr>
+            <tr><td class="field-name">physical_zip</td><td class="field-type">string</td><td class="field-desc">Physical location ZIP</td></tr>
+            <tr><td class="field-name">physical_zip4</td><td class="field-type">string|null</td><td class="field-desc">ZIP+4 extension</td></tr>
+          </tbody>
+        </table>
       </div>
-    </div>
-  </section>
+    </section>
+  </main>
 
+  <!-- ======== Footer ======== -->
   <footer class="footer">
-    <div class="container">
-      <p>Data sourced from <a href="https://postalpro.usps.com/ZIP_Locale_Detail" target="_blank" rel="noopener">USPS PostalPro</a>. Updated daily via GitHub Actions.</p>
-      <div class="footer-links">
-        <a href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">View on GitHub</a>
-        <a href="https://github.com/madhatter349/postalpro-zip-locale/actions" target="_blank" rel="noopener">Workflow status</a>
+    <div class="footer-inner">
+      <div class="footer-grid">
+        <div class="footer-status">API operational</div>
+        <div class="footer-links">
+          <a href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">GitHub</a>
+          <a href="https://github.com/madhatter349/postalpro-zip-locale/actions" target="_blank" rel="noopener">Workflow status</a>
+          <a href="https://postalpro.usps.com/ZIP_Locale_Detail" target="_blank" rel="noopener">USPS source</a>
+        </div>
       </div>
-      <p style="margin-top: var(--sp-4)">© <span data-year></span> — mirror, not affiliated with USPS</p>
+      <div class="footer-note">© <span data-year></span> — ZIPLOC mirror · Not affiliated with USPS · Data © USPS PostalPro</div>
     </div>
   </footer>
 

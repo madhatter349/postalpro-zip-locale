@@ -1,6 +1,7 @@
 /**
- * Main site behaviour — nav, hero stats, endpoint accordions,
- * copy buttons, state grid. Explorer lives in explorer.js.
+ * Main site behaviour — nav/burger, hero receipt card,
+ * endpoint accordions, copy buttons, state grid.
+ * Explorer lives in explorer.js.
  */
 import { ZLP_UTILS } from "./utils.js";
 import { ZLP_EXPLORER } from "./explorer.js";
@@ -9,7 +10,7 @@ const ZLP_MAIN = (() => {
   const { fmt } = ZLP_UTILS;
 
   /* ------------------------------------------------------------------ */
-  /* hero stats + state grid                                            */
+  /* hero receipt card + state grid                                     */
   /* ------------------------------------------------------------------ */
 
   async function loadMeta() {
@@ -17,17 +18,20 @@ const ZLP_MAIN = (() => {
       const res = await fetch(`${BASE}/data/index.json`);
       const idx = await res.json();
 
-      setStat("statRecords", fmt(idx.total_records));
-      setStat("statStates", fmt(idx.state_count));
-      setStat("statUpdated", idx.last_updated || "—");
-      setStat("statChecked", prettyTime(idx.last_checked));
+      setStat("verdictRecords", `${fmt(idx.total_records)} records`);
+      setStat("factUpdated", idx.last_updated || "—");
+      setStat("factChecked", prettyTime(idx.last_checked));
+      setStat("receiptId", String(Math.floor(Math.random() * 9000) + 1000));
+      setStat("tickerRecords", fmt(idx.total_records));
+      setStat("tickerStates", fmt(idx.state_count));
+      setStat("tickerRecordsDup", fmt(idx.total_records));
+      setStat("tickerStatesDup", fmt(idx.state_count));
 
       renderStateGrid(idx.states);
     } catch {
-      setStat("statRecords", "—");
-      setStat("statStates", "—");
-      setStat("statUpdated", "—");
-      setStat("statChecked", "—");
+      setStat("verdictRecords", "—");
+      setStat("factUpdated", "—");
+      setStat("factChecked", "—");
     }
   }
 
@@ -92,6 +96,26 @@ const ZLP_MAIN = (() => {
   }
 
   /* ------------------------------------------------------------------ */
+  /* burger menu (mobile)                                               */
+  /* ------------------------------------------------------------------ */
+
+  function bindBurger() {
+    const burger = document.getElementById("burger");
+    const menu = document.getElementById("mobileMenu");
+    if (!burger || !menu) return;
+    burger.addEventListener("click", () => {
+      const open = menu.classList.toggle("open");
+      burger.setAttribute("aria-expanded", String(open));
+    });
+    menu.querySelectorAll("a").forEach(a => {
+      a.addEventListener("click", () => {
+        menu.classList.remove("open");
+        burger.setAttribute("aria-expanded", "false");
+      });
+    });
+  }
+
+  /* ------------------------------------------------------------------ */
   /* smooth scroll for anchor links                                     */
   /* ------------------------------------------------------------------ */
 
@@ -125,6 +149,7 @@ const ZLP_MAIN = (() => {
     loadMeta();
     bindEndpoints();
     bindCopy();
+    bindBurger();
     bindSmoothScroll();
     setYear();
     if (typeof ZLP_EXPLORER !== "undefined") {
