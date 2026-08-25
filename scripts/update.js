@@ -18,7 +18,9 @@ const PAGE_URL = `${BASE_URL}/ZIP_Locale_Detail`;
 
 const OUTPUT_ALL = path.resolve(__dirname, "../data/zip_locale_detail.json");
 const OUTPUT_STATES_DIR = path.resolve(__dirname, "../data/states");
+const OUTPUT_INDEX = path.resolve(__dirname, "../data/index.json");
 const LAST_UPDATED_FILE = path.resolve(__dirname, "../data/last_updated.txt");
+const LAST_CHECKED_FILE = path.resolve(__dirname, "../data/last_checked.txt");
 
 /* ------------------------------------------------------------------ */
 /* http client with cache                                              */
@@ -72,6 +74,8 @@ async function main() {
 
     if (lastKnownDate && !isNaN(lastKnownDate.getTime()) && pageDate.getTime() <= lastKnownDate.getTime()) {
       console.log("No new data — page date matches stored date. Skipping.");
+      fs.writeFileSync(LAST_CHECKED_FILE, new Date().toISOString(), "utf8");
+      console.log("Wrote heartbeat:", LAST_CHECKED_FILE);
       return;
     }
   }
@@ -150,7 +154,39 @@ async function main() {
     fs.writeFileSync(filePath, JSON.stringify(entries, null, 2), "utf8");
   }
 
+  /* remove stale state files no longer present in the dataset */
+  for (const file of fs.readdirSync(OUTPUT_STATES_DIR)) {
+    const state = path.basename(file, ".json");
+    if (!byState[state]) {
+      fs.rmSync(path.join(OUTPUT_STATES_DIR, file));
+      console.log(`Removed stale state file: ${file}`);
+    }
+  }
+
   console.log(`Wrote ${Object.keys(byState).length} state files`);
+
+  /* ------------------------------------------------------------------ */
+  /* write lightweight index                                             */
+  /* ------------------------------------------------------------------ */
+
+  const states = Object.keys(byState)
+    .filter(state => state !== "UNKNOWN")
+    .sort()
+    .map(state => ({
+      state,
+      count: byState[state].length
+    }));
+
+  const index = {
+    total_records: normalized.length,
+    state_count: states.length,
+    last_updated: pageDate && !isNaN(pageDate.getTime()) ? pageDateText : null,
+    last_checked: new Date().toISOString(),
+    states
+  };
+
+  fs.writeFileSync(OUTPUT_INDEX, JSON.stringify(index, null, 2), "utf8");
+  console.log("Wrote index:", OUTPUT_INDEX);
 
   /* ------------------------------------------------------------------ */
   /* save last-updated date                                             */
@@ -160,6 +196,10 @@ async function main() {
     fs.writeFileSync(LAST_UPDATED_FILE, pageDateText, "utf8");
     console.log("Saved last-updated date:", pageDateText);
   }
+
+  /* heartbeat — keeps the scheduled workflow active */
+  fs.writeFileSync(LAST_CHECKED_FILE, new Date().toISOString(), "utf8");
+  console.log("Wrote heartbeat:", LAST_CHECKED_FILE);
 }
 
 /* ------------------------------------------------------------------ */

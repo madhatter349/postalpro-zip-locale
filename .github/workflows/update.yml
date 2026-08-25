@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: zip-locale-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repo
@@ -23,14 +28,14 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Run updater
         run: npm run update
 
       - name: Commit changes
         run: |
-          # Stage only generated artifacts + lockfile
+          # Stage generated artifacts, heartbeat, and lockfile
           git add data package-lock.json
 
           if git diff --cached --quiet; then

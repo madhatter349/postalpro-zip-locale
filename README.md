@@ -1,5 +1,7 @@
 # USPS ZIP Locale Detail
 
+[![Update workflow](https://github.com/madhatter349/postalpro-zip-locale/actions/workflows/update.yml/badge.svg)](https://github.com/madhatter349/postalpro-zip-locale/actions/workflows/update.yml)
+
 Auto-updated JSON mirror of the [USPS PostalPro ZIP Locale Detail](https://postalpro.usps.com/ZIP_Locale_Detail) dataset. Updated daily via GitHub Actions and served as a free, open API through GitHub Pages.
 
 **Live API:** https://madhatter349.github.io/postalpro-zip-locale/
@@ -16,7 +18,9 @@ A GitHub Actions workflow runs daily at 6 AM UTC. It scrapes the USPS PostalPro 
 |---|---|
 | `/data/zip_locale_detail.json` | Full dataset (all states, all records) |
 | `/data/states/{STATE}.json` | Single state, e.g. `/data/states/NY.json` |
+| `/data/index.json` | Lightweight index: state list, record counts, last updated/checked |
 | `/data/last_updated.txt` | Date USPS last published new data |
+| `/data/last_checked.txt` | Date the mirror last verified the source (ISO timestamp) |
 
 State codes are 2-letter abbreviations, uppercase.
 
@@ -74,7 +78,9 @@ Each record contains:
 ├── scripts/update.js              # Scraper + parser
 ├── data/
 │   ├── zip_locale_detail.json     # Full dataset (generated)
+│   ├── index.json                 # States + counts + freshness (generated)
 │   ├── last_updated.txt           # USPS publish date (generated)
+│   ├── last_checked.txt           # Last verification time (generated)
 │   └── states/                    # Per-state JSON files (generated)
 │       ├── AL.json
 │       ├── AK.json
