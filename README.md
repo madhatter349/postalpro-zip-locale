@@ -18,7 +18,7 @@ A GitHub Actions workflow runs daily at 6 AM UTC. It scrapes the USPS PostalPro 
 |---|---|
 | `/data/zip_locale_detail.json` | Full dataset (all states, all records) |
 | `/data/states/{STATE}.json` | Single state, e.g. `/data/states/NY.json` |
-| `/data/index.json` | Lightweight index: state list, record counts, last updated/checked |
+| `/data/index.json` | Lightweight index: state list, record counts, freshness |
 | `/data/last_updated.txt` | Date USPS last published new data |
 | `/data/last_checked.txt` | Date the mirror last verified the source (ISO timestamp) |
 
@@ -65,10 +65,10 @@ Each record contains:
 ## How It Works
 
 1. **Scrape** — Fetches the PostalPro page and extracts the last-updated date
-2. **Compare** — Checks the date against `data/last_updated.txt`. If unchanged, exits early
+2. **Compare** — Checks the date against `data/last_updated.txt`. If unchanged, exits early (still writes a heartbeat so the scheduled workflow stays enabled)
 3. **Download** — Grabs the `.xls` file linked on the page
 4. **Parse** — Reads the spreadsheet with [SheetJS](https://sheetjs.com/) and normalizes column names
-5. **Write** — Outputs `zip_locale_detail.json` (full) and individual `states/{STATE}.json` files
+5. **Write** — Outputs `zip_locale_detail.json` (full), `index.json` (states/counts/freshness), and individual `states/{STATE}.json` files; prunes stale state files
 6. **Commit** — GitHub Actions commits any changes back to `main`, which triggers a Pages rebuild
 
 ## Project Structure
@@ -76,6 +76,9 @@ Each record contains:
 ```
 ├── .github/workflows/update.yml   # Daily cron job
 ├── scripts/update.js              # Scraper + parser
+├── assets/                        # Static site (CSS + JS)
+│   ├── css/theme.css              # 2026 dark-glass theme
+│   └── js/                        # utils / explorer / main modules
 ├── data/
 │   ├── zip_locale_detail.json     # Full dataset (generated)
 │   ├── index.json                 # States + counts + freshness (generated)
@@ -85,7 +88,8 @@ Each record contains:
 │       ├── AL.json
 │       ├── AK.json
 │       └── ...
-├── index.html                     # API docs landing page
+├── index.html                     # API docs + interactive explorer
+├── .nojekyll                      # Disable Jekyll for Pages
 └── package.json
 ```
 
@@ -95,7 +99,13 @@ Each record contains:
 git clone https://github.com/madhatter349/postalpro-zip-locale.git
 cd postalpro-zip-locale
 npm install
-npm run update
+npm run update   # regenerate the dataset
+```
+
+Then open `index.html` in a browser, or serve with any static server:
+
+```bash
+python3 -m http.server 8000
 ```
 
 Requires Node.js 20+.

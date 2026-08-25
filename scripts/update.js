@@ -182,6 +182,7 @@ async function main() {
     state_count: states.length,
     last_updated: pageDate && !isNaN(pageDate.getTime()) ? pageDateText : null,
     last_checked: new Date().toISOString(),
+    generated_at: new Date().toISOString(),
     states
   };
 
