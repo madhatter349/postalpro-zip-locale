@@ -109,9 +109,29 @@ const ZLP_EXPLORER = (() => {
 
   function populateStateFilter(states) {
     const current = els.stateFilter.value;
-    els.stateFilter.innerHTML =
-      `<option value="ALL">All states</option>` +
-      states.map(s => `<option value="${s.state}">${s.state} — ${fmt(s.count)}</option>`).join("");
+    const groups = { state: [], district: [], territory: [], federated: [], other: [] };
+    for (const s of states) {
+      const k = s.kind || "other";
+      if (!groups[k]) groups[k] = [];
+      groups[k].push(s);
+    }
+
+    const GROUP_LABELS = {
+      state: "States",
+      district: "Federal district",
+      territory: "Territories",
+      federated: "Freely associated",
+      other: "Other",
+    };
+
+    let html = `<option value="ALL">All areas</option>`;
+    for (const [kind, list] of Object.entries(groups)) {
+      if (!list.length) continue;
+      html += `<optgroup label="${GROUP_LABELS[kind] || kind}">`;
+      html += list.map(s => `<option value="${s.state}">${s.state} — ${fmt(s.count)}</option>`).join("");
+      html += `</optgroup>`;
+    }
+    els.stateFilter.innerHTML = html;
     els.stateFilter.value = current || "ALL";
   }
 

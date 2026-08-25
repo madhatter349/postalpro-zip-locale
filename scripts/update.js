@@ -177,12 +177,52 @@ async function main() {
       count: byState[state].length
     }));
 
+  /* classify each code so the UI can group accurately */
+  const KIND = {
+    // 50 states
+    AK:"state",AL:"state",AR:"state",AZ:"state",CA:"state",CO:"state",CT:"state",DE:"state",FL:"state",GA:"state",HI:"state",IA:"state",ID:"state",IL:"state",IN:"state",KS:"state",KY:"state",LA:"state",MA:"state",MD:"state",ME:"state",MI:"state",MN:"state",MO:"state",MS:"state",MT:"state",NC:"state",ND:"state",NE:"state",NH:"state",NJ:"state",NM:"state",NV:"state",NY:"state",OH:"state",OK:"state",OR:"state",PA:"state",RI:"state",SC:"state",SD:"state",TN:"state",TX:"state",UT:"state",VA:"state",VT:"state",WA:"state",WI:"state",WV:"state",WY:"state",
+    // federal district
+    DC:"district",
+    // territories
+    AS:"territory",GU:"territory",PR:"territory",VI:"territory",MP:"territory",
+    // freely associated states / outlying
+    FM:"federated",MH:"federated",PW:"federated"
+  };
+
+  const kindOf = state => KIND[state] || "other";
+
+  for (const s of states) {
+    s.kind = kindOf(s.state);
+  }
+
+  const groups = {
+    state: [],
+    district: [],
+    territory: [],
+    federated: [],
+    other: []
+  };
+
+  for (const s of states) {
+    const k = kindOf(s.state);
+    if (!groups[k]) groups[k] = [];
+    groups[k].push(s.state);
+  }
+
+  const stateBreakdown = {
+    states: groups.state.length,
+    district: groups.district.length,
+    territories: groups.territory.length,
+    federated: groups.federated.length
+  };
+
   const index = {
     total_records: normalized.length,
     state_count: states.length,
     last_updated: pageDate && !isNaN(pageDate.getTime()) ? pageDateText : null,
     last_checked: new Date().toISOString(),
     generated_at: new Date().toISOString(),
+    state_breakdown: stateBreakdown,
     states
   };
 

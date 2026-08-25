@@ -1,6 +1,6 @@
 /**
- * Main site behaviour — nav/burger, hero receipt card,
- * endpoint accordions, copy buttons, state grid.
+ * Main site behaviour — nav/burger, hero manifest card,
+ * endpoint accordions, copy buttons, coverage grid.
  * Explorer lives in explorer.js.
  */
 import { ZLP_UTILS } from "./utils.js";
@@ -10,7 +10,7 @@ const ZLP_MAIN = (() => {
   const { fmt } = ZLP_UTILS;
 
   /* ------------------------------------------------------------------ */
-  /* hero receipt card + state grid                                     */
+  /* hero manifest card + coverage grid                                 */
   /* ------------------------------------------------------------------ */
 
   async function loadMeta() {
@@ -18,16 +18,22 @@ const ZLP_MAIN = (() => {
       const res = await fetch(`${BASE}/data/index.json`);
       const idx = await res.json();
 
-      setStat("verdictRecords", `${fmt(idx.total_records)} records`);
+      setStat("verdictRecords", fmt(idx.total_records));
       setStat("factUpdated", idx.last_updated || "—");
       setStat("factChecked", prettyTime(idx.last_checked));
-      setStat("receiptId", String(Math.floor(Math.random() * 9000) + 1000));
-      setStat("tickerRecords", fmt(idx.total_records));
-      setStat("tickerStates", fmt(idx.state_count));
-      setStat("tickerRecordsDup", fmt(idx.total_records));
-      setStat("tickerStatesDup", fmt(idx.state_count));
 
-      renderStateGrid(idx.states);
+      const b = idx.state_breakdown || {};
+      const coverage = [
+        b.states ? `${b.states} states` : "50 states",
+        b.district ? `+ ${b.district} district` : "+ DC",
+        b.territories ? `+ ${b.territories} territories` : "+ territories",
+      ].join(" ");
+      setStat("factCoverage", coverage);
+
+      setStat("tickerRecords", fmt(idx.total_records));
+      setStat("tickerRecordsDup", fmt(idx.total_records));
+
+      renderCoverage(idx.states);
     } catch {
       setStat("verdictRecords", "—");
       setStat("factUpdated", "—");
@@ -49,16 +55,44 @@ const ZLP_MAIN = (() => {
     return `${Math.floor(diff / 86400)}d ago`;
   }
 
-  function renderStateGrid(states) {
-    const grid = document.getElementById("statesGrid");
-    if (!grid) return;
-    grid.innerHTML = states
+  const GROUP_LABELS = {
+    state: "50 states",
+    district: "Federal district",
+    territory: "Territories",
+    federated: "Freely associated states",
+    other: "Other",
+  };
+
+  function renderCoverage(states) {
+    const root = document.getElementById("statesGroups");
+    if (!root) return;
+
+    const groups = { state: [], district: [], territory: [], federated: [], other: [] };
+    for (const s of states) {
+      const k = s.kind || "other";
+      if (!groups[k]) groups[k] = [];
+      groups[k].push(s);
+    }
+
+    const html = Object.entries(groups)
+      .filter(([, list]) => list.length)
       .map(
-        s =>
-          `<a class="state-chip" href="${BASE}/data/states/${s.state}.json" target="_blank" rel="noopener">` +
-          `${s.state}<span class="st-count">${fmt(s.count)}</span></a>`
+        ([kind, list]) =>
+          `<div class="state-group">` +
+          `<h3>${GROUP_LABELS[kind] || kind} <span class="grp-count">(${list.length})</span></h3>` +
+          `<div class="states-grid">` +
+          list
+            .map(
+              s =>
+                `<a class="state-chip" href="${BASE}/data/states/${s.state}.json" target="_blank" rel="noopener">` +
+                `${s.state}<span class="st-count">${fmt(s.count)}</span></a>`
+            )
+            .join("") +
+          `</div></div>`
       )
       .join("");
+
+    root.innerHTML = html;
   }
 
   /* ------------------------------------------------------------------ */

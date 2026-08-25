@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>USPS ZIP Locale Detail — Open API</title>
-  <meta name="description" content="Auto-updated JSON mirror of the USPS PostalPro ZIP Locale Detail dataset. Search ZIPs, cities, and post offices with a free, open static API.">
+  <title>USPS ZIP Locale API — Open, auto-updated dataset</title>
+  <meta name="description" content="An open, auto-updated JSON API mirroring the USPS PostalPro ZIP Locale Detail dataset. Search ZIPs, cities, and post offices across all 50 states, DC, and territories.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=IBM+Plex+Mono:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/theme.css">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2311120f'/%3E%3Ctext x='50' y='72' font-size='64' text-anchor='middle' fill='%23b5a400' font-family='monospace'%3EZ%3C/text%3E%3C/svg%3E">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2311120f'/%3E%3Ctext x='50' y='72' font-size='64' text-anchor='middle' fill='%23b5a400' font-family='monospace'%3E%E2%97%8F%3C/text%3E%3C/svg%3E">
 </head>
 <body>
 
@@ -17,16 +17,16 @@
   <header class="marketing-header">
     <div class="topbar">
       <a class="brand" href="#top">
-        <span class="brand-mark">Z</span>
-        <span class="brand-text">ZIPLOC</span>
+        <span class="brand-mark">⌂</span>
+        <span class="brand-text">USPS&nbsp;ZIP&nbsp;LOCALE</span>
         <span class="brand-divider"></span>
-        <span class="brand-sub">Locale detail</span>
+        <span class="brand-sub">Open API</span>
       </a>
       <nav>
         <ul class="nav-links">
           <li><a href="#explorer">Explorer</a></li>
           <li><a href="#endpoints">Endpoints</a></li>
-          <li><a href="#states">States</a></li>
+          <li><a href="#states">Coverage</a></li>
           <li><a href="#schema">Schema</a></li>
           <li><a class="nav-cta" href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">GitHub →</a></li>
         </ul>
@@ -39,7 +39,7 @@
       <ul>
         <li><a href="#explorer">01 / Explorer</a></li>
         <li><a href="#endpoints">02 / Endpoints</a></li>
-        <li><a href="#states">03 / States</a></li>
+        <li><a href="#states">03 / Coverage</a></li>
         <li><a href="#schema">04 / Schema</a></li>
         <li><a href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">GitHub</a></li>
       </ul>
@@ -51,43 +51,41 @@
     <!-- ======== Hero ======== -->
     <section class="hero">
       <div class="hero-copy">
-        <div class="section-index">01 / THE SYSTEM</div>
-        <h1>Every ZIP. <em class="serif">One open API.</em></h1>
-        <p class="lede">A daily-mirrored JSON mirror of the USPS PostalPro ZIP Locale Detail dataset. Query state-level or full data — no key, no rate limits, no server.</p>
+        <div class="section-index">01 / THE DATASET</div>
+        <h1>Every ZIP locale.<br><em class="serif">One open API.</em></h1>
+        <p class="lede">An auto-updated JSON mirror of the USPS PostalPro ZIP Locale Detail dataset. Query the full file or one of 59 state-level slices — no key, no rate limits, no server.</p>
         <div class="hero-actions">
           <a class="btn-primary" href="#explorer">Explore the data ↓</a>
           <a class="btn-secondary" href="#endpoints">Read the docs</a>
         </div>
       </div>
 
-      <!-- terminal receipt card -->
-      <aside class="routing-card" aria-label="Dataset status">
-        <div class="receipt-header">
-          <span class="receipt-id">zid_<span id="receiptId">0000</span></span>
-          <span class="route-live">Live dataset</span>
+      <!-- dataset manifest card -->
+      <aside class="manifest-card" aria-label="Dataset manifest">
+        <div class="manifest-head">
+          <span class="manifest-id">zip_locale_detail.json</span>
+          <span class="manifest-live">● Auto-updated</span>
         </div>
-        <div class="receipt-body">
-          <div class="verdict">
-            <div class="verdict-node">✓</div>
-            <div>
-              <div class="verdict-text" id="verdictRecords">44,339 records</div>
-              <div class="verdict-sub">across 59 states &amp; territories</div>
-            </div>
+        <div class="manifest-body">
+          <div class="manifest-hero">
+            <div class="manifest-total" id="verdictRecords">44,339</div>
+            <div class="manifest-label">records</div>
           </div>
-          <dl class="facts">
+          <dl class="manifest-facts">
+            <div><dt>Coverage</dt><dd id="factCoverage">50 states + DC + territories</dd></div>
             <div><dt>USPS published</dt><dd id="factUpdated">—</dd></div>
             <div><dt>Last verified</dt><dd id="factChecked">—</dd></div>
-            <div><dt>Format</dt><dd>JSON / UTF-8</dd></div>
-            <div><dt>Refresh</dt><dd>Daily · 06:00 UTC</dd></div>
+            <div><dt>Format</dt><dd>JSON · UTF-8</dd></div>
           </dl>
-          <div class="receipt-status">
-            <span class="ok">● API operational</span>
-            <span>v2</span>
+          <div class="manifest-bar">
+            <span class="bar-label">Refresh cadence</span>
+            <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+            <span class="bar-value">Daily · 06:00 UTC</span>
           </div>
         </div>
-        <div class="receipt-footer">
-          <span>github.com/madhatter349</span>
-          <span>postalpro-zip-locale</span>
+        <div class="manifest-foot">
+          <span>Source: postalpro.usps.com</span>
+          <span>Apache-2.0 licensed data</span>
         </div>
       </aside>
     </section>
@@ -95,8 +93,8 @@
     <!-- ======== Ticker ======== -->
     <div class="ticker" aria-hidden="true">
       <div class="ticker-track" id="tickerTrack">
-        <span>Free · No auth required</span><span id="tickerRecords">44,339 records</span><span id="tickerStates">59 states &amp; territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
-        <span>Free · No auth required</span><span id="tickerRecordsDup">44,339 records</span><span id="tickerStatesDup">59 states &amp; territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
+        <span>Free · No auth required</span><span id="tickerRecords">44,339 records</span><span>50 states + DC + territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
+        <span>Free · No auth required</span><span id="tickerRecordsDup">44,339 records</span><span>50 states + DC + territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
       </div>
     </div>
 
@@ -105,7 +103,7 @@
       <div class="section-head">
         <div class="section-index">02 / EXPLORE</div>
         <h2>Search the <em class="serif">full dataset.</em></h2>
-        <p>Streams all state files in parallel, then filters instantly — search by ZIP, city, locale, or district, and sort any column.</p>
+        <p>Streams all state-level files in parallel, then filters instantly — search by ZIP, city, locale, or district, and sort any column.</p>
       </div>
 
       <div class="explorer-shell">
@@ -114,8 +112,8 @@
             <span class="search-icon">⌕</span>
             <input id="zlpSearch" type="search" placeholder="Search ZIP, city, locale, district…" autocomplete="off">
           </div>
-          <select id="zlpStateFilter" title="Filter by state">
-            <option value="ALL">All states…</option>
+          <select id="zlpStateFilter" title="Filter by coverage area">
+            <option value="ALL">All areas…</option>
           </select>
         </div>
         <div class="stream-progress" id="zlpProgress" style="display:none">
@@ -174,12 +172,12 @@
         <div class="endpoint">
           <div class="endpoint-header">
             <span class="method">GET</span>
-            <span class="endpoint-path">/data/states/<span class="param">{STATE}</span>.json</span>
-            <span class="endpoint-desc">Filter by state</span>
+            <span class="endpoint-path">/data/states/<span class="param">{CODE}</span>.json</span>
+            <span class="endpoint-desc">By state / territory</span>
             <span class="endpoint-toggle">+</span>
           </div>
           <div class="endpoint-body">
-            <p>All records for one state. Uppercase 2-letter code (<code style="font-family:var(--font-machine);color:var(--lime-muted)">CA</code>, <code style="font-family:var(--font-machine);color:var(--lime-muted)">NY</code>…).</p>
+            <p>All records for one state, territory, or district. Uppercase 2-letter code (<code style="font-family:var(--font-machine);color:var(--lime-muted)">CA</code>, <code style="font-family:var(--font-machine);color:var(--lime-muted)">PR</code>, <code style="font-family:var(--font-machine);color:var(--lime-muted)">DC</code>…).</p>
             <div class="code-block">
               <div class="code-block-label">
                 <span>Python</span>
@@ -202,20 +200,20 @@ data = requests.<span class="keyword">get</span>(
           <div class="endpoint-header">
             <span class="method">GET</span>
             <span class="endpoint-path">/data/index.json</span>
-            <span class="endpoint-desc">States &amp; freshness</span>
+            <span class="endpoint-desc">Coverage &amp; freshness</span>
             <span class="endpoint-toggle">+</span>
           </div>
           <div class="endpoint-body">
-            <p>Lightweight index: state codes, record counts, and freshness timestamps. Discover available states without the full download.</p>
+            <p>Lightweight index: every area code, its record count, kind (state / district / territory / federated), and freshness timestamps.</p>
             <div class="code-block">
               <div class="code-block-label">
                 <span>cURL</span>
                 <button class="copy-btn" data-copy="curl -s https://madhatter349.github.io/postalpro-zip-locale/data/index.json | jq '.states'" data-label="Copy">Copy</button>
               </div>
-              <pre><span class="comment"># states + counts + last_checked</span>
+              <pre><span class="comment"># states + counts + kinds + freshness</span>
 <span class="punct">{</span>
   <span class="keyword">"state_count"</span>: <span class="number">59</span>,
-  <span class="keyword">"last_updated"</span>: <span class="string">"July 01, 2026"</span>,
+  <span class="keyword">"state_breakdown"</span>: <span class="punct">{</span> <span class="keyword">"states"</span>: <span class="number">50</span>, <span class="keyword">"district"</span>: <span class="number">1</span>, <span class="keyword">"territories"</span>: <span class="number">5</span>, <span class="keyword">"federated"</span>: <span class="number">3</span> <span class="punct">}</span>,
   <span class="keyword">"states"</span>: <span class="punct">[</span> <span class="punct">…</span> <span class="punct">]</span>
 <span class="punct">}</span></pre>
             </div>
@@ -267,14 +265,14 @@ data = requests.<span class="keyword">get</span>(
       </div>
     </section>
 
-    <!-- ======== States (dark section) ======== -->
+    <!-- ======== Coverage (dark section) ======== -->
     <section class="section section-dark" id="states">
       <div class="section-head">
-        <div class="section-index">04 / STATES</div>
-        <h2>All 59 states &amp; <em class="serif">territories.</em></h2>
-        <p>Click any state to view its raw JSON. Counts shown per state.</p>
+        <div class="section-index">04 / COVERAGE</div>
+        <h2>All 50 states, <em class="serif">plus territories.</em></h2>
+        <p>59 two-letter codes: 50 states, Washington DC, 5 territories, and 3 freely associated states. Click any chip to view its raw JSON — counts shown.</p>
       </div>
-      <div class="states-grid" id="statesGrid">
+      <div id="statesGroups" class="states-groups">
         <div class="shimmer" style="grid-column:1/-1"></div>
       </div>
     </section>
@@ -320,7 +318,7 @@ data = requests.<span class="keyword">get</span>(
           <a href="https://postalpro.usps.com/ZIP_Locale_Detail" target="_blank" rel="noopener">USPS source</a>
         </div>
       </div>
-      <div class="footer-note">© <span data-year></span> — ZIPLOC mirror · Not affiliated with USPS · Data © USPS PostalPro</div>
+      <div class="footer-note">© <span data-year></span> — USPS ZIP Locale API mirror · Not affiliated with USPS · Data © USPS PostalPro</div>
     </div>
   </footer>
 

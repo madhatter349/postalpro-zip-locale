@@ -16,13 +16,13 @@ A GitHub Actions workflow runs daily at 6 AM UTC. It scrapes the USPS PostalPro 
 
 | Endpoint | Description |
 |---|---|
-| `/data/zip_locale_detail.json` | Full dataset (all states, all records) |
-| `/data/states/{STATE}.json` | Single state, e.g. `/data/states/NY.json` |
-| `/data/index.json` | Lightweight index: state list, record counts, freshness |
+| `/data/zip_locale_detail.json` | Full dataset (all records, ~15 MB) |
+| `/data/states/{CODE}.json` | Single state/territory, e.g. `/data/states/NY.json` |
+| `/data/index.json` | Lightweight index: area codes, kinds, counts, freshness |
 | `/data/last_updated.txt` | Date USPS last published new data |
 | `/data/last_checked.txt` | Date the mirror last verified the source (ISO timestamp) |
 
-State codes are 2-letter abbreviations, uppercase.
+Codes are 2-letter USPS abbreviations, uppercase. The dataset covers **50 states, Washington DC, 5 territories, and 3 freely associated states** — `index.json` classifies each code via a `kind` field (`state` / `district` / `territory` / `federated`).
 
 ## Example Usage
 
@@ -68,7 +68,7 @@ Each record contains:
 2. **Compare** — Checks the date against `data/last_updated.txt`. If unchanged, exits early (still writes a heartbeat so the scheduled workflow stays enabled)
 3. **Download** — Grabs the `.xls` file linked on the page
 4. **Parse** — Reads the spreadsheet with [SheetJS](https://sheetjs.com/) and normalizes column names
-5. **Write** — Outputs `zip_locale_detail.json` (full), `index.json` (states/counts/freshness), and individual `states/{STATE}.json` files; prunes stale state files
+5. **Write** — Outputs `zip_locale_detail.json` (full), `index.json` (codes/kinds/counts/freshness), and individual `states/{CODE}.json` files; prunes stale files
 6. **Commit** — GitHub Actions commits any changes back to `main`, which triggers a Pages rebuild
 
 ## Project Structure
@@ -77,7 +77,7 @@ Each record contains:
 ├── .github/workflows/update.yml   # Daily cron job
 ├── scripts/update.js              # Scraper + parser
 ├── assets/                        # Static site (CSS + JS)
-│   ├── css/theme.css              # 2026 dark-glass theme
+│   ├── css/theme.css              # Neo-brutalist dark-yellow theme
 │   └── js/                        # utils / explorer / main modules
 ├── data/
 │   ├── zip_locale_detail.json     # Full dataset (generated)

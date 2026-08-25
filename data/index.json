@@ -2,243 +2,309 @@
   "total_records": 44339,
   "state_count": 59,
   "last_updated": "July 01, 2026",
-  "last_checked": "2026-08-25T10:10:41.208Z",
+  "last_checked": "2026-08-25T10:44:21.082Z",
+  "generated_at": "2026-08-25T10:44:21.082Z",
+  "state_breakdown": {
+    "states": 50,
+    "district": 1,
+    "territories": 5,
+    "federated": 3
+  },
   "states": [
     {
       "state": "AK",
-      "count": 281
+      "count": 281,
+      "kind": "state"
     },
     {
       "state": "AL",
-      "count": 806
+      "count": 806,
+      "kind": "state"
     },
     {
       "state": "AR",
-      "count": 769
+      "count": 769,
+      "kind": "state"
     },
     {
       "state": "AS",
-      "count": 1
+      "count": 1,
+      "kind": "territory"
     },
     {
       "state": "AZ",
-      "count": 524
+      "count": 524,
+      "kind": "state"
     },
     {
       "state": "CA",
-      "count": 2594
+      "count": 2594,
+      "kind": "state"
     },
     {
       "state": "CO",
-      "count": 643
+      "count": 643,
+      "kind": "state"
     },
     {
       "state": "CT",
-      "count": 470
+      "count": 470,
+      "kind": "state"
     },
     {
       "state": "DC",
-      "count": 56
+      "count": 56,
+      "kind": "district"
     },
     {
       "state": "DE",
-      "count": 101
+      "count": 101,
+      "kind": "state"
     },
     {
       "state": "FL",
-      "count": 1472
+      "count": 1472,
+      "kind": "state"
     },
     {
       "state": "FM",
-      "count": 4
+      "count": 4,
+      "kind": "federated"
     },
     {
       "state": "GA",
-      "count": 1045
+      "count": 1045,
+      "kind": "state"
     },
     {
       "state": "GU",
-      "count": 16
+      "count": 16,
+      "kind": "territory"
     },
     {
       "state": "HI",
-      "count": 130
+      "count": 130,
+      "kind": "state"
     },
     {
       "state": "IA",
-      "count": 1189
+      "count": 1189,
+      "kind": "state"
     },
     {
       "state": "ID",
-      "count": 319
+      "count": 319,
+      "kind": "state"
     },
     {
       "state": "IL",
-      "count": 1727
+      "count": 1727,
+      "kind": "state"
     },
     {
       "state": "IN",
-      "count": 1077
+      "count": 1077,
+      "kind": "state"
     },
     {
       "state": "KS",
-      "count": 905
+      "count": 905,
+      "kind": "state"
     },
     {
       "state": "KY",
-      "count": 1128
+      "count": 1128,
+      "kind": "state"
     },
     {
       "state": "LA",
-      "count": 717
+      "count": 717,
+      "kind": "state"
     },
     {
       "state": "MA",
-      "count": 811
+      "count": 811,
+      "kind": "state"
     },
     {
       "state": "MD",
-      "count": 646
+      "count": 646,
+      "kind": "state"
     },
     {
       "state": "ME",
-      "count": 535
+      "count": 535,
+      "kind": "state"
     },
     {
       "state": "MH",
-      "count": 2
+      "count": 2,
+      "kind": "federated"
     },
     {
       "state": "MI",
-      "count": 1296
+      "count": 1296,
+      "kind": "state"
     },
     {
       "state": "MN",
-      "count": 1077
+      "count": 1077,
+      "kind": "state"
     },
     {
       "state": "MO",
-      "count": 1433
+      "count": 1433,
+      "kind": "state"
     },
     {
       "state": "MP",
-      "count": 6
+      "count": 6,
+      "kind": "territory"
     },
     {
       "state": "MS",
-      "count": 537
+      "count": 537,
+      "kind": "state"
     },
     {
       "state": "MT",
-      "count": 409
+      "count": 409,
+      "kind": "state"
     },
     {
       "state": "NC",
-      "count": 1178
+      "count": 1178,
+      "kind": "state"
     },
     {
       "state": "ND",
-      "count": 479
+      "count": 479,
+      "kind": "state"
     },
     {
       "state": "NE",
-      "count": 716
+      "count": 716,
+      "kind": "state"
     },
     {
       "state": "NH",
-      "count": 327
+      "count": 327,
+      "kind": "state"
     },
     {
       "state": "NJ",
-      "count": 988
+      "count": 988,
+      "kind": "state"
     },
     {
       "state": "NM",
-      "count": 401
+      "count": 401,
+      "kind": "state"
     },
     {
       "state": "NV",
-      "count": 230
+      "count": 230,
+      "kind": "state"
     },
     {
       "state": "NY",
-      "count": 2319
+      "count": 2319,
+      "kind": "state"
     },
     {
       "state": "OH",
-      "count": 1592
+      "count": 1592,
+      "kind": "state"
     },
     {
       "state": "OK",
-      "count": 845
+      "count": 845,
+      "kind": "state"
     },
     {
       "state": "OR",
-      "count": 524
+      "count": 524,
+      "kind": "state"
     },
     {
       "state": "PA",
-      "count": 2406
+      "count": 2406,
+      "kind": "state"
     },
     {
       "state": "PR",
-      "count": 189
+      "count": 189,
+      "kind": "territory"
     },
     {
       "state": "PW",
-      "count": 1
+      "count": 1,
+      "kind": "federated"
     },
     {
       "state": "RI",
-      "count": 105
+      "count": 105,
+      "kind": "state"
     },
     {
       "state": "SC",
-      "count": 571
+      "count": 571,
+      "kind": "state"
     },
     {
       "state": "SD",
-      "count": 452
+      "count": 452,
+      "kind": "state"
     },
     {
       "state": "TN",
-      "count": 811
+      "count": 811,
+      "kind": "state"
     },
     {
       "state": "TX",
-      "count": 2546
+      "count": 2546,
+      "kind": "state"
     },
     {
       "state": "UT",
-      "count": 351
+      "count": 351,
+      "kind": "state"
     },
     {
       "state": "VA",
-      "count": 1341
+      "count": 1341,
+      "kind": "state"
     },
     {
       "state": "VI",
-      "count": 18
+      "count": 18,
+      "kind": "territory"
     },
     {
       "state": "VT",
-      "count": 336
+      "count": 336,
+      "kind": "state"
     },
     {
       "state": "WA",
-      "count": 765
+      "count": 765,
+      "kind": "state"
     },
     {
       "state": "WI",
-      "count": 995
+      "count": 995,
+      "kind": "state"
     },
     {
       "state": "WV",
-      "count": 923
+      "count": 923,
+      "kind": "state"
     },
     {
       "state": "WY",
-      "count": 202
+      "count": 202,
+      "kind": "state"
     }
   ]
 }
