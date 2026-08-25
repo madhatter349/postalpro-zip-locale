@@ -151,7 +151,7 @@ const ZLP_EXPLORER = (() => {
     }
   }
 
-  /** Stream all 59 state files, merging as they arrive. */
+  /** Stream all area files (states + territories), merging as they arrive. */
   async function streamAll() {
     abortStream();
     state.sourceState = "ALL";
