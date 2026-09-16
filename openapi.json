@@ -1,0 +1,266 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "USPS ZIP Locale API",
+    "version": "2.0.0",
+    "description": "Free, auto-updated mirror of the USPS PostalPro ZIP Locale Detail dataset, served as static JSON/CSV/SQLite files from GitHub Pages. No authentication, no rate limits, CORS enabled.",
+    "license": {
+      "name": "Apache-2.0",
+      "identifier": "Apache-2.0"
+    },
+    "contact": {
+      "name": "Project repository",
+      "url": "https://github.com/madhatter349/postalpro-zip-locale"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://madhatter349.github.io/postalpro-zip-locale",
+      "description": "GitHub Pages (production)"
+    }
+  ],
+  "tags": [
+    { "name": "Data", "description": "ZIP locale records" },
+    { "name": "Metadata", "description": "Index, health, changelog, provenance" },
+    { "name": "Formats", "description": "CSV and SQLite downloads" },
+    { "name": "Freshness", "description": "Plain-text freshness probes" }
+  ],
+  "paths": {
+    "/data/zip_locale_detail.json": {
+      "get": {
+        "tags": ["Data"],
+        "summary": "Full dataset",
+        "description": "Every ZIP locale record as a single JSON array (~15 MB). Prefer a state file for smaller payloads.",
+        "operationId": "getFullDataset",
+        "responses": {
+          "200": {
+            "description": "Array of ZIP locale records",
+            "content": {
+              "application/json": {
+                "schema": { "type": "array", "items": { "$ref": "./data/schema.json#/$defs/record" } }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/states/{code}.json": {
+      "get": {
+        "tags": ["Data"],
+        "summary": "Records for one state, territory, or district",
+        "operationId": "getStateDataset",
+        "parameters": [
+          {
+            "name": "code",
+            "in": "path",
+            "required": true,
+            "description": "Uppercase 2-letter USPS code (CA, NY, PR, DC…), or UNKNOWN for the rare row with no state.",
+            "schema": { "type": "string", "pattern": "^([A-Z]{2}|UNKNOWN)$" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of ZIP locale records for the requested area",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "./data/schema.json#/$defs/stateFile" }
+              }
+            }
+          },
+          "404": { "description": "Unknown area code" }
+        }
+      }
+    },
+    "/data/index.json": {
+      "get": {
+        "tags": ["Metadata"],
+        "summary": "Coverage index and freshness",
+        "description": "Lightweight index with every area code, its record count, kind, and freshness/provenance metadata.",
+        "operationId": "getIndex",
+        "responses": {
+          "200": {
+            "description": "Dataset index",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "./data/schema.json#/$defs/index" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/health.json": {
+      "get": {
+        "tags": ["Metadata"],
+        "summary": "Mirror health",
+        "description": "Result of the most recent update run. `status` flips to `error` if a scheduled run fails.",
+        "operationId": "getHealth",
+        "responses": {
+          "200": {
+            "description": "Health report",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "./data/schema.json#/$defs/health" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/changes.json": {
+      "get": {
+        "tags": ["Metadata"],
+        "summary": "Latest change set",
+        "description": "Diff between the previous and current publishes: added, removed, and changed records.",
+        "operationId": "getChanges",
+        "responses": {
+          "200": {
+            "description": "Change set",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "./data/schema.json#/$defs/changeSet" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/history.json": {
+      "get": {
+        "tags": ["Metadata"],
+        "summary": "Update history",
+        "description": "One entry per data-updating run (up to 400), with record totals and diff counts.",
+        "operationId": "getHistory",
+        "responses": {
+          "200": {
+            "description": "Array of history entries",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "./data/schema.json#/$defs/historyEntry" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/source.json": {
+      "get": {
+        "tags": ["Metadata"],
+        "summary": "Source provenance",
+        "description": "URL, SHA-256, byte size, Last-Modified, and published date of the upstream spreadsheet that produced the current dataset.",
+        "operationId": "getSource",
+        "responses": {
+          "200": {
+            "description": "Provenance for the mirrored source file",
+            "content": { "application/json": { "schema": { "type": "object" } } }
+          }
+        }
+      }
+    },
+    "/data/schema.json": {
+      "get": {
+        "tags": ["Metadata"],
+        "summary": "JSON Schema",
+        "description": "JSON Schema (2020-12) for records and every metadata artifact.",
+        "operationId": "getSchema",
+        "responses": {
+          "200": {
+            "description": "JSON Schema document",
+            "content": { "application/json": { "schema": { "type": "object" } } }
+          }
+        }
+      }
+    },
+    "/openapi.json": {
+      "get": {
+        "tags": ["Metadata"],
+        "summary": "This OpenAPI document",
+        "operationId": "getOpenApi",
+        "responses": {
+          "200": {
+            "description": "OpenAPI 3.1 description of the API",
+            "content": { "application/json": { "schema": { "type": "object" } } }
+          }
+        }
+      }
+    },
+    "/data/csv/zip_locale_detail.csv": {
+      "get": {
+        "tags": ["Formats"],
+        "summary": "Full dataset as CSV",
+        "operationId": "getFullCsv",
+        "responses": {
+          "200": {
+            "description": "RFC 4180 CSV with a header row",
+            "content": { "text/csv": { "schema": { "type": "string" } } }
+          }
+        }
+      }
+    },
+    "/data/csv/{code}.csv": {
+      "get": {
+        "tags": ["Formats"],
+        "summary": "One area as CSV",
+        "operationId": "getStateCsv",
+        "parameters": [
+          {
+            "name": "code",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string", "pattern": "^([A-Z]{2}|UNKNOWN)$" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "RFC 4180 CSV for the requested area",
+            "content": { "text/csv": { "schema": { "type": "string" } } }
+          },
+          "404": { "description": "Unknown area code" }
+        }
+      }
+    },
+    "/data/zip_locale_detail.sqlite": {
+      "get": {
+        "tags": ["Formats"],
+        "summary": "Full dataset as SQLite",
+        "description": "Single-file SQLite database with a `records` table (indexed on ZIP, state, locale) and a `meta` table.",
+        "operationId": "getSqlite",
+        "responses": {
+          "200": {
+            "description": "SQLite 3 database file",
+            "content": { "application/vnd.sqlite3": { "schema": { "type": "string", "format": "binary" } } }
+          }
+        }
+      }
+    },
+    "/data/last_updated.txt": {
+      "get": {
+        "tags": ["Freshness"],
+        "summary": "USPS publish date",
+        "operationId": "getLastUpdated",
+        "responses": {
+          "200": {
+            "description": "Human-readable date, e.g. `September 08, 2026`",
+            "content": { "text/plain": { "schema": { "type": "string" } } }
+          }
+        }
+      }
+    },
+    "/data/last_checked.txt": {
+      "get": {
+        "tags": ["Freshness"],
+        "summary": "Last verification timestamp",
+        "operationId": "getLastChecked",
+        "responses": {
+          "200": {
+            "description": "ISO-8601 timestamp of the last successful verification run",
+            "content": { "text/plain": { "schema": { "type": "string", "format": "date-time" } } }
+          }
+        }
+      }
+    }
+  }
+}

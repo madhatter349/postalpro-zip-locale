@@ -15,34 +15,65 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
+    env:
+      TZ: UTC
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - name: Install dependencies
         run: npm ci
 
+      - name: Syntax check
+        run: npm run check
+
       - name: Run updater
         run: npm run update
 
+      - name: Validate generated data
+        run: npm test
+
       - name: Commit changes
         run: |
-          # Stage generated artifacts, heartbeat, and lockfile
-          git add data package-lock.json
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git commit -m "Update ZIP Locale Detail data"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update ZIP Locale Detail data"
+          git pull --rebase origin main
+          git push
+
+      - name: Record failed run
+        if: failure() && hashFiles('scripts/record-failure.js') != ''
+        continue-on-error: true
+        run: |
+          node scripts/record-failure.js \
+            "run ${{ github.run_id }} failed: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/health.json 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "health.json already current"
+            exit 0
+          fi
+
+          git commit -m "Record failed update run [skip ci]"
+          git pull --rebase origin main
+          git push

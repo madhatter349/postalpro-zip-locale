@@ -1,32 +1,52 @@
 /**
  * Interactive data explorer for the ZIP Locale dataset.
- * Loads a state (or streams all states), then provides
- * client-side search, sort, and pagination.
+ *
+ * Loading strategy: nothing is fetched until it is needed. Choosing a state
+ * loads just that file; searching or choosing "All areas" streams the state
+ * files in small batches. Everything loaded is cached per dataset generation,
+ * so switching back and forth is instant.
  */
 import { ZLP_UTILS } from "./utils.js";
 
 const ZLP_EXPLORER = (() => {
-  const { normalizeQuery, matchRecord, sortRecords, paginate, fmt, pageWindow, debounce, esc } = ZLP_UTILS;
+  const { normalizeQuery, matchRecord, sortRecords, paginate, fmt, pageWindow, debounce, esc, toCsv } = ZLP_UTILS;
 
   const DEFAULT_PAGE_SIZE = 50;
+  const STREAM_BATCH = 8;
+  const CSV_FIELDS = [
+    "area_name", "area_code", "district_name", "district_no", "delivery_zipcode",
+    "locale_name", "physical_delivery_address", "physical_city", "physical_state",
+    "physical_zip", "physical_zip4", "zip_class_code", "locale_key", "locale_type",
+  ];
+  const COLUMNS = [
+    { key: "delivery_zipcode", label: "ZIP" },
+    { key: "locale_name", label: "Locale" },
+    { key: "physical_city", label: "City" },
+    { key: "physical_state", label: "State" },
+    { key: "district_name", label: "District" },
+    { key: "area_name", label: "Area" },
+  ];
 
   const state = {
-    all: [],        // full loaded dataset (after streaming merge)
-    filtered: [],   // after search
+    all: [],
+    filtered: [],
     sortKey: "delivery_zipcode",
     sortDir: "asc",
     page: 1,
     perPage: DEFAULT_PAGE_SIZE,
     query: "",
-    sourceState: "ALL", // "ALL" or a 2-letter state
+    sourceState: "ALL",
     streaming: false,
-    aborted: false,
     loaded: 0,
+    codes: [],
+    totalRecords: 0,
+    generation: null,
   };
 
+  const cache = new Map(); // area code -> records
+  let abortController = null;
+  let loadToken = 0;
   let els = null;
-  let tableRowsEl = null;
-  let tbodyEl = null;
 
   /* ------------------------------------------------------------------ */
   /* init                                                               */
@@ -35,11 +55,14 @@ const ZLP_EXPLORER = (() => {
   function init(containerId) {
     const root = document.getElementById(containerId);
     if (!root) return;
+
     els = {
       root,
-      toolbar: root.querySelector(".explorer-toolbar"),
       search: root.querySelector("#zlpSearch"),
       stateFilter: root.querySelector("#zlpStateFilter"),
+      loadAll: root.querySelector("#zlpLoadAll"),
+      export: root.querySelector("#zlpExport"),
+      perPage: root.querySelector("#zlpPerPage"),
       meta: root.querySelector("#zlpMeta"),
       progress: root.querySelector("#zlpProgress"),
       progressFill: root.querySelector("#zlpProgressFill"),
@@ -52,11 +75,9 @@ const ZLP_EXPLORER = (() => {
       pageBtns: root.querySelector("#zlpPageBtns"),
     };
 
-    tbodyEl = els.tbody;
     bindEvents();
     renderHeader();
-    loadStatesList();
-    streamAll(); // auto-load full dataset so the explorer is instantly usable
+    loadIndex();
   }
 
   function bindEvents() {
@@ -65,7 +86,12 @@ const ZLP_EXPLORER = (() => {
       debounce(() => {
         state.query = normalizeQuery(els.search.value);
         state.page = 1;
-        applyFilter();
+        if (!state.all.length && !state.streaming && state.query) {
+          streamAll(); // first search loads the dataset
+        } else {
+          applyFilter();
+        }
+        syncUrl();
       }, 220)
     );
 
@@ -76,6 +102,21 @@ const ZLP_EXPLORER = (() => {
       } else {
         loadState(val);
       }
+      syncUrl();
+    });
+
+    els.loadAll.addEventListener("click", () => {
+      els.stateFilter.value = "ALL";
+      streamAll();
+      syncUrl();
+    });
+
+    els.export.addEventListener("click", exportCsv);
+
+    els.perPage.addEventListener("change", () => {
+      state.perPage = Number(els.perPage.value) || DEFAULT_PAGE_SIZE;
+      state.page = 1;
+      applySortAndPage();
     });
 
     els.thead.addEventListener("click", e => {
@@ -91,19 +132,36 @@ const ZLP_EXPLORER = (() => {
       renderHeader();
       applySortAndPage();
     });
+
+    els.pageBtns.addEventListener("click", e => {
+      const btn = e.target.closest(".page-btn");
+      if (!btn) return;
+      state.page = Number(btn.dataset.page);
+      applySortAndPage();
+      els.tableWrap.scrollTop = 0;
+    });
   }
 
   /* ------------------------------------------------------------------ */
   /* data loading                                                       */
   /* ------------------------------------------------------------------ */
 
-  async function loadStatesList() {
+  async function loadIndex() {
     try {
-      const res = await fetch(`${BASE}/data/index.json`);
+      const res = await fetch(`${BASE}/data/index.json`, { cache: "no-cache" });
       const idx = await res.json();
+
+      if (state.generation !== idx.generated_at) {
+        cache.clear();
+        state.generation = idx.generated_at;
+      }
+      state.codes = idx.states.map(s => s.state);
+      state.totalRecords = idx.total_records;
+
       populateStateFilter(idx.states);
+      restoreFromUrl();
     } catch {
-      // non-fatal
+      setEmpty("Could not load data/index.json — the mirror may be updating.");
     }
   }
 
@@ -124,7 +182,7 @@ const ZLP_EXPLORER = (() => {
       other: "Other",
     };
 
-    let html = `<option value="ALL">All areas</option>`;
+    let html = `<option value="ALL">All areas — stream full dataset</option>`;
     for (const [kind, list] of Object.entries(groups)) {
       if (!list.length) continue;
       html += `<optgroup label="${GROUP_LABELS[kind] || kind}">`;
@@ -135,87 +193,137 @@ const ZLP_EXPLORER = (() => {
     els.stateFilter.value = current || "ALL";
   }
 
+  function beginLoad() {
+    abortController?.abort();
+    abortController = new AbortController();
+    return ++loadToken;
+  }
+
   async function loadState(code) {
-    abortStream();
+    const token = beginLoad();
     state.sourceState = code;
-    state.all = [];
+    state.streaming = false;
+
+    if (cache.has(code)) {
+      state.all = [...cache.get(code)];
+      hideProgress();
+      applyFilter();
+      return;
+    }
+
     showLoading();
     try {
-      const res = await fetch(`${BASE}/data/states/${code}.json`);
-      if (!res.ok) throw new Error("state not found");
-      state.all = await res.json();
+      const res = await fetch(`${BASE}/data/states/${code}.json`, { signal: abortController.signal });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      if (token !== loadToken) return;
+      cache.set(code, data);
+      state.all = [...data];
       hideProgress();
       applyFilter();
     } catch (err) {
-      setEmpty(`Could not load ${code}.json`);
+      if (err.name !== "AbortError") setEmpty(`Could not load ${code}.json`);
     }
   }
 
-  /** Stream all area files (states + territories), merging as they arrive. */
+  /** Stream all area files in batches, merging as they arrive. */
   async function streamAll() {
-    abortStream();
+    const token = beginLoad();
     state.sourceState = "ALL";
-    state.all = [];
     state.streaming = true;
-    state.aborted = false;
+    state.all = [];
     state.loaded = 0;
 
-    showProgress(0);
+    const codes = state.codes;
+    if (!codes.length) {
+      setEmpty("Dataset index is not loaded yet.");
+      return;
+    }
+
     showLoading();
+    showProgress(0);
 
     try {
-      const res = await fetch(`${BASE}/data/index.json`);
-      const idx = await res.json();
-      const codes = idx.states.map(s => s.state);
+      for (let i = 0; i < codes.length; i += STREAM_BATCH) {
+        if (token !== loadToken) return;
 
-      const CHUNK = 6;
-      for (let i = 0; i < codes.length; i += CHUNK) {
-        if (state.aborted) return;
-        const batch = codes.slice(i, i + CHUNK);
-        await Promise.all(
+        const batch = codes.slice(i, i + STREAM_BATCH);
+        const results = await Promise.all(
           batch.map(async code => {
-            if (state.aborted) return;
+            if (cache.has(code)) return cache.get(code);
             try {
-              const r = await fetch(`${BASE}/data/states/${code}.json`);
-              if (!r.ok) return;
-              const data = await r.json();
-              if (state.aborted) return;
-              state.all = state.all.concat(data);
+              const res = await fetch(`${BASE}/data/states/${code}.json`, {
+                signal: abortController.signal,
+              });
+              if (!res.ok) return null;
+              const data = await res.json();
+              cache.set(code, data);
+              return data;
             } catch {
-              // skip failed state
+              return null;
             }
           })
         );
+
+        if (token !== loadToken) return;
+
+        for (const rows of results) {
+          if (rows) state.all = state.all.concat(rows);
+        }
         state.loaded += batch.length;
         updateProgress(state.loaded / codes.length);
         applyFilter({ resetPage: false });
       }
-    } catch (err) {
-      setEmpty("Could not stream dataset.");
     } finally {
-      state.streaming = false;
-      hideProgress();
-      showLoaded();
+      if (token === loadToken) {
+        state.streaming = false;
+        hideProgress();
+        if (state.all.length) {
+          applyFilter();
+        } else {
+          setEmpty("Could not stream the dataset.");
+        }
+      }
     }
   }
 
-  function abortStream() {
-    state.aborted = true;
-    state.streaming = false;
+  /* ------------------------------------------------------------------ */
+  /* URL state                                                          */
+  /* ------------------------------------------------------------------ */
+
+  const syncUrl = debounce(() => {
+    const params = new URLSearchParams();
+    if (state.sourceState && state.sourceState !== "ALL") params.set("state", state.sourceState);
+    if (state.query) params.set("q", state.query);
+    const qs = params.toString();
+    history.replaceState(null, "", qs ? `?${qs}` : location.pathname + location.hash);
+  }, 350);
+
+  function restoreFromUrl() {
+    const params = new URLSearchParams(location.search);
+    const code = (params.get("state") || "").toUpperCase();
+    const query = params.get("q") || params.get("zip") || "";
+
+    if (query) {
+      els.search.value = query;
+      state.query = normalizeQuery(query);
+    }
+
+    if (code && state.codes.includes(code)) {
+      els.stateFilter.value = code;
+      loadState(code);
+    } else if (query) {
+      streamAll();
+    } else {
+      setEmpty(
+        `Browse by area or start typing to search all ${fmt(state.totalRecords)} records.`
+      );
+    }
   }
 
   /* ------------------------------------------------------------------ */
   /* rendering                                                          */
   /* ------------------------------------------------------------------ */
-
-  const COLUMNS = [
-    { key: "delivery_zipcode", label: "ZIP" },
-    { key: "locale_name", label: "Locale" },
-    { key: "physical_city", label: "City" },
-    { key: "physical_state", label: "State" },
-    { key: "district_name", label: "District" },
-    { key: "area_name", label: "Area" },
-  ];
 
   function renderHeader() {
     els.thead.innerHTML =
@@ -223,37 +331,28 @@ const ZLP_EXPLORER = (() => {
       COLUMNS.map(c => {
         const sorted = state.sortKey === c.key;
         const arrow = sorted ? (state.sortDir === "asc" ? "▲" : "▼") : "";
-        return `<th data-key="${c.key}" class="${sorted ? "sorted" : ""}">${c.label}<span class="arrow">${arrow}</span></th>`;
+        const ariaSort = sorted ? (state.sortDir === "asc" ? "ascending" : "descending") : "none";
+        return `<th data-key="${c.key}" aria-sort="${ariaSort}" class="${sorted ? "sorted" : ""}">${c.label}<span class="arrow">${arrow}</span></th>`;
       }).join("") +
       `</tr>`;
   }
 
   function showLoading() {
-    tbodyEl.innerHTML = `<tr class="loading-row"><td colspan="${COLUMNS.length}"><div class="shimmer"></div><div class="shimmer" style="width:60%"></div><div class="shimmer" style="width:80%"></div></td></tr>`;
-  }
-
-  function showLoaded() {
-    if (state.all.length) {
-      applyFilter();
-    } else {
-      setEmpty("No data loaded.");
-    }
+    els.tbody.innerHTML = `<tr class="loading-row"><td colspan="${COLUMNS.length}"><div class="shimmer"></div><div class="shimmer" style="width:60%"></div><div class="shimmer" style="width:80%"></div></td></tr>`;
   }
 
   function setEmpty(msg) {
-    tbodyEl.innerHTML = `<tr><td colspan="${COLUMNS.length}"><div class="empty-state"><div class="icon">🗂️</div><div>${esc(msg)}</div></div></td></tr>`;
+    els.tbody.innerHTML = `<tr><td colspan="${COLUMNS.length}"><div class="empty-state"><div class="icon">🗂️</div><div>${esc(msg)}</div></div></td></tr>`;
     els.pagination.style.display = "none";
     els.meta.style.display = "none";
   }
 
   function showProgress(pct) {
     els.progress.style.display = "flex";
-    els.progressFill.style.width = `${Math.round(pct * 100)}%`;
-    els.progressText.textContent = `${Math.round(pct * 100)}%`;
+    updateProgress(pct);
   }
 
   function updateProgress(pct) {
-    if (els.progress.style.display !== "flex") els.progress.style.display = "flex";
     els.progressFill.style.width = `${Math.round(pct * 100)}%`;
     els.progressText.textContent = `${Math.round(pct * 100)}%`;
   }
@@ -271,7 +370,7 @@ const ZLP_EXPLORER = (() => {
     applySortAndPage(opts);
   }
 
-  function applySortAndPage(opts = {}) {
+  function applySortAndPage() {
     const sorted = sortRecords(state.filtered, state.sortKey, state.sortDir);
     const p = paginate(sorted, state.page, state.perPage);
 
@@ -286,27 +385,31 @@ const ZLP_EXPLORER = (() => {
       setEmpty("No records match your search.");
       return;
     }
-    tbodyEl.innerHTML = items.map(rec => {
-      const zip = rec.delivery_zipcode || "";
-      const stateBadge = rec.physical_state ? `<span class="state-badge">${esc(rec.physical_state)}</span>` : `<span class="null">—</span>`;
-      return (
-        `<tr>` +
-        `<td class="zip">${esc(zip)}</td>` +
-        `<td class="locale">${esc(rec.locale_name)}</td>` +
-        `<td>${esc(rec.physical_city)}</td>` +
-        `<td>${stateBadge}</td>` +
-        `<td>${esc(rec.district_name)}</td>` +
-        `<td>${esc(rec.area_name)}</td>` +
-        `</tr>`
-      );
-    }).join("");
+    els.tbody.innerHTML = items
+      .map(rec => {
+        const zip = rec.delivery_zipcode || "";
+        const stateBadge = rec.physical_state
+          ? `<span class="state-badge">${esc(rec.physical_state)}</span>`
+          : `<span class="null">—</span>`;
+        return (
+          `<tr>` +
+          `<td class="zip">${esc(zip)}</td>` +
+          `<td class="locale">${esc(rec.locale_name)}</td>` +
+          `<td>${esc(rec.physical_city)}</td>` +
+          `<td>${stateBadge}</td>` +
+          `<td>${esc(rec.district_name)}</td>` +
+          `<td>${esc(rec.area_name)}</td>` +
+          `</tr>`
+        );
+      })
+      .join("");
   }
 
   function renderMeta() {
     els.meta.style.display = "flex";
-    const source = state.sourceState === "ALL" ? "All states" : state.sourceState;
+    const source = state.sourceState === "ALL" ? "All areas" : state.sourceState;
     els.meta.innerHTML =
-      `<span><span class="count">${fmt(state.filtered.length)}</span> of ${fmt(state.all.length)} records · ${esc(source)}</span>` +
+      `<span><span class="count">${fmt(state.filtered.length)}</span> of ${fmt(state.all.length)} loaded records · ${esc(source)}</span>` +
       `<span class="hint">Search ZIP, city, locale — click column to sort</span>`;
   }
 
@@ -321,32 +424,45 @@ const ZLP_EXPLORER = (() => {
     const btns = [];
 
     if (p.page > 1) {
-      btns.push(`<button class="page-btn" data-page="${p.page - 1}">‹</button>`);
+      btns.push(`<button class="page-btn" data-page="${p.page - 1}" aria-label="Previous page">‹</button>`);
     }
     if (!pages.includes(1)) {
       btns.push(`<button class="page-btn" data-page="1">1</button>`);
       if (!pages.includes(2)) btns.push(`<span class="page-info" style="padding:0 4px">…</span>`);
     }
     pages.forEach(pg => {
-      btns.push(`<button class="page-btn ${pg === p.page ? "active" : ""}" data-page="${pg}">${pg}</button>`);
+      btns.push(
+        `<button class="page-btn ${pg === p.page ? "active" : ""}" data-page="${pg}"${pg === p.page ? ' aria-current="page"' : ""}>${pg}</button>`
+      );
     });
     if (!pages.includes(p.totalPages)) {
       if (!pages.includes(p.totalPages - 1)) btns.push(`<span class="page-info" style="padding:0 4px">…</span>`);
       btns.push(`<button class="page-btn" data-page="${p.totalPages}">${p.totalPages}</button>`);
     }
     if (p.page < p.totalPages) {
-      btns.push(`<button class="page-btn" data-page="${p.page + 1}">›</button>`);
+      btns.push(`<button class="page-btn" data-page="${p.page + 1}" aria-label="Next page">›</button>`);
     }
 
     els.pageBtns.innerHTML = btns.join("");
+  }
 
-    els.pageBtns.querySelectorAll(".page-btn").forEach(btn => {
-      btn.addEventListener("click", () => {
-        state.page = Number(btn.dataset.page);
-        applySortAndPage();
-        els.tableWrap.scrollTop = 0;
-      });
-    });
+  /* ------------------------------------------------------------------ */
+  /* export                                                             */
+  /* ------------------------------------------------------------------ */
+
+  function exportCsv() {
+    const rows = state.filtered.length ? state.filtered : state.all;
+    if (!rows.length) return;
+
+    const sorted = sortRecords(rows, state.sortKey, state.sortDir);
+    const blob = new Blob([toCsv(sorted, CSV_FIELDS)], { type: "text/csv;charset=utf-8" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `zip_locale_${state.sourceState || "all"}_${new Date().toISOString().slice(0, 10)}.csv`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(a.href);
   }
 
   return { init };

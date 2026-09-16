@@ -5,11 +5,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>USPS ZIP Locale API — Open, auto-updated dataset</title>
   <meta name="description" content="An open, auto-updated JSON API mirroring the USPS PostalPro ZIP Locale Detail dataset. Search ZIPs, cities, and post offices across all 50 states, DC, and territories.">
+  <link rel="canonical" href="https://madhatter349.github.io/postalpro-zip-locale/">
+  <meta name="theme-color" content="#11120f">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="USPS ZIP Locale API — Open, auto-updated dataset">
+  <meta property="og:description" content="Free, auto-updated JSON/CSV/SQLite mirror of the USPS PostalPro ZIP Locale Detail dataset. No key, no rate limits.">
+  <meta property="og:url" content="https://madhatter349.github.io/postalpro-zip-locale/">
+  <meta property="og:site_name" content="USPS ZIP Locale">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="USPS ZIP Locale API — Open, auto-updated dataset">
+  <meta name="twitter:description" content="Free, auto-updated JSON/CSV/SQLite mirror of the USPS PostalPro ZIP Locale Detail dataset.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=IBM+Plex+Mono:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/theme.css">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2311120f'/%3E%3Ctext x='50' y='72' font-size='64' text-anchor='middle' fill='%23b5a400' font-family='monospace'%3E%E2%97%8F%3C/text%3E%3C/svg%3E">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "USPS ZIP Locale Detail",
+    "description": "Auto-updated mirror of the USPS PostalPro ZIP Locale Detail dataset, published as JSON, CSV, and SQLite with per-state slices and change sets.",
+    "url": "https://madhatter349.github.io/postalpro-zip-locale/",
+    "license": "https://www.apache.org/licenses/LICENSE-2.0",
+    "creator": { "@type": "Organization", "name": "United States Postal Service" },
+    "isBasedOn": "https://postalpro.usps.com/ZIP_Locale_Detail",
+    "keywords": ["USPS", "ZIP codes", "postal", "locale", "open data"],
+    "distribution": [
+      { "@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://madhatter349.github.io/postalpro-zip-locale/data/zip_locale_detail.json" },
+      { "@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://madhatter349.github.io/postalpro-zip-locale/data/csv/zip_locale_detail.csv" },
+      { "@type": "DataDownload", "encodingFormat": "application/vnd.sqlite3", "contentUrl": "https://madhatter349.github.io/postalpro-zip-locale/data/zip_locale_detail.sqlite" }
+    ]
+  }
+  </script>
 </head>
 <body>
 
@@ -68,14 +96,16 @@
         </div>
         <div class="manifest-body">
           <div class="manifest-hero">
-            <div class="manifest-total" id="verdictRecords">44,339</div>
+            <div class="manifest-total" id="verdictRecords">42,288</div>
             <div class="manifest-label">records</div>
           </div>
           <dl class="manifest-facts">
             <div><dt>Coverage</dt><dd id="factCoverage">50 states + DC + territories</dd></div>
             <div><dt>USPS published</dt><dd id="factUpdated">—</dd></div>
             <div><dt>Last verified</dt><dd id="factChecked">—</dd></div>
-            <div><dt>Format</dt><dd>JSON · UTF-8</dd></div>
+            <div><dt>Unique ZIPs</dt><dd id="factZips">—</dd></div>
+            <div><dt>Source SHA-256</dt><dd id="factSource">—</dd></div>
+            <div><dt>Format</dt><dd>JSON · CSV · SQLite</dd></div>
           </dl>
           <div class="manifest-bar">
             <span class="bar-label">Refresh cadence</span>
@@ -93,8 +123,8 @@
     <!-- ======== Ticker ======== -->
     <div class="ticker" aria-hidden="true">
       <div class="ticker-track" id="tickerTrack">
-        <span>Free · No auth required</span><span id="tickerRecords">44,339 records</span><span>50 states + DC + territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
-        <span>Free · No auth required</span><span id="tickerRecordsDup">44,339 records</span><span>50 states + DC + territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
+        <span>Free · No auth required</span><span id="tickerRecords">42,288 records</span><span id="tickerZips">37,105 unique ZIPs</span><span>50 states + DC + territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
+        <span>Free · No auth required</span><span id="tickerRecordsDup">42,288 records</span><span>37,105 unique ZIPs</span><span>50 states + DC + territories</span><span>Daily mirror</span><span>USPS PostalPro source</span><span>No rate limits</span><span>GitHub Pages CDN</span><span>Open JSON API</span>
       </div>
     </div>
 
@@ -109,12 +139,21 @@
       <div class="explorer-shell">
         <div class="explorer-toolbar">
           <div class="search">
-            <span class="search-icon">⌕</span>
-            <input id="zlpSearch" type="search" placeholder="Search ZIP, city, locale, district…" autocomplete="off">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="zlpSearch" type="search" placeholder="Search ZIP, city, locale, district…" autocomplete="off" aria-label="Search the dataset">
           </div>
-          <select id="zlpStateFilter" title="Filter by coverage area">
-            <option value="ALL">All areas…</option>
-          </select>
+          <div class="explorer-controls">
+            <select id="zlpStateFilter" title="Filter by coverage area" aria-label="Filter by coverage area">
+              <option value="ALL">All areas…</option>
+            </select>
+            <button id="zlpLoadAll" class="tool-btn" type="button" title="Stream every state file">Load all</button>
+            <button id="zlpExport" class="tool-btn" type="button" title="Export the current result set as CSV">Export CSV</button>
+            <select id="zlpPerPage" title="Rows per page" aria-label="Rows per page">
+              <option value="25">25 / page</option>
+              <option value="50" selected>50 / page</option>
+              <option value="100">100 / page</option>
+            </select>
+          </div>
         </div>
         <div class="stream-progress" id="zlpProgress" style="display:none">
           <span>Loading dataset</span>
@@ -141,7 +180,7 @@
     <section class="section" id="endpoints">
       <div class="section-head">
         <div class="section-index">03 / ENDPOINTS</div>
-        <h2>Five routes. <em class="serif">Zero friction.</em></h2>
+        <h2>Every route. <em class="serif">Zero friction.</em></h2>
         <p>Base URL — <code style="font-family:var(--font-machine); color:var(--lime-muted)">https://madhatter349.github.io/postalpro-zip-locale</code></p>
       </div>
 
@@ -262,6 +301,150 @@ data = requests.<span class="keyword">get</span>(
             </div>
           </div>
         </div>
+
+        <!-- Health -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/health.json</span>
+            <span class="endpoint-desc">Run status</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>Result of the most recent update run. <code>status</code> flips to <code>error</code> if a scheduled run fails, so consumers can detect stale data programmatically.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>cURL</span>
+                <button class="copy-btn" data-copy="curl -s https://madhatter349.github.io/postalpro-zip-locale/data/health.json | jq '{status, result, last_checked}'" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="punct">{</span> <span class="keyword">"status"</span>: <span class="string">"ok"</span>, <span class="keyword">"result"</span>: <span class="string">"updated"</span> <span class="punct">}</span></pre>
+            </div>
+          </div>
+        </div>
+
+        <!-- Changes -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/changes.json</span>
+            <span class="endpoint-desc">Latest diff</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>Records added, removed, or changed between the previous and current USPS publishes — perfect for incremental sync instead of re-downloading 15 MB.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>JavaScript</span>
+                <button class="copy-btn" data-copy="fetch('https://madhatter349.github.io/postalpro-zip-locale/data/changes.json')
+  .then(r => r.json())
+  .then(c => console.log(c.added, c.removed, c.changed))" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="keyword">fetch</span>(<span class="string">'…/data/changes.json'</span>)
+  .then(<span class="punct">r</span> =&gt; <span class="punct">r</span>.<span class="keyword">json</span>())
+  .then(<span class="punct">c</span> =&gt; <span class="punct">c</span>.added + <span class="string">' new, '</span> + <span class="punct">c</span>.removed + <span class="string">' removed'</span>)</pre>
+            </div>
+          </div>
+        </div>
+
+        <!-- History -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/history.json</span>
+            <span class="endpoint-desc">Update history</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>One entry per data-updating run (up to 400) with totals and diff counts — a machine-readable release history of the dataset.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>cURL</span>
+                <button class="copy-btn" data-copy="curl -s https://madhatter349.github.io/postalpro-zip-locale/data/history.json | jq '.[-1]'" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="comment"># latest entry</span>
+fetch(<span class="string">'…/data/history.json'</span>).then(r =&gt; r.json()).then(h =&gt; h.at(-1))</pre>
+            </div>
+          </div>
+        </div>
+
+        <!-- Specs -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/schema.json · /openapi.json</span>
+            <span class="endpoint-desc">Machine-readable specs</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>JSON Schema (2020-12) for every artifact, plus an OpenAPI 3.1 description of this API for codegen, validation, and docs tooling.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>cURL</span>
+                <button class="copy-btn" data-copy="curl -s https://madhatter349.github.io/postalpro-zip-locale/data/schema.json | jq '.$defs | keys'" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="comment"># validate with ajv, generate clients, render docs</span>
+ajv compile -s …/data/schema.json</pre>
+            </div>
+          </div>
+        </div>
+
+        <!-- CSV -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/csv/zip_locale_detail.csv</span>
+            <span class="endpoint-desc">CSV (full + per state)</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>RFC 4180 CSV with a header row. Per-state files live at <code>/data/csv/{CODE}.csv</code> (e.g. <code>/data/csv/NY.csv</code>).</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>Python</span>
+                <button class="copy-btn" data-copy="import pandas as pd
+
+df = pd.read_csv('https://madhatter349.github.io/postalpro-zip-locale/data/csv/NY.csv')
+print(df.head())" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="keyword">import</span> pandas <span class="keyword">as</span> pd
+
+df = pd.read_csv(<span class="string">'…/data/csv/NY.csv'</span>)
+print(df.head())</pre>
+            </div>
+          </div>
+        </div>
+
+        <!-- SQLite -->
+        <div class="endpoint">
+          <div class="endpoint-header">
+            <span class="method">GET</span>
+            <span class="endpoint-path">/data/zip_locale_detail.sqlite</span>
+            <span class="endpoint-desc">SQLite database</span>
+            <span class="endpoint-toggle">+</span>
+          </div>
+          <div class="endpoint-body">
+            <p>One file, full SQL. The <code>records</code> table is indexed on ZIP, state, and locale; a <code>meta</code> table carries provenance.</p>
+            <div class="code-block">
+              <div class="code-block-label">
+                <span>SQL</span>
+                <button class="copy-btn" data-copy="-- download first, then query locally
+SELECT physical_city, COUNT(*) AS n
+FROM records
+WHERE delivery_zipcode LIKE '100%'
+GROUP BY physical_city
+ORDER BY n DESC
+LIMIT 10;" data-label="Copy">Copy</button>
+              </div>
+              <pre><span class="comment">-- download first, then query locally</span>
+<span class="keyword">SELECT</span> physical_city, <span class="keyword">COUNT</span>(*) <span class="keyword">AS</span> n
+<span class="keyword">FROM</span> records
+<span class="keyword">WHERE</span> delivery_zipcode <span class="keyword">LIKE</span> <span class="string">'100%'</span>
+<span class="keyword">GROUP BY</span> physical_city
+<span class="keyword">ORDER BY</span> n <span class="keyword">DESC</span>
+<span class="keyword">LIMIT</span> <span class="number">10</span>;</pre>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -270,7 +453,7 @@ data = requests.<span class="keyword">get</span>(
       <div class="section-head">
         <div class="section-index">04 / COVERAGE</div>
         <h2>All 50 states, <em class="serif">plus territories.</em></h2>
-        <p>59 two-letter codes: 50 states, Washington DC, 5 territories, and 3 freely associated states. Click any chip to view its raw JSON — counts shown.</p>
+        <p>59 two-letter codes: 50 states, Washington DC, 5 territories, and 3 freely associated states — plus an UNKNOWN bucket for the rare upstream row with no state. Click any chip to view its raw JSON — counts shown.</p>
       </div>
       <div id="statesGroups" class="states-groups">
         <div class="shimmer" style="grid-column:1/-1"></div>
@@ -301,6 +484,9 @@ data = requests.<span class="keyword">get</span>(
             <tr><td class="field-name">physical_state</td><td class="field-type">string</td><td class="field-desc">2-letter state code</td></tr>
             <tr><td class="field-name">physical_zip</td><td class="field-type">string</td><td class="field-desc">Physical location ZIP</td></tr>
             <tr><td class="field-name">physical_zip4</td><td class="field-type">string|null</td><td class="field-desc">ZIP+4 extension</td></tr>
+            <tr><td class="field-name">zip_class_code</td><td class="field-type">string|null</td><td class="field-desc">USPS ZIP class code (added Sep 2026)</td></tr>
+            <tr><td class="field-name">locale_key</td><td class="field-type">string|null</td><td class="field-desc">USPS locale key (added Sep 2026)</td></tr>
+            <tr><td class="field-name">locale_type</td><td class="field-type">string|null</td><td class="field-desc">USPS locale type (added Sep 2026)</td></tr>
           </tbody>
         </table>
       </div>
@@ -311,7 +497,7 @@ data = requests.<span class="keyword">get</span>(
   <footer class="footer">
     <div class="footer-inner">
       <div class="footer-grid">
-        <div class="footer-status">API operational</div>
+        <div class="footer-status" id="apiStatus">API operational</div>
         <div class="footer-links">
           <a href="https://github.com/madhatter349/postalpro-zip-locale" target="_blank" rel="noopener">GitHub</a>
           <a href="https://github.com/madhatter349/postalpro-zip-locale/actions" target="_blank" rel="noopener">Workflow status</a>

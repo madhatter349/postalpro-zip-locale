@@ -1,17 +1,20 @@
 {
   "name": "postalpro-zip-locale",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
+  "description": "Auto-updated JSON/CSV/SQLite mirror of the USPS PostalPro ZIP Locale Detail dataset",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "scripts": {
-    "update": "node scripts/update.js"
+    "update": "node scripts/update.js",
+    "test": "node --test test/*.test.js",
+    "check": "node --check scripts/update.js && node --check scripts/record-failure.js && node --check assets/js/utils.js && node --check assets/js/explorer.js && node --check assets/js/main.js"
   },
   "dependencies": {
-    "axios": "1.13.5",
-    "axios-cache-interceptor": "1.11.4",
+    "better-sqlite3": "13.0.3",
     "cheerio": "1.2.0",
-    "xlsx": "0.18.5"
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   }
 }

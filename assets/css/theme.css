@@ -672,6 +672,35 @@ a { text-decoration-color: var(--orange); text-decoration-thickness: 2px; }
 
 .explorer-toolbar select { min-width: 200px; cursor: pointer; }
 
+.explorer-toolbar .explorer-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.explorer-toolbar .explorer-controls select { min-width: 0; }
+
+.explorer-toolbar .tool-btn {
+  height: 44px;
+  padding: 0 16px;
+  font-family: var(--font-machine);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-on-dark);
+  background: transparent;
+  border: 1px solid var(--panel-border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: border-color .15s, color .15s, background .15s;
+}
+
+.explorer-toolbar .tool-btn:hover {
+  color: var(--lime);
+  border-color: var(--lime);
+  background: var(--panel-raise);
+}
+
 .explorer-toolbar input:focus,
 .explorer-toolbar select:focus {
   border-color: var(--lime);
@@ -1172,6 +1201,15 @@ table.data-table {
   animation: live-pulse 1.8s ease-in-out infinite;
 }
 
+.footer-status.status-error {
+  color: var(--orange);
+}
+
+.footer-status.status-error::before {
+  background: var(--orange);
+  box-shadow: 0 0 0 3px rgba(255, 90, 38, .18);
+}
+
 .footer-links {
   display: flex;
   gap: 24px;
@@ -1222,6 +1260,9 @@ table.data-table {
   .footer-grid { grid-template-columns: 1fr; text-align: center; justify-items: center; }
   .explorer-toolbar { grid-template-columns: 1fr; }
   .explorer-toolbar select { width: 100%; }
+  .explorer-toolbar .explorer-controls { width: 100%; }
+  .explorer-toolbar .explorer-controls select { flex: 1 1 140px; width: auto; }
+  .explorer-toolbar .tool-btn { flex: 1 1 auto; }
   .endpoint-desc { display: none; }
 }
 

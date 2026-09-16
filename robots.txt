@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://madhatter349.github.io/postalpro-zip-locale/sitemap.xml

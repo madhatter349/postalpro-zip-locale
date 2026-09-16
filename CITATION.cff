@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset or mirror in research or products, please cite it as below."
+title: "USPS ZIP Locale Detail mirror (JSON, CSV, SQLite)"
+abstract: >-
+  An auto-updated, free mirror of the USPS PostalPro ZIP Locale Detail dataset.
+  Published as JSON, CSV, and SQLite with per-state slices, change sets, and
+  provenance metadata. Updated daily via GitHub Actions.
+type: dataset
+authors:
+  - name: "madhatter349"
+    website: "https://github.com/madhatter349"
+repository-code: "https://github.com/madhatter349/postalpro-zip-locale"
+url: "https://madhatter349.github.io/postalpro-zip-locale/"
+license: "Apache-2.0"
+keywords:
+  - USPS
+  - ZIP codes
+  - postal
+  - locale
+  - open data
+  - geospatial
+date-released: "2026-09-16"

@@ -1,0 +1,219 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://madhatter349.github.io/postalpro-zip-locale/data/schema.json",
+  "title": "USPS ZIP Locale Detail mirror",
+  "description": "JSON Schema for the generated artifacts of the postalpro-zip-locale mirror. Records are additive: new fields may appear over time, existing fields are never removed or retyped.",
+  "type": "object",
+  "$defs": {
+    "record": {
+      "title": "ZIP Locale record",
+      "type": "object",
+      "required": [
+        "area_name",
+        "area_code",
+        "district_name",
+        "district_no",
+        "delivery_zipcode",
+        "locale_name",
+        "physical_delivery_address",
+        "physical_city",
+        "physical_state",
+        "physical_zip",
+        "physical_zip4",
+        "zip_class_code",
+        "locale_key",
+        "locale_type"
+      ],
+      "properties": {
+        "area_name": {
+          "type": ["string", "null"],
+          "description": "USPS area name (ATLANTIC, CENTRAL, SOUTHERN, WESTPAC)."
+        },
+        "area_code": {
+          "type": ["string", "null"],
+          "description": "USPS area code: 4B, 4E, 4G or 4J. Derived from area_name since the Sep 2026 source dropped the column.",
+          "enum": ["4B", "4E", "4G", "4J", null]
+        },
+        "district_name": {
+          "type": ["string", "null"],
+          "description": "USPS district name."
+        },
+        "district_no": {
+          "type": ["string", "null"],
+          "description": "USPS district number (zero-padded, e.g. \"006\")."
+        },
+        "delivery_zipcode": {
+          "type": "string",
+          "pattern": "^[0-9]{5}$",
+          "description": "5-digit delivery ZIP code."
+        },
+        "locale_name": {
+          "type": ["string", "null"],
+          "description": "Post office / locale name."
+        },
+        "physical_delivery_address": {
+          "type": ["string", "null"],
+          "description": "Street address of the physical delivery unit."
+        },
+        "physical_city": {
+          "type": ["string", "null"],
+          "description": "Physical city."
+        },
+        "physical_state": {
+          "type": ["string", "null"],
+          "pattern": "^[A-Z]{2}$",
+          "description": "2-letter USPS state/territory code. Null for the rare upstream row with no state."
+        },
+        "physical_zip": {
+          "type": ["string", "null"],
+          "pattern": "^[0-9]{5}$",
+          "description": "5-digit physical location ZIP."
+        },
+        "physical_zip4": {
+          "type": ["string", "null"],
+          "pattern": "^[0-9]{4}$",
+          "description": "ZIP+4 extension, when present."
+        },
+        "zip_class_code": {
+          "type": ["string", "null"],
+          "description": "USPS ZIP class code (e.g. U, P). Added Sep 2026."
+        },
+        "locale_key": {
+          "type": ["string", "null"],
+          "description": "USPS locale key (e.g. V17135). Added Sep 2026."
+        },
+        "locale_type": {
+          "type": ["string", "null"],
+          "description": "USPS locale type (e.g. P, S). Added Sep 2026."
+        }
+      },
+      "additionalProperties": true
+    },
+    "stateFile": {
+      "title": "Per-state record array",
+      "type": "array",
+      "items": { "$ref": "#/$defs/record" }
+    },
+    "stateEntry": {
+      "title": "Index state entry",
+      "type": "object",
+      "required": ["state", "count", "kind"],
+      "properties": {
+        "state": { "type": "string" },
+        "count": { "type": "integer", "minimum": 0 },
+        "kind": {
+          "type": "string",
+          "enum": ["state", "district", "territory", "federated", "other"]
+        }
+      }
+    },
+    "index": {
+      "title": "Dataset index",
+      "type": "object",
+      "required": [
+        "schema_version",
+        "total_records",
+        "unique_zipcodes",
+        "state_count",
+        "last_updated",
+        "last_checked",
+        "states"
+      ],
+      "properties": {
+        "schema_version": { "type": "integer", "const": 2 },
+        "total_records": { "type": "integer" },
+        "unique_zipcodes": { "type": "integer" },
+        "state_count": { "type": "integer" },
+        "last_updated": { "type": ["string", "null"] },
+        "last_updated_iso": { "type": ["string", "null"], "format": "date" },
+        "last_checked": { "type": "string", "format": "date-time" },
+        "generated_at": { "type": "string", "format": "date-time" },
+        "source": {
+          "type": "object",
+          "properties": {
+            "url": { "type": "string", "format": "uri" },
+            "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+            "bytes": { "type": "integer" },
+            "last_modified": { "type": ["string", "null"] },
+            "published": { "type": ["string", "null"] }
+          }
+        },
+        "state_breakdown": {
+          "type": "object",
+          "properties": {
+            "states": { "type": "integer" },
+            "district": { "type": "integer" },
+            "territories": { "type": "integer" },
+            "federated": { "type": "integer" },
+            "other": { "type": "integer" }
+          }
+        },
+        "files": { "type": "object", "additionalProperties": { "type": "string" } },
+        "states": { "type": "array", "items": { "$ref": "#/$defs/stateEntry" } }
+      }
+    },
+    "health": {
+      "title": "Mirror health",
+      "type": "object",
+      "required": ["status", "result", "last_checked"],
+      "properties": {
+        "status": { "type": "string", "enum": ["ok", "error"] },
+        "result": { "type": "string", "enum": ["updated", "unchanged", "failed"] },
+        "started_at": { "type": ["string", "null"], "format": "date-time" },
+        "finished_at": { "type": ["string", "null"], "format": "date-time" },
+        "duration_ms": { "type": ["integer", "null"] },
+        "last_updated": { "type": ["string", "null"] },
+        "last_checked": { "type": ["string", "null"], "format": "date-time" },
+        "total_records": { "type": ["integer", "null"] },
+        "state_count": { "type": ["integer", "null"] },
+        "unique_zipcodes": { "type": ["integer", "null"] },
+        "source": { "type": ["object", "null"] },
+        "last_change": { "type": ["object", "null"] },
+        "last_error": { "type": ["string", "null"] }
+      }
+    },
+    "changeSet": {
+      "title": "Change set between two publishes",
+      "type": "object",
+      "required": ["generated_at", "added", "removed", "changed"],
+      "properties": {
+        "generated_at": { "type": "string", "format": "date-time" },
+        "from_published": { "type": ["string", "null"] },
+        "to_published": { "type": ["string", "null"] },
+        "from_total": { "type": "integer" },
+        "to_total": { "type": "integer" },
+        "added": { "type": "integer" },
+        "removed": { "type": "integer" },
+        "changed": { "type": "integer" },
+        "truncated": { "type": "boolean" },
+        "added_records": { "type": "array", "items": { "$ref": "#/$defs/record" } },
+        "removed_records": { "type": "array", "items": { "$ref": "#/$defs/record" } },
+        "changed_records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "key": { "type": "string" },
+              "before": { "$ref": "#/$defs/record" },
+              "after": { "$ref": "#/$defs/record" }
+            }
+          }
+        }
+      }
+    },
+    "historyEntry": {
+      "title": "One update run",
+      "type": "object",
+      "required": ["checked_at", "total_records"],
+      "properties": {
+        "checked_at": { "type": "string", "format": "date-time" },
+        "published": { "type": ["string", "null"] },
+        "total_records": { "type": "integer" },
+        "added": { "type": "integer" },
+        "removed": { "type": "integer" },
+        "changed": { "type": "integer" },
+        "sha256": { "type": "string" }
+      }
+    }
+  }
+}

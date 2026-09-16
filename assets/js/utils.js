@@ -114,6 +114,19 @@ function esc(s) {
     .replace(/'/g, "&#39;");
 }
 
+/** Serialize records as RFC 4180 CSV. */
+function toCsv(records, fields) {
+  const escape = value => {
+    const s = value == null ? "" : String(value);
+    return /[",\r\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+  };
+  const lines = [fields.join(",")];
+  for (const record of records) {
+    lines.push(fields.map(field => escape(record[field])).join(","));
+  }
+  return lines.join("\r\n") + "\r\n";
+}
+
 export const ZLP_UTILS = {
   normalizeQuery,
   matchRecord,
@@ -123,4 +136,5 @@ export const ZLP_UTILS = {
   pageWindow,
   debounce,
   esc,
+  toCsv,
 };

@@ -15,8 +15,12 @@ const ZLP_MAIN = (() => {
 
   async function loadMeta() {
     try {
-      const res = await fetch(`${BASE}/data/index.json`);
-      const idx = await res.json();
+      const [idxRes, healthRes] = await Promise.all([
+        fetch(`${BASE}/data/index.json`),
+        fetch(`${BASE}/data/health.json`).catch(() => null),
+      ]);
+      const idx = await idxRes.json();
+      const health = healthRes && healthRes.ok ? await healthRes.json() : null;
 
       setStat("verdictRecords", fmt(idx.total_records));
       setStat("factUpdated", idx.last_updated || "—");
@@ -30,15 +34,33 @@ const ZLP_MAIN = (() => {
       ].join(" ");
       setStat("factCoverage", coverage);
 
-      setStat("tickerRecords", fmt(idx.total_records));
-      setStat("tickerRecordsDup", fmt(idx.total_records));
+      const recordLabel = `${fmt(idx.total_records)} records`;
+      setStat("tickerRecords", recordLabel);
+      setStat("tickerRecordsDup", recordLabel);
+      if (idx.unique_zipcodes) setStat("tickerZips", `${fmt(idx.unique_zipcodes)} unique ZIPs`);
+      if (idx.unique_zipcodes) setStat("factZips", fmt(idx.unique_zipcodes));
+      if (idx.source?.sha256) setStat("factSource", idx.source.sha256.slice(0, 12));
 
+      renderStatus(health);
       renderCoverage(idx.states);
     } catch {
       setStat("verdictRecords", "—");
       setStat("factUpdated", "—");
       setStat("factChecked", "—");
+      renderStatus(null);
     }
+  }
+
+  function renderStatus(health) {
+    const el = document.getElementById("apiStatus");
+    if (!el) return;
+    const ok = health && health.status === "ok";
+    el.textContent = ok
+      ? "API operational"
+      : health
+        ? "Upstream update failed — serving last good data"
+        : "Status unavailable";
+    el.classList.toggle("status-error", !ok && Boolean(health));
   }
 
   function setStat(id, text) {
