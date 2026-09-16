@@ -10,7 +10,10 @@
     "physical_city": "COLORADO CITY",
     "physical_state": "AZ",
     "physical_zip": "86021",
-    "physical_zip4": "6325"
+    "physical_zip4": "6325",
+    "zip_class_code": "P",
+    "locale_key": "Z10456",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,7 +26,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10499",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +42,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10499",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +58,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -75,7 +90,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10419",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -88,7 +106,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -101,7 +122,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10419",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -114,7 +138,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -127,7 +154,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10419",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +170,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85018",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10370",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +186,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10723",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +202,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10723",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +218,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10723",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -192,7 +234,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10723",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -205,7 +250,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85017",
-    "physical_zip4": "3272"
+    "physical_zip4": "3272",
+    "zip_class_code": null,
+    "locale_key": "003567",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -218,7 +266,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -231,7 +282,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85017",
-    "physical_zip4": "3272"
+    "physical_zip4": "3272",
+    "zip_class_code": null,
+    "locale_key": "003567",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -244,7 +298,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -257,7 +314,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10665",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -270,7 +330,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85023",
-    "physical_zip4": "9400"
+    "physical_zip4": "9400",
+    "zip_class_code": null,
+    "locale_key": "021671",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -283,7 +346,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85021",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10967",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -296,7 +362,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85023",
-    "physical_zip4": "9400"
+    "physical_zip4": "9400",
+    "zip_class_code": null,
+    "locale_key": "021671",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -309,7 +378,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10836",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -322,7 +394,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85050",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002345",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -335,7 +410,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10836",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -348,7 +426,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10411",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -361,7 +442,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85023",
-    "physical_zip4": "9400"
+    "physical_zip4": "9400",
+    "zip_class_code": null,
+    "locale_key": "021671",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -374,7 +458,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10499",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -387,7 +474,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10665",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -400,7 +490,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10411",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -413,7 +506,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10665",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -426,7 +522,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -439,7 +538,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10665",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -452,7 +554,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": "P",
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -465,7 +570,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10665",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -478,7 +586,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85026",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10747",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -491,7 +602,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -504,7 +618,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -517,7 +634,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -530,7 +650,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10665",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -543,7 +666,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": null,
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -556,7 +682,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18219",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -569,7 +698,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10411",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -582,7 +714,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18219",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -595,7 +730,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85050",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002345",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -608,7 +746,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85021",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10967",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -621,7 +762,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85023",
-    "physical_zip4": "9400"
+    "physical_zip4": "9400",
+    "zip_class_code": null,
+    "locale_key": "021671",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -634,7 +778,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85050",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002345",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -647,7 +794,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85018",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10370",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -660,7 +810,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85017",
-    "physical_zip4": "3679"
+    "physical_zip4": "3679",
+    "zip_class_code": "P",
+    "locale_key": "Z10713",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -673,7 +826,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85026",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10747",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -686,7 +842,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10665",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -699,7 +858,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85016",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10712",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -712,7 +874,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10849",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -725,7 +890,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10723",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -738,7 +906,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85020",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10907",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -751,7 +922,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85021",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10967",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -764,7 +938,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18219",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -777,7 +954,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85029",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10826",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -790,7 +970,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85026",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10747",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -803,7 +986,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85034",
-    "physical_zip4": "9111"
+    "physical_zip4": "9111",
+    "zip_class_code": "P",
+    "locale_key": "020660",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -816,7 +1002,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85044",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10363",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -829,7 +1018,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10411",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -842,7 +1034,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85017",
-    "physical_zip4": "3679"
+    "physical_zip4": "3679",
+    "zip_class_code": "P",
+    "locale_key": "Z10713",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -855,7 +1050,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10836",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -868,7 +1066,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85026",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10747",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -881,7 +1082,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85087",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "008962",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -894,7 +1098,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85087",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "008962",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -907,7 +1114,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85087",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "008962",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -920,7 +1130,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "AZ",
     "physical_zip": "85087",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "008962",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -933,7 +1146,10 @@
     "physical_city": "APACHE JUNCTION",
     "physical_state": "AZ",
     "physical_zip": "85120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10369",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -946,7 +1162,10 @@
     "physical_city": "APACHE JUNCTION",
     "physical_state": "AZ",
     "physical_zip": "85120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10369",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -959,7 +1178,10 @@
     "physical_city": "APACHE JUNCTION",
     "physical_state": "AZ",
     "physical_zip": "85120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10369",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -972,7 +1194,10 @@
     "physical_city": "APACHE JUNCTION",
     "physical_state": "AZ",
     "physical_zip": "85120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10369",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -985,7 +1210,10 @@
     "physical_city": "BAPCHULE",
     "physical_state": "AZ",
     "physical_zip": "85121",
-    "physical_zip4": "9940"
+    "physical_zip4": "9940",
+    "zip_class_code": "P",
+    "locale_key": "Z10390",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -998,7 +1226,10 @@
     "physical_city": "CASA GRANDE",
     "physical_state": "AZ",
     "physical_zip": "85122",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10423",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1011,7 +1242,10 @@
     "physical_city": "CASA GRANDE",
     "physical_state": "AZ",
     "physical_zip": "85193",
-    "physical_zip4": "6705"
+    "physical_zip4": "6705",
+    "zip_class_code": "P",
+    "locale_key": "Z10375",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1024,7 +1258,10 @@
     "physical_city": "QUEEN CREEK",
     "physical_state": "AZ",
     "physical_zip": "85142",
-    "physical_zip4": "6487"
+    "physical_zip4": "6487",
+    "zip_class_code": "P",
+    "locale_key": "Z10434",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1037,7 +1274,10 @@
     "physical_city": "COOLIDGE",
     "physical_state": "AZ",
     "physical_zip": "85128",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10462",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1050,7 +1290,10 @@
     "physical_city": "CASA GRANDE",
     "physical_state": "AZ",
     "physical_zip": "85122",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10423",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1063,7 +1306,10 @@
     "physical_city": "ELOY",
     "physical_state": "AZ",
     "physical_zip": "85131",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10513",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1076,7 +1322,10 @@
     "physical_city": "FLORENCE",
     "physical_state": "AZ",
     "physical_zip": "85132",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10521",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1089,7 +1338,10 @@
     "physical_city": "HAYDEN",
     "physical_state": "AZ",
     "physical_zip": "85135",
-    "physical_zip4": "0068"
+    "physical_zip4": "0068",
+    "zip_class_code": "P",
+    "locale_key": "Z10586",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1102,7 +1354,10 @@
     "physical_city": "KEARNY",
     "physical_state": "AZ",
     "physical_zip": "85137",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10624",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1115,7 +1370,10 @@
     "physical_city": "MARICOPA",
     "physical_state": "AZ",
     "physical_zip": "85138",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "013013",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1128,7 +1386,10 @@
     "physical_city": "MARICOPA",
     "physical_state": "AZ",
     "physical_zip": "85139",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10662",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1141,7 +1402,10 @@
     "physical_city": "MARICOPA",
     "physical_state": "AZ",
     "physical_zip": "85138",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "013013",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1154,20 +1418,10 @@
     "physical_city": "QUEEN CREEK",
     "physical_state": "AZ",
     "physical_zip": "85142",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "85141",
-    "locale_name": "ELOY",
-    "physical_delivery_address": "620 N MAIN ST",
-    "physical_city": "ELOY",
-    "physical_state": "AZ",
-    "physical_zip": "85131",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10772",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1180,7 +1434,10 @@
     "physical_city": "QUEEN CREEK",
     "physical_state": "AZ",
     "physical_zip": "85142",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10772",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1193,7 +1450,10 @@
     "physical_city": "QUEEN CREEK",
     "physical_state": "AZ",
     "physical_zip": "85142",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10772",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1206,7 +1466,10 @@
     "physical_city": "QUEEN CREEK",
     "physical_state": "AZ",
     "physical_zip": "85142",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10772",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1219,7 +1482,10 @@
     "physical_city": "RED ROCK",
     "physical_state": "AZ",
     "physical_zip": "85145",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10778",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1232,7 +1498,10 @@
     "physical_city": "SACATON",
     "physical_state": "AZ",
     "physical_zip": "85147",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10801",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1245,7 +1514,10 @@
     "physical_city": "STANFIELD",
     "physical_state": "AZ",
     "physical_zip": "85172",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10895",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1258,7 +1530,10 @@
     "physical_city": "SUPERIOR",
     "physical_state": "AZ",
     "physical_zip": "85173",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10913",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1271,7 +1546,10 @@
     "physical_city": "APACHE JUNCTION",
     "physical_state": "AZ",
     "physical_zip": "85120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10369",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1284,7 +1562,10 @@
     "physical_city": "VALLEY FARMS",
     "physical_state": "AZ",
     "physical_zip": "85191",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10957",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1297,7 +1578,10 @@
     "physical_city": "WINKELMAN",
     "physical_state": "AZ",
     "physical_zip": "85192",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10988",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1310,7 +1594,10 @@
     "physical_city": "CASA GRANDE",
     "physical_state": "AZ",
     "physical_zip": "85122",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10423",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1323,7 +1610,10 @@
     "physical_city": "CASA GRANDE",
     "physical_state": "AZ",
     "physical_zip": "85122",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10423",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1336,7 +1626,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10675",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1349,7 +1642,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85202",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10492",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1362,7 +1658,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85213",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10693",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1375,7 +1674,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85213",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10693",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1388,7 +1690,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85215",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10517",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1401,7 +1706,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85206",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10484",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1414,7 +1722,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85206",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10484",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1427,7 +1738,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85209",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "001852",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1440,7 +1754,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85209",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "001852",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1453,7 +1770,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85202",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10492",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1466,7 +1786,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10675",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1479,7 +1802,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85209",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "001852",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1492,7 +1818,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85213",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10693",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1505,7 +1834,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85213",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10693",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1518,7 +1850,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85215",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10517",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1531,7 +1866,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85209",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z18899",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1544,7 +1882,10 @@
     "physical_city": "CHANDLER",
     "physical_state": "AZ",
     "physical_zip": "85224",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10437",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1557,7 +1898,10 @@
     "physical_city": "CHANDLER",
     "physical_state": "AZ",
     "physical_zip": "85225",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10433",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1570,7 +1914,10 @@
     "physical_city": "CHANDLER",
     "physical_state": "AZ",
     "physical_zip": "85224",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10437",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1583,7 +1930,10 @@
     "physical_city": "GILBERT",
     "physical_state": "AZ",
     "physical_zip": "85233",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "012917",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1596,7 +1946,10 @@
     "physical_city": "GILBERT",
     "physical_state": "AZ",
     "physical_zip": "85233",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "012917",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1609,7 +1962,10 @@
     "physical_city": "HIGLEY",
     "physical_state": "AZ",
     "physical_zip": "85236",
-    "physical_zip4": "4500"
+    "physical_zip4": "4500",
+    "zip_class_code": "P",
+    "locale_key": "Z10589",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1622,7 +1978,10 @@
     "physical_city": "CHANDLER",
     "physical_state": "AZ",
     "physical_zip": "85225",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10433",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1635,7 +1994,10 @@
     "physical_city": "CHANDLER",
     "physical_state": "AZ",
     "physical_zip": "85224",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10437",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1648,7 +2010,10 @@
     "physical_city": "CHANDLER",
     "physical_state": "AZ",
     "physical_zip": "85248",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18853",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1661,7 +2026,10 @@
     "physical_city": "CHANDLER",
     "physical_state": "AZ",
     "physical_zip": "85248",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18853",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1674,7 +2042,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10595",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1687,7 +2058,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85257",
-    "physical_zip4": "2115"
+    "physical_zip4": "2115",
+    "zip_class_code": null,
+    "locale_key": "Z10821",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1700,7 +2074,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85257",
-    "physical_zip4": "2115"
+    "physical_zip4": "2115",
+    "zip_class_code": "P",
+    "locale_key": "Z10821",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1713,7 +2090,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10595",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1726,7 +2106,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85260",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10364",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1739,7 +2122,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85255",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000810",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1752,7 +2138,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85257",
-    "physical_zip4": "2115"
+    "physical_zip4": "2115",
+    "zip_class_code": null,
+    "locale_key": "Z10821",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1765,7 +2154,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85257",
-    "physical_zip4": "2115"
+    "physical_zip4": "2115",
+    "zip_class_code": null,
+    "locale_key": "Z10821",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1778,7 +2170,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10595",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1791,7 +2186,10 @@
     "physical_city": "FOUNTAIN HILLS",
     "physical_state": "AZ",
     "physical_zip": "85268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17816",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1804,7 +2202,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85260",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10364",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1817,7 +2218,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10595",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1830,7 +2234,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85255",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000810",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1843,7 +2250,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85255",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000810",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1856,7 +2266,10 @@
     "physical_city": "FOUNTAIN HILLS",
     "physical_state": "AZ",
     "physical_zip": "85268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17816",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1869,7 +2282,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85255",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000810",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1882,7 +2298,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85260",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10364",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1895,7 +2314,10 @@
     "physical_city": "FOUNTAIN HILLS",
     "physical_state": "AZ",
     "physical_zip": "85268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17816",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1908,7 +2330,10 @@
     "physical_city": "FOUNTAIN HILLS",
     "physical_state": "AZ",
     "physical_zip": "85268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z17816",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1921,7 +2346,10 @@
     "physical_city": "SCOTTSDALE",
     "physical_state": "AZ",
     "physical_zip": "85257",
-    "physical_zip4": "2115"
+    "physical_zip4": "2115",
+    "zip_class_code": "P",
+    "locale_key": "Z10821",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1934,7 +2362,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85202",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10492",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1947,7 +2378,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85213",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10693",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1960,7 +2394,10 @@
     "physical_city": "MESA",
     "physical_state": "AZ",
     "physical_zip": "85215",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10517",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1973,7 +2410,10 @@
     "physical_city": "TEMPE",
     "physical_state": "AZ",
     "physical_zip": "85281",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z18373",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1986,7 +2426,10 @@
     "physical_city": "TEMPE",
     "physical_state": "AZ",
     "physical_zip": "85281",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17842",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1999,7 +2442,10 @@
     "physical_city": "TEMPE",
     "physical_state": "AZ",
     "physical_zip": "85282",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10920",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2012,7 +2458,10 @@
     "physical_city": "TEMPE",
     "physical_state": "AZ",
     "physical_zip": "85284",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000974",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2025,7 +2474,10 @@
     "physical_city": "TEMPE",
     "physical_state": "AZ",
     "physical_zip": "85284",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000974",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2038,7 +2490,10 @@
     "physical_city": "TEMPE",
     "physical_state": "AZ",
     "physical_zip": "85282",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10920",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2051,7 +2506,10 @@
     "physical_city": "CHANDLER",
     "physical_state": "AZ",
     "physical_zip": "85248",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18853",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2064,7 +2522,10 @@
     "physical_city": "TEMPE",
     "physical_state": "AZ",
     "physical_zip": "85281",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17842",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2077,7 +2538,10 @@
     "physical_city": "GILBERT",
     "physical_state": "AZ",
     "physical_zip": "85296",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "012882",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2090,7 +2554,10 @@
     "physical_city": "GILBERT",
     "physical_state": "AZ",
     "physical_zip": "85296",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "012882",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2103,7 +2570,10 @@
     "physical_city": "GILBERT",
     "physical_state": "AZ",
     "physical_zip": "85298",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "021283",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2116,7 +2586,10 @@
     "physical_city": "GILBERT",
     "physical_state": "AZ",
     "physical_zip": "85298",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "021283",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2129,7 +2602,10 @@
     "physical_city": "GILBERT",
     "physical_state": "AZ",
     "physical_zip": "85234",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10548",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2142,7 +2618,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18374",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2155,7 +2634,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85302",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10551",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2168,7 +2650,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18374",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2181,7 +2666,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85302",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10551",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2194,7 +2682,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18374",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2207,7 +2698,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85302",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10551",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2220,7 +2714,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18374",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2233,7 +2730,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85308",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10382",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2246,7 +2746,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85308",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10382",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2259,7 +2762,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18374",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2272,7 +2778,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85302",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10551",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2285,7 +2794,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "AZ",
     "physical_zip": "85308",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10382",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2298,7 +2810,10 @@
     "physical_city": "AGUILA",
     "physical_state": "AZ",
     "physical_zip": "85320",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": "P",
+    "locale_key": "Z10361",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2311,7 +2826,10 @@
     "physical_city": "AJO",
     "physical_state": "AZ",
     "physical_zip": "85321",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10365",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2324,20 +2842,26 @@
     "physical_city": "ARLINGTON",
     "physical_state": "AZ",
     "physical_zip": "85322",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10381",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
     "area_code": "4E",
     "district_name": "AZ-NM",
     "district_no": "852",
-    "delivery_zipcode": "85322",
-    "locale_name": "BUCKEYE",
-    "physical_delivery_address": "51 E MONROE AVE",
-    "physical_city": "BUCKEYE",
+    "delivery_zipcode": "85323",
+    "locale_name": "AVONDALE GOODYEAR",
+    "physical_delivery_address": "875 S ESTRELLA PKWY",
+    "physical_city": "GOODYEAR",
     "physical_state": "AZ",
-    "physical_zip": "85326",
-    "physical_zip4": "9998"
+    "physical_zip": "85338",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10385",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2350,20 +2874,10 @@
     "physical_city": "AVONDALE",
     "physical_state": "AZ",
     "physical_zip": "85323",
-    "physical_zip4": "2266"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "85323",
-    "locale_name": "AVONDALE GOODYEAR",
-    "physical_delivery_address": "875 S ESTRELLA PKWY",
-    "physical_city": "GOODYEAR",
-    "physical_state": "AZ",
-    "physical_zip": "85338",
-    "physical_zip4": "9998"
+    "physical_zip4": "2266",
+    "zip_class_code": null,
+    "locale_key": "008442",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2376,7 +2890,10 @@
     "physical_city": "BLACK CANYON CITY",
     "physical_state": "AZ",
     "physical_zip": "85324",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10397",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2389,7 +2906,10 @@
     "physical_city": "BOUSE",
     "physical_state": "AZ",
     "physical_zip": "85325",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10402",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2402,7 +2922,10 @@
     "physical_city": "BUCKEYE",
     "physical_state": "AZ",
     "physical_zip": "85326",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10404",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2415,20 +2938,10 @@
     "physical_city": "CAVE CREEK",
     "physical_state": "AZ",
     "physical_zip": "85331",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "85328",
-    "locale_name": "EHRENBERG",
-    "physical_delivery_address": "49440 EHRENBERG RD",
-    "physical_city": "EHRENBERG",
-    "physical_state": "AZ",
-    "physical_zip": "85334",
-    "physical_zip4": "9600"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10428",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2441,7 +2954,10 @@
     "physical_city": "CASHION",
     "physical_state": "AZ",
     "physical_zip": "85329",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10426",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2454,7 +2970,10 @@
     "physical_city": "CAVE CREEK",
     "physical_state": "AZ",
     "physical_zip": "85331",
-    "physical_zip4": "8629"
+    "physical_zip4": "8629",
+    "zip_class_code": null,
+    "locale_key": "Z18136",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2467,7 +2986,10 @@
     "physical_city": "CONGRESS",
     "physical_state": "AZ",
     "physical_zip": "85332",
-    "physical_zip4": "5500"
+    "physical_zip4": "5500",
+    "zip_class_code": "P",
+    "locale_key": "Z10460",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2480,20 +3002,10 @@
     "physical_city": "TACNA",
     "physical_state": "AZ",
     "physical_zip": "85352",
-    "physical_zip4": "5300"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "85333",
-    "locale_name": "VPO DATELAND",
-    "physical_delivery_address": "1300 S AVENUE 64 E",
-    "physical_city": "DATELAND",
-    "physical_state": "AZ",
-    "physical_zip": "85333",
-    "physical_zip4": "5590"
+    "physical_zip4": "5300",
+    "zip_class_code": null,
+    "locale_key": "Z10915",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2506,7 +3018,10 @@
     "physical_city": "EHRENBERG",
     "physical_state": "AZ",
     "physical_zip": "85334",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": "P",
+    "locale_key": "Z10508",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2519,7 +3034,10 @@
     "physical_city": "EL MIRAGE",
     "physical_state": "AZ",
     "physical_zip": "85335",
-    "physical_zip4": "3000"
+    "physical_zip4": "3000",
+    "zip_class_code": null,
+    "locale_key": "Z10509",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2532,7 +3050,10 @@
     "physical_city": "EL MIRAGE",
     "physical_state": "AZ",
     "physical_zip": "85335",
-    "physical_zip4": "4108"
+    "physical_zip4": "4108",
+    "zip_class_code": null,
+    "locale_key": "007463",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2545,7 +3066,10 @@
     "physical_city": "SAN LUIS",
     "physical_state": "AZ",
     "physical_zip": "85349",
-    "physical_zip4": "7101"
+    "physical_zip4": "7101",
+    "zip_class_code": "P",
+    "locale_key": "Z10812",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2558,7 +3082,10 @@
     "physical_city": "GILA BEND",
     "physical_state": "AZ",
     "physical_zip": "85337",
-    "physical_zip4": "5300"
+    "physical_zip4": "5300",
+    "zip_class_code": null,
+    "locale_key": "Z10547",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2571,7 +3098,10 @@
     "physical_city": "GOODYEAR",
     "physical_state": "AZ",
     "physical_zip": "85338",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10385",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2584,7 +3114,10 @@
     "physical_city": "LAVEEN",
     "physical_state": "AZ",
     "physical_zip": "85339",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10642",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2597,7 +3130,10 @@
     "physical_city": "LAVEEN",
     "physical_state": "AZ",
     "physical_zip": "85339",
-    "physical_zip4": "3583"
+    "physical_zip4": "3583",
+    "zip_class_code": null,
+    "locale_key": "008085",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2610,7 +3146,10 @@
     "physical_city": "LITCHFIELD PARK",
     "physical_state": "AZ",
     "physical_zip": "85340",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10645",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2623,7 +3162,10 @@
     "physical_city": "LUKEVILLE",
     "physical_state": "AZ",
     "physical_zip": "85341",
-    "physical_zip4": "5300"
+    "physical_zip4": "5300",
+    "zip_class_code": "P",
+    "locale_key": "Z10655",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2636,7 +3178,10 @@
     "physical_city": "MORRISTOWN",
     "physical_state": "AZ",
     "physical_zip": "85342",
-    "physical_zip4": "9615"
+    "physical_zip4": "9615",
+    "zip_class_code": null,
+    "locale_key": "Z10691",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2649,7 +3194,10 @@
     "physical_city": "PALO VERDE",
     "physical_state": "AZ",
     "physical_zip": "85343",
-    "physical_zip4": "8512"
+    "physical_zip4": "8512",
+    "zip_class_code": "P",
+    "locale_key": "017930",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2662,7 +3210,10 @@
     "physical_city": "PARKER",
     "physical_state": "AZ",
     "physical_zip": "85344",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10734",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2675,7 +3226,10 @@
     "physical_city": "PEORIA",
     "physical_state": "AZ",
     "physical_zip": "85345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17873",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2688,7 +3242,10 @@
     "physical_city": "QUARTZSITE",
     "physical_state": "AZ",
     "physical_zip": "85346",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": "P",
+    "locale_key": "Z10771",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2701,7 +3258,10 @@
     "physical_city": "WELLTON",
     "physical_state": "AZ",
     "physical_zip": "85356",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "Z10968",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2714,7 +3274,10 @@
     "physical_city": "SALOME",
     "physical_state": "AZ",
     "physical_zip": "85348",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "Z10810",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2727,7 +3290,10 @@
     "physical_city": "SAN LUIS",
     "physical_state": "AZ",
     "physical_zip": "85349",
-    "physical_zip4": "7101"
+    "physical_zip4": "7101",
+    "zip_class_code": "P",
+    "locale_key": "Z10812",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2740,7 +3306,10 @@
     "physical_city": "SOMERTON",
     "physical_state": "AZ",
     "physical_zip": "85350",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10846",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2753,7 +3322,10 @@
     "physical_city": "SUN CITY",
     "physical_state": "AZ",
     "physical_zip": "85351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10902",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2766,7 +3338,10 @@
     "physical_city": "TACNA",
     "physical_state": "AZ",
     "physical_zip": "85352",
-    "physical_zip4": "5300"
+    "physical_zip4": "5300",
+    "zip_class_code": "P",
+    "locale_key": "Z10915",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2779,7 +3354,10 @@
     "physical_city": "TOLLESON",
     "physical_state": "AZ",
     "physical_zip": "85353",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10928",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2792,7 +3370,10 @@
     "physical_city": "TONOPAH",
     "physical_state": "AZ",
     "physical_zip": "85354",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10931",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2805,7 +3386,10 @@
     "physical_city": "WADDELL",
     "physical_state": "AZ",
     "physical_zip": "85355",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10962",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2818,7 +3402,10 @@
     "physical_city": "WELLTON",
     "physical_state": "AZ",
     "physical_zip": "85356",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "Z10968",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2831,7 +3418,10 @@
     "physical_city": "WENDEN",
     "physical_state": "AZ",
     "physical_zip": "85357",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": "P",
+    "locale_key": "Z10969",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2844,7 +3434,10 @@
     "physical_city": "WICKENBURG",
     "physical_state": "AZ",
     "physical_zip": "85390",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10979",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2857,7 +3450,10 @@
     "physical_city": "QUARTZSITE",
     "physical_state": "AZ",
     "physical_zip": "85346",
-    "physical_zip4": "2076"
+    "physical_zip4": "2076",
+    "zip_class_code": "P",
+    "locale_key": "020766",
+    "locale_type": "6"
   },
   {
     "area_name": "WESTPAC",
@@ -2870,7 +3466,10 @@
     "physical_city": "WIKIEUP",
     "physical_state": "AZ",
     "physical_zip": "85360",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": "P",
+    "locale_key": "Z10982",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2883,7 +3482,10 @@
     "physical_city": "WITTMANN",
     "physical_state": "AZ",
     "physical_zip": "85361",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10993",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2896,7 +3498,10 @@
     "physical_city": "YARNELL",
     "physical_state": "AZ",
     "physical_zip": "85362",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10996",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2909,7 +3514,10 @@
     "physical_city": "SUN CITY",
     "physical_state": "AZ",
     "physical_zip": "85351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10902",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2922,7 +3530,10 @@
     "physical_city": "YOUNGTOWN",
     "physical_state": "AZ",
     "physical_zip": "85363",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10999",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2935,33 +3546,10 @@
     "physical_city": "YUMA",
     "physical_state": "AZ",
     "physical_zip": "85364",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "85365",
-    "locale_name": "CPU MARTINEZ LAKE",
-    "physical_delivery_address": "10882 N FISHERS LANDING RD",
-    "physical_city": "YUMA",
-    "physical_state": "AZ",
-    "physical_zip": "85365",
-    "physical_zip4": "0730"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "85365",
-    "locale_name": "YUMA",
-    "physical_delivery_address": "2222 S 4TH AVE",
-    "physical_city": "YUMA",
-    "physical_state": "AZ",
-    "physical_zip": "85364",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z11001",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2974,7 +3562,26 @@
     "physical_city": "YUMA",
     "physical_state": "AZ",
     "physical_zip": "85365",
-    "physical_zip4": "6566"
+    "physical_zip4": "6566",
+    "zip_class_code": null,
+    "locale_key": "Z10663",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "85365",
+    "locale_name": "YUMA",
+    "physical_delivery_address": "2222 S 4TH AVE",
+    "physical_city": "YUMA",
+    "physical_state": "AZ",
+    "physical_zip": "85364",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z11001",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2987,7 +3594,10 @@
     "physical_city": "YUMA",
     "physical_state": "AZ",
     "physical_zip": "85364",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z11001",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3000,7 +3610,10 @@
     "physical_city": "YUMA",
     "physical_state": "AZ",
     "physical_zip": "85367",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "001870",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -3013,7 +3626,10 @@
     "physical_city": "PARKER",
     "physical_state": "AZ",
     "physical_zip": "85344",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10734",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3026,7 +3642,10 @@
     "physical_city": "SUN CITY",
     "physical_state": "AZ",
     "physical_zip": "85351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10902",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3039,7 +3658,10 @@
     "physical_city": "SUN CITY",
     "physical_state": "AZ",
     "physical_zip": "85351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10902",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3052,7 +3674,10 @@
     "physical_city": "SURPRISE",
     "physical_state": "AZ",
     "physical_zip": "85374",
-    "physical_zip4": "9905"
+    "physical_zip4": "9905",
+    "zip_class_code": null,
+    "locale_key": "021225",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -3065,7 +3690,10 @@
     "physical_city": "SUN CITY WEST",
     "physical_state": "AZ",
     "physical_zip": "85375",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18874",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -3078,7 +3706,10 @@
     "physical_city": "SUN CITY WEST",
     "physical_state": "AZ",
     "physical_zip": "85375",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18874",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -3091,7 +3722,10 @@
     "physical_city": "CAREFREE",
     "physical_state": "AZ",
     "physical_zip": "85377",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "018375",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -3104,7 +3738,10 @@
     "physical_city": "SUN CITY WEST",
     "physical_state": "AZ",
     "physical_zip": "85375",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18874",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -3117,7 +3754,10 @@
     "physical_city": "SURPRISE",
     "physical_state": "AZ",
     "physical_zip": "85378",
-    "physical_zip4": "3747"
+    "physical_zip4": "3747",
+    "zip_class_code": null,
+    "locale_key": "001911",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -3130,7 +3770,10 @@
     "physical_city": "SURPRISE",
     "physical_state": "AZ",
     "physical_zip": "85374",
-    "physical_zip4": "9905"
+    "physical_zip4": "9905",
+    "zip_class_code": null,
+    "locale_key": "021225",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -3143,7 +3786,10 @@
     "physical_city": "PEORIA",
     "physical_state": "AZ",
     "physical_zip": "85345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z17873",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3156,7 +3802,10 @@
     "physical_city": "PEORIA",
     "physical_state": "AZ",
     "physical_zip": "85381",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10742",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3169,7 +3818,10 @@
     "physical_city": "PEORIA",
     "physical_state": "AZ",
     "physical_zip": "85381",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10742",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3182,7 +3834,10 @@
     "physical_city": "PEORIA",
     "physical_state": "AZ",
     "physical_zip": "85381",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10742",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3195,7 +3850,10 @@
     "physical_city": "PEORIA",
     "physical_state": "AZ",
     "physical_zip": "85381",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10742",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3208,7 +3866,10 @@
     "physical_city": "SURPRISE",
     "physical_state": "AZ",
     "physical_zip": "85374",
-    "physical_zip4": "9905"
+    "physical_zip4": "9905",
+    "zip_class_code": null,
+    "locale_key": "021225",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -3221,7 +3882,10 @@
     "physical_city": "SURPRISE",
     "physical_state": "AZ",
     "physical_zip": "85374",
-    "physical_zip4": "9905"
+    "physical_zip4": "9905",
+    "zip_class_code": null,
+    "locale_key": "021225",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -3234,7 +3898,10 @@
     "physical_city": "WICKENBURG",
     "physical_state": "AZ",
     "physical_zip": "85390",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10979",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3247,7 +3914,10 @@
     "physical_city": "GOODYEAR",
     "physical_state": "AZ",
     "physical_zip": "85338",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10385",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3260,7 +3930,10 @@
     "physical_city": "GOODYEAR",
     "physical_state": "AZ",
     "physical_zip": "85338",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10385",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3273,7 +3946,10 @@
     "physical_city": "BUCKEYE",
     "physical_state": "AZ",
     "physical_zip": "85326",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10404",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3286,7 +3962,10 @@
     "physical_city": "GLOBE",
     "physical_state": "AZ",
     "physical_zip": "85501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10553",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3299,7 +3978,10 @@
     "physical_city": "GLOBE",
     "physical_state": "AZ",
     "physical_zip": "85501",
-    "physical_zip4": "1494"
+    "physical_zip4": "1494",
+    "zip_class_code": null,
+    "locale_key": "007626",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -3312,7 +3994,10 @@
     "physical_city": "GLOBE",
     "physical_state": "AZ",
     "physical_zip": "85501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10553",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3325,7 +4010,10 @@
     "physical_city": "BYLAS",
     "physical_state": "AZ",
     "physical_zip": "85530",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10410",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3338,7 +4026,10 @@
     "physical_city": "CENTRAL",
     "physical_state": "AZ",
     "physical_zip": "85531",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10431",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3351,7 +4042,10 @@
     "physical_city": "CLAYPOOL",
     "physical_state": "AZ",
     "physical_zip": "85532",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z10451",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3364,7 +4058,10 @@
     "physical_city": "CLIFTON",
     "physical_state": "AZ",
     "physical_zip": "85533",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10453",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3377,7 +4074,10 @@
     "physical_city": "DUNCAN",
     "physical_state": "AZ",
     "physical_zip": "85534",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10504",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3390,7 +4090,10 @@
     "physical_city": "FORT THOMAS",
     "physical_state": "AZ",
     "physical_zip": "85536",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z10535",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3403,7 +4106,10 @@
     "physical_city": "MIAMI",
     "physical_state": "AZ",
     "physical_zip": "85539",
-    "physical_zip4": "1552"
+    "physical_zip4": "1552",
+    "zip_class_code": null,
+    "locale_key": "Z10677",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3416,7 +4122,10 @@
     "physical_city": "MORENCI",
     "physical_state": "AZ",
     "physical_zip": "85540",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10689",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3429,7 +4138,10 @@
     "physical_city": "PAYSON",
     "physical_state": "AZ",
     "physical_zip": "85541",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10739",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3442,7 +4154,10 @@
     "physical_city": "PERIDOT",
     "physical_state": "AZ",
     "physical_zip": "85542",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10743",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3455,7 +4170,10 @@
     "physical_city": "PIMA",
     "physical_state": "AZ",
     "physical_zip": "85543",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10750",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3468,7 +4186,10 @@
     "physical_city": "PINE",
     "physical_state": "AZ",
     "physical_zip": "85544",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10752",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3481,7 +4202,10 @@
     "physical_city": "ROOSEVELT",
     "physical_state": "AZ",
     "physical_zip": "85545",
-    "physical_zip4": "8049"
+    "physical_zip4": "8049",
+    "zip_class_code": null,
+    "locale_key": "Z10796",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3494,7 +4218,10 @@
     "physical_city": "SAFFORD",
     "physical_state": "AZ",
     "physical_zip": "85546",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10803",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3507,7 +4234,10 @@
     "physical_city": "PAYSON",
     "physical_state": "AZ",
     "physical_zip": "85541",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10739",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3520,7 +4250,10 @@
     "physical_city": "SAFFORD",
     "physical_state": "AZ",
     "physical_zip": "85546",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10803",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3533,7 +4266,10 @@
     "physical_city": "SAN CARLOS",
     "physical_state": "AZ",
     "physical_zip": "85550",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10811",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3546,7 +4282,10 @@
     "physical_city": "SOLOMON",
     "physical_state": "AZ",
     "physical_zip": "85551",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z10845",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3559,7 +4298,10 @@
     "physical_city": "THATCHER",
     "physical_state": "AZ",
     "physical_zip": "85552",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10922",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3572,7 +4314,10 @@
     "physical_city": "TONTO BASIN",
     "physical_state": "AZ",
     "physical_zip": "85553",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z10932",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3585,7 +4330,10 @@
     "physical_city": "YOUNG",
     "physical_state": "AZ",
     "physical_zip": "85554",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z10998",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3598,7 +4346,10 @@
     "physical_city": "ARIVACA",
     "physical_state": "AZ",
     "physical_zip": "85601",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10371",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3611,7 +4362,10 @@
     "physical_city": "BENSON",
     "physical_state": "AZ",
     "physical_zip": "85602",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10394",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3624,7 +4378,10 @@
     "physical_city": "BISBEE",
     "physical_state": "AZ",
     "physical_zip": "85603",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10395",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3637,7 +4394,10 @@
     "physical_city": "BISBEE",
     "physical_state": "AZ",
     "physical_zip": "85603",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "Z10464",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3650,7 +4410,10 @@
     "physical_city": "BOWIE",
     "physical_state": "AZ",
     "physical_zip": "85605",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10403",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3663,7 +4426,10 @@
     "physical_city": "COCHISE",
     "physical_state": "AZ",
     "physical_zip": "85606",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10455",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3676,7 +4442,10 @@
     "physical_city": "DOUGLAS",
     "physical_state": "AZ",
     "physical_zip": "85607",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10496",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3689,7 +4458,10 @@
     "physical_city": "DOUGLAS",
     "physical_state": "AZ",
     "physical_zip": "85607",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10496",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3702,7 +4474,10 @@
     "physical_city": "DRAGOON",
     "physical_state": "AZ",
     "physical_zip": "85609",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10503",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3715,7 +4490,10 @@
     "physical_city": "ELFRIDA",
     "physical_state": "AZ",
     "physical_zip": "85610",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10511",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3728,7 +4506,10 @@
     "physical_city": "SONOITA",
     "physical_state": "AZ",
     "physical_zip": "85637",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10847",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3741,7 +4522,10 @@
     "physical_city": "SIERRA VISTA",
     "physical_state": "AZ",
     "physical_zip": "85635",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10838",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3754,7 +4538,10 @@
     "physical_city": "GREEN VALLEY",
     "physical_state": "AZ",
     "physical_zip": "85614",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10570",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3767,7 +4554,10 @@
     "physical_city": "HEREFORD",
     "physical_state": "AZ",
     "physical_zip": "85615",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10588",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3780,7 +4570,10 @@
     "physical_city": "HUACHUCA CITY",
     "physical_state": "AZ",
     "physical_zip": "85616",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10599",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3793,7 +4586,10 @@
     "physical_city": "MC NEAL",
     "physical_state": "AZ",
     "physical_zip": "85617",
-    "physical_zip4": "9713"
+    "physical_zip4": "9713",
+    "zip_class_code": null,
+    "locale_key": "Z10668",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3806,7 +4602,10 @@
     "physical_city": "MAMMOTH",
     "physical_state": "AZ",
     "physical_zip": "85618",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10657",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3819,7 +4618,10 @@
     "physical_city": "MOUNT LEMMON",
     "physical_state": "AZ",
     "physical_zip": "85619",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10692",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3832,7 +4634,10 @@
     "physical_city": "NACO",
     "physical_state": "AZ",
     "physical_zip": "85620",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10698",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3845,7 +4650,10 @@
     "physical_city": "NOGALES",
     "physical_state": "AZ",
     "physical_zip": "85621",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10710",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3858,7 +4666,10 @@
     "physical_city": "GREEN VALLEY",
     "physical_state": "AZ",
     "physical_zip": "85614",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10570",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3871,7 +4682,10 @@
     "physical_city": "ORACLE",
     "physical_state": "AZ",
     "physical_zip": "85623",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10720",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3884,7 +4698,10 @@
     "physical_city": "PATAGONIA",
     "physical_state": "AZ",
     "physical_zip": "85624",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "Z10736",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3897,7 +4714,10 @@
     "physical_city": "PEARCE",
     "physical_state": "AZ",
     "physical_zip": "85625",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10741",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3910,7 +4730,10 @@
     "physical_city": "PIRTLEVILLE",
     "physical_state": "AZ",
     "physical_zip": "85626",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10760",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3923,7 +4746,10 @@
     "physical_city": "POMERENE",
     "physical_state": "AZ",
     "physical_zip": "85627",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10763",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3936,7 +4762,10 @@
     "physical_city": "NOGALES",
     "physical_state": "AZ",
     "physical_zip": "85621",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10710",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3949,7 +4778,10 @@
     "physical_city": "NOGALES",
     "physical_state": "AZ",
     "physical_zip": "85621",
-    "physical_zip4": "1038"
+    "physical_zip4": "1038",
+    "zip_class_code": "P",
+    "locale_key": "020696",
+    "locale_type": "6"
   },
   {
     "area_name": "WESTPAC",
@@ -3962,7 +4794,10 @@
     "physical_city": "SAHUARITA",
     "physical_state": "AZ",
     "physical_zip": "85629",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10804",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3975,7 +4810,10 @@
     "physical_city": "SAINT DAVID",
     "physical_state": "AZ",
     "physical_zip": "85630",
-    "physical_zip4": "7204"
+    "physical_zip4": "7204",
+    "zip_class_code": null,
+    "locale_key": "Z10805",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3988,7 +4826,10 @@
     "physical_city": "SAN MANUEL",
     "physical_state": "AZ",
     "physical_zip": "85631",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10813",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4001,7 +4842,10 @@
     "physical_city": "SAN SIMON",
     "physical_state": "AZ",
     "physical_zip": "85632",
-    "physical_zip4": "9950"
+    "physical_zip4": "9950",
+    "zip_class_code": null,
+    "locale_key": "Z10764",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4014,7 +4858,10 @@
     "physical_city": "SAN SIMON",
     "physical_state": "AZ",
     "physical_zip": "85632",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10814",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4027,7 +4874,10 @@
     "physical_city": "SASABE",
     "physical_state": "AZ",
     "physical_zip": "85633",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": "P",
+    "locale_key": "Z10818",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4040,7 +4890,10 @@
     "physical_city": "SELLS",
     "physical_state": "AZ",
     "physical_zip": "85634",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10825",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4053,7 +4906,10 @@
     "physical_city": "SIERRA VISTA",
     "physical_state": "AZ",
     "physical_zip": "85635",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10838",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4066,7 +4922,10 @@
     "physical_city": "SIERRA VISTA",
     "physical_state": "AZ",
     "physical_zip": "85635",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10838",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4079,7 +4938,10 @@
     "physical_city": "SONOITA",
     "physical_state": "AZ",
     "physical_zip": "85637",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10847",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4092,7 +4954,10 @@
     "physical_city": "TOMBSTONE",
     "physical_state": "AZ",
     "physical_zip": "85638",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10929",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4105,7 +4970,10 @@
     "physical_city": "TOPAWA",
     "physical_state": "AZ",
     "physical_zip": "85639",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10933",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4118,7 +4986,10 @@
     "physical_city": "TUMACACORI",
     "physical_state": "AZ",
     "physical_zip": "85640",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10946",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4131,7 +5002,10 @@
     "physical_city": "VAIL",
     "physical_state": "AZ",
     "physical_zip": "85641",
-    "physical_zip4": "9803"
+    "physical_zip4": "9803",
+    "zip_class_code": null,
+    "locale_key": "Z10955",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4144,7 +5018,10 @@
     "physical_city": "VAIL",
     "physical_state": "AZ",
     "physical_zip": "85641",
-    "physical_zip4": "6832"
+    "physical_zip4": "6832",
+    "zip_class_code": null,
+    "locale_key": "013142",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4157,7 +5034,10 @@
     "physical_city": "WILLCOX",
     "physical_state": "AZ",
     "physical_zip": "85643",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10983",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4170,7 +5050,10 @@
     "physical_city": "WILLCOX",
     "physical_state": "AZ",
     "physical_zip": "85643",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10983",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4183,7 +5066,10 @@
     "physical_city": "AMADO",
     "physical_state": "AZ",
     "physical_zip": "85645",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10368",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4196,7 +5082,10 @@
     "physical_city": "TUBAC",
     "physical_state": "AZ",
     "physical_zip": "85646",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10943",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4209,7 +5098,10 @@
     "physical_city": "RIO RICO",
     "physical_state": "AZ",
     "physical_zip": "85648",
-    "physical_zip4": "6214"
+    "physical_zip4": "6214",
+    "zip_class_code": null,
+    "locale_key": "Z10787",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4222,7 +5114,10 @@
     "physical_city": "SIERRA VISTA",
     "physical_state": "AZ",
     "physical_zip": "85635",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10838",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4235,7 +5130,10 @@
     "physical_city": "CORTARO",
     "physical_state": "AZ",
     "physical_zip": "85652",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": "P",
+    "locale_key": "Z10471",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4248,7 +5146,10 @@
     "physical_city": "MARANA",
     "physical_state": "AZ",
     "physical_zip": "85653",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10660",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4261,7 +5162,10 @@
     "physical_city": "RILLITO",
     "physical_state": "AZ",
     "physical_zip": "85654",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10783",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4274,7 +5178,10 @@
     "physical_city": "DOUGLAS",
     "physical_state": "AZ",
     "physical_zip": "85607",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10496",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4287,7 +5194,10 @@
     "physical_city": "MARANA",
     "physical_state": "AZ",
     "physical_zip": "85653",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10660",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4300,7 +5210,10 @@
     "physical_city": "FORT HUACHUCA",
     "physical_state": "AZ",
     "physical_zip": "85613",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10529",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4313,7 +5226,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85726",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10945",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4326,7 +5242,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10501",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4339,7 +5258,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85705",
-    "physical_zip4": "3210"
+    "physical_zip4": "3210",
+    "zip_class_code": "P",
+    "locale_key": "Z10629",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4352,7 +5274,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85704",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10424",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4365,7 +5290,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85745",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10840",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4378,7 +5306,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85706",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10683",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4391,7 +5322,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85711",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10470",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4404,7 +5338,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85708",
-    "physical_zip4": "9897"
+    "physical_zip4": "9897",
+    "zip_class_code": null,
+    "locale_key": "Z10478",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4417,7 +5354,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10786",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4430,7 +5370,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85711",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10470",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4443,7 +5386,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85711",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10470",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4456,7 +5402,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85726",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10945",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4469,7 +5418,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85706",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10683",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4482,7 +5434,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85715",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10531",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4495,7 +5450,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85719",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10901",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4508,7 +5466,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85719",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10901",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4521,7 +5482,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85718",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10485",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4534,7 +5498,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85719",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10901",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4547,7 +5514,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85713",
-    "physical_zip4": "3405"
+    "physical_zip4": "3405",
+    "zip_class_code": "P",
+    "locale_key": "Z10850",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4560,7 +5530,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85726",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10945",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4573,7 +5546,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85718",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10485",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4586,7 +5562,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10786",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4599,7 +5578,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10786",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4612,7 +5594,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85711",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10470",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4625,7 +5610,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85719",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10901",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4638,7 +5626,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85706",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10683",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4651,7 +5642,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85757",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "015678",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4664,7 +5658,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85757",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "015678",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4677,7 +5674,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85737",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18409",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4690,7 +5690,10 @@
     "physical_city": "CATALINA",
     "physical_state": "AZ",
     "physical_zip": "85739",
-    "physical_zip4": "9129"
+    "physical_zip4": "9129",
+    "zip_class_code": "P",
+    "locale_key": "Z10427",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4703,7 +5706,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85737",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18409",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4716,7 +5722,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85704",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10424",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4729,7 +5738,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85741",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17797",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4742,7 +5754,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85741",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17797",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4755,7 +5770,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85741",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17797",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4768,7 +5786,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85745",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10840",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4781,7 +5802,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85757",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "015678",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4794,7 +5818,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10786",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4807,7 +5834,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10786",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4820,7 +5850,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85715",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10531",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4833,7 +5866,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85715",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10531",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4846,7 +5882,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85715",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10531",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4859,7 +5898,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85741",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z17797",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4872,7 +5914,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85745",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10840",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4885,7 +5930,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85737",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18409",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4898,7 +5946,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85706",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10683",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4911,7 +5962,10 @@
     "physical_city": "TUCSON",
     "physical_state": "AZ",
     "physical_zip": "85757",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "015678",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4924,7 +5978,10 @@
     "physical_city": "SHOW LOW",
     "physical_state": "AZ",
     "physical_zip": "85901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10833",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4937,7 +5994,10 @@
     "physical_city": "SHOW LOW",
     "physical_state": "AZ",
     "physical_zip": "85901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10833",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4950,7 +6010,10 @@
     "physical_city": "CIBECUE",
     "physical_state": "AZ",
     "physical_zip": "85911",
-    "physical_zip4": "5800"
+    "physical_zip4": "5800",
+    "zip_class_code": "P",
+    "locale_key": "Z10445",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4963,7 +6026,10 @@
     "physical_city": "SHOW LOW",
     "physical_state": "AZ",
     "physical_zip": "85901",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10974",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -4976,7 +6042,10 @@
     "physical_city": "ALPINE",
     "physical_state": "AZ",
     "physical_zip": "85920",
-    "physical_zip4": "5300"
+    "physical_zip4": "5300",
+    "zip_class_code": "P",
+    "locale_key": "Z10367",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4989,7 +6058,10 @@
     "physical_city": "BLUE",
     "physical_state": "AZ",
     "physical_zip": "85922",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10399",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5002,7 +6074,10 @@
     "physical_city": "CLAY SPRINGS",
     "physical_state": "AZ",
     "physical_zip": "85923",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10450",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5015,7 +6090,10 @@
     "physical_city": "CONCHO",
     "physical_state": "AZ",
     "physical_zip": "85924",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10458",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5028,7 +6106,10 @@
     "physical_city": "EAGAR",
     "physical_state": "AZ",
     "physical_zip": "85925",
-    "physical_zip4": "9719"
+    "physical_zip4": "9719",
+    "zip_class_code": null,
+    "locale_key": "Z10505",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5041,7 +6122,10 @@
     "physical_city": "FORT APACHE",
     "physical_state": "AZ",
     "physical_zip": "85926",
-    "physical_zip4": "5300"
+    "physical_zip4": "5300",
+    "zip_class_code": "P",
+    "locale_key": "Z10525",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5054,7 +6138,10 @@
     "physical_city": "GREER",
     "physical_state": "AZ",
     "physical_zip": "85927",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "Z10573",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5067,7 +6154,10 @@
     "physical_city": "HEBER",
     "physical_state": "AZ",
     "physical_zip": "85928",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10587",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5080,7 +6170,10 @@
     "physical_city": "LAKESIDE",
     "physical_state": "AZ",
     "physical_zip": "85929",
-    "physical_zip4": "7300"
+    "physical_zip4": "7300",
+    "zip_class_code": null,
+    "locale_key": "Z10641",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5093,7 +6186,10 @@
     "physical_city": "MCNARY",
     "physical_state": "AZ",
     "physical_zip": "85930",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10667",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5106,7 +6202,10 @@
     "physical_city": "FOREST LAKES",
     "physical_state": "AZ",
     "physical_zip": "85931",
-    "physical_zip4": "0251"
+    "physical_zip4": "0251",
+    "zip_class_code": "P",
+    "locale_key": "020834",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5119,7 +6218,10 @@
     "physical_city": "NUTRIOSO",
     "physical_state": "AZ",
     "physical_zip": "85932",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10714",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5132,7 +6234,10 @@
     "physical_city": "OVERGAARD",
     "physical_state": "AZ",
     "physical_zip": "85933",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10724",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5145,7 +6250,10 @@
     "physical_city": "PINEDALE",
     "physical_state": "AZ",
     "physical_zip": "85934",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10755",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5158,7 +6266,10 @@
     "physical_city": "PINETOP",
     "physical_state": "AZ",
     "physical_zip": "85935",
-    "physical_zip4": "7067"
+    "physical_zip4": "7067",
+    "zip_class_code": null,
+    "locale_key": "Z10756",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5171,7 +6282,10 @@
     "physical_city": "SAINT JOHNS",
     "physical_state": "AZ",
     "physical_zip": "85936",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "Z10806",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5184,7 +6298,10 @@
     "physical_city": "SNOWFLAKE",
     "physical_state": "AZ",
     "physical_zip": "85937",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10844",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5197,7 +6314,10 @@
     "physical_city": "SPRINGERVILLE",
     "physical_state": "AZ",
     "physical_zip": "85938",
-    "physical_zip4": "7200"
+    "physical_zip4": "7200",
+    "zip_class_code": null,
+    "locale_key": "Z10853",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5210,7 +6330,10 @@
     "physical_city": "TAYLOR",
     "physical_state": "AZ",
     "physical_zip": "85939",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10917",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5223,7 +6346,10 @@
     "physical_city": "VERNON",
     "physical_state": "AZ",
     "physical_zip": "85940",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10959",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5236,7 +6362,10 @@
     "physical_city": "WHITERIVER",
     "physical_state": "AZ",
     "physical_zip": "85941",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10977",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5249,7 +6378,10 @@
     "physical_city": "WOODRUFF",
     "physical_state": "AZ",
     "physical_zip": "85942",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10994",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5262,7 +6394,10 @@
     "physical_city": "FLAGSTAFF",
     "physical_state": "AZ",
     "physical_zip": "86004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5275,7 +6410,10 @@
     "physical_city": "FLAGSTAFF",
     "physical_state": "AZ",
     "physical_zip": "86001",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10497",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -5288,7 +6426,10 @@
     "physical_city": "FLAGSTAFF",
     "physical_state": "AZ",
     "physical_zip": "86004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5301,7 +6442,10 @@
     "physical_city": "FLAGSTAFF",
     "physical_state": "AZ",
     "physical_zip": "86004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5314,7 +6458,10 @@
     "physical_city": "FLAGSTAFF",
     "physical_state": "AZ",
     "physical_zip": "86004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5327,7 +6474,10 @@
     "physical_city": "FLAGSTAFF",
     "physical_state": "AZ",
     "physical_zip": "86004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5340,7 +6490,10 @@
     "physical_city": "CAMERON",
     "physical_state": "AZ",
     "physical_zip": "86020",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z10412",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5353,7 +6506,10 @@
     "physical_city": "MUNDS PARK",
     "physical_state": "AZ",
     "physical_zip": "86017",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10695",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -5366,7 +6522,10 @@
     "physical_city": "PARKS",
     "physical_state": "AZ",
     "physical_zip": "86018",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10735",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -5379,7 +6538,10 @@
     "physical_city": "CAMERON",
     "physical_state": "AZ",
     "physical_zip": "86020",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z10412",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5392,7 +6554,10 @@
     "physical_city": "CAMERON",
     "physical_state": "AZ",
     "physical_zip": "86020",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "007949",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -5405,7 +6570,10 @@
     "physical_city": "COLORADO CITY",
     "physical_state": "AZ",
     "physical_zip": "86021",
-    "physical_zip4": "6325"
+    "physical_zip4": "6325",
+    "zip_class_code": "P",
+    "locale_key": "Z10456",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5418,20 +6586,10 @@
     "physical_city": "FREDONIA",
     "physical_state": "AZ",
     "physical_zip": "86022",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "86023",
-    "locale_name": "CPU TUSAYAN GENERAL STORE",
-    "physical_delivery_address": "577 STATE ROUTE 64",
-    "physical_city": "GRAND CANYON",
-    "physical_state": "AZ",
-    "physical_zip": "86023",
-    "physical_zip4": "1949"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10538",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5444,7 +6602,26 @@
     "physical_city": "GRAND CANYON",
     "physical_state": "AZ",
     "physical_zip": "86023",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": "P",
+    "locale_key": "Z10560",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "86023",
+    "locale_name": "CPU TUSAYAN GENERAL STORE",
+    "physical_delivery_address": "577 STATE ROUTE 64",
+    "physical_city": "GRAND CANYON",
+    "physical_state": "AZ",
+    "physical_zip": "86023",
+    "physical_zip4": "1949",
+    "zip_class_code": "P",
+    "locale_key": "Z10949",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -5457,7 +6634,10 @@
     "physical_city": "FLAGSTAFF",
     "physical_state": "AZ",
     "physical_zip": "86004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5470,7 +6650,10 @@
     "physical_city": "HOLBROOK",
     "physical_state": "AZ",
     "physical_zip": "86025",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10593",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5483,7 +6666,10 @@
     "physical_city": "PETRIFIED FOREST NATL PK",
     "physical_state": "AZ",
     "physical_zip": "86028",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10744",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -5496,7 +6682,10 @@
     "physical_city": "SUN VALLEY",
     "physical_state": "AZ",
     "physical_zip": "86029",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10905",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5509,7 +6698,10 @@
     "physical_city": "HOTEVILLA",
     "physical_state": "AZ",
     "physical_zip": "86030",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10597",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5522,7 +6714,10 @@
     "physical_city": "INDIAN WELLS",
     "physical_state": "AZ",
     "physical_zip": "86031",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10608",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5535,7 +6730,10 @@
     "physical_city": "JOSEPH CITY",
     "physical_state": "AZ",
     "physical_zip": "86032",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10615",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5548,7 +6746,10 @@
     "physical_city": "KAYENTA",
     "physical_state": "AZ",
     "physical_zip": "86033",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10622",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5561,20 +6762,10 @@
     "physical_city": "KEAMS CANYON",
     "physical_state": "AZ",
     "physical_zip": "86034",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "86035",
-    "locale_name": "WINSLOW",
-    "physical_delivery_address": "223 N WILLIAMSON AVE",
-    "physical_city": "WINSLOW",
-    "physical_state": "AZ",
-    "physical_zip": "86047",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10623",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5587,7 +6778,10 @@
     "physical_city": "MARBLE CANYON",
     "physical_state": "AZ",
     "physical_zip": "86036",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10661",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5600,7 +6794,10 @@
     "physical_city": "FLAGSTAFF",
     "physical_state": "AZ",
     "physical_zip": "86004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5613,7 +6810,10 @@
     "physical_city": "KYKOTSMOVI VILLAGE",
     "physical_state": "AZ",
     "physical_zip": "86039",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10636",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5626,7 +6826,10 @@
     "physical_city": "PAGE",
     "physical_state": "AZ",
     "physical_zip": "86040",
-    "physical_zip4": "7500"
+    "physical_zip4": "7500",
+    "zip_class_code": "P",
+    "locale_key": "Z10726",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5639,7 +6842,10 @@
     "physical_city": "POLACCA",
     "physical_state": "AZ",
     "physical_zip": "86042",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10762",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5652,7 +6858,10 @@
     "physical_city": "SECOND MESA",
     "physical_state": "AZ",
     "physical_zip": "86043",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10822",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5665,7 +6874,10 @@
     "physical_city": "TONALEA",
     "physical_state": "AZ",
     "physical_zip": "86044",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10930",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5678,7 +6890,10 @@
     "physical_city": "TUBA CITY",
     "physical_state": "AZ",
     "physical_zip": "86045",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": "P",
+    "locale_key": "Z10942",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5691,20 +6906,10 @@
     "physical_city": "WILLIAMS",
     "physical_state": "AZ",
     "physical_zip": "86046",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "86047",
-    "locale_name": "CPU TEESTO CHAPTER HOUSE",
-    "physical_delivery_address": "HC 63 BOX B",
-    "physical_city": "WINSLOW",
-    "physical_state": "AZ",
-    "physical_zip": "86047",
-    "physical_zip4": "9408"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10984",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5717,7 +6922,26 @@
     "physical_city": "WINSLOW",
     "physical_state": "AZ",
     "physical_zip": "86047",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10990",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "86047",
+    "locale_name": "CPU TEESTO CHAPTER HOUSE",
+    "physical_delivery_address": "HC 63 BOX B",
+    "physical_city": "WINSLOW",
+    "physical_state": "AZ",
+    "physical_zip": "86047",
+    "physical_zip4": "9408",
+    "zip_class_code": null,
+    "locale_key": "004955",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -5730,7 +6954,10 @@
     "physical_city": "KAIBETO",
     "physical_state": "AZ",
     "physical_zip": "86053",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10619",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -5743,7 +6970,10 @@
     "physical_city": "SHONTO",
     "physical_state": "AZ",
     "physical_zip": "86054",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10831",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -5756,7 +6986,10 @@
     "physical_city": "PRESCOTT",
     "physical_state": "AZ",
     "physical_zip": "86301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10767",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5769,7 +7002,10 @@
     "physical_city": "PRESCOTT",
     "physical_state": "AZ",
     "physical_zip": "86303",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10557",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -5782,7 +7018,10 @@
     "physical_city": "PRESCOTT",
     "physical_state": "AZ",
     "physical_zip": "86301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10767",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5795,7 +7034,10 @@
     "physical_city": "PRESCOTT",
     "physical_state": "AZ",
     "physical_zip": "86301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10767",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5808,7 +7050,10 @@
     "physical_city": "PRESCOTT",
     "physical_state": "AZ",
     "physical_zip": "86301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10767",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5821,7 +7066,10 @@
     "physical_city": "PRESCOTT VALLEY",
     "physical_state": "AZ",
     "physical_zip": "86314",
-    "physical_zip4": "9452"
+    "physical_zip4": "9452",
+    "zip_class_code": "P",
+    "locale_key": "Z10769",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -5834,7 +7082,10 @@
     "physical_city": "PRESCOTT VALLEY",
     "physical_state": "AZ",
     "physical_zip": "86314",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "000957",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -5847,7 +7098,10 @@
     "physical_city": "PRESCOTT VALLEY",
     "physical_state": "AZ",
     "physical_zip": "86314",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "000957",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -5860,7 +7114,10 @@
     "physical_city": "ASH FORK",
     "physical_state": "AZ",
     "physical_zip": "86320",
-    "physical_zip4": "5301"
+    "physical_zip4": "5301",
+    "zip_class_code": "P",
+    "locale_key": "Z10383",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5873,7 +7130,10 @@
     "physical_city": "BAGDAD",
     "physical_state": "AZ",
     "physical_zip": "86321",
-    "physical_zip4": "2100"
+    "physical_zip4": "2100",
+    "zip_class_code": null,
+    "locale_key": "Z10389",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5886,7 +7146,10 @@
     "physical_city": "CAMP VERDE",
     "physical_state": "AZ",
     "physical_zip": "86322",
-    "physical_zip4": "7279"
+    "physical_zip4": "7279",
+    "zip_class_code": null,
+    "locale_key": "Z10413",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5899,7 +7162,10 @@
     "physical_city": "CHINO VALLEY",
     "physical_state": "AZ",
     "physical_zip": "86323",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10440",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5912,7 +7178,10 @@
     "physical_city": "CLARKDALE",
     "physical_state": "AZ",
     "physical_zip": "86324",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10448",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5925,7 +7194,10 @@
     "physical_city": "CORNVILLE",
     "physical_state": "AZ",
     "physical_zip": "86325",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10468",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5938,7 +7210,10 @@
     "physical_city": "COTTONWOOD",
     "physical_state": "AZ",
     "physical_zip": "86326",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10472",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5951,7 +7226,10 @@
     "physical_city": "DEWEY",
     "physical_state": "AZ",
     "physical_zip": "86327",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10487",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5964,7 +7242,10 @@
     "physical_city": "HUMBOLDT",
     "physical_state": "AZ",
     "physical_zip": "86329",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10603",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5977,7 +7258,10 @@
     "physical_city": "JEROME",
     "physical_state": "AZ",
     "physical_zip": "86331",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10613",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5990,7 +7274,10 @@
     "physical_city": "KIRKLAND",
     "physical_state": "AZ",
     "physical_zip": "86332",
-    "physical_zip4": "5301"
+    "physical_zip4": "5301",
+    "zip_class_code": null,
+    "locale_key": "Z10631",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6003,7 +7290,10 @@
     "physical_city": "MAYER",
     "physical_state": "AZ",
     "physical_zip": "86333",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10666",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6016,7 +7306,10 @@
     "physical_city": "PAULDEN",
     "physical_state": "AZ",
     "physical_zip": "86334",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10738",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6029,7 +7322,10 @@
     "physical_city": "RIMROCK",
     "physical_state": "AZ",
     "physical_zip": "86335",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10784",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6042,7 +7338,10 @@
     "physical_city": "SEDONA",
     "physical_state": "AZ",
     "physical_zip": "86336",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10823",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6055,7 +7354,10 @@
     "physical_city": "SELIGMAN",
     "physical_state": "AZ",
     "physical_zip": "86337",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z10824",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6068,7 +7370,10 @@
     "physical_city": "SKULL VALLEY",
     "physical_state": "AZ",
     "physical_zip": "86338",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z10841",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6081,7 +7386,10 @@
     "physical_city": "SEDONA",
     "physical_state": "AZ",
     "physical_zip": "86336",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10823",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6094,7 +7402,10 @@
     "physical_city": "SEDONA",
     "physical_state": "AZ",
     "physical_zip": "86336",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10970",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -6107,7 +7418,10 @@
     "physical_city": "SEDONA",
     "physical_state": "AZ",
     "physical_zip": "86351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18170",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -6120,7 +7434,10 @@
     "physical_city": "CROWN KING",
     "physical_state": "AZ",
     "physical_zip": "86343",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z10476",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6133,7 +7450,10 @@
     "physical_city": "SEDONA",
     "physical_state": "AZ",
     "physical_zip": "86351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18170",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -6146,7 +7466,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "AZ",
     "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6159,7 +7482,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "AZ",
     "physical_zip": "86401",
-    "physical_zip4": "5822"
+    "physical_zip4": "5822",
+    "zip_class_code": "P",
+    "locale_key": "Z10498",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6172,7 +7498,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "AZ",
     "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6185,7 +7514,10 @@
     "physical_city": "LAKE HAVASU CITY",
     "physical_state": "AZ",
     "physical_zip": "86403",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10637",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6198,7 +7530,10 @@
     "physical_city": "LAKE HAVASU CITY",
     "physical_state": "AZ",
     "physical_zip": "86403",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10637",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6211,7 +7546,10 @@
     "physical_city": "LAKE HAVASU CITY",
     "physical_state": "AZ",
     "physical_zip": "86403",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10637",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6224,7 +7562,10 @@
     "physical_city": "LAKE HAVASU CITY",
     "physical_state": "AZ",
     "physical_zip": "86403",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10637",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6237,7 +7578,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "AZ",
     "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6250,7 +7594,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "AZ",
     "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6263,7 +7610,10 @@
     "physical_city": "HUALAPAI",
     "physical_state": "AZ",
     "physical_zip": "86409",
-    "physical_zip4": "2199"
+    "physical_zip4": "2199",
+    "zip_class_code": "P",
+    "locale_key": "Z10601",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6276,7 +7626,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "AZ",
     "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6289,7 +7642,10 @@
     "physical_city": "BULLHEAD CITY",
     "physical_state": "AZ",
     "physical_zip": "86442",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "002277",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -6302,7 +7658,10 @@
     "physical_city": "FORT MOHAVE",
     "physical_state": "AZ",
     "physical_zip": "86426",
-    "physical_zip4": "8399"
+    "physical_zip4": "8399",
+    "zip_class_code": "P",
+    "locale_key": "Z10533",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -6315,7 +7674,10 @@
     "physical_city": "BULLHEAD CITY",
     "physical_state": "AZ",
     "physical_zip": "86442",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "002277",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -6328,7 +7690,10 @@
     "physical_city": "BULLHEAD CITY",
     "physical_state": "AZ",
     "physical_zip": "86429",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18098",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -6341,7 +7706,10 @@
     "physical_city": "CHLORIDE",
     "physical_state": "AZ",
     "physical_zip": "86431",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10443",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6354,7 +7722,10 @@
     "physical_city": "LITTLEFIELD",
     "physical_state": "AZ",
     "physical_zip": "86432",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10647",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6367,7 +7738,10 @@
     "physical_city": "OATMAN",
     "physical_state": "AZ",
     "physical_zip": "86433",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z10717",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6380,7 +7754,10 @@
     "physical_city": "PEACH SPRINGS",
     "physical_state": "AZ",
     "physical_zip": "86434",
-    "physical_zip4": "5300"
+    "physical_zip4": "5300",
+    "zip_class_code": null,
+    "locale_key": "Z10740",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6393,7 +7770,10 @@
     "physical_city": "SUPAI",
     "physical_state": "AZ",
     "physical_zip": "86435",
-    "physical_zip4": "1100"
+    "physical_zip4": "1100",
+    "zip_class_code": "P",
+    "locale_key": "Z10912",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6406,7 +7786,10 @@
     "physical_city": "TOPOCK",
     "physical_state": "AZ",
     "physical_zip": "86436",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10934",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6419,7 +7802,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "AZ",
     "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6432,7 +7818,10 @@
     "physical_city": "YUCCA",
     "physical_state": "AZ",
     "physical_zip": "86438",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z11000",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6445,7 +7834,10 @@
     "physical_city": "BULLHEAD CITY",
     "physical_state": "AZ",
     "physical_zip": "86442",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10405",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6458,7 +7850,26 @@
     "physical_city": "BULLHEAD CITY",
     "physical_state": "AZ",
     "physical_zip": "86442",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "002277",
+    "locale_type": "4"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "86441",
+    "locale_name": "KINGMAN",
+    "physical_delivery_address": "1901 JOHNSON AVE",
+    "physical_city": "KINGMAN",
+    "physical_state": "AZ",
+    "physical_zip": "86401",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6471,20 +7882,10 @@
     "physical_city": "DOLAN SPRINGS",
     "physical_state": "AZ",
     "physical_zip": "86441",
-    "physical_zip4": "7610"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "86441",
-    "locale_name": "KINGMAN",
-    "physical_delivery_address": "1901 JOHNSON AVE",
-    "physical_city": "KINGMAN",
-    "physical_state": "AZ",
-    "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "7610",
+    "zip_class_code": null,
+    "locale_key": "021315",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6497,7 +7898,26 @@
     "physical_city": "BULLHEAD CITY",
     "physical_state": "AZ",
     "physical_zip": "86442",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "002277",
+    "locale_type": "4"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "86444",
+    "locale_name": "KINGMAN",
+    "physical_delivery_address": "1901 JOHNSON AVE",
+    "physical_city": "KINGMAN",
+    "physical_state": "AZ",
+    "physical_zip": "86401",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6510,20 +7930,10 @@
     "physical_city": "MEADVIEW",
     "physical_state": "AZ",
     "physical_zip": "86444",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "86444",
-    "locale_name": "KINGMAN",
-    "physical_delivery_address": "1901 JOHNSON AVE",
-    "physical_city": "KINGMAN",
-    "physical_state": "AZ",
-    "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10673",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6536,7 +7946,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "AZ",
     "physical_zip": "86401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6549,7 +7962,10 @@
     "physical_city": "MOHAVE VALLEY",
     "physical_state": "AZ",
     "physical_zip": "86440",
-    "physical_zip4": "8588"
+    "physical_zip4": "8588",
+    "zip_class_code": "P",
+    "locale_key": "Z10688",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -6562,7 +7978,10 @@
     "physical_city": "CHAMBERS",
     "physical_state": "AZ",
     "physical_zip": "86502",
-    "physical_zip4": "1701"
+    "physical_zip4": "1701",
+    "zip_class_code": "P",
+    "locale_key": "Z10432",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6575,7 +7994,10 @@
     "physical_city": "CHINLE",
     "physical_state": "AZ",
     "physical_zip": "86503",
-    "physical_zip4": "1799"
+    "physical_zip4": "1799",
+    "zip_class_code": null,
+    "locale_key": "Z10439",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6588,7 +8010,10 @@
     "physical_city": "FORT DEFIANCE",
     "physical_state": "AZ",
     "physical_zip": "86504",
-    "physical_zip4": "1705"
+    "physical_zip4": "1705",
+    "zip_class_code": "P",
+    "locale_key": "Z10526",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6601,7 +8026,10 @@
     "physical_city": "GANADO",
     "physical_state": "AZ",
     "physical_zip": "86505",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10546",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6614,7 +8042,10 @@
     "physical_city": "SANDERS",
     "physical_state": "AZ",
     "physical_zip": "86512",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": "P",
+    "locale_key": "Z10816",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6627,7 +8058,10 @@
     "physical_city": "LUKACHUKAI",
     "physical_state": "AZ",
     "physical_zip": "86507",
-    "physical_zip4": "1715"
+    "physical_zip4": "1715",
+    "zip_class_code": "P",
+    "locale_key": "Z10651",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -6640,7 +8074,10 @@
     "physical_city": "LUPTON",
     "physical_state": "AZ",
     "physical_zip": "86508",
-    "physical_zip4": "1001"
+    "physical_zip4": "1001",
+    "zip_class_code": "P",
+    "locale_key": "Z10656",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -6653,7 +8090,10 @@
     "physical_city": "PINON",
     "physical_state": "AZ",
     "physical_zip": "86510",
-    "physical_zip4": "1700"
+    "physical_zip4": "1700",
+    "zip_class_code": "P",
+    "locale_key": "Z10757",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6666,7 +8106,10 @@
     "physical_city": "SAINT MICHAELS",
     "physical_state": "AZ",
     "physical_zip": "86511",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10807",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6679,7 +8122,10 @@
     "physical_city": "SANDERS",
     "physical_state": "AZ",
     "physical_zip": "86512",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": "P",
+    "locale_key": "Z10816",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6692,7 +8138,10 @@
     "physical_city": "TEEC NOS POS",
     "physical_state": "AZ",
     "physical_zip": "86514",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "Z10918",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6705,7 +8154,10 @@
     "physical_city": "WINDOW ROCK",
     "physical_state": "AZ",
     "physical_zip": "86515",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10987",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6718,7 +8170,10 @@
     "physical_city": "BLUE GAP",
     "physical_state": "AZ",
     "physical_zip": "86520",
-    "physical_zip4": "1701"
+    "physical_zip4": "1701",
+    "zip_class_code": "P",
+    "locale_key": "Z10400",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6731,7 +8186,10 @@
     "physical_city": "DENNEHOTSO",
     "physical_state": "AZ",
     "physical_zip": "86535",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": "P",
+    "locale_key": "Z10483",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6744,7 +8202,10 @@
     "physical_city": "MANY FARMS",
     "physical_state": "AZ",
     "physical_zip": "86538",
-    "physical_zip4": "1701"
+    "physical_zip4": "1701",
+    "zip_class_code": "P",
+    "locale_key": "Z10658",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -6757,7 +8218,10 @@
     "physical_city": "NAZLINI",
     "physical_state": "AZ",
     "physical_zip": "86540",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": "P",
+    "locale_key": "Z10704",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -6770,7 +8234,10 @@
     "physical_city": "RED VALLEY",
     "physical_state": "AZ",
     "physical_zip": "86544",
-    "physical_zip4": "1700"
+    "physical_zip4": "1700",
+    "zip_class_code": "P",
+    "locale_key": "Z17923",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6783,7 +8250,10 @@
     "physical_city": "ROCK POINT",
     "physical_state": "AZ",
     "physical_zip": "86545",
-    "physical_zip4": "1700"
+    "physical_zip4": "1700",
+    "zip_class_code": "P",
+    "locale_key": "Z10792",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -6796,7 +8266,10 @@
     "physical_city": "CHINLE",
     "physical_state": "AZ",
     "physical_zip": "86503",
-    "physical_zip4": "1799"
+    "physical_zip4": "1799",
+    "zip_class_code": null,
+    "locale_key": "Z10439",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6809,6 +8282,9 @@
     "physical_city": "TSAILE",
     "physical_state": "AZ",
     "physical_zip": "86556",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10940",
+    "locale_type": "5"
   }
 ]

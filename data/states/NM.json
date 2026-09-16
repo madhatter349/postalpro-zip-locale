@@ -10,7 +10,10 @@
     "physical_city": "ANTHONY",
     "physical_state": "NM",
     "physical_zip": "88021",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,7 +26,10 @@
     "physical_city": "BERNALILLO",
     "physical_state": "NM",
     "physical_zip": "87004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13548",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +42,10 @@
     "physical_city": "BELEN",
     "physical_state": "NM",
     "physical_zip": "87002",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13541",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +58,10 @@
     "physical_city": "BERNALILLO",
     "physical_state": "NM",
     "physical_zip": "87004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13548",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "BLUEWATER",
     "physical_state": "NM",
     "physical_zip": "87005",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13557",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -75,7 +90,10 @@
     "physical_city": "BOSQUE",
     "physical_state": "NM",
     "physical_zip": "87006",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13559",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -88,7 +106,10 @@
     "physical_city": "CASA BLANCA",
     "physical_state": "NM",
     "physical_zip": "87007",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": "P",
+    "locale_key": "Z13595",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -101,7 +122,10 @@
     "physical_city": "CEDAR CREST",
     "physical_state": "NM",
     "physical_zip": "87008",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13598",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -114,7 +138,10 @@
     "physical_city": "CERRILLOS",
     "physical_state": "NM",
     "physical_zip": "87010",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13602",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -127,7 +154,10 @@
     "physical_city": "CLAUNCH",
     "physical_state": "NM",
     "physical_zip": "87011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13621",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +170,10 @@
     "physical_city": "COYOTE",
     "physical_state": "NM",
     "physical_zip": "87012",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13653",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +186,10 @@
     "physical_city": "CUBA",
     "physical_state": "NM",
     "physical_zip": "87013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13658",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +202,10 @@
     "physical_city": "CUBERO",
     "physical_state": "NM",
     "physical_zip": "87014",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13659",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +218,10 @@
     "physical_city": "EDGEWOOD",
     "physical_state": "NM",
     "physical_zip": "87015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13686",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -192,7 +234,10 @@
     "physical_city": "ESTANCIA",
     "physical_state": "NM",
     "physical_zip": "87016",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13717",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -205,7 +250,10 @@
     "physical_city": "GALLINA",
     "physical_state": "NM",
     "physical_zip": "87017",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13752",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -218,7 +266,10 @@
     "physical_city": "NAGEEZI",
     "physical_state": "NM",
     "physical_zip": "87037",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13952",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -231,7 +282,10 @@
     "physical_city": "GRANTS",
     "physical_state": "NM",
     "physical_zip": "87020",
-    "physical_zip4": "7000"
+    "physical_zip4": "7000",
+    "zip_class_code": null,
+    "locale_key": "Z13776",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -244,7 +298,10 @@
     "physical_city": "MILAN",
     "physical_state": "NM",
     "physical_zip": "87021",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13934",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -257,7 +314,10 @@
     "physical_city": "ISLETA",
     "physical_state": "NM",
     "physical_zip": "87022",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13812",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -270,7 +330,10 @@
     "physical_city": "JARALES",
     "physical_state": "NM",
     "physical_zip": "87023",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13817",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -283,7 +346,10 @@
     "physical_city": "JEMEZ PUEBLO",
     "physical_state": "NM",
     "physical_zip": "87024",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13818",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -296,7 +362,10 @@
     "physical_city": "JEMEZ SPRINGS",
     "physical_state": "NM",
     "physical_zip": "87025",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13819",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -309,7 +378,10 @@
     "physical_city": "LAGUNA",
     "physical_state": "NM",
     "physical_zip": "87026",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13847",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -322,7 +394,10 @@
     "physical_city": "CUBA",
     "physical_state": "NM",
     "physical_zip": "87013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13658",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -335,7 +410,10 @@
     "physical_city": "LA JARA",
     "physical_state": "NM",
     "physical_zip": "87027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13834",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -348,7 +426,10 @@
     "physical_city": "LA JOYA",
     "physical_state": "NM",
     "physical_zip": "87028",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13849",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -361,20 +442,10 @@
     "physical_city": "LINDRITH",
     "physical_state": "NM",
     "physical_zip": "87029",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87031",
-    "locale_name": "LOS LUNAS",
-    "physical_delivery_address": "351 CANAL BLVD SW",
-    "physical_city": "LOS LUNAS",
-    "physical_state": "NM",
-    "physical_zip": "87031",
-    "physical_zip4": "9997"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13869",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -387,7 +458,26 @@
     "physical_city": "LOS LUNAS",
     "physical_state": "NM",
     "physical_zip": "87031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13883",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "87031",
+    "locale_name": "LOS LUNAS",
+    "physical_delivery_address": "351 CANAL BLVD SW",
+    "physical_city": "LOS LUNAS",
+    "physical_state": "NM",
+    "physical_zip": "87031",
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "001872",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -400,7 +490,10 @@
     "physical_city": "MCINTOSH",
     "physical_state": "NM",
     "physical_zip": "87032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13913",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -413,7 +506,10 @@
     "physical_city": "PUEBLO OF ACOMA",
     "physical_state": "NM",
     "physical_zip": "87034",
-    "physical_zip4": "1001"
+    "physical_zip4": "1001",
+    "zip_class_code": "P",
+    "locale_key": "Z14035",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -426,7 +522,10 @@
     "physical_city": "MORIARTY",
     "physical_state": "NM",
     "physical_zip": "87035",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13944",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -439,7 +538,10 @@
     "physical_city": "MOUNTAINAIR",
     "physical_state": "NM",
     "physical_zip": "87036",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13949",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -452,7 +554,10 @@
     "physical_city": "NAGEEZI",
     "physical_state": "NM",
     "physical_zip": "87037",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13952",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -465,7 +570,10 @@
     "physical_city": "NEW LAGUNA",
     "physical_state": "NM",
     "physical_zip": "87038",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": "P",
+    "locale_key": "Z13959",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -478,7 +586,10 @@
     "physical_city": "PAGUATE",
     "physical_state": "NM",
     "physical_zip": "87040",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13987",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -491,7 +602,10 @@
     "physical_city": "PENA BLANCA",
     "physical_state": "NM",
     "physical_zip": "87041",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13995",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -504,7 +618,10 @@
     "physical_city": "PERALTA",
     "physical_state": "NM",
     "physical_zip": "87042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13999",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -517,7 +634,10 @@
     "physical_city": "PLACITAS",
     "physical_state": "NM",
     "physical_zip": "87043",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14020",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -530,7 +650,10 @@
     "physical_city": "PONDEROSA",
     "physical_state": "NM",
     "physical_zip": "87044",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17936",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -543,7 +666,10 @@
     "physical_city": "PREWITT",
     "physical_state": "NM",
     "physical_zip": "87045",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14030",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -556,7 +682,10 @@
     "physical_city": "LA JARA",
     "physical_state": "NM",
     "physical_zip": "87027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13834",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -569,7 +698,10 @@
     "physical_city": "SANDIA PARK",
     "physical_state": "NM",
     "physical_zip": "87047",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14126",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -582,7 +714,10 @@
     "physical_city": "CORRALES",
     "physical_state": "NM",
     "physical_zip": "87048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13645",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -595,7 +730,10 @@
     "physical_city": "SAN FIDEL",
     "physical_state": "NM",
     "physical_zip": "87049",
-    "physical_zip4": "1003"
+    "physical_zip4": "1003",
+    "zip_class_code": "P",
+    "locale_key": "Z14107",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -608,7 +746,10 @@
     "physical_city": "SAN RAFAEL",
     "physical_state": "NM",
     "physical_zip": "87051",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14122",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -621,7 +762,10 @@
     "physical_city": "SANTO DOMINGO PUEBLO",
     "physical_state": "NM",
     "physical_zip": "87052",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14137",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -634,7 +778,10 @@
     "physical_city": "SAN YSIDRO",
     "physical_state": "NM",
     "physical_zip": "87053",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14123",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -647,7 +794,10 @@
     "physical_city": "MORIARTY",
     "physical_state": "NM",
     "physical_zip": "87035",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13944",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -660,7 +810,10 @@
     "physical_city": "TIJERAS",
     "physical_state": "NM",
     "physical_zip": "87059",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14223",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -673,7 +826,10 @@
     "physical_city": "TOME",
     "physical_state": "NM",
     "physical_zip": "87060",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14232",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -686,7 +842,10 @@
     "physical_city": "TORREON",
     "physical_state": "NM",
     "physical_zip": "87061",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14234",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -699,7 +858,10 @@
     "physical_city": "VEGUITA",
     "physical_state": "NM",
     "physical_zip": "87062",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14274",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -712,7 +874,10 @@
     "physical_city": "WILLARD",
     "physical_state": "NM",
     "physical_zip": "87063",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17935",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -725,7 +890,10 @@
     "physical_city": "YOUNGSVILLE",
     "physical_state": "NM",
     "physical_zip": "87064",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14301",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -738,7 +906,10 @@
     "physical_city": "PERALTA",
     "physical_state": "NM",
     "physical_zip": "87042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13999",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -751,20 +922,10 @@
     "physical_city": "COCHITI PUEBLO",
     "physical_state": "NM",
     "physical_zip": "87072",
-    "physical_zip4": "9900"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87083",
-    "locale_name": "PENA BLANCA",
-    "physical_delivery_address": "823 STATE ROAD 22",
-    "physical_city": "PENA BLANCA",
-    "physical_state": "NM",
-    "physical_zip": "87041",
-    "physical_zip4": "9998"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z13633",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -777,7 +938,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87101",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "Z18912",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -790,7 +954,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87102",
-    "physical_zip4": "9721"
+    "physical_zip4": "9721",
+    "zip_class_code": "P",
+    "locale_key": "Z13678",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -803,7 +970,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87101",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "Z18912",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -816,7 +986,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87105",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13730",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -829,7 +1002,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87106",
-    "physical_zip4": "5629"
+    "physical_zip4": "5629",
+    "zip_class_code": null,
+    "locale_key": "Z13495",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -842,7 +1018,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87107",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13969",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -855,7 +1034,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13797",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -868,7 +1050,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87109",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13491",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -881,7 +1066,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14262",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -894,7 +1082,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87111",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13705",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -907,7 +1098,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87112",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13907",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -920,7 +1114,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87107",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13969",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -933,7 +1130,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87114",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z18096",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -946,7 +1146,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13797",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -959,7 +1162,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87106",
-    "physical_zip4": "5629"
+    "physical_zip4": "5629",
+    "zip_class_code": "P",
+    "locale_key": "Z13495",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -972,7 +1178,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87114",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z18096",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -985,7 +1194,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87105",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13730",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -998,7 +1210,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87109",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13491",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1011,7 +1226,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87123",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18238",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1024,7 +1242,10 @@
     "physical_city": "RIO RANCHO",
     "physical_state": "NM",
     "physical_zip": "87124",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14075",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1037,7 +1258,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87101",
-    "physical_zip4": "0001"
+    "physical_zip4": "0001",
+    "zip_class_code": "P",
+    "locale_key": "Z13505",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1050,7 +1274,10 @@
     "physical_city": "RIO RANCHO",
     "physical_state": "NM",
     "physical_zip": "87124",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14075",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1063,7 +1290,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87112",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13907",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1076,7 +1306,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87111",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13705",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1089,7 +1322,10 @@
     "physical_city": "RIO RANCHO",
     "physical_state": "NM",
     "physical_zip": "87124",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14075",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1102,7 +1338,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14262",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1115,7 +1354,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87123",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18238",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1128,7 +1370,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87114",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13496",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1141,7 +1386,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87116",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13826",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1154,7 +1402,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87114",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z18237",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1167,7 +1418,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14262",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1180,7 +1434,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87111",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13705",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1193,7 +1450,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87112",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13907",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1206,7 +1466,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87114",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z18096",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1219,7 +1482,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87104",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13982",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1232,7 +1498,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87105",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13730",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1245,7 +1514,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87106",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14255",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1258,7 +1530,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87107",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z13970",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1271,7 +1546,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13797",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1284,7 +1562,10 @@
     "physical_city": "ALBUQUERQUE",
     "physical_state": "NM",
     "physical_zip": "87109",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13491",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1297,7 +1578,10 @@
     "physical_city": "GALLUP",
     "physical_state": "NM",
     "physical_zip": "87301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13755",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1310,7 +1594,10 @@
     "physical_city": "GALLUP",
     "physical_state": "NM",
     "physical_zip": "87301",
-    "physical_zip4": "9703"
+    "physical_zip4": "9703",
+    "zip_class_code": "P",
+    "locale_key": "003191",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1323,7 +1610,10 @@
     "physical_city": "BRIMHALL",
     "physical_state": "NM",
     "physical_zip": "87310",
-    "physical_zip4": "1001"
+    "physical_zip4": "1001",
+    "zip_class_code": "P",
+    "locale_key": "Z13563",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1336,7 +1626,10 @@
     "physical_city": "CHURCH ROCK",
     "physical_state": "NM",
     "physical_zip": "87311",
-    "physical_zip4": "9701"
+    "physical_zip4": "9701",
+    "zip_class_code": "P",
+    "locale_key": "Z13618",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1349,7 +1642,10 @@
     "physical_city": "CONTINENTAL DIVIDE",
     "physical_state": "NM",
     "physical_zip": "87312",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13638",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1362,7 +1658,10 @@
     "physical_city": "CROWNPOINT",
     "physical_state": "NM",
     "physical_zip": "87313",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": "P",
+    "locale_key": "Z13655",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1375,7 +1674,10 @@
     "physical_city": "FENCE LAKE",
     "physical_state": "NM",
     "physical_zip": "87315",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13727",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1388,20 +1690,10 @@
     "physical_city": "FORT WINGATE",
     "physical_state": "NM",
     "physical_zip": "87316",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87317",
-    "locale_name": "GALLUP",
-    "physical_delivery_address": "950 W AZTEC AVE",
-    "physical_city": "GALLUP",
-    "physical_state": "NM",
-    "physical_zip": "87301",
-    "physical_zip4": "9703"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13741",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1414,7 +1706,10 @@
     "physical_city": "GAMERCO",
     "physical_state": "NM",
     "physical_zip": "87317",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13756",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1427,7 +1722,10 @@
     "physical_city": "RAMAH",
     "physical_state": "NM",
     "physical_zip": "87321",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14049",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1440,7 +1738,10 @@
     "physical_city": "REHOBOTH",
     "physical_state": "NM",
     "physical_zip": "87322",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14067",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1453,7 +1754,10 @@
     "physical_city": "THOREAU",
     "physical_state": "NM",
     "physical_zip": "87323",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14220",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1466,7 +1770,10 @@
     "physical_city": "GALLUP",
     "physical_state": "NM",
     "physical_zip": "87301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13755",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1479,7 +1786,10 @@
     "physical_city": "ZUNI",
     "physical_state": "NM",
     "physical_zip": "87327",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14303",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1492,7 +1802,10 @@
     "physical_city": "NAVAJO",
     "physical_state": "NM",
     "physical_zip": "87328",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z17919",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1505,7 +1818,10 @@
     "physical_city": "CONTINENTAL DIVIDE",
     "physical_state": "NM",
     "physical_zip": "87312",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13638",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1518,7 +1834,10 @@
     "physical_city": "PINEHILL",
     "physical_state": "NM",
     "physical_zip": "87357",
-    "physical_zip4": "6507"
+    "physical_zip4": "6507",
+    "zip_class_code": "P",
+    "locale_key": "Z14012",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1531,7 +1850,10 @@
     "physical_city": "SHEEP SPRINGS",
     "physical_state": "NM",
     "physical_zip": "87364",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14154",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1544,7 +1866,10 @@
     "physical_city": "SMITH LAKE",
     "physical_state": "NM",
     "physical_zip": "87365",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14162",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1557,7 +1882,10 @@
     "physical_city": "GALLUP",
     "physical_state": "NM",
     "physical_zip": "87301",
-    "physical_zip4": "4989"
+    "physical_zip4": "4989",
+    "zip_class_code": "P",
+    "locale_key": "017228",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1570,7 +1898,10 @@
     "physical_city": "FARMINGTON",
     "physical_state": "NM",
     "physical_zip": "87401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13724",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1583,7 +1914,10 @@
     "physical_city": "FARMINGTON",
     "physical_state": "NM",
     "physical_zip": "87401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13724",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1596,7 +1930,10 @@
     "physical_city": "AZTEC",
     "physical_state": "NM",
     "physical_zip": "87410",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13536",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1609,7 +1946,10 @@
     "physical_city": "BLANCO",
     "physical_state": "NM",
     "physical_zip": "87412",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13555",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1622,7 +1962,10 @@
     "physical_city": "BLOOMFIELD",
     "physical_state": "NM",
     "physical_zip": "87413",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13556",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1635,7 +1978,10 @@
     "physical_city": "FLORA VISTA",
     "physical_state": "NM",
     "physical_zip": "87415",
-    "physical_zip4": "9701"
+    "physical_zip4": "9701",
+    "zip_class_code": null,
+    "locale_key": "Z13732",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1648,7 +1994,10 @@
     "physical_city": "FRUITLAND",
     "physical_state": "NM",
     "physical_zip": "87416",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13744",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1661,20 +2010,10 @@
     "physical_city": "KIRTLAND",
     "physical_state": "NM",
     "physical_zip": "87417",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87418",
-    "locale_name": "FARMINGTON",
-    "physical_delivery_address": "2301 E 20TH ST",
-    "physical_city": "FARMINGTON",
-    "physical_state": "NM",
-    "physical_zip": "87401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13824",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1687,7 +2026,10 @@
     "physical_city": "LA PLATA",
     "physical_state": "NM",
     "physical_zip": "87418",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13842",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1700,7 +2042,10 @@
     "physical_city": "NAVAJO DAM",
     "physical_state": "NM",
     "physical_zip": "87419",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z13957",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1713,7 +2058,10 @@
     "physical_city": "SHIPROCK",
     "physical_state": "NM",
     "physical_zip": "87420",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14157",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1726,7 +2074,10 @@
     "physical_city": "WATERFLOW",
     "physical_state": "NM",
     "physical_zip": "87421",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14281",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1739,7 +2090,10 @@
     "physical_city": "NEWCOMB",
     "physical_state": "NM",
     "physical_zip": "87455",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13962",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1752,7 +2106,10 @@
     "physical_city": "SANOSTEE",
     "physical_state": "NM",
     "physical_zip": "87461",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14128",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1765,7 +2122,10 @@
     "physical_city": "FARMINGTON",
     "physical_state": "NM",
     "physical_zip": "87401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13724",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1778,7 +2138,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87501",
-    "physical_zip4": "9902"
+    "physical_zip4": "9902",
+    "zip_class_code": null,
+    "locale_key": "Z14134",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1791,7 +2154,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87505",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13644",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1804,7 +2170,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87501",
-    "physical_zip4": "9902"
+    "physical_zip4": "9902",
+    "zip_class_code": "P",
+    "locale_key": "Z14134",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1817,7 +2186,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87505",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13644",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1830,7 +2202,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87501",
-    "physical_zip4": "9902"
+    "physical_zip4": "9902",
+    "zip_class_code": null,
+    "locale_key": "Z14134",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1843,7 +2218,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87505",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13644",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1856,7 +2234,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87505",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13644",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1869,7 +2250,10 @@
     "physical_city": "ABIQUIU",
     "physical_state": "NM",
     "physical_zip": "87510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13489",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1882,7 +2266,10 @@
     "physical_city": "ALCALDE",
     "physical_state": "NM",
     "physical_zip": "87511",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13506",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1895,7 +2282,10 @@
     "physical_city": "AMALIA",
     "physical_state": "NM",
     "physical_zip": "87512",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13512",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1908,7 +2298,10 @@
     "physical_city": "ARROYO HONDO",
     "physical_state": "NM",
     "physical_zip": "87513",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13529",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1921,7 +2314,10 @@
     "physical_city": "ARROYO SECO",
     "physical_state": "NM",
     "physical_zip": "87514",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13530",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1934,20 +2330,10 @@
     "physical_city": "CANJILON",
     "physical_state": "NM",
     "physical_zip": "87515",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87516",
-    "locale_name": "ABIQUIU",
-    "physical_delivery_address": "4 COUNTY ROAD 187",
-    "physical_city": "ABIQUIU",
-    "physical_state": "NM",
-    "physical_zip": "87510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13577",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1960,7 +2346,10 @@
     "physical_city": "CARSON",
     "physical_state": "NM",
     "physical_zip": "87517",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13594",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1973,7 +2362,10 @@
     "physical_city": "CEBOLLA",
     "physical_state": "NM",
     "physical_zip": "87518",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13597",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1986,7 +2378,10 @@
     "physical_city": "CERRO",
     "physical_state": "NM",
     "physical_zip": "87519",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13604",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1999,7 +2394,10 @@
     "physical_city": "CHAMA",
     "physical_state": "NM",
     "physical_zip": "87520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13607",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2012,7 +2410,10 @@
     "physical_city": "CHAMISAL",
     "physical_state": "NM",
     "physical_zip": "87521",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13609",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2025,7 +2426,10 @@
     "physical_city": "SANTA CRUZ",
     "physical_state": "NM",
     "physical_zip": "87567",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14132",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2038,7 +2442,10 @@
     "physical_city": "CORDOVA",
     "physical_state": "NM",
     "physical_zip": "87523",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13642",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2051,7 +2458,10 @@
     "physical_city": "COSTILLA",
     "physical_state": "NM",
     "physical_zip": "87524",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13649",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2064,7 +2474,10 @@
     "physical_city": "DIXON",
     "physical_state": "NM",
     "physical_zip": "87527",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13674",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2077,7 +2490,10 @@
     "physical_city": "DULCE",
     "physical_state": "NM",
     "physical_zip": "87528",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13679",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2090,7 +2506,10 @@
     "physical_city": "EL PRADO",
     "physical_state": "NM",
     "physical_zip": "87529",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13697",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2103,7 +2522,10 @@
     "physical_city": "EL RITO",
     "physical_state": "NM",
     "physical_zip": "87530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13702",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2116,7 +2538,10 @@
     "physical_city": "DIXON",
     "physical_state": "NM",
     "physical_zip": "87527",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13674",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2129,7 +2554,10 @@
     "physical_city": "ESPANOLA",
     "physical_state": "NM",
     "physical_zip": "87532",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13715",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2142,7 +2570,10 @@
     "physical_city": "ESPANOLA",
     "physical_state": "NM",
     "physical_zip": "87532",
-    "physical_zip4": "8204"
+    "physical_zip4": "8204",
+    "zip_class_code": "P",
+    "locale_key": "Z13721",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2155,7 +2586,10 @@
     "physical_city": "GLORIETA",
     "physical_state": "NM",
     "physical_zip": "87535",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13768",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2168,7 +2602,10 @@
     "physical_city": "ESPANOLA",
     "physical_state": "NM",
     "physical_zip": "87532",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13715",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2181,7 +2618,10 @@
     "physical_city": "LA MADERA",
     "physical_state": "NM",
     "physical_zip": "87539",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13839",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2194,7 +2634,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87505",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13644",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2207,7 +2650,10 @@
     "physical_city": "LOS ALAMOS",
     "physical_state": "NM",
     "physical_zip": "87544",
-    "physical_zip4": "4037"
+    "physical_zip4": "4037",
+    "zip_class_code": null,
+    "locale_key": "Z13880",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2220,7 +2666,10 @@
     "physical_city": "WHITE ROCK",
     "physical_state": "NM",
     "physical_zip": "87547",
-    "physical_zip4": "9211"
+    "physical_zip4": "9211",
+    "zip_class_code": null,
+    "locale_key": "Z14288",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2233,7 +2682,10 @@
     "physical_city": "MEDANALES",
     "physical_state": "NM",
     "physical_zip": "87548",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13919",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2246,7 +2698,10 @@
     "physical_city": "OJO CALIENTE",
     "physical_state": "NM",
     "physical_zip": "87549",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13977",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2259,7 +2714,10 @@
     "physical_city": "LOS OJOS",
     "physical_state": "NM",
     "physical_zip": "87551",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z13884",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2272,7 +2730,10 @@
     "physical_city": "PECOS",
     "physical_state": "NM",
     "physical_zip": "87552",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13993",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2285,20 +2746,10 @@
     "physical_city": "PENASCO",
     "physical_state": "NM",
     "physical_zip": "87553",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87554",
-    "locale_name": "EL RITO",
-    "physical_delivery_address": "1134 STATE ROAD 554",
-    "physical_city": "EL RITO",
-    "physical_state": "NM",
-    "physical_zip": "87530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13996",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2311,7 +2762,10 @@
     "physical_city": "QUESTA",
     "physical_state": "NM",
     "physical_zip": "87556",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14042",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2324,7 +2778,10 @@
     "physical_city": "RANCHOS DE TAOS",
     "physical_state": "NM",
     "physical_zip": "87557",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14059",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2337,7 +2794,10 @@
     "physical_city": "RED RIVER",
     "physical_state": "NM",
     "physical_zip": "87558",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14064",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2350,7 +2810,10 @@
     "physical_city": "RIBERA",
     "physical_state": "NM",
     "physical_zip": "87560",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14070",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2363,7 +2826,10 @@
     "physical_city": "ROWE",
     "physical_state": "NM",
     "physical_zip": "87562",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14092",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2376,7 +2842,10 @@
     "physical_city": "SAN CRISTOBAL",
     "physical_state": "NM",
     "physical_zip": "87564",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14105",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2389,7 +2858,10 @@
     "physical_city": "SAN JOSE",
     "physical_state": "NM",
     "physical_zip": "87565",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14113",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2402,7 +2874,10 @@
     "physical_city": "OHKAY OWINGEH",
     "physical_state": "NM",
     "physical_zip": "87566",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14115",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2415,7 +2890,10 @@
     "physical_city": "SANTA CRUZ",
     "physical_state": "NM",
     "physical_zip": "87567",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14132",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2428,7 +2906,10 @@
     "physical_city": "SERAFINA",
     "physical_state": "NM",
     "physical_zip": "87569",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14149",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2441,7 +2922,10 @@
     "physical_city": "TAOS",
     "physical_state": "NM",
     "physical_zip": "87571",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14211",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2454,7 +2938,10 @@
     "physical_city": "TAOS",
     "physical_state": "NM",
     "physical_zip": "87571",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "018697",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2467,7 +2954,10 @@
     "physical_city": "TESUQUE",
     "physical_state": "NM",
     "physical_zip": "87574",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14216",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2480,20 +2970,10 @@
     "physical_city": "TIERRA AMARILLA",
     "physical_state": "NM",
     "physical_zip": "87575",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87576",
-    "locale_name": "CHAMISAL",
-    "physical_delivery_address": "2756 STATE ROAD 76",
-    "physical_city": "CHAMISAL",
-    "physical_state": "NM",
-    "physical_zip": "87521",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14222",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2506,7 +2986,10 @@
     "physical_city": "TRES PIEDRAS",
     "physical_state": "NM",
     "physical_zip": "87577",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14239",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2519,7 +3002,10 @@
     "physical_city": "TRUCHAS",
     "physical_state": "NM",
     "physical_zip": "87578",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14241",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2532,7 +3018,10 @@
     "physical_city": "VADITO",
     "physical_state": "NM",
     "physical_zip": "87579",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14265",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2545,7 +3034,10 @@
     "physical_city": "TAOS",
     "physical_state": "NM",
     "physical_zip": "87571",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "018697",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2558,7 +3050,10 @@
     "physical_city": "VALLECITOS",
     "physical_state": "NM",
     "physical_zip": "87581",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14269",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2571,7 +3066,10 @@
     "physical_city": "VELARDE",
     "physical_state": "NM",
     "physical_zip": "87582",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14275",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2584,7 +3082,10 @@
     "physical_city": "VILLANUEVA",
     "physical_state": "NM",
     "physical_zip": "87583",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14277",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2597,7 +3098,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87507",
-    "physical_zip4": "9211"
+    "physical_zip4": "9211",
+    "zip_class_code": "P",
+    "locale_key": "Z18099",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2610,7 +3114,10 @@
     "physical_city": "SANTA FE",
     "physical_state": "NM",
     "physical_zip": "87501",
-    "physical_zip4": "9211"
+    "physical_zip4": "9211",
+    "zip_class_code": "P",
+    "locale_key": "Z18100",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2623,7 +3130,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NM",
     "physical_zip": "87701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13862",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2636,7 +3146,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NM",
     "physical_zip": "87701",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14285",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2649,7 +3162,10 @@
     "physical_city": "ANGEL FIRE",
     "physical_state": "NM",
     "physical_zip": "87710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "004189",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2662,7 +3178,10 @@
     "physical_city": "ANTON CHICO",
     "physical_state": "NM",
     "physical_zip": "87711",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13521",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2675,7 +3194,10 @@
     "physical_city": "BUENA VISTA",
     "physical_state": "NM",
     "physical_zip": "87712",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13569",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2688,7 +3210,10 @@
     "physical_city": "CHACON",
     "physical_state": "NM",
     "physical_zip": "87713",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": null,
+    "locale_key": "Z13606",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2701,7 +3226,10 @@
     "physical_city": "CIMARRON",
     "physical_state": "NM",
     "physical_zip": "87714",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13619",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2714,7 +3242,10 @@
     "physical_city": "CLEVELAND",
     "physical_state": "NM",
     "physical_zip": "87715",
-    "physical_zip4": "1001"
+    "physical_zip4": "1001",
+    "zip_class_code": null,
+    "locale_key": "Z13623",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2727,7 +3258,10 @@
     "physical_city": "EAGLE NEST",
     "physical_state": "NM",
     "physical_zip": "87718",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13683",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2740,7 +3274,10 @@
     "physical_city": "GUADALUPITA",
     "physical_state": "NM",
     "physical_zip": "87722",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13782",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2753,20 +3290,10 @@
     "physical_city": "HOLMAN",
     "physical_state": "NM",
     "physical_zip": "87723",
-    "physical_zip4": "1001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87724",
-    "locale_name": "ANTON CHICO",
-    "physical_delivery_address": "1067 STATE HIGHWAY 386",
-    "physical_city": "ANTON CHICO",
-    "physical_state": "NM",
-    "physical_zip": "87711",
-    "physical_zip4": "9998"
+    "physical_zip4": "1001",
+    "zip_class_code": null,
+    "locale_key": "Z13804",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2779,7 +3306,10 @@
     "physical_city": "MAXWELL",
     "physical_state": "NM",
     "physical_zip": "87728",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13909",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2792,7 +3322,10 @@
     "physical_city": "MILLS",
     "physical_state": "NM",
     "physical_zip": "87730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13935",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2805,7 +3338,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NM",
     "physical_zip": "87701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13862",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2818,7 +3354,10 @@
     "physical_city": "MONTEZUMA",
     "physical_state": "NM",
     "physical_zip": "87731",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": null,
+    "locale_key": "Z13940",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2831,7 +3370,10 @@
     "physical_city": "MORA",
     "physical_state": "NM",
     "physical_zip": "87732",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": null,
+    "locale_key": "Z13943",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2844,7 +3386,10 @@
     "physical_city": "MOSQUERO",
     "physical_state": "NM",
     "physical_zip": "87733",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": null,
+    "locale_key": "Z13946",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2857,7 +3402,10 @@
     "physical_city": "OCATE",
     "physical_state": "NM",
     "physical_zip": "87734",
-    "physical_zip4": "1001"
+    "physical_zip4": "1001",
+    "zip_class_code": null,
+    "locale_key": "Z13972",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2870,7 +3418,10 @@
     "physical_city": "OJO FELIZ",
     "physical_state": "NM",
     "physical_zip": "87735",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": null,
+    "locale_key": "Z13979",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2883,7 +3434,10 @@
     "physical_city": "RAINSVILLE",
     "physical_state": "NM",
     "physical_zip": "87736",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z14046",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2896,7 +3450,10 @@
     "physical_city": "RATON",
     "physical_state": "NM",
     "physical_zip": "87740",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14061",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2909,7 +3466,10 @@
     "physical_city": "ROCIADA",
     "physical_state": "NM",
     "physical_zip": "87742",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": null,
+    "locale_key": "Z14081",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2922,7 +3482,10 @@
     "physical_city": "ROY",
     "physical_state": "NM",
     "physical_zip": "87743",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14093",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2935,7 +3498,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NM",
     "physical_zip": "87701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13862",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2948,7 +3514,10 @@
     "physical_city": "SOLANO",
     "physical_state": "NM",
     "physical_zip": "87746",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14175",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2961,7 +3530,10 @@
     "physical_city": "SPRINGER",
     "physical_state": "NM",
     "physical_zip": "87747",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14179",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2974,7 +3546,10 @@
     "physical_city": "UTE PARK",
     "physical_state": "NM",
     "physical_zip": "87749",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2987,7 +3562,10 @@
     "physical_city": "WAGON MOUND",
     "physical_state": "NM",
     "physical_zip": "87752",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14279",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3000,7 +3578,10 @@
     "physical_city": "WATROUS",
     "physical_state": "NM",
     "physical_zip": "87753",
-    "physical_zip4": "1001"
+    "physical_zip4": "1001",
+    "zip_class_code": "P",
+    "locale_key": "Z14282",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3013,7 +3594,10 @@
     "physical_city": "SOCORRO",
     "physical_state": "NM",
     "physical_zip": "87801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14172",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3026,7 +3610,10 @@
     "physical_city": "DATIL",
     "physical_state": "NM",
     "physical_zip": "87821",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13666",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3039,7 +3626,10 @@
     "physical_city": "DATIL",
     "physical_state": "NM",
     "physical_zip": "87821",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13666",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3052,7 +3642,10 @@
     "physical_city": "LEMITAR",
     "physical_state": "NM",
     "physical_zip": "87823",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13864",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3065,20 +3658,10 @@
     "physical_city": "LUNA",
     "physical_state": "NM",
     "physical_zip": "87824",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87825",
-    "locale_name": "ALAMO NPU",
-    "physical_delivery_address": "1 TIISTSOH PL",
-    "physical_city": "MAGDALENA",
-    "physical_state": "NM",
-    "physical_zip": "87825",
-    "physical_zip4": "9900"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13900",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3091,7 +3674,10 @@
     "physical_city": "MAGDALENA",
     "physical_state": "NM",
     "physical_zip": "87825",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13903",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3104,7 +3690,10 @@
     "physical_city": "PIE TOWN",
     "physical_state": "NM",
     "physical_zip": "87827",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14006",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3117,7 +3706,10 @@
     "physical_city": "POLVADERA",
     "physical_state": "NM",
     "physical_zip": "87828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14026",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3130,7 +3722,10 @@
     "physical_city": "QUEMADO",
     "physical_state": "NM",
     "physical_zip": "87829",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14040",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3143,20 +3738,10 @@
     "physical_city": "RESERVE",
     "physical_state": "NM",
     "physical_zip": "87830",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87831",
-    "locale_name": "SAN ACACIA",
-    "physical_delivery_address": "161 MACEDONIO RD",
-    "physical_city": "SAN ACACIA",
-    "physical_state": "NM",
-    "physical_zip": "87831",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14069",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3169,20 +3754,10 @@
     "physical_city": "SAN ANTONIO",
     "physical_state": "NM",
     "physical_zip": "87832",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "87901",
-    "locale_name": "GERONIMO SPRINGS",
-    "physical_delivery_address": "300 MAIN ST",
-    "physical_city": "TRUTH OR CONSEQUENCES",
-    "physical_state": "NM",
-    "physical_zip": "87901",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14103",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3195,7 +3770,26 @@
     "physical_city": "TRUTH OR CONSEQUENCES",
     "physical_state": "NM",
     "physical_zip": "87901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14245",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "87901",
+    "locale_name": "GERONIMO SPRINGS",
+    "physical_delivery_address": "300 MAIN ST",
+    "physical_city": "TRUTH OR CONSEQUENCES",
+    "physical_state": "NM",
+    "physical_zip": "87901",
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z18979",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3208,7 +3802,10 @@
     "physical_city": "ARREY",
     "physical_state": "NM",
     "physical_zip": "87930",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13528",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3221,7 +3818,10 @@
     "physical_city": "CABALLO",
     "physical_state": "NM",
     "physical_zip": "87931",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13572",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3234,7 +3834,10 @@
     "physical_city": "DERRY",
     "physical_state": "NM",
     "physical_zip": "87933",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13670",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3247,7 +3850,10 @@
     "physical_city": "ELEPHANT BUTTE",
     "physical_state": "NM",
     "physical_zip": "87935",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13706",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3260,7 +3866,10 @@
     "physical_city": "GARFIELD",
     "physical_state": "NM",
     "physical_zip": "87936",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13758",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3273,7 +3882,10 @@
     "physical_city": "HATCH",
     "physical_state": "NM",
     "physical_zip": "87937",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13789",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3286,7 +3898,10 @@
     "physical_city": "MONTICELLO",
     "physical_state": "NM",
     "physical_zip": "87939",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13941",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3299,7 +3914,10 @@
     "physical_city": "RINCON",
     "physical_state": "NM",
     "physical_zip": "87940",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14071",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3312,7 +3930,10 @@
     "physical_city": "SALEM",
     "physical_state": "NM",
     "physical_zip": "87941",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14101",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3325,7 +3946,10 @@
     "physical_city": "WILLIAMSBURG",
     "physical_state": "NM",
     "physical_zip": "87942",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14296",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3338,7 +3962,10 @@
     "physical_city": "WINSTON",
     "physical_state": "NM",
     "physical_zip": "87943",
-    "physical_zip4": "9803"
+    "physical_zip4": "9803",
+    "zip_class_code": null,
+    "locale_key": "Z14297",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3351,20 +3978,10 @@
     "physical_city": "LAS CRUCES",
     "physical_state": "NM",
     "physical_zip": "88001",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "88002",
-    "locale_name": "COMMERCE",
-    "physical_delivery_address": "1180 COMMERCE DR",
-    "physical_city": "LAS CRUCES",
-    "physical_state": "NM",
-    "physical_zip": "88011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13856",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3377,7 +3994,26 @@
     "physical_city": "WHITE SANDS MISSILE RANGE",
     "physical_state": "NM",
     "physical_zip": "88002",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14290",
+    "locale_type": "B"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "88002",
+    "locale_name": "COMMERCE",
+    "physical_delivery_address": "1180 COMMERCE DR",
+    "physical_city": "LAS CRUCES",
+    "physical_state": "NM",
+    "physical_zip": "88011",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18228",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3390,7 +4026,10 @@
     "physical_city": "LAS CRUCES",
     "physical_state": "NM",
     "physical_zip": "88003",
-    "physical_zip4": "1294"
+    "physical_zip4": "1294",
+    "zip_class_code": "P",
+    "locale_key": "Z14259",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3403,7 +4042,10 @@
     "physical_city": "LAS CRUCES",
     "physical_state": "NM",
     "physical_zip": "88001",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13856",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3416,7 +4058,10 @@
     "physical_city": "LAS CRUCES",
     "physical_state": "NM",
     "physical_zip": "88001",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13856",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3429,7 +4074,10 @@
     "physical_city": "LAS CRUCES",
     "physical_state": "NM",
     "physical_zip": "88011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18228",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3442,7 +4090,10 @@
     "physical_city": "SANTA TERESA",
     "physical_state": "NM",
     "physical_zip": "88008",
-    "physical_zip4": "9694"
+    "physical_zip4": "9694",
+    "zip_class_code": null,
+    "locale_key": "Z14136",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3455,7 +4106,10 @@
     "physical_city": "SUNLAND PARK",
     "physical_state": "NM",
     "physical_zip": "88063",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14204",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3468,7 +4122,10 @@
     "physical_city": "LAS CRUCES",
     "physical_state": "NM",
     "physical_zip": "88011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18228",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3481,7 +4138,10 @@
     "physical_city": "LAS CRUCES",
     "physical_state": "NM",
     "physical_zip": "88011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18228",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3494,7 +4154,10 @@
     "physical_city": "LAS CRUCES",
     "physical_state": "NM",
     "physical_zip": "88011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18228",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3507,7 +4170,10 @@
     "physical_city": "ANIMAS",
     "physical_state": "NM",
     "physical_zip": "88020",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13519",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3520,7 +4186,10 @@
     "physical_city": "ANTHONY",
     "physical_state": "NM",
     "physical_zip": "88021",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3533,7 +4202,10 @@
     "physical_city": "BAYARD",
     "physical_state": "NM",
     "physical_zip": "88023",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13540",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3546,7 +4218,10 @@
     "physical_city": "BUCKHORN",
     "physical_state": "NM",
     "physical_zip": "88025",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13567",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3559,7 +4234,10 @@
     "physical_city": "SANTA CLARA",
     "physical_state": "NM",
     "physical_zip": "88026",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13601",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3572,7 +4250,10 @@
     "physical_city": "CHAMBERINO",
     "physical_state": "NM",
     "physical_zip": "88027",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13608",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3585,7 +4266,10 @@
     "physical_city": "CLIFF",
     "physical_state": "NM",
     "physical_zip": "88028",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13626",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3598,7 +4282,10 @@
     "physical_city": "COLUMBUS",
     "physical_state": "NM",
     "physical_zip": "88029",
-    "physical_zip4": "9100"
+    "physical_zip4": "9100",
+    "zip_class_code": "P",
+    "locale_key": "Z13636",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3611,7 +4298,10 @@
     "physical_city": "DEMING",
     "physical_state": "NM",
     "physical_zip": "88030",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13668",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3624,7 +4314,10 @@
     "physical_city": "DEMING",
     "physical_state": "NM",
     "physical_zip": "88030",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13668",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3637,7 +4330,10 @@
     "physical_city": "DONA ANA",
     "physical_state": "NM",
     "physical_zip": "88032",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13676",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3650,7 +4346,10 @@
     "physical_city": "FAIRACRES",
     "physical_state": "NM",
     "physical_zip": "88033",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13719",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3663,7 +4362,10 @@
     "physical_city": "FAYWOOD",
     "physical_state": "NM",
     "physical_zip": "88034",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13726",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3676,7 +4378,10 @@
     "physical_city": "GILA",
     "physical_state": "NM",
     "physical_zip": "88038",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13762",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3689,7 +4394,10 @@
     "physical_city": "GLENWOOD",
     "physical_state": "NM",
     "physical_zip": "88039",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13767",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3702,7 +4410,10 @@
     "physical_city": "HACHITA",
     "physical_state": "NM",
     "physical_zip": "88040",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13785",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3715,7 +4426,10 @@
     "physical_city": "HANOVER",
     "physical_state": "NM",
     "physical_zip": "88041",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13787",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3728,7 +4442,10 @@
     "physical_city": "HILLSBORO",
     "physical_state": "NM",
     "physical_zip": "88042",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13798",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3741,7 +4458,10 @@
     "physical_city": "HURLEY",
     "physical_state": "NM",
     "physical_zip": "88043",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13809",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3754,7 +4474,10 @@
     "physical_city": "LA MESA",
     "physical_state": "NM",
     "physical_zip": "88044",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "Z13840",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3767,7 +4490,10 @@
     "physical_city": "LORDSBURG",
     "physical_state": "NM",
     "physical_zip": "88045",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13879",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3780,7 +4506,10 @@
     "physical_city": "MESILLA",
     "physical_state": "NM",
     "physical_zip": "88046",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13926",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3793,7 +4522,10 @@
     "physical_city": "MESILLA PARK",
     "physical_state": "NM",
     "physical_zip": "88047",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13927",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3806,7 +4538,10 @@
     "physical_city": "MESQUITE",
     "physical_state": "NM",
     "physical_zip": "88048",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13929",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3819,7 +4554,10 @@
     "physical_city": "MIMBRES",
     "physical_state": "NM",
     "physical_zip": "88049",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13937",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3832,7 +4570,10 @@
     "physical_city": "MULE CREEK",
     "physical_state": "NM",
     "physical_zip": "88051",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13951",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3845,7 +4586,10 @@
     "physical_city": "ORGAN",
     "physical_state": "NM",
     "physical_zip": "88052",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13985",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3858,7 +4602,10 @@
     "physical_city": "RADIUM SPRINGS",
     "physical_state": "NM",
     "physical_zip": "88054",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14045",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3871,7 +4618,10 @@
     "physical_city": "RODEO",
     "physical_state": "NM",
     "physical_zip": "88056",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14084",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3884,7 +4634,10 @@
     "physical_city": "SAN MIGUEL",
     "physical_state": "NM",
     "physical_zip": "88058",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14119",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3897,7 +4650,10 @@
     "physical_city": "SILVER CITY",
     "physical_state": "NM",
     "physical_zip": "88061",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14161",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3910,7 +4666,10 @@
     "physical_city": "SILVER CITY",
     "physical_state": "NM",
     "physical_zip": "88061",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14161",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3923,7 +4682,10 @@
     "physical_city": "SUNLAND PARK",
     "physical_state": "NM",
     "physical_zip": "88063",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14204",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3936,7 +4698,10 @@
     "physical_city": "TYRONE",
     "physical_state": "NM",
     "physical_zip": "88065",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14252",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3949,7 +4714,10 @@
     "physical_city": "ANTHONY",
     "physical_state": "NM",
     "physical_zip": "88021",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13520",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3962,7 +4730,10 @@
     "physical_city": "CLOVIS",
     "physical_state": "NM",
     "physical_zip": "88101",
-    "physical_zip4": "4199"
+    "physical_zip4": "4199",
+    "zip_class_code": null,
+    "locale_key": "Z18229",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3975,7 +4746,10 @@
     "physical_city": "CLOVIS",
     "physical_state": "NM",
     "physical_zip": "88101",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13631",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3988,20 +4762,10 @@
     "physical_city": "CLOVIS",
     "physical_state": "NM",
     "physical_zip": "88101",
-    "physical_zip4": "4199"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "88112",
-    "locale_name": "GRADY",
-    "physical_delivery_address": "406 W MAIN ST",
-    "physical_city": "GRADY",
-    "physical_state": "NM",
-    "physical_zip": "88120",
-    "physical_zip4": "9800"
+    "physical_zip4": "4199",
+    "zip_class_code": "P",
+    "locale_key": "Z18229",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4014,7 +4778,10 @@
     "physical_city": "CAUSEY",
     "physical_state": "NM",
     "physical_zip": "88113",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13596",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4027,7 +4794,10 @@
     "physical_city": "DORA",
     "physical_state": "NM",
     "physical_zip": "88115",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13677",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4040,7 +4810,10 @@
     "physical_city": "ELIDA",
     "physical_state": "NM",
     "physical_zip": "88116",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13707",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4053,7 +4826,10 @@
     "physical_city": "FLOYD",
     "physical_state": "NM",
     "physical_zip": "88118",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13734",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4066,7 +4842,10 @@
     "physical_city": "FORT SUMNER",
     "physical_state": "NM",
     "physical_zip": "88119",
-    "physical_zip4": "9803"
+    "physical_zip4": "9803",
+    "zip_class_code": null,
+    "locale_key": "Z13740",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4079,7 +4858,10 @@
     "physical_city": "GRADY",
     "physical_state": "NM",
     "physical_zip": "88120",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13775",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4092,20 +4874,10 @@
     "physical_city": "HOUSE",
     "physical_state": "NM",
     "physical_zip": "88121",
-    "physical_zip4": "9800"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "88123",
-    "locale_name": "PORTALES",
-    "physical_delivery_address": "116 W 1ST ST",
-    "physical_city": "PORTALES",
-    "physical_state": "NM",
-    "physical_zip": "88130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13808",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4118,7 +4890,10 @@
     "physical_city": "MELROSE",
     "physical_state": "NM",
     "physical_zip": "88124",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13921",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4131,7 +4906,10 @@
     "physical_city": "PEP",
     "physical_state": "NM",
     "physical_zip": "88126",
-    "physical_zip4": "9716"
+    "physical_zip4": "9716",
+    "zip_class_code": null,
+    "locale_key": "Z13998",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4144,7 +4922,10 @@
     "physical_city": "PEP",
     "physical_state": "NM",
     "physical_zip": "88126",
-    "physical_zip4": "9716"
+    "physical_zip4": "9716",
+    "zip_class_code": null,
+    "locale_key": "Z13998",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4157,7 +4938,10 @@
     "physical_city": "PORTALES",
     "physical_state": "NM",
     "physical_zip": "88130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14028",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4170,7 +4954,10 @@
     "physical_city": "ROGERS",
     "physical_state": "NM",
     "physical_zip": "88132",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14086",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4183,7 +4970,10 @@
     "physical_city": "TAIBAN",
     "physical_state": "NM",
     "physical_zip": "88134",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14208",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4196,7 +4986,10 @@
     "physical_city": "TEXICO",
     "physical_state": "NM",
     "physical_zip": "88135",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14218",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4209,7 +5002,10 @@
     "physical_city": "YESO",
     "physical_state": "NM",
     "physical_zip": "88136",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14300",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4222,7 +5018,10 @@
     "physical_city": "ROSWELL",
     "physical_state": "NM",
     "physical_zip": "88203",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18230",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4235,7 +5034,26 @@
     "physical_city": "ROSWELL",
     "physical_state": "NM",
     "physical_zip": "88201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14090",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "AZ-NM",
+    "district_no": "852",
+    "delivery_zipcode": "88202",
+    "locale_name": "ROSWELL ANX",
+    "physical_delivery_address": "497 W BRASHER RD",
+    "physical_city": "ROSWELL",
+    "physical_state": "NM",
+    "physical_zip": "88203",
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18230",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4248,7 +5066,10 @@
     "physical_city": "ROSWELL",
     "physical_state": "NM",
     "physical_zip": "88203",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18230",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4261,7 +5082,10 @@
     "physical_city": "ARTESIA",
     "physical_state": "NM",
     "physical_zip": "88210",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "001897",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4274,7 +5098,10 @@
     "physical_city": "ARTESIA",
     "physical_state": "NM",
     "physical_zip": "88210",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13531",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4287,7 +5114,10 @@
     "physical_city": "CARLSBAD",
     "physical_state": "NM",
     "physical_zip": "88220",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "000905",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4300,7 +5130,10 @@
     "physical_city": "CARLSBAD",
     "physical_state": "NM",
     "physical_zip": "88220",
-    "physical_zip4": "6290"
+    "physical_zip4": "6290",
+    "zip_class_code": "P",
+    "locale_key": "Z13590",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4313,7 +5146,10 @@
     "physical_city": "DEXTER",
     "physical_state": "NM",
     "physical_zip": "88230",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13672",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4326,7 +5162,10 @@
     "physical_city": "EUNICE",
     "physical_state": "NM",
     "physical_zip": "88231",
-    "physical_zip4": "3562"
+    "physical_zip4": "3562",
+    "zip_class_code": "P",
+    "locale_key": "Z13718",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4339,7 +5178,10 @@
     "physical_city": "HAGERMAN",
     "physical_state": "NM",
     "physical_zip": "88232",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13786",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4352,7 +5194,10 @@
     "physical_city": "HOBBS",
     "physical_state": "NM",
     "physical_zip": "88240",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13799",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4365,7 +5210,10 @@
     "physical_city": "HOBBS",
     "physical_state": "NM",
     "physical_zip": "88240",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13799",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4378,7 +5226,10 @@
     "physical_city": "HOBBS",
     "physical_state": "NM",
     "physical_zip": "88240",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13799",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4391,7 +5242,10 @@
     "physical_city": "HOPE",
     "physical_state": "NM",
     "physical_zip": "88250",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13806",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4404,7 +5258,10 @@
     "physical_city": "JAL",
     "physical_state": "NM",
     "physical_zip": "88252",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13815",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4417,7 +5274,10 @@
     "physical_city": "LAKE ARTHUR",
     "physical_state": "NM",
     "physical_zip": "88253",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13850",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4430,7 +5290,10 @@
     "physical_city": "LAKEWOOD",
     "physical_state": "NM",
     "physical_zip": "88254",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13852",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4443,7 +5306,10 @@
     "physical_city": "LOCO HILLS",
     "physical_state": "NM",
     "physical_zip": "88255",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13877",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4456,7 +5322,10 @@
     "physical_city": "LOVING",
     "physical_state": "NM",
     "physical_zip": "88256",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13890",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4469,7 +5338,10 @@
     "physical_city": "LOVINGTON",
     "physical_state": "NM",
     "physical_zip": "88260",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13891",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4482,7 +5354,10 @@
     "physical_city": "MALAGA",
     "physical_state": "NM",
     "physical_zip": "88263",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13904",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4495,7 +5370,10 @@
     "physical_city": "MALJAMAR",
     "physical_state": "NM",
     "physical_zip": "88264",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z13905",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4508,7 +5386,10 @@
     "physical_city": "MONUMENT",
     "physical_state": "NM",
     "physical_zip": "88265",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13942",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4521,7 +5402,10 @@
     "physical_city": "TATUM",
     "physical_state": "NM",
     "physical_zip": "88267",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "Z14214",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4534,7 +5418,10 @@
     "physical_city": "WHITES CITY",
     "physical_state": "NM",
     "physical_zip": "88268",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14292",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4547,7 +5434,10 @@
     "physical_city": "CARRIZOZO",
     "physical_state": "NM",
     "physical_zip": "88301",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13593",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4560,7 +5450,10 @@
     "physical_city": "ALAMOGORDO",
     "physical_state": "NM",
     "physical_zip": "88310",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13500",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4573,7 +5466,10 @@
     "physical_city": "ALAMOGORDO",
     "physical_state": "NM",
     "physical_zip": "88310",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13500",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4586,7 +5482,10 @@
     "physical_city": "ALTO",
     "physical_state": "NM",
     "physical_zip": "88312",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13510",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4599,7 +5498,10 @@
     "physical_city": "BENT",
     "physical_state": "NM",
     "physical_zip": "88314",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13545",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4612,7 +5514,10 @@
     "physical_city": "CAPITAN",
     "physical_state": "NM",
     "physical_zip": "88316",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13586",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4625,7 +5530,10 @@
     "physical_city": "CLOUDCROFT",
     "physical_state": "NM",
     "physical_zip": "88317",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13628",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4638,7 +5546,10 @@
     "physical_city": "CORONA",
     "physical_state": "NM",
     "physical_zip": "88318",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "Z13643",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4651,7 +5562,10 @@
     "physical_city": "ENCINO",
     "physical_state": "NM",
     "physical_zip": "88321",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13711",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4664,7 +5578,10 @@
     "physical_city": "GLENCOE",
     "physical_state": "NM",
     "physical_zip": "88324",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13765",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4677,7 +5594,10 @@
     "physical_city": "HIGH ROLLS MOUNTAIN PARK",
     "physical_state": "NM",
     "physical_zip": "88325",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13795",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4690,7 +5610,10 @@
     "physical_city": "HOLLOMAN AIR FORCE BASE",
     "physical_state": "NM",
     "physical_zip": "88330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13801",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4703,7 +5626,10 @@
     "physical_city": "HONDO",
     "physical_state": "NM",
     "physical_zip": "88336",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13805",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4716,7 +5642,10 @@
     "physical_city": "LA LUZ",
     "physical_state": "NM",
     "physical_zip": "88337",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13838",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4729,7 +5658,10 @@
     "physical_city": "LINCOLN",
     "physical_state": "NM",
     "physical_zip": "88338",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13867",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4742,7 +5674,10 @@
     "physical_city": "MAYHILL",
     "physical_state": "NM",
     "physical_zip": "88339",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13910",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4755,7 +5690,10 @@
     "physical_city": "MESCALERO",
     "physical_state": "NM",
     "physical_zip": "88340",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z13924",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4768,7 +5706,10 @@
     "physical_city": "NOGAL",
     "physical_state": "NM",
     "physical_zip": "88341",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z13965",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4781,7 +5722,10 @@
     "physical_city": "OROGRANDE",
     "physical_state": "NM",
     "physical_zip": "88342",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z13986",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4794,7 +5738,10 @@
     "physical_city": "PICACHO",
     "physical_state": "NM",
     "physical_zip": "88343",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14004",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4807,7 +5754,10 @@
     "physical_city": "PINON",
     "physical_state": "NM",
     "physical_zip": "88344",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14013",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4820,7 +5770,10 @@
     "physical_city": "RUIDOSO",
     "physical_state": "NM",
     "physical_zip": "88345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14094",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4833,7 +5786,10 @@
     "physical_city": "RUIDOSO DOWNS",
     "physical_state": "NM",
     "physical_zip": "88346",
-    "physical_zip4": "9153"
+    "physical_zip4": "9153",
+    "zip_class_code": null,
+    "locale_key": "Z14095",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4846,7 +5802,10 @@
     "physical_city": "SACRAMENTO",
     "physical_state": "NM",
     "physical_zip": "88347",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14099",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4859,7 +5818,10 @@
     "physical_city": "SAN PATRICIO",
     "physical_state": "NM",
     "physical_zip": "88348",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14120",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4872,7 +5834,10 @@
     "physical_city": "SUNSPOT",
     "physical_state": "NM",
     "physical_zip": "88349",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14206",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4885,7 +5850,10 @@
     "physical_city": "TINNIE",
     "physical_state": "NM",
     "physical_zip": "88351",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14226",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4898,7 +5866,10 @@
     "physical_city": "TULAROSA",
     "physical_state": "NM",
     "physical_zip": "88352",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14248",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4911,7 +5882,10 @@
     "physical_city": "VAUGHN",
     "physical_state": "NM",
     "physical_zip": "88353",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14273",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4924,7 +5898,10 @@
     "physical_city": "SACRAMENTO",
     "physical_state": "NM",
     "physical_zip": "88347",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14099",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4937,7 +5914,10 @@
     "physical_city": "RUIDOSO",
     "physical_state": "NM",
     "physical_zip": "88345",
-    "physical_zip4": "6050"
+    "physical_zip4": "6050",
+    "zip_class_code": "P",
+    "locale_key": "Z13803",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4950,7 +5930,10 @@
     "physical_city": "RUIDOSO",
     "physical_state": "NM",
     "physical_zip": "88345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14094",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4963,7 +5946,10 @@
     "physical_city": "TUCUMCARI",
     "physical_state": "NM",
     "physical_zip": "88401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14247",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4976,33 +5962,10 @@
     "physical_city": "AMISTAD",
     "physical_state": "NM",
     "physical_zip": "88410",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "88411",
-    "locale_name": "SAN JON",
-    "physical_delivery_address": "402 ROUTE 66",
-    "physical_city": "SAN JON",
-    "physical_state": "NM",
-    "physical_zip": "88434",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "88414",
-    "locale_name": "DES MOINES",
-    "physical_delivery_address": "720 BROADWAY AVE",
-    "physical_city": "DES MOINES",
-    "physical_state": "NM",
-    "physical_zip": "88418",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13514",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5015,7 +5978,10 @@
     "physical_city": "CLAYTON",
     "physical_state": "NM",
     "physical_zip": "88415",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13622",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5028,7 +5994,10 @@
     "physical_city": "CONCHAS DAM",
     "physical_state": "NM",
     "physical_zip": "88416",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z13637",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5041,7 +6010,10 @@
     "physical_city": "NEWKIRK",
     "physical_state": "NM",
     "physical_zip": "88431",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13964",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5054,7 +6026,10 @@
     "physical_city": "DES MOINES",
     "physical_state": "NM",
     "physical_zip": "88418",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13671",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5067,7 +6042,10 @@
     "physical_city": "DES MOINES",
     "physical_state": "NM",
     "physical_zip": "88418",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13671",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5080,20 +6058,10 @@
     "physical_city": "GARITA",
     "physical_state": "NM",
     "physical_zip": "88421",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "88422",
-    "locale_name": "GRENVILLE",
-    "physical_delivery_address": "16 5TH AVE",
-    "physical_city": "GRENVILLE",
-    "physical_state": "NM",
-    "physical_zip": "88424",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13759",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5106,7 +6074,10 @@
     "physical_city": "GRENVILLE",
     "physical_state": "NM",
     "physical_zip": "88424",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13778",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5119,7 +6090,10 @@
     "physical_city": "LOGAN",
     "physical_state": "NM",
     "physical_zip": "88426",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13878",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5132,7 +6106,10 @@
     "physical_city": "MCALISTER",
     "physical_state": "NM",
     "physical_zip": "88427",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13911",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5145,7 +6122,10 @@
     "physical_city": "NARA VISA",
     "physical_state": "NM",
     "physical_zip": "88430",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13954",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5158,7 +6138,10 @@
     "physical_city": "NEWKIRK",
     "physical_state": "NM",
     "physical_zip": "88431",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z13964",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5171,7 +6154,10 @@
     "physical_city": "SAN JON",
     "physical_state": "NM",
     "physical_zip": "88434",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14111",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5184,7 +6170,10 @@
     "physical_city": "SANTA ROSA",
     "physical_state": "NM",
     "physical_zip": "88435",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14135",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5197,19 +6186,9 @@
     "physical_city": "SEDAN",
     "physical_state": "NM",
     "physical_zip": "88436",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "AZ-NM",
-    "district_no": "852",
-    "delivery_zipcode": "88439",
-    "locale_name": "TREMENTINA",
-    "physical_delivery_address": "26 POST OFFICE LN",
-    "physical_city": "TREMENTINA",
-    "physical_state": "NM",
-    "physical_zip": "88439",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14143",
+    "locale_type": "P"
   }
 ]

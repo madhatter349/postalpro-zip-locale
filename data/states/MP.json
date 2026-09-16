@@ -5,25 +5,15 @@
     "district_name": "HAWAII",
     "district_no": "967",
     "delivery_zipcode": "96950",
-    "locale_name": "CPU CAPITOL HILL",
-    "physical_delivery_address": "1 CAPITOL HL",
+    "locale_name": "SAIPAN",
+    "physical_delivery_address": "1 CHALAN KANOA VLG",
     "physical_city": "SAIPAN",
     "physical_state": "MP",
     "physical_zip": "96950",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "HAWAII",
-    "district_no": "967",
-    "delivery_zipcode": "96950",
-    "locale_name": "CPU GARAPAN RURAL BRANCH",
-    "physical_delivery_address": "520 ALAIHAI AVE",
-    "physical_city": "SAIPAN",
-    "physical_state": "MP",
-    "physical_zip": "96950",
-    "physical_zip4": "9994"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z12999",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +26,10 @@
     "physical_city": "SAIPAN",
     "physical_state": "MP",
     "physical_zip": "96950",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z13002",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -44,12 +37,31 @@
     "district_name": "HAWAII",
     "district_no": "967",
     "delivery_zipcode": "96950",
-    "locale_name": "SAIPAN",
-    "physical_delivery_address": "1 CHALAN KANOA VLG",
+    "locale_name": "CPU CAPITOL HILL",
+    "physical_delivery_address": "1 CAPITOL HL",
     "physical_city": "SAIPAN",
     "physical_state": "MP",
     "physical_zip": "96950",
-    "physical_zip4": "9996"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z17809",
+    "locale_type": "5"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96950",
+    "locale_name": "CPU GARAPAN RURAL BRANCH",
+    "physical_delivery_address": "520 ALAIHAI AVE",
+    "physical_city": "SAIPAN",
+    "physical_state": "MP",
+    "physical_zip": "96950",
+    "physical_zip4": "9994",
+    "zip_class_code": "P",
+    "locale_key": "020542",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "ROTA",
     "physical_state": "MP",
     "physical_zip": "96951",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12997",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -75,6 +90,9 @@
     "physical_city": "TINIAN",
     "physical_state": "MP",
     "physical_zip": "96952",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z13003",
+    "locale_type": "C"
   }
 ]

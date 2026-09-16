@@ -10,7 +10,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20001",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21037",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -18,25 +21,15 @@
     "district_name": "MARYLAND",
     "district_no": "200",
     "delivery_zipcode": "20001",
-    "locale_name": "SECTION 1 CARRIER ANNEX",
+    "locale_name": "WASHINGTON",
     "physical_delivery_address": "900 BRENTWOOD RD NE",
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20018",
-    "physical_zip4": "9995"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "MARYLAND",
-    "district_no": "200",
-    "delivery_zipcode": "20002",
-    "locale_name": "NORTHEAST",
-    "physical_delivery_address": "1563 MARYLAND AVE NE",
-    "physical_city": "WASHINGTON",
-    "physical_state": "DC",
-    "physical_zip": "20002",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21178",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -49,7 +42,26 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20018",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "004188",
+    "locale_type": "4"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MARYLAND",
+    "district_no": "200",
+    "delivery_zipcode": "20002",
+    "locale_name": "NORTHEAST NEW",
+    "physical_delivery_address": "1701 H ST NE STE 300",
+    "physical_city": "WASHINGTON",
+    "physical_state": "DC",
+    "physical_zip": "20002",
+    "physical_zip4": "9916",
+    "zip_class_code": null,
+    "locale_key": "021660",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -62,7 +74,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20003",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21123",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -75,7 +90,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20024",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21124",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -83,12 +101,31 @@
     "district_name": "MARYLAND",
     "district_no": "200",
     "delivery_zipcode": "20004",
-    "locale_name": "SECTION 4 CARRIER ANNEX",
+    "locale_name": "WASHINGTON",
     "physical_delivery_address": "900 BRENTWOOD RD NE",
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20018",
-    "physical_zip4": "9993"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21178",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MARYLAND",
+    "district_no": "200",
+    "delivery_zipcode": "20005",
+    "locale_name": "WASHINGTON",
+    "physical_delivery_address": "900 BRENTWOOD RD NE",
+    "physical_city": "WASHINGTON",
+    "physical_state": "DC",
+    "physical_zip": "20018",
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21178",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -101,20 +138,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20009",
-    "physical_zip4": "9903"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "MARYLAND",
-    "district_no": "200",
-    "delivery_zipcode": "20005",
-    "locale_name": "SECTION 5 CARRIER ANNEX",
-    "physical_delivery_address": "900 BRENTWOOD RD NE",
-    "physical_city": "WASHINGTON",
-    "physical_state": "DC",
-    "physical_zip": "20018",
-    "physical_zip4": "9994"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "021050",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -127,7 +154,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20037",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "016871",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -140,7 +170,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20007",
-    "physical_zip4": "1843"
+    "physical_zip4": "1843",
+    "zip_class_code": null,
+    "locale_key": "V20903",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -153,7 +186,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20016",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "009147",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -166,7 +202,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20008",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V20911",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -174,25 +213,15 @@
     "district_name": "MARYLAND",
     "district_no": "200",
     "delivery_zipcode": "20008",
-    "locale_name": "CLEVELAND PARK CARRIER ANNEX",
+    "locale_name": "GEORGETOWN CARRIER ANNEX",
     "physical_delivery_address": "4005 WISCONSIN AVE NW",
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20016",
-    "physical_zip4": "9995"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "MARYLAND",
-    "district_no": "200",
-    "delivery_zipcode": "20009",
-    "locale_name": "14TH ST",
-    "physical_delivery_address": "1830 14TH ST NW",
-    "physical_city": "WASHINGTON",
-    "physical_state": "DC",
-    "physical_zip": "20009",
-    "physical_zip4": "9903"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "009147",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -205,7 +234,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20009",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "V21032",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -218,7 +250,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20018",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "018206",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -231,7 +266,26 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20009",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "021038",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MARYLAND",
+    "district_no": "200",
+    "delivery_zipcode": "20009",
+    "locale_name": "14TH ST",
+    "physical_delivery_address": "1830 14TH ST NW",
+    "physical_city": "WASHINGTON",
+    "physical_state": "DC",
+    "physical_zip": "20009",
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "021050",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -244,7 +298,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20010",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V28228",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -257,7 +314,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20066",
-    "physical_zip4": "0010"
+    "physical_zip4": "0010",
+    "zip_class_code": null,
+    "locale_key": "019291",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -270,7 +330,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20011",
-    "physical_zip4": "1408"
+    "physical_zip4": "1408",
+    "zip_class_code": null,
+    "locale_key": "V20909",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -283,7 +346,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20066",
-    "physical_zip4": "0012"
+    "physical_zip4": "0012",
+    "zip_class_code": null,
+    "locale_key": "019682",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -296,7 +362,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20002",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V21051",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -309,7 +378,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21088",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -322,7 +394,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20066",
-    "physical_zip4": "0015"
+    "physical_zip4": "0015",
+    "zip_class_code": null,
+    "locale_key": "019683",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -335,7 +410,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20016",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V20990",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -348,7 +426,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20016",
-    "physical_zip4": "3316"
+    "physical_zip4": "3316",
+    "zip_class_code": null,
+    "locale_key": "V21098",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -361,7 +442,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20017",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V20888",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -374,7 +458,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20018",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V20923",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -387,7 +474,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20018",
-    "physical_zip4": "2826"
+    "physical_zip4": "2826",
+    "zip_class_code": null,
+    "locale_key": "V21188",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -400,7 +490,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20066",
-    "physical_zip4": "0019"
+    "physical_zip4": "0019",
+    "zip_class_code": null,
+    "locale_key": "021018",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -413,7 +506,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20020",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "V20986",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -426,7 +522,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20020",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "V21111",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -439,7 +538,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20024",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21124",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -452,7 +554,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20024",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "V21038",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -465,7 +570,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20007",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V20999",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -478,7 +586,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20019",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "021049",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -491,7 +602,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20020",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "V27703",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -504,7 +618,10 @@
     "physical_city": "BOLLING AFB",
     "physical_state": "DC",
     "physical_zip": "20032",
-    "physical_zip4": "7701"
+    "physical_zip4": "7701",
+    "zip_class_code": null,
+    "locale_key": "V20882",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -517,7 +634,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20032",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V20919",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -530,7 +650,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20036",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V20967",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -543,20 +666,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20036",
-    "physical_zip4": "5303"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "MARYLAND",
-    "district_no": "200",
-    "delivery_zipcode": "20036",
-    "locale_name": "22ND STREET",
-    "physical_delivery_address": "1255 22ND ST NW LBBY",
-    "physical_city": "WASHINGTON",
-    "physical_state": "DC",
-    "physical_zip": "20037",
-    "physical_zip4": "9995"
+    "physical_zip4": "5303",
+    "zip_class_code": "P",
+    "locale_key": "V21184",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -569,33 +682,26 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20037",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "016871",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
     "area_code": "4B",
     "district_name": "MARYLAND",
     "district_no": "200",
-    "delivery_zipcode": "20037",
+    "delivery_zipcode": "20036",
     "locale_name": "22ND STREET",
     "physical_delivery_address": "1255 22ND ST NW LBBY",
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20037",
-    "physical_zip4": "9995"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "MARYLAND",
-    "district_no": "200",
-    "delivery_zipcode": "20037",
-    "locale_name": "WARD PLACE CARRIER ANNEX",
-    "physical_delivery_address": "2121 WARD PL NW",
-    "physical_city": "WASHINGTON",
-    "physical_state": "DC",
-    "physical_zip": "20037",
-    "physical_zip4": "9996"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "016914",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -608,7 +714,42 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20037",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21185",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MARYLAND",
+    "district_no": "200",
+    "delivery_zipcode": "20037",
+    "locale_name": "WARD PLACE CARRIER ANNEX",
+    "physical_delivery_address": "2121 WARD PL NW",
+    "physical_city": "WASHINGTON",
+    "physical_state": "DC",
+    "physical_zip": "20037",
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "016871",
+    "locale_type": "4"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MARYLAND",
+    "district_no": "200",
+    "delivery_zipcode": "20037",
+    "locale_name": "22ND STREET",
+    "physical_delivery_address": "1255 22ND ST NW LBBY",
+    "physical_city": "WASHINGTON",
+    "physical_state": "DC",
+    "physical_zip": "20037",
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "016914",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -621,7 +762,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20006",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V20906",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -634,7 +778,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20011",
-    "physical_zip4": "1408"
+    "physical_zip4": "1408",
+    "zip_class_code": "P",
+    "locale_key": "V20909",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -647,7 +794,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20011",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "V20886",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -660,7 +810,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20005",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V21045",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -673,7 +826,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20004",
-    "physical_zip4": "2403"
+    "physical_zip4": "2403",
+    "zip_class_code": "P",
+    "locale_key": "V20877",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -686,7 +842,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20018",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "004765",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -699,7 +858,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20009",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": "P",
+    "locale_key": "021050",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -712,7 +874,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20018",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V21178",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -725,6 +890,9 @@
     "physical_city": "WASHINGTON",
     "physical_state": "DC",
     "physical_zip": "20002",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V21051",
+    "locale_type": "S"
   }
 ]

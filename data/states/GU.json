@@ -10,20 +10,10 @@
     "physical_city": "BARRIGADA",
     "physical_state": "GU",
     "physical_zip": "96913",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "HAWAII",
-    "district_no": "967",
-    "delivery_zipcode": "96912",
-    "locale_name": "CPU DEDEDO NEW",
-    "physical_delivery_address": "144 W SANTA MONICA AVE STE 101",
-    "physical_city": "DEDEDO",
-    "physical_state": "GU",
-    "physical_zip": "96929",
-    "physical_zip4": "5093"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12077",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +26,26 @@
     "physical_city": "DEDEDO",
     "physical_state": "GU",
     "physical_zip": "96929",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z12092",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96912",
+    "locale_name": "CPU DEDEDO NEW",
+    "physical_delivery_address": "144 W SANTA MONICA AVE STE 101",
+    "physical_city": "DEDEDO",
+    "physical_state": "GU",
+    "physical_zip": "96929",
+    "physical_zip4": "5093",
+    "zip_class_code": "P",
+    "locale_key": "020519",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +58,10 @@
     "physical_city": "BARRIGADA",
     "physical_state": "GU",
     "physical_zip": "96913",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12077",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "BARRIGADA",
     "physical_state": "GU",
     "physical_zip": "96913",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12077",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -75,7 +90,10 @@
     "physical_city": "YONA",
     "physical_state": "GU",
     "physical_zip": "96915",
-    "physical_zip4": "4799"
+    "physical_zip4": "4799",
+    "zip_class_code": null,
+    "locale_key": "Z12094",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -88,20 +106,10 @@
     "physical_city": "MERIZO",
     "physical_state": "GU",
     "physical_zip": "96915",
-    "physical_zip4": "1299"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "HAWAII",
-    "district_no": "967",
-    "delivery_zipcode": "96917",
-    "locale_name": "INARAJAN",
-    "physical_delivery_address": "663 PALE DUENAS ST",
-    "physical_city": "SANTA RITA",
-    "physical_state": "GU",
-    "physical_zip": "96915",
-    "physical_zip4": "3297"
+    "physical_zip4": "1299",
+    "zip_class_code": "P",
+    "locale_key": "Z12087",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -114,7 +122,10 @@
     "physical_city": "BARRIGADA",
     "physical_state": "GU",
     "physical_zip": "96913",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12077",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -127,7 +138,10 @@
     "physical_city": "MANGILAO",
     "physical_state": "GU",
     "physical_zip": "96913",
-    "physical_zip4": "1800"
+    "physical_zip4": "1800",
+    "zip_class_code": "P",
+    "locale_key": "Z17811",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +154,10 @@
     "physical_city": "BARRIGADA",
     "physical_state": "GU",
     "physical_zip": "96913",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12077",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +170,10 @@
     "physical_city": "YIGO",
     "physical_state": "GU",
     "physical_zip": "96929",
-    "physical_zip4": "1600"
+    "physical_zip4": "1600",
+    "zip_class_code": null,
+    "locale_key": "Z12074",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +186,10 @@
     "physical_city": "BARRIGADA",
     "physical_state": "GU",
     "physical_zip": "96913",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12077",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +202,10 @@
     "physical_city": "YIGO",
     "physical_state": "GU",
     "physical_zip": "96929",
-    "physical_zip4": "2398"
+    "physical_zip4": "2398",
+    "zip_class_code": null,
+    "locale_key": "Z12104",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -192,7 +218,10 @@
     "physical_city": "TAMUNING",
     "physical_state": "GU",
     "physical_zip": "96913",
-    "physical_zip4": "3598"
+    "physical_zip4": "3598",
+    "zip_class_code": "P",
+    "locale_key": "Z12100",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -205,6 +234,9 @@
     "physical_city": "HAGATNA",
     "physical_state": "GU",
     "physical_zip": "96910",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12069",
+    "locale_type": "P"
   }
 ]

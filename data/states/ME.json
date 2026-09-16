@@ -10,7 +10,10 @@
     "physical_city": "BERWICK",
     "physical_state": "ME",
     "physical_zip": "03901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24742",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -23,7 +26,10 @@
     "physical_city": "SOUTH BERWICK",
     "physical_state": "ME",
     "physical_zip": "03908",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25195",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -36,7 +42,10 @@
     "physical_city": "CAPE NEDDICK",
     "physical_state": "ME",
     "physical_zip": "03902",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24787",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -49,7 +58,10 @@
     "physical_city": "ELIOT",
     "physical_state": "ME",
     "physical_zip": "03903",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24874",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -62,7 +74,10 @@
     "physical_city": "KITTERY",
     "physical_state": "ME",
     "physical_zip": "03904",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24966",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -75,7 +90,10 @@
     "physical_city": "KITTERY POINT",
     "physical_state": "ME",
     "physical_zip": "03905",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24967",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -88,7 +106,10 @@
     "physical_city": "NORTH BERWICK",
     "physical_state": "ME",
     "physical_zip": "03906",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25062",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -101,7 +122,10 @@
     "physical_city": "OGUNQUIT",
     "physical_state": "ME",
     "physical_zip": "03907",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25088",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -114,7 +138,10 @@
     "physical_city": "WELLS",
     "physical_state": "ME",
     "physical_zip": "04090",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25282",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -127,7 +154,10 @@
     "physical_city": "SOUTH BERWICK",
     "physical_state": "ME",
     "physical_zip": "03908",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25195",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -140,7 +170,10 @@
     "physical_city": "YORK",
     "physical_state": "ME",
     "physical_zip": "03909",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25326",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -153,7 +186,10 @@
     "physical_city": "YORK BEACH",
     "physical_state": "ME",
     "physical_zip": "03910",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V27444",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -166,7 +202,10 @@
     "physical_city": "YORK HARBOR",
     "physical_state": "ME",
     "physical_zip": "03911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25328",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -179,7 +218,10 @@
     "physical_city": "ACTON",
     "physical_state": "ME",
     "physical_zip": "04001",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24707",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -192,7 +234,10 @@
     "physical_city": "ALFRED",
     "physical_state": "ME",
     "physical_zip": "04002",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24710",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -205,7 +250,10 @@
     "physical_city": "SANFORD",
     "physical_state": "ME",
     "physical_zip": "04073",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25164",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -218,7 +266,10 @@
     "physical_city": "BAILEY ISLAND",
     "physical_state": "ME",
     "physical_zip": "04003",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24724",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -231,7 +282,10 @@
     "physical_city": "BAR MILLS",
     "physical_state": "ME",
     "physical_zip": "04004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24729",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -244,7 +298,10 @@
     "physical_city": "BIDDEFORD",
     "physical_state": "ME",
     "physical_zip": "04005",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24744",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -257,7 +314,10 @@
     "physical_city": "SACO",
     "physical_state": "ME",
     "physical_zip": "04072",
-    "physical_zip4": "1872"
+    "physical_zip4": "1872",
+    "zip_class_code": null,
+    "locale_key": "V27568",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -270,7 +330,10 @@
     "physical_city": "BIDDEFORD POOL",
     "physical_state": "ME",
     "physical_zip": "04006",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24745",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -283,7 +346,10 @@
     "physical_city": "BOWDOINHAM",
     "physical_state": "ME",
     "physical_zip": "04008",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24755",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -296,7 +362,10 @@
     "physical_city": "BRIDGTON",
     "physical_state": "ME",
     "physical_zip": "04009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24760",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -309,7 +378,10 @@
     "physical_city": "BROWNFIELD",
     "physical_state": "ME",
     "physical_zip": "04010",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24767",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -322,7 +394,10 @@
     "physical_city": "BRUNSWICK",
     "physical_state": "ME",
     "physical_zip": "04011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24770",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -335,20 +410,10 @@
     "physical_city": "BRUNSWICK",
     "physical_state": "ME",
     "physical_zip": "04011",
-    "physical_zip4": "9996"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04014",
-    "locale_name": "CAPE PORPOISE DPOBU",
-    "physical_delivery_address": "45 MILLS RD",
-    "physical_city": "KENNEBUNKPORT",
-    "physical_state": "ME",
-    "physical_zip": "04046",
-    "physical_zip4": "5708"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "001610",
+    "locale_type": "5"
   },
   {
     "area_name": "ATLANTIC",
@@ -361,7 +426,10 @@
     "physical_city": "CASCO",
     "physical_state": "ME",
     "physical_zip": "04015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24795",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -374,7 +442,10 @@
     "physical_city": "CENTER LOVELL",
     "physical_state": "ME",
     "physical_zip": "04016",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24797",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -387,7 +458,10 @@
     "physical_city": "CHEBEAGUE ISLAND",
     "physical_state": "ME",
     "physical_zip": "04017",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24801",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -400,7 +474,10 @@
     "physical_city": "CLIFF ISLAND",
     "physical_state": "ME",
     "physical_zip": "04019",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24805",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -413,7 +490,10 @@
     "physical_city": "CORNISH",
     "physical_state": "ME",
     "physical_zip": "04020",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24813",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -426,7 +506,10 @@
     "physical_city": "CUMBERLAND CENTER",
     "physical_state": "ME",
     "physical_zip": "04021",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24819",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -439,7 +522,10 @@
     "physical_city": "YARMOUTH",
     "physical_state": "ME",
     "physical_zip": "04096",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25325",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -452,7 +538,10 @@
     "physical_city": "DENMARK",
     "physical_state": "ME",
     "physical_zip": "04022",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24830",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -465,7 +554,10 @@
     "physical_city": "EAST BALDWIN",
     "physical_state": "ME",
     "physical_zip": "04024",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24846",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -478,7 +570,10 @@
     "physical_city": "LEBANON",
     "physical_state": "ME",
     "physical_zip": "04027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24855",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -491,7 +586,10 @@
     "physical_city": "SANFORD",
     "physical_state": "ME",
     "physical_zip": "04073",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25164",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -504,7 +602,10 @@
     "physical_city": "CORNISH",
     "physical_state": "ME",
     "physical_zip": "04020",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24813",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -517,7 +618,10 @@
     "physical_city": "SEBAGO",
     "physical_state": "ME",
     "physical_zip": "04029",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24863",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -530,7 +634,10 @@
     "physical_city": "WATERBORO",
     "physical_state": "ME",
     "physical_zip": "04087",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25275",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -543,7 +650,10 @@
     "physical_city": "FREEPORT",
     "physical_state": "ME",
     "physical_zip": "04032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24898",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -556,7 +666,10 @@
     "physical_city": "FRYEBURG",
     "physical_state": "ME",
     "physical_zip": "04037",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24903",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -569,7 +682,10 @@
     "physical_city": "GORHAM",
     "physical_state": "ME",
     "physical_zip": "04038",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24911",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -582,7 +698,10 @@
     "physical_city": "GRAY",
     "physical_state": "ME",
     "physical_zip": "04039",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24915",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -595,7 +714,10 @@
     "physical_city": "HARRISON",
     "physical_state": "ME",
     "physical_zip": "04040",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24934",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -608,7 +730,10 @@
     "physical_city": "CORNISH",
     "physical_state": "ME",
     "physical_zip": "04020",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24813",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -621,7 +746,10 @@
     "physical_city": "HIRAM",
     "physical_state": "ME",
     "physical_zip": "04041",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24939",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -634,7 +762,10 @@
     "physical_city": "HOLLIS CENTER",
     "physical_state": "ME",
     "physical_zip": "04042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24941",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -647,7 +778,10 @@
     "physical_city": "KENNEBUNK",
     "physical_state": "ME",
     "physical_zip": "04043",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24959",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -660,7 +794,10 @@
     "physical_city": "KENNEBUNKPORT",
     "physical_state": "ME",
     "physical_zip": "04046",
-    "physical_zip4": "6046"
+    "physical_zip4": "6046",
+    "zip_class_code": null,
+    "locale_key": "V24961",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -673,7 +810,10 @@
     "physical_city": "PARSONSFIELD",
     "physical_state": "ME",
     "physical_zip": "04047",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24963",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -686,7 +826,10 @@
     "physical_city": "LIMERICK",
     "physical_state": "ME",
     "physical_zip": "04048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24980",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -699,7 +842,10 @@
     "physical_city": "LIMINGTON",
     "physical_state": "ME",
     "physical_zip": "04049",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24982",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -712,7 +858,10 @@
     "physical_city": "LONG ISLAND",
     "physical_state": "ME",
     "physical_zip": "04050",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24997",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -725,7 +874,10 @@
     "physical_city": "LOVELL",
     "physical_state": "ME",
     "physical_zip": "04051",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24999",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -738,7 +890,10 @@
     "physical_city": "MOODY",
     "physical_state": "ME",
     "physical_zip": "04054",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25037",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -751,20 +906,10 @@
     "physical_city": "NAPLES",
     "physical_state": "ME",
     "physical_zip": "04055",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04055",
-    "locale_name": "TONYS FOODLAND NPU",
-    "physical_delivery_address": "639 ROOSEVELT TRL",
-    "physical_city": "NAPLES",
-    "physical_state": "ME",
-    "physical_zip": "04055",
-    "physical_zip4": "5322"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25043",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -777,7 +922,10 @@
     "physical_city": "NEWFIELD",
     "physical_state": "ME",
     "physical_zip": "04056",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25055",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -790,7 +938,10 @@
     "physical_city": "NORTH BRIDGTON",
     "physical_state": "ME",
     "physical_zip": "04057",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25063",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -803,7 +954,10 @@
     "physical_city": "NORTH WATERBORO",
     "physical_state": "ME",
     "physical_zip": "04061",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25077",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -816,7 +970,10 @@
     "physical_city": "WINDHAM",
     "physical_state": "ME",
     "physical_zip": "04062",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25310",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -829,20 +986,10 @@
     "physical_city": "OCEAN PARK",
     "physical_state": "ME",
     "physical_zip": "04063",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04064",
-    "locale_name": "INDUSTRIAL PARK ANNEX",
-    "physical_delivery_address": "81 INDUSTRIAL PARK RD",
-    "physical_city": "SACO",
-    "physical_state": "ME",
-    "physical_zip": "04072",
-    "physical_zip4": "1872"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25087",
+    "locale_type": "C"
   },
   {
     "area_name": "ATLANTIC",
@@ -855,7 +1002,26 @@
     "physical_city": "OLD ORCHARD BEACH",
     "physical_state": "ME",
     "physical_zip": "04064",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25090",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "04064",
+    "locale_name": "INDUSTRIAL PARK ANNEX",
+    "physical_delivery_address": "81 INDUSTRIAL PARK RD",
+    "physical_city": "SACO",
+    "physical_state": "ME",
+    "physical_zip": "04072",
+    "physical_zip4": "1872",
+    "zip_class_code": null,
+    "locale_key": "V27568",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -868,7 +1034,10 @@
     "physical_city": "ORRS ISLAND",
     "physical_state": "ME",
     "physical_zip": "04066",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25097",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -881,7 +1050,10 @@
     "physical_city": "PARSONSFIELD",
     "physical_state": "ME",
     "physical_zip": "04047",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24963",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -894,7 +1066,10 @@
     "physical_city": "PORTER",
     "physical_state": "ME",
     "physical_zip": "04068",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25130",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -907,7 +1082,10 @@
     "physical_city": "POWNAL",
     "physical_state": "ME",
     "physical_zip": "04069",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25133",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -920,7 +1098,10 @@
     "physical_city": "SCARBOROUGH",
     "physical_state": "ME",
     "physical_zip": "04074",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25167",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -933,20 +1114,10 @@
     "physical_city": "RAYMOND",
     "physical_state": "ME",
     "physical_zip": "04071",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04072",
-    "locale_name": "INDUSTRIAL PARK ANNEX",
-    "physical_delivery_address": "81 INDUSTRIAL PARK RD",
-    "physical_city": "SACO",
-    "physical_state": "ME",
-    "physical_zip": "04072",
-    "physical_zip4": "1872"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25143",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -959,7 +1130,26 @@
     "physical_city": "SACO",
     "physical_state": "ME",
     "physical_zip": "04072",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25156",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "04072",
+    "locale_name": "INDUSTRIAL PARK ANNEX",
+    "physical_delivery_address": "81 INDUSTRIAL PARK RD",
+    "physical_city": "SACO",
+    "physical_state": "ME",
+    "physical_zip": "04072",
+    "physical_zip4": "1872",
+    "zip_class_code": null,
+    "locale_key": "V27568",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -972,7 +1162,10 @@
     "physical_city": "SANFORD",
     "physical_state": "ME",
     "physical_zip": "04073",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25164",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -985,7 +1178,10 @@
     "physical_city": "SCARBOROUGH",
     "physical_state": "ME",
     "physical_zip": "04074",
-    "physical_zip4": "7085"
+    "physical_zip4": "7085",
+    "zip_class_code": null,
+    "locale_key": "013428",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -998,7 +1194,10 @@
     "physical_city": "SHAPLEIGH",
     "physical_state": "ME",
     "physical_zip": "04076",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25179",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1011,7 +1210,10 @@
     "physical_city": "SOUTH CASCO",
     "physical_state": "ME",
     "physical_zip": "04077",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25197",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1024,7 +1226,10 @@
     "physical_city": "SOUTH FREEPORT",
     "physical_state": "ME",
     "physical_zip": "04078",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25199",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1037,7 +1242,10 @@
     "physical_city": "HARPSWELL",
     "physical_state": "ME",
     "physical_zip": "04079",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25202",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1050,7 +1258,10 @@
     "physical_city": "SOUTH WINDHAM",
     "physical_state": "ME",
     "physical_zip": "04082",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25210",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1063,7 +1274,10 @@
     "physical_city": "SANFORD",
     "physical_state": "ME",
     "physical_zip": "04073",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25164",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1076,7 +1290,10 @@
     "physical_city": "SPRINGVALE",
     "physical_state": "ME",
     "physical_zip": "04083",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25214",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1089,7 +1306,10 @@
     "physical_city": "GORHAM",
     "physical_state": "ME",
     "physical_zip": "04038",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24911",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1102,7 +1322,10 @@
     "physical_city": "STANDISH",
     "physical_state": "ME",
     "physical_zip": "04084",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25223",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1115,7 +1338,10 @@
     "physical_city": "LIMINGTON",
     "physical_state": "ME",
     "physical_zip": "04049",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24982",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1128,7 +1354,10 @@
     "physical_city": "STEEP FALLS",
     "physical_state": "ME",
     "physical_zip": "04085",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25226",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1141,7 +1370,10 @@
     "physical_city": "BRUNSWICK",
     "physical_state": "ME",
     "physical_zip": "04011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24770",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1154,7 +1386,10 @@
     "physical_city": "TOPSHAM",
     "physical_state": "ME",
     "physical_zip": "04086",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25251",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1167,7 +1402,10 @@
     "physical_city": "WATERBORO",
     "physical_state": "ME",
     "physical_zip": "04087",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25275",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1180,7 +1418,10 @@
     "physical_city": "WATERFORD",
     "physical_state": "ME",
     "physical_zip": "04088",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25276",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1193,7 +1434,10 @@
     "physical_city": "WELLS",
     "physical_state": "ME",
     "physical_zip": "04090",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25282",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1206,7 +1450,10 @@
     "physical_city": "WEST BALDWIN",
     "physical_state": "ME",
     "physical_zip": "04091",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25285",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1219,20 +1466,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "9801"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04093",
-    "locale_name": "BUXTON",
-    "physical_delivery_address": "379 LONG PLAINS RD",
-    "physical_city": "BUXTON",
-    "physical_state": "ME",
-    "physical_zip": "04093",
-    "physical_zip4": "9998"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "020703",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1245,7 +1482,26 @@
     "physical_city": "GORHAM",
     "physical_state": "ME",
     "physical_zip": "04038",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24911",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "04093",
+    "locale_name": "BUXTON",
+    "physical_delivery_address": "379 LONG PLAINS RD",
+    "physical_city": "BUXTON",
+    "physical_state": "ME",
+    "physical_zip": "04093",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25289",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1258,7 +1514,10 @@
     "physical_city": "WEST KENNEBUNK",
     "physical_state": "ME",
     "physical_zip": "04094",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25293",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1271,7 +1530,10 @@
     "physical_city": "WEST NEWFIELD",
     "physical_state": "ME",
     "physical_zip": "04095",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25296",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1284,7 +1546,10 @@
     "physical_city": "YARMOUTH",
     "physical_state": "ME",
     "physical_zip": "04096",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25325",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1297,7 +1562,10 @@
     "physical_city": "YARMOUTH",
     "physical_state": "ME",
     "physical_zip": "04096",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25325",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1310,7 +1578,10 @@
     "physical_city": "WESTBROOK",
     "physical_state": "ME",
     "physical_zip": "04092",
-    "physical_zip4": "3438"
+    "physical_zip4": "3438",
+    "zip_class_code": "P",
+    "locale_key": "V25305",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1323,20 +1594,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "3545"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04101",
-    "locale_name": "PORTLAND ME SDC",
-    "physical_delivery_address": "151 FOREST AVE",
-    "physical_city": "PORTLAND",
-    "physical_state": "ME",
-    "physical_zip": "04101",
-    "physical_zip4": "9801"
+    "physical_zip4": "3545",
+    "zip_class_code": null,
+    "locale_key": "V24839",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1349,7 +1610,26 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "3368"
+    "physical_zip4": "3368",
+    "zip_class_code": null,
+    "locale_key": "V25225",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "04101",
+    "locale_name": "PORTLAND ME SDC",
+    "physical_delivery_address": "151 FOREST AVE",
+    "physical_city": "PORTLAND",
+    "physical_state": "ME",
+    "physical_zip": "04101",
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "020703",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1362,7 +1642,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "020703",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1375,7 +1658,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "020703",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1388,7 +1674,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "020703",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1401,7 +1690,10 @@
     "physical_city": "FALMOUTH",
     "physical_state": "ME",
     "physical_zip": "04105",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V28217",
+    "locale_type": "5"
   },
   {
     "area_name": "ATLANTIC",
@@ -1414,7 +1706,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "020703",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1427,7 +1722,10 @@
     "physical_city": "SCARBOROUGH",
     "physical_state": "ME",
     "physical_zip": "04074",
-    "physical_zip4": "7085"
+    "physical_zip4": "7085",
+    "zip_class_code": null,
+    "locale_key": "013428",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1440,7 +1738,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "020703",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1453,7 +1754,10 @@
     "physical_city": "PEAKS ISLAND",
     "physical_state": "ME",
     "physical_zip": "04108",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "021260",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1466,7 +1770,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "020703",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1479,7 +1786,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04101",
-    "physical_zip4": "3545"
+    "physical_zip4": "3545",
+    "zip_class_code": "P",
+    "locale_key": "V24839",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1492,7 +1802,10 @@
     "physical_city": "SOUTH PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04106",
-    "physical_zip4": "3615"
+    "physical_zip4": "3615",
+    "zip_class_code": "P",
+    "locale_key": "V25206",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1505,20 +1818,10 @@
     "physical_city": "AUBURN",
     "physical_state": "ME",
     "physical_zip": "04210",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04210",
-    "locale_name": "AUBURN MALL",
-    "physical_delivery_address": "550 CENTER ST STE 9997",
-    "physical_city": "AUBURN",
-    "physical_state": "ME",
-    "physical_zip": "04210",
-    "physical_zip4": "6397"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24721",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1531,7 +1834,10 @@
     "physical_city": "AUBURN",
     "physical_state": "ME",
     "physical_zip": "04210",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24721",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1544,7 +1850,10 @@
     "physical_city": "AUBURN",
     "physical_state": "ME",
     "physical_zip": "04210",
-    "physical_zip4": "5997"
+    "physical_zip4": "5997",
+    "zip_class_code": "P",
+    "locale_key": "V24918",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1557,20 +1866,10 @@
     "physical_city": "ANDOVER",
     "physical_state": "ME",
     "physical_zip": "04216",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04216",
-    "locale_name": "RUMFORD",
-    "physical_delivery_address": "137 CONGRESS ST",
-    "physical_city": "RUMFORD",
-    "physical_state": "ME",
-    "physical_zip": "04276",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24713",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1583,7 +1882,10 @@
     "physical_city": "BETHEL",
     "physical_state": "ME",
     "physical_zip": "04217",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24743",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1596,7 +1898,10 @@
     "physical_city": "BRYANT POND",
     "physical_state": "ME",
     "physical_zip": "04219",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24771",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1609,7 +1914,10 @@
     "physical_city": "BUCKFIELD",
     "physical_state": "ME",
     "physical_zip": "04220",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24772",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1622,7 +1930,10 @@
     "physical_city": "SUMNER",
     "physical_state": "ME",
     "physical_zip": "04292",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25303",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1635,7 +1946,10 @@
     "physical_city": "CANTON",
     "physical_state": "ME",
     "physical_zip": "04221",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24784",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1648,7 +1962,10 @@
     "physical_city": "LISBON",
     "physical_state": "ME",
     "physical_zip": "04250",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24988",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1661,7 +1978,10 @@
     "physical_city": "DANVILLE",
     "physical_state": "ME",
     "physical_zip": "04223",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24827",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1674,7 +1994,10 @@
     "physical_city": "DIXFIELD",
     "physical_state": "ME",
     "physical_zip": "04224",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24836",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1687,7 +2010,10 @@
     "physical_city": "RUMFORD",
     "physical_state": "ME",
     "physical_zip": "04276",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25152",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1700,7 +2026,10 @@
     "physical_city": "DRYDEN",
     "physical_state": "ME",
     "physical_zip": "04225",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24842",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1713,20 +2042,10 @@
     "physical_city": "ANDOVER",
     "physical_state": "ME",
     "physical_zip": "04216",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04226",
-    "locale_name": "RUMFORD",
-    "physical_delivery_address": "137 CONGRESS ST",
-    "physical_city": "RUMFORD",
-    "physical_state": "ME",
-    "physical_zip": "04276",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24713",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1739,20 +2058,10 @@
     "physical_city": "EAST DIXFIELD",
     "physical_state": "ME",
     "physical_zip": "04227",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04228",
-    "locale_name": "EAST LIVERMORE",
-    "physical_delivery_address": "1047 PARK ST",
-    "physical_city": "EAST LIVERMORE",
-    "physical_state": "ME",
-    "physical_zip": "04228",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24851",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1765,7 +2074,10 @@
     "physical_city": "MINOT",
     "physical_state": "ME",
     "physical_zip": "04258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25030",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1778,7 +2090,10 @@
     "physical_city": "STONEHAM",
     "physical_state": "ME",
     "physical_zip": "04231",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24864",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1791,7 +2106,10 @@
     "physical_city": "EAST WILTON",
     "physical_state": "ME",
     "physical_zip": "04234",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24868",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1804,7 +2122,10 @@
     "physical_city": "GREENE",
     "physical_state": "ME",
     "physical_zip": "04236",
-    "physical_zip4": "4256"
+    "physical_zip4": "4256",
+    "zip_class_code": null,
+    "locale_key": "V24919",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1817,7 +2138,10 @@
     "physical_city": "HANOVER",
     "physical_state": "ME",
     "physical_zip": "04237",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24929",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1830,7 +2154,10 @@
     "physical_city": "HEBRON",
     "physical_state": "ME",
     "physical_zip": "04238",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24937",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1843,7 +2170,10 @@
     "physical_city": "JAY",
     "physical_state": "ME",
     "physical_zip": "04239",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24954",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1856,7 +2186,10 @@
     "physical_city": "LIVERMORE FALLS",
     "physical_state": "ME",
     "physical_zip": "04254",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24995",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1869,7 +2202,10 @@
     "physical_city": "LEWISTON",
     "physical_state": "ME",
     "physical_zip": "04240",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24977",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1882,7 +2218,10 @@
     "physical_city": "LEWISTON",
     "physical_state": "ME",
     "physical_zip": "04240",
-    "physical_zip4": "5772"
+    "physical_zip4": "5772",
+    "zip_class_code": "P",
+    "locale_key": "V25204",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1895,7 +2234,10 @@
     "physical_city": "LEWISTON",
     "physical_state": "ME",
     "physical_zip": "04240",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24977",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1908,7 +2250,10 @@
     "physical_city": "LISBON",
     "physical_state": "ME",
     "physical_zip": "04250",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24988",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1921,7 +2266,10 @@
     "physical_city": "LISBON",
     "physical_state": "ME",
     "physical_zip": "04250",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24988",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1934,7 +2282,10 @@
     "physical_city": "LISBON FALLS",
     "physical_state": "ME",
     "physical_zip": "04252",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V27517",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1947,7 +2298,10 @@
     "physical_city": "LIVERMORE",
     "physical_state": "ME",
     "physical_zip": "04253",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24994",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1960,7 +2314,10 @@
     "physical_city": "LIVERMORE FALLS",
     "physical_state": "ME",
     "physical_zip": "04254",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24995",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1973,7 +2330,10 @@
     "physical_city": "LIVERMORE FALLS",
     "physical_state": "ME",
     "physical_zip": "04254",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24995",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1986,7 +2346,10 @@
     "physical_city": "GREENWOOD",
     "physical_state": "ME",
     "physical_zip": "04255",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24996",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1999,7 +2362,10 @@
     "physical_city": "MECHANIC FALLS",
     "physical_state": "ME",
     "physical_zip": "04256",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25018",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2012,7 +2378,10 @@
     "physical_city": "MEXICO",
     "physical_state": "ME",
     "physical_zip": "04257",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25024",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2025,7 +2394,10 @@
     "physical_city": "AUBURN",
     "physical_state": "ME",
     "physical_zip": "04210",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24721",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2038,7 +2410,10 @@
     "physical_city": "MINOT",
     "physical_state": "ME",
     "physical_zip": "04258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25030",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2051,7 +2426,10 @@
     "physical_city": "MONMOUTH",
     "physical_state": "ME",
     "physical_zip": "04259",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25033",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2064,7 +2442,10 @@
     "physical_city": "NEW GLOUCESTER",
     "physical_state": "ME",
     "physical_zip": "04260",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25046",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2077,7 +2458,10 @@
     "physical_city": "NEWRY",
     "physical_state": "ME",
     "physical_zip": "04261",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25057",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2090,7 +2474,10 @@
     "physical_city": "JAY",
     "physical_state": "ME",
     "physical_zip": "04239",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24954",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2103,7 +2490,10 @@
     "physical_city": "LEEDS",
     "physical_state": "ME",
     "physical_zip": "04263",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24975",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2116,7 +2506,10 @@
     "physical_city": "NORTH MONMOUTH",
     "physical_state": "ME",
     "physical_zip": "04265",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25070",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2129,7 +2522,10 @@
     "physical_city": "NORTH TURNER",
     "physical_state": "ME",
     "physical_zip": "04266",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25075",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2142,7 +2538,10 @@
     "physical_city": "NORTH WATERFORD",
     "physical_state": "ME",
     "physical_zip": "04267",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25078",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2155,7 +2554,10 @@
     "physical_city": "NORWAY",
     "physical_state": "ME",
     "physical_zip": "04268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25084",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2168,7 +2570,10 @@
     "physical_city": "OXFORD",
     "physical_state": "ME",
     "physical_zip": "04270",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25102",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2181,7 +2586,10 @@
     "physical_city": "PARIS",
     "physical_state": "ME",
     "physical_zip": "04271",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25105",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2194,7 +2602,10 @@
     "physical_city": "POLAND",
     "physical_state": "ME",
     "physical_zip": "04274",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25125",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2207,7 +2618,10 @@
     "physical_city": "ROXBURY",
     "physical_state": "ME",
     "physical_zip": "04275",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25151",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2220,7 +2634,10 @@
     "physical_city": "RUMFORD",
     "physical_state": "ME",
     "physical_zip": "04276",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25152",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2233,7 +2650,10 @@
     "physical_city": "RUMFORD",
     "physical_state": "ME",
     "physical_zip": "04276",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25152",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2246,7 +2666,10 @@
     "physical_city": "LISBON",
     "physical_state": "ME",
     "physical_zip": "04250",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24988",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2259,7 +2682,10 @@
     "physical_city": "SABATTUS",
     "physical_state": "ME",
     "physical_zip": "04280",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25155",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2272,7 +2698,10 @@
     "physical_city": "NORWAY",
     "physical_state": "ME",
     "physical_zip": "04268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25084",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2285,7 +2714,10 @@
     "physical_city": "SOUTH PARIS",
     "physical_state": "ME",
     "physical_zip": "04281",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25205",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2298,7 +2730,10 @@
     "physical_city": "TURNER",
     "physical_state": "ME",
     "physical_zip": "04282",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25254",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2311,7 +2746,10 @@
     "physical_city": "WAYNE",
     "physical_state": "ME",
     "physical_zip": "04284",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25278",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2324,7 +2762,10 @@
     "physical_city": "WELD",
     "physical_state": "ME",
     "physical_zip": "04285",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25280",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2337,20 +2778,10 @@
     "physical_city": "WEST BETHEL",
     "physical_state": "ME",
     "physical_zip": "04286",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04287",
-    "locale_name": "BOWDOIN DPOBU",
-    "physical_delivery_address": "142 STORE RD",
-    "physical_city": "BOWDOIN",
-    "physical_state": "ME",
-    "physical_zip": "04287",
-    "physical_zip4": "7564"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V27614",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -2363,7 +2794,10 @@
     "physical_city": "BOWDOINHAM",
     "physical_state": "ME",
     "physical_zip": "04008",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24755",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2376,7 +2810,10 @@
     "physical_city": "MINOT",
     "physical_state": "ME",
     "physical_zip": "04258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25030",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2389,7 +2826,10 @@
     "physical_city": "WEST PARIS",
     "physical_state": "ME",
     "physical_zip": "04289",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V25297",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2402,7 +2842,10 @@
     "physical_city": "PERU",
     "physical_state": "ME",
     "physical_zip": "04290",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25117",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2415,7 +2858,10 @@
     "physical_city": "RUMFORD",
     "physical_state": "ME",
     "physical_zip": "04276",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25152",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2428,7 +2874,10 @@
     "physical_city": "WEST POLAND",
     "physical_state": "ME",
     "physical_zip": "04291",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25299",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2441,7 +2890,10 @@
     "physical_city": "SUMNER",
     "physical_state": "ME",
     "physical_zip": "04292",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25303",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2454,7 +2906,10 @@
     "physical_city": "WILTON",
     "physical_state": "ME",
     "physical_zip": "04294",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25309",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2467,7 +2922,10 @@
     "physical_city": "AUGUSTA",
     "physical_state": "ME",
     "physical_zip": "04330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24722",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2480,20 +2938,10 @@
     "physical_city": "AUGUSTA",
     "physical_state": "ME",
     "physical_zip": "04330",
-    "physical_zip4": "4799"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04330",
-    "locale_name": "TOGUS DPOBU",
-    "physical_delivery_address": "1 VA CTR",
-    "physical_city": "AUGUSTA",
-    "physical_state": "ME",
-    "physical_zip": "04330",
-    "physical_zip4": "9989"
+    "physical_zip4": "4799",
+    "zip_class_code": null,
+    "locale_key": "V24969",
+    "locale_type": "5"
   },
   {
     "area_name": "ATLANTIC",
@@ -2506,7 +2954,10 @@
     "physical_city": "AUGUSTA",
     "physical_state": "ME",
     "physical_zip": "04330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24722",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2519,7 +2970,10 @@
     "physical_city": "AUGUSTA",
     "physical_state": "ME",
     "physical_zip": "04330",
-    "physical_zip4": "4611"
+    "physical_zip4": "4611",
+    "zip_class_code": "P",
+    "locale_key": "V25274",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -2532,7 +2986,10 @@
     "physical_city": "COOPERS MILLS",
     "physical_state": "ME",
     "physical_zip": "04341",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24809",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2545,7 +3002,10 @@
     "physical_city": "DRESDEN",
     "physical_state": "ME",
     "physical_zip": "04342",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24840",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2558,7 +3018,10 @@
     "physical_city": "EAST WINTHROP",
     "physical_state": "ME",
     "physical_zip": "04343",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24869",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2571,7 +3034,10 @@
     "physical_city": "GARDINER",
     "physical_state": "ME",
     "physical_zip": "04345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24904",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2584,7 +3050,10 @@
     "physical_city": "GARDINER",
     "physical_state": "ME",
     "physical_zip": "04345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24904",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2597,7 +3066,10 @@
     "physical_city": "GARDINER",
     "physical_state": "ME",
     "physical_zip": "04345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24904",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2610,7 +3082,10 @@
     "physical_city": "AUGUSTA",
     "physical_state": "ME",
     "physical_zip": "04330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24722",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2623,7 +3098,10 @@
     "physical_city": "HALLOWELL",
     "physical_state": "ME",
     "physical_zip": "04347",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24926",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2636,7 +3114,10 @@
     "physical_city": "JEFFERSON",
     "physical_state": "ME",
     "physical_zip": "04348",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24955",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2649,7 +3130,10 @@
     "physical_city": "KENTS HILL",
     "physical_state": "ME",
     "physical_zip": "04349",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24962",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2662,7 +3146,10 @@
     "physical_city": "LITCHFIELD",
     "physical_state": "ME",
     "physical_zip": "04350",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24991",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2675,7 +3162,10 @@
     "physical_city": "AUGUSTA",
     "physical_state": "ME",
     "physical_zip": "04330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24722",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2688,7 +3178,10 @@
     "physical_city": "MANCHESTER",
     "physical_state": "ME",
     "physical_zip": "04351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25008",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2701,7 +3194,10 @@
     "physical_city": "MOUNT VERNON",
     "physical_state": "ME",
     "physical_zip": "04352",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25042",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2714,7 +3210,10 @@
     "physical_city": "WHITEFIELD",
     "physical_state": "ME",
     "physical_zip": "04353",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25079",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2727,7 +3226,10 @@
     "physical_city": "PALERMO",
     "physical_state": "ME",
     "physical_zip": "04354",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25103",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2740,7 +3242,10 @@
     "physical_city": "READFIELD",
     "physical_state": "ME",
     "physical_zip": "04355",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25144",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2753,7 +3258,10 @@
     "physical_city": "RICHMOND",
     "physical_state": "ME",
     "physical_zip": "04357",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25145",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2766,7 +3274,10 @@
     "physical_city": "SOUTH CHINA",
     "physical_state": "ME",
     "physical_zip": "04358",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25198",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2779,7 +3290,10 @@
     "physical_city": "SOUTH GARDINER",
     "physical_state": "ME",
     "physical_zip": "04359",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25200",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2792,7 +3306,10 @@
     "physical_city": "VIENNA",
     "physical_state": "ME",
     "physical_zip": "04360",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25266",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2805,7 +3322,10 @@
     "physical_city": "WINDSOR",
     "physical_state": "ME",
     "physical_zip": "04363",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25311",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2818,7 +3338,10 @@
     "physical_city": "WINTHROP",
     "physical_state": "ME",
     "physical_zip": "04364",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25317",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2831,7 +3354,10 @@
     "physical_city": "HAMPDEN",
     "physical_state": "ME",
     "physical_zip": "04444",
-    "physical_zip4": "7096"
+    "physical_zip4": "7096",
+    "zip_class_code": null,
+    "locale_key": "V24870",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -2844,7 +3370,10 @@
     "physical_city": "BANGOR",
     "physical_state": "ME",
     "physical_zip": "04401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24727",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2857,7 +3386,10 @@
     "physical_city": "ABBOT",
     "physical_state": "ME",
     "physical_zip": "04406",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24706",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2870,7 +3402,10 @@
     "physical_city": "AURORA",
     "physical_state": "ME",
     "physical_zip": "04408",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24723",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2883,7 +3418,10 @@
     "physical_city": "BRADFORD",
     "physical_state": "ME",
     "physical_zip": "04410",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24756",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2896,7 +3434,10 @@
     "physical_city": "BRADLEY",
     "physical_state": "ME",
     "physical_zip": "04411",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24757",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2909,7 +3450,10 @@
     "physical_city": "ORONO",
     "physical_state": "ME",
     "physical_zip": "04473",
-    "physical_zip4": "3694"
+    "physical_zip4": "3694",
+    "zip_class_code": null,
+    "locale_key": "000106",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -2922,7 +3466,10 @@
     "physical_city": "BREWER",
     "physical_state": "ME",
     "physical_zip": "04412",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24758",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2935,7 +3482,10 @@
     "physical_city": "BROOKTON",
     "physical_state": "ME",
     "physical_zip": "04413",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24766",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2948,7 +3498,10 @@
     "physical_city": "BROWNVILLE",
     "physical_state": "ME",
     "physical_zip": "04414",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24768",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2961,7 +3514,10 @@
     "physical_city": "BROWNVILLE JUNCTION",
     "physical_state": "ME",
     "physical_zip": "04415",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24769",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2974,7 +3530,10 @@
     "physical_city": "BUCKSPORT",
     "physical_state": "ME",
     "physical_zip": "04416",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24774",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -2987,7 +3546,10 @@
     "physical_city": "BURLINGTON",
     "physical_state": "ME",
     "physical_zip": "04417",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24775",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3000,7 +3562,10 @@
     "physical_city": "GREENBUSH",
     "physical_state": "ME",
     "physical_zip": "04418",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24791",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3013,7 +3578,10 @@
     "physical_city": "CARMEL",
     "physical_state": "ME",
     "physical_zip": "04419",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24793",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3026,7 +3594,10 @@
     "physical_city": "CASTINE",
     "physical_state": "ME",
     "physical_zip": "04421",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24796",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3039,7 +3610,10 @@
     "physical_city": "CHARLESTON",
     "physical_state": "ME",
     "physical_zip": "04422",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24800",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3052,7 +3626,10 @@
     "physical_city": "CORINTH",
     "physical_state": "ME",
     "physical_zip": "04427",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24849",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3065,7 +3642,10 @@
     "physical_city": "DANFORTH",
     "physical_state": "ME",
     "physical_zip": "04424",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24826",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3078,7 +3658,10 @@
     "physical_city": "DOVER FOXCROFT",
     "physical_state": "ME",
     "physical_zip": "04426",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24838",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3091,7 +3674,10 @@
     "physical_city": "CORINTH",
     "physical_state": "ME",
     "physical_zip": "04427",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24849",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3104,7 +3690,10 @@
     "physical_city": "BREWER",
     "physical_state": "ME",
     "physical_zip": "04412",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24758",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3117,7 +3706,10 @@
     "physical_city": "EDDINGTON",
     "physical_state": "ME",
     "physical_zip": "04428",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24852",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3130,7 +3722,10 @@
     "physical_city": "BREWER",
     "physical_state": "ME",
     "physical_zip": "04412",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24758",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3143,7 +3738,10 @@
     "physical_city": "HOLDEN",
     "physical_state": "ME",
     "physical_zip": "04429",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24854",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3156,7 +3754,10 @@
     "physical_city": "EAST MILLINOCKET",
     "physical_state": "ME",
     "physical_zip": "04430",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24858",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3169,7 +3770,10 @@
     "physical_city": "EAST ORLAND",
     "physical_state": "ME",
     "physical_zip": "04431",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24860",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3182,7 +3786,10 @@
     "physical_city": "CARMEL",
     "physical_state": "ME",
     "physical_zip": "04419",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24793",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3195,7 +3802,10 @@
     "physical_city": "ETNA",
     "physical_state": "ME",
     "physical_zip": "04434",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24881",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3208,7 +3818,10 @@
     "physical_city": "EXETER",
     "physical_state": "ME",
     "physical_zip": "04435",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24883",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3221,7 +3834,10 @@
     "physical_city": "FRANKFORT",
     "physical_state": "ME",
     "physical_zip": "04438",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24895",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3234,7 +3850,10 @@
     "physical_city": "GREENVILLE",
     "physical_state": "ME",
     "physical_zip": "04441",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24920",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3247,7 +3866,10 @@
     "physical_city": "GREENVILLE JUNCTION",
     "physical_state": "ME",
     "physical_zip": "04442",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24921",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3260,7 +3882,10 @@
     "physical_city": "DOVER FOXCROFT",
     "physical_state": "ME",
     "physical_zip": "04426",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24838",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3273,7 +3898,10 @@
     "physical_city": "GUILFORD",
     "physical_state": "ME",
     "physical_zip": "04443",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24925",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3286,7 +3914,10 @@
     "physical_city": "HAMPDEN",
     "physical_state": "ME",
     "physical_zip": "04444",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24927",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3299,7 +3930,10 @@
     "physical_city": "HOWLAND",
     "physical_state": "ME",
     "physical_zip": "04448",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24944",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3312,7 +3946,10 @@
     "physical_city": "WEST ENFIELD",
     "physical_state": "ME",
     "physical_zip": "04493",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25290",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3325,7 +3962,10 @@
     "physical_city": "HUDSON",
     "physical_state": "ME",
     "physical_zip": "04449",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24945",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3338,7 +3978,10 @@
     "physical_city": "KENDUSKEAG",
     "physical_state": "ME",
     "physical_zip": "04450",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24958",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3351,7 +3994,10 @@
     "physical_city": "KINGMAN",
     "physical_state": "ME",
     "physical_zip": "04451",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24965",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3364,7 +4010,10 @@
     "physical_city": "LAGRANGE",
     "physical_state": "ME",
     "physical_zip": "04453",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24970",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3377,7 +4026,10 @@
     "physical_city": "LEE",
     "physical_state": "ME",
     "physical_zip": "04455",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24974",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3390,7 +4042,10 @@
     "physical_city": "LEVANT",
     "physical_state": "ME",
     "physical_zip": "04456",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24976",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3403,7 +4058,10 @@
     "physical_city": "LINCOLN",
     "physical_state": "ME",
     "physical_zip": "04457",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24983",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3416,7 +4074,10 @@
     "physical_city": "MATTAWAMKEAG",
     "physical_state": "ME",
     "physical_zip": "04459",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25015",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3429,7 +4090,10 @@
     "physical_city": "MEDWAY",
     "physical_state": "ME",
     "physical_zip": "04460",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25021",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3442,7 +4106,10 @@
     "physical_city": "MILFORD",
     "physical_state": "ME",
     "physical_zip": "04461",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25026",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3455,7 +4122,10 @@
     "physical_city": "ORONO",
     "physical_state": "ME",
     "physical_zip": "04473",
-    "physical_zip4": "3694"
+    "physical_zip4": "3694",
+    "zip_class_code": null,
+    "locale_key": "000106",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -3468,7 +4138,10 @@
     "physical_city": "MILLINOCKET",
     "physical_state": "ME",
     "physical_zip": "04462",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25027",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3481,7 +4154,10 @@
     "physical_city": "MILO",
     "physical_state": "ME",
     "physical_zip": "04463",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25029",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3494,7 +4170,10 @@
     "physical_city": "MONSON",
     "physical_state": "ME",
     "physical_zip": "04464",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25035",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3507,7 +4186,10 @@
     "physical_city": "OLD TOWN",
     "physical_state": "ME",
     "physical_zip": "04468",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25091",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3520,7 +4202,10 @@
     "physical_city": "ORONO",
     "physical_state": "ME",
     "physical_zip": "04473",
-    "physical_zip4": "3694"
+    "physical_zip4": "3694",
+    "zip_class_code": null,
+    "locale_key": "000106",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -3533,7 +4218,10 @@
     "physical_city": "DANFORTH",
     "physical_state": "ME",
     "physical_zip": "04424",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24826",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3546,7 +4234,10 @@
     "physical_city": "ORLAND",
     "physical_state": "ME",
     "physical_zip": "04472",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25094",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3559,7 +4250,10 @@
     "physical_city": "ORONO",
     "physical_state": "ME",
     "physical_zip": "04473",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25095",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3572,7 +4266,10 @@
     "physical_city": "ORONO",
     "physical_state": "ME",
     "physical_zip": "04473",
-    "physical_zip4": "3694"
+    "physical_zip4": "3694",
+    "zip_class_code": null,
+    "locale_key": "000106",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -3585,7 +4282,10 @@
     "physical_city": "BREWER",
     "physical_state": "ME",
     "physical_zip": "04412",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24758",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3598,7 +4298,10 @@
     "physical_city": "ORRINGTON",
     "physical_state": "ME",
     "physical_zip": "04474",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25096",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3611,7 +4314,10 @@
     "physical_city": "PASSADUMKEAG",
     "physical_state": "ME",
     "physical_zip": "04475",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25107",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3624,7 +4330,10 @@
     "physical_city": "PENOBSCOT",
     "physical_state": "ME",
     "physical_zip": "04476",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25113",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3637,7 +4346,10 @@
     "physical_city": "ROCKWOOD",
     "physical_state": "ME",
     "physical_zip": "04478",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25149",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3650,7 +4362,10 @@
     "physical_city": "DOVER FOXCROFT",
     "physical_state": "ME",
     "physical_zip": "04426",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24838",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3663,20 +4378,10 @@
     "physical_city": "SANGERVILLE",
     "physical_state": "ME",
     "physical_zip": "04479",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04481",
-    "locale_name": "DOVER FOXCROFT",
-    "physical_delivery_address": "41 NORTH ST",
-    "physical_city": "DOVER FOXCROFT",
-    "physical_state": "ME",
-    "physical_zip": "04426",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25165",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3689,7 +4394,10 @@
     "physical_city": "SPRINGFIELD",
     "physical_state": "ME",
     "physical_zip": "04487",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25213",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3702,7 +4410,10 @@
     "physical_city": "STETSON",
     "physical_state": "ME",
     "physical_zip": "04488",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25227",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3715,7 +4426,10 @@
     "physical_city": "STILLWATER",
     "physical_state": "ME",
     "physical_zip": "04489",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25229",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3728,7 +4442,10 @@
     "physical_city": "TOPSFIELD",
     "physical_state": "ME",
     "physical_zip": "04490",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25250",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3741,20 +4458,10 @@
     "physical_city": "VANCEBORO",
     "physical_state": "ME",
     "physical_zip": "04491",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04492",
-    "locale_name": "TOPSFIELD",
-    "physical_delivery_address": "61 SOUTH RD",
-    "physical_city": "TOPSFIELD",
-    "physical_state": "ME",
-    "physical_zip": "04490",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25263",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3767,7 +4474,10 @@
     "physical_city": "WEST ENFIELD",
     "physical_state": "ME",
     "physical_zip": "04493",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25290",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3780,7 +4490,10 @@
     "physical_city": "WINN",
     "physical_state": "ME",
     "physical_zip": "04495",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25312",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3793,7 +4506,10 @@
     "physical_city": "WINTERPORT",
     "physical_state": "ME",
     "physical_zip": "04496",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25315",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3806,7 +4522,10 @@
     "physical_city": "WYTOPITLOCK",
     "physical_state": "ME",
     "physical_zip": "04497",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25324",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3819,7 +4538,10 @@
     "physical_city": "BATH",
     "physical_state": "ME",
     "physical_zip": "04530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24732",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3832,7 +4554,10 @@
     "physical_city": "ALNA",
     "physical_state": "ME",
     "physical_zip": "04535",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24712",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3845,7 +4570,10 @@
     "physical_city": "BOOTHBAY",
     "physical_state": "ME",
     "physical_zip": "04537",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24753",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3858,7 +4586,10 @@
     "physical_city": "BOOTHBAY HARBOR",
     "physical_state": "ME",
     "physical_zip": "04538",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24754",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3871,7 +4602,10 @@
     "physical_city": "BOOTHBAY HARBOR",
     "physical_state": "ME",
     "physical_zip": "04538",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24754",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3884,7 +4618,10 @@
     "physical_city": "BRISTOL",
     "physical_state": "ME",
     "physical_zip": "04539",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24762",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3897,7 +4634,10 @@
     "physical_city": "CHAMBERLAIN",
     "physical_state": "ME",
     "physical_zip": "04541",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24799",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3910,7 +4650,10 @@
     "physical_city": "DAMARISCOTTA",
     "physical_state": "ME",
     "physical_zip": "04543",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24825",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3923,7 +4666,10 @@
     "physical_city": "BOOTHBAY HARBOR",
     "physical_state": "ME",
     "physical_zip": "04538",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24754",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3936,20 +4682,10 @@
     "physical_city": "FRIENDSHIP",
     "physical_state": "ME",
     "physical_zip": "04547",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04548",
-    "locale_name": "CPU MAC MAHAN",
-    "physical_delivery_address": "52 SKITWARROES RD",
-    "physical_city": "MAC MAHAN",
-    "physical_state": "ME",
-    "physical_zip": "04548",
-    "physical_zip4": "9997"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24901",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3962,7 +4698,26 @@
     "physical_city": "GEORGETOWN",
     "physical_state": "ME",
     "physical_zip": "04548",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24907",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "04548",
+    "locale_name": "CPU MAC MAHAN",
+    "physical_delivery_address": "52 SKITWARROES RD",
+    "physical_city": "MAC MAHAN",
+    "physical_state": "ME",
+    "physical_zip": "04548",
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V25002",
+    "locale_type": "5"
   },
   {
     "area_name": "ATLANTIC",
@@ -3975,7 +4730,10 @@
     "physical_city": "BREMEN",
     "physical_state": "ME",
     "physical_zip": "04551",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25020",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -3988,7 +4746,10 @@
     "physical_city": "NEWCASTLE",
     "physical_state": "ME",
     "physical_zip": "04553",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25054",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4001,7 +4762,10 @@
     "physical_city": "NEW HARBOR",
     "physical_state": "ME",
     "physical_zip": "04554",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25047",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4014,7 +4778,10 @@
     "physical_city": "NOBLEBORO",
     "physical_state": "ME",
     "physical_zip": "04555",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25058",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4027,20 +4794,10 @@
     "physical_city": "EDGECOMB",
     "physical_state": "ME",
     "physical_zip": "04556",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04558",
-    "locale_name": "NEW HARBOR",
-    "physical_delivery_address": "2500 BRISTOL RD",
-    "physical_city": "NEW HARBOR",
-    "physical_state": "ME",
-    "physical_zip": "04554",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25065",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4053,7 +4810,10 @@
     "physical_city": "BATH",
     "physical_state": "ME",
     "physical_zip": "04530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24732",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4066,7 +4826,10 @@
     "physical_city": "PHIPPSBURG",
     "physical_state": "ME",
     "physical_zip": "04562",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25119",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4079,7 +4842,10 @@
     "physical_city": "CUSHING",
     "physical_state": "ME",
     "physical_zip": "04563",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24822",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4092,7 +4858,10 @@
     "physical_city": "ROUND POND",
     "physical_state": "ME",
     "physical_zip": "04564",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25150",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4105,7 +4874,10 @@
     "physical_city": "SEBASCO ESTATES",
     "physical_state": "ME",
     "physical_zip": "04565",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25174",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4118,7 +4890,10 @@
     "physical_city": "SOUTH BRISTOL",
     "physical_state": "ME",
     "physical_zip": "04568",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25196",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4131,7 +4906,10 @@
     "physical_city": "BOOTHBAY HARBOR",
     "physical_state": "ME",
     "physical_zip": "04538",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24754",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4144,7 +4922,10 @@
     "physical_city": "TREVETT",
     "physical_state": "ME",
     "physical_zip": "04571",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25252",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4157,7 +4938,10 @@
     "physical_city": "WALDOBORO",
     "physical_state": "ME",
     "physical_zip": "04572",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25269",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4170,7 +4954,10 @@
     "physical_city": "WALPOLE",
     "physical_state": "ME",
     "physical_zip": "04573",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25270",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4183,7 +4970,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "ME",
     "physical_zip": "04574",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25273",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4196,7 +4986,10 @@
     "physical_city": "WEST BOOTHBAY HARBOR",
     "physical_state": "ME",
     "physical_zip": "04575",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25287",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4209,7 +5002,10 @@
     "physical_city": "SOUTHPORT",
     "physical_state": "ME",
     "physical_zip": "04576",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25302",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4222,7 +5018,10 @@
     "physical_city": "WISCASSET",
     "physical_state": "ME",
     "physical_zip": "04578",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25318",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4235,7 +5034,10 @@
     "physical_city": "BATH",
     "physical_state": "ME",
     "physical_zip": "04530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24732",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4248,7 +5050,10 @@
     "physical_city": "WOOLWICH",
     "physical_state": "ME",
     "physical_zip": "04579",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25323",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4261,7 +5066,10 @@
     "physical_city": "ELLSWORTH",
     "physical_state": "ME",
     "physical_zip": "04605",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24875",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4274,7 +5082,10 @@
     "physical_city": "ADDISON",
     "physical_state": "ME",
     "physical_zip": "04606",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24708",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4287,7 +5098,10 @@
     "physical_city": "GOULDSBORO",
     "physical_state": "ME",
     "physical_zip": "04607",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24912",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4300,7 +5114,10 @@
     "physical_city": "BAR HARBOR",
     "physical_state": "ME",
     "physical_zip": "04609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24728",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4313,7 +5130,10 @@
     "physical_city": "BEALS",
     "physical_state": "ME",
     "physical_zip": "04611",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24734",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4326,7 +5146,10 @@
     "physical_city": "BERNARD",
     "physical_state": "ME",
     "physical_zip": "04612",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24741",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4339,7 +5162,10 @@
     "physical_city": "BIRCH HARBOR",
     "physical_state": "ME",
     "physical_zip": "04613",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24747",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4352,7 +5178,10 @@
     "physical_city": "BLUE HILL",
     "physical_state": "ME",
     "physical_zip": "04614",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24750",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4365,7 +5194,10 @@
     "physical_city": "BROOKLIN",
     "physical_state": "ME",
     "physical_zip": "04616",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24763",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4378,7 +5210,10 @@
     "physical_city": "BROOKSVILLE",
     "physical_state": "ME",
     "physical_zip": "04617",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24765",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4391,7 +5226,10 @@
     "physical_city": "CALAIS",
     "physical_state": "ME",
     "physical_zip": "04619",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24780",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4404,7 +5242,10 @@
     "physical_city": "CHERRYFIELD",
     "physical_state": "ME",
     "physical_zip": "04622",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24802",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4417,7 +5258,10 @@
     "physical_city": "COLUMBIA FALLS",
     "physical_state": "ME",
     "physical_zip": "04623",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24808",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4430,7 +5274,10 @@
     "physical_city": "COREA",
     "physical_state": "ME",
     "physical_zip": "04624",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24810",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4443,7 +5290,10 @@
     "physical_city": "CRANBERRY ISLES",
     "physical_state": "ME",
     "physical_zip": "04625",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24816",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4456,7 +5306,10 @@
     "physical_city": "CUTLER",
     "physical_state": "ME",
     "physical_zip": "04626",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24824",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4469,7 +5322,10 @@
     "physical_city": "DEER ISLE",
     "physical_state": "ME",
     "physical_zip": "04627",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24829",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4482,7 +5338,10 @@
     "physical_city": "DENNYSVILLE",
     "physical_state": "ME",
     "physical_zip": "04628",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24831",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4495,7 +5354,10 @@
     "physical_city": "BLUE HILL",
     "physical_state": "ME",
     "physical_zip": "04614",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24750",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4508,7 +5370,10 @@
     "physical_city": "EAST MACHIAS",
     "physical_state": "ME",
     "physical_zip": "04630",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24857",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4521,7 +5386,10 @@
     "physical_city": "MACHIAS",
     "physical_state": "ME",
     "physical_zip": "04654",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25003",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4534,7 +5402,10 @@
     "physical_city": "EASTPORT",
     "physical_state": "ME",
     "physical_zip": "04631",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24872",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4547,7 +5418,10 @@
     "physical_city": "FRANKLIN",
     "physical_state": "ME",
     "physical_zip": "04634",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24896",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4560,7 +5434,10 @@
     "physical_city": "FRENCHBORO",
     "physical_state": "ME",
     "physical_zip": "04635",
-    "physical_zip4": "3001"
+    "physical_zip4": "3001",
+    "zip_class_code": "P",
+    "locale_key": "011720",
+    "locale_type": "C"
   },
   {
     "area_name": "ATLANTIC",
@@ -4573,7 +5450,10 @@
     "physical_city": "ELLSWORTH",
     "physical_state": "ME",
     "physical_zip": "04605",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24875",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4586,7 +5466,10 @@
     "physical_city": "HANCOCK",
     "physical_state": "ME",
     "physical_zip": "04640",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24928",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4599,7 +5482,10 @@
     "physical_city": "HARRINGTON",
     "physical_state": "ME",
     "physical_zip": "04643",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24933",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4612,7 +5498,10 @@
     "physical_city": "HULLS COVE",
     "physical_state": "ME",
     "physical_zip": "04644",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24946",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4625,7 +5514,10 @@
     "physical_city": "ISLE AU HAUT",
     "physical_state": "ME",
     "physical_zip": "04645",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24949",
+    "locale_type": "5"
   },
   {
     "area_name": "ATLANTIC",
@@ -4638,7 +5530,10 @@
     "physical_city": "ISLESFORD",
     "physical_state": "ME",
     "physical_zip": "04646",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24952",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4651,7 +5546,10 @@
     "physical_city": "JONESBORO",
     "physical_state": "ME",
     "physical_zip": "04648",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24956",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4664,7 +5562,10 @@
     "physical_city": "JONESPORT",
     "physical_state": "ME",
     "physical_zip": "04649",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24957",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4677,7 +5578,10 @@
     "physical_city": "LITTLE DEER ISLE",
     "physical_state": "ME",
     "physical_zip": "04650",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24992",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4690,7 +5594,10 @@
     "physical_city": "LUBEC",
     "physical_state": "ME",
     "physical_zip": "04652",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25000",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4703,7 +5610,10 @@
     "physical_city": "BASS HARBOR",
     "physical_state": "ME",
     "physical_zip": "04653",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24730",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4716,7 +5626,10 @@
     "physical_city": "MACHIAS",
     "physical_state": "ME",
     "physical_zip": "04654",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25003",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4729,20 +5642,10 @@
     "physical_city": "MACHIASPORT",
     "physical_state": "ME",
     "physical_zip": "04655",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04657",
-    "locale_name": "DENNYSVILLE",
-    "physical_delivery_address": "128 MAIN ST",
-    "physical_city": "DENNYSVILLE",
-    "physical_state": "ME",
-    "physical_zip": "04628",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25004",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4755,7 +5658,10 @@
     "physical_city": "MEDDYBEMPS",
     "physical_state": "ME",
     "physical_zip": "04657",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25019",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4768,7 +5674,10 @@
     "physical_city": "MILBRIDGE",
     "physical_state": "ME",
     "physical_zip": "04658",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25025",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4781,7 +5690,10 @@
     "physical_city": "MOUNT DESERT",
     "physical_state": "ME",
     "physical_zip": "04660",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25041",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4794,7 +5706,10 @@
     "physical_city": "NORTHEAST HARBOR",
     "physical_state": "ME",
     "physical_zip": "04662",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25082",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4807,7 +5722,10 @@
     "physical_city": "SULLIVAN",
     "physical_state": "ME",
     "physical_zip": "04664",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25074",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4820,7 +5738,10 @@
     "physical_city": "PEMBROKE",
     "physical_state": "ME",
     "physical_zip": "04666",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25112",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4833,7 +5754,10 @@
     "physical_city": "PERRY",
     "physical_state": "ME",
     "physical_zip": "04667",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25116",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4846,7 +5770,10 @@
     "physical_city": "PRINCETON",
     "physical_state": "ME",
     "physical_zip": "04668",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25135",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4859,7 +5786,10 @@
     "physical_city": "PROSPECT HARBOR",
     "physical_state": "ME",
     "physical_zip": "04669",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25136",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4872,7 +5802,10 @@
     "physical_city": "ROBBINSTON",
     "physical_state": "ME",
     "physical_zip": "04671",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25146",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4885,20 +5818,10 @@
     "physical_city": "SALSBURY COVE",
     "physical_state": "ME",
     "physical_zip": "04672",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04673",
-    "locale_name": "SEDGWICK",
-    "physical_delivery_address": "47 REACH RD",
-    "physical_city": "SEDGWICK",
-    "physical_state": "ME",
-    "physical_zip": "04676",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25162",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4911,7 +5834,10 @@
     "physical_city": "SEAL COVE",
     "physical_state": "ME",
     "physical_zip": "04674",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25168",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4924,7 +5850,10 @@
     "physical_city": "SEAL HARBOR",
     "physical_state": "ME",
     "physical_zip": "04675",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25169",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4937,7 +5866,10 @@
     "physical_city": "SEDGWICK",
     "physical_state": "ME",
     "physical_zip": "04676",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25178",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4950,7 +5882,10 @@
     "physical_city": "SORRENTO",
     "physical_state": "ME",
     "physical_zip": "04677",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25194",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4963,7 +5898,10 @@
     "physical_city": "SOUTHWEST HARBOR",
     "physical_state": "ME",
     "physical_zip": "04679",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25212",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4976,7 +5914,10 @@
     "physical_city": "STEUBEN",
     "physical_state": "ME",
     "physical_zip": "04680",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25228",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -4989,7 +5930,10 @@
     "physical_city": "STONINGTON",
     "physical_state": "ME",
     "physical_zip": "04681",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25233",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5002,7 +5946,10 @@
     "physical_city": "SUNSET",
     "physical_state": "ME",
     "physical_zip": "04683",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25240",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5015,7 +5962,10 @@
     "physical_city": "SURRY",
     "physical_state": "ME",
     "physical_zip": "04684",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25241",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5028,7 +5978,10 @@
     "physical_city": "SWANS ISLAND",
     "physical_state": "ME",
     "physical_zip": "04685",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25242",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5041,7 +5994,10 @@
     "physical_city": "WHITING",
     "physical_state": "ME",
     "physical_zip": "04691",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25307",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5054,7 +6010,10 @@
     "physical_city": "WINTER HARBOR",
     "physical_state": "ME",
     "physical_zip": "04693",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25314",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5067,7 +6026,10 @@
     "physical_city": "BAILEYVILLE",
     "physical_state": "ME",
     "physical_zip": "04694",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25320",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5080,7 +6042,10 @@
     "physical_city": "HOULTON",
     "physical_state": "ME",
     "physical_zip": "04730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24943",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5093,7 +6058,10 @@
     "physical_city": "ASHLAND",
     "physical_state": "ME",
     "physical_zip": "04732",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24718",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5106,7 +6074,10 @@
     "physical_city": "BENEDICTA",
     "physical_state": "ME",
     "physical_zip": "04733",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24738",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5119,7 +6090,10 @@
     "physical_city": "SHERMAN",
     "physical_state": "ME",
     "physical_zip": "04776",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25182",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5132,7 +6106,10 @@
     "physical_city": "BLAINE",
     "physical_state": "ME",
     "physical_zip": "04734",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24749",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5145,7 +6122,10 @@
     "physical_city": "BRIDGEWATER",
     "physical_state": "ME",
     "physical_zip": "04735",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24759",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5158,7 +6138,10 @@
     "physical_city": "CARIBOU",
     "physical_state": "ME",
     "physical_zip": "04736",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24792",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5171,7 +6154,10 @@
     "physical_city": "WASHBURN",
     "physical_state": "ME",
     "physical_zip": "04786",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25272",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5184,7 +6170,10 @@
     "physical_city": "EAGLE LAKE",
     "physical_state": "ME",
     "physical_zip": "04739",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24844",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5197,7 +6186,10 @@
     "physical_city": "EASTON",
     "physical_state": "ME",
     "physical_zip": "04740",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24871",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5210,7 +6202,10 @@
     "physical_city": "FORT FAIRFIELD",
     "physical_state": "ME",
     "physical_zip": "04742",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24892",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5223,7 +6218,10 @@
     "physical_city": "FORT KENT",
     "physical_state": "ME",
     "physical_zip": "04743",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24893",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5236,7 +6234,10 @@
     "physical_city": "FORT KENT MILLS",
     "physical_state": "ME",
     "physical_zip": "04744",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24894",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5249,7 +6250,10 @@
     "physical_city": "FRENCHVILLE",
     "physical_state": "ME",
     "physical_zip": "04745",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25261",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5262,7 +6266,10 @@
     "physical_city": "GRAND ISLE",
     "physical_state": "ME",
     "physical_zip": "04746",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24913",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5275,7 +6282,10 @@
     "physical_city": "ISLAND FALLS",
     "physical_state": "ME",
     "physical_zip": "04747",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24948",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5288,7 +6298,10 @@
     "physical_city": "LIMESTONE",
     "physical_state": "ME",
     "physical_zip": "04750",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24981",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5301,7 +6314,10 @@
     "physical_city": "MADAWASKA",
     "physical_state": "ME",
     "physical_zip": "04756",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25005",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5314,7 +6330,10 @@
     "physical_city": "MAPLETON",
     "physical_state": "ME",
     "physical_zip": "04757",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25010",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5327,7 +6346,10 @@
     "physical_city": "MARS HILL",
     "physical_state": "ME",
     "physical_zip": "04758",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25012",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5340,33 +6362,10 @@
     "physical_city": "MONTICELLO",
     "physical_state": "ME",
     "physical_zip": "04760",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04761",
-    "locale_name": "HOULTON",
-    "physical_delivery_address": "39 COURT ST STE 9998",
-    "physical_city": "HOULTON",
-    "physical_state": "ME",
-    "physical_zip": "04730",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04761",
-    "locale_name": "NEW LIMERICK DPOBU",
-    "physical_delivery_address": "11 OLD STATION RD",
-    "physical_city": "NEW LIMERICK",
-    "physical_state": "ME",
-    "physical_zip": "04761",
-    "physical_zip4": "6202"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25036",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5379,7 +6378,10 @@
     "physical_city": "NEW SWEDEN",
     "physical_state": "ME",
     "physical_zip": "04762",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25051",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5392,7 +6394,10 @@
     "physical_city": "OAKFIELD",
     "physical_state": "ME",
     "physical_zip": "04763",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25085",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5405,7 +6410,10 @@
     "physical_city": "PATTEN",
     "physical_state": "ME",
     "physical_zip": "04765",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25108",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5418,7 +6426,10 @@
     "physical_city": "PERHAM",
     "physical_state": "ME",
     "physical_zip": "04766",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25115",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5431,7 +6442,10 @@
     "physical_city": "PORTAGE",
     "physical_state": "ME",
     "physical_zip": "04768",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25129",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5444,7 +6458,10 @@
     "physical_city": "PRESQUE ISLE",
     "physical_state": "ME",
     "physical_zip": "04769",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25134",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5457,20 +6474,10 @@
     "physical_city": "SAINT AGATHA",
     "physical_state": "ME",
     "physical_zip": "04772",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04773",
-    "locale_name": "MADAWASKA",
-    "physical_delivery_address": "370 MAIN ST",
-    "physical_city": "MADAWASKA",
-    "physical_state": "ME",
-    "physical_zip": "04756",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25157",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5483,7 +6490,10 @@
     "physical_city": "SAINT DAVID",
     "physical_state": "ME",
     "physical_zip": "04773",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25159",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5496,7 +6506,10 @@
     "physical_city": "SAINT FRANCIS",
     "physical_state": "ME",
     "physical_zip": "04774",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25160",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5509,7 +6522,10 @@
     "physical_city": "SHERMAN",
     "physical_state": "ME",
     "physical_zip": "04776",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25182",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5522,7 +6538,10 @@
     "physical_city": "STACYVILLE",
     "physical_state": "ME",
     "physical_zip": "04777",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25183",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5535,7 +6554,10 @@
     "physical_city": "SINCLAIR",
     "physical_state": "ME",
     "physical_zip": "04779",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25186",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5548,7 +6570,10 @@
     "physical_city": "SMYRNA MILLS",
     "physical_state": "ME",
     "physical_zip": "04780",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25190",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5561,7 +6586,10 @@
     "physical_city": "WALLAGRASS",
     "physical_state": "ME",
     "physical_zip": "04781",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25192",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5574,7 +6602,10 @@
     "physical_city": "STOCKHOLM",
     "physical_state": "ME",
     "physical_zip": "04783",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25230",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5587,7 +6618,10 @@
     "physical_city": "VAN BUREN",
     "physical_state": "ME",
     "physical_zip": "04785",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25262",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5600,7 +6634,10 @@
     "physical_city": "WASHBURN",
     "physical_state": "ME",
     "physical_zip": "04786",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25272",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5613,7 +6650,10 @@
     "physical_city": "WESTFIELD",
     "physical_state": "ME",
     "physical_zip": "04787",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25306",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5626,7 +6666,10 @@
     "physical_city": "ROCKLAND",
     "physical_state": "ME",
     "physical_zip": "04841",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25147",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5639,7 +6682,10 @@
     "physical_city": "CAMDEN",
     "physical_state": "ME",
     "physical_zip": "04843",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24782",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5652,7 +6698,10 @@
     "physical_city": "CAMDEN",
     "physical_state": "ME",
     "physical_zip": "04843",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24782",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5665,7 +6714,10 @@
     "physical_city": "ISLESBORO",
     "physical_state": "ME",
     "physical_zip": "04848",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24951",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5678,7 +6730,10 @@
     "physical_city": "LINCOLNVILLE",
     "physical_state": "ME",
     "physical_zip": "04849",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24985",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5691,7 +6746,10 @@
     "physical_city": "LINCOLNVILLE",
     "physical_state": "ME",
     "physical_zip": "04849",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24985",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5704,7 +6762,10 @@
     "physical_city": "LINCOLNVILLE CENTER",
     "physical_state": "ME",
     "physical_zip": "04850",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24987",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5717,7 +6778,10 @@
     "physical_city": "MATINICUS",
     "physical_state": "ME",
     "physical_zip": "04851",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25014",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5730,7 +6794,10 @@
     "physical_city": "MONHEGAN",
     "physical_state": "ME",
     "physical_zip": "04852",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25032",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5743,7 +6810,10 @@
     "physical_city": "NORTH HAVEN",
     "physical_state": "ME",
     "physical_zip": "04853",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25067",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5756,7 +6826,10 @@
     "physical_city": "OWLS HEAD",
     "physical_state": "ME",
     "physical_zip": "04854",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25100",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5769,7 +6842,10 @@
     "physical_city": "ROCKLAND",
     "physical_state": "ME",
     "physical_zip": "04841",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25147",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5782,7 +6858,10 @@
     "physical_city": "PORT CLYDE",
     "physical_state": "ME",
     "physical_zip": "04855",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25128",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5795,7 +6874,10 @@
     "physical_city": "ROCKLAND",
     "physical_state": "ME",
     "physical_zip": "04841",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25147",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5808,7 +6890,10 @@
     "physical_city": "ROCKPORT",
     "physical_state": "ME",
     "physical_zip": "04856",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25148",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5821,7 +6906,10 @@
     "physical_city": "SOUTH THOMASTON",
     "physical_state": "ME",
     "physical_zip": "04858",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25208",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5829,12 +6917,31 @@
     "district_name": "ME-NH-VT",
     "district_no": "040",
     "delivery_zipcode": "04859",
-    "locale_name": "SPRUCE HEAD",
-    "physical_delivery_address": "11 POST OFFICE RD",
-    "physical_city": "SPRUCE HEAD",
+    "locale_name": "ROCKLAND",
+    "physical_delivery_address": "21 LIMEROCK ST STE 9998",
+    "physical_city": "ROCKLAND",
     "physical_state": "ME",
-    "physical_zip": "04859",
-    "physical_zip4": "9998"
+    "physical_zip": "04841",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25147",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "04859",
+    "locale_name": "SPRUCE HEAD CARRIERS",
+    "physical_delivery_address": "21 LIMEROCK ST STE 9998",
+    "physical_city": "ROCKLAND",
+    "physical_state": "ME",
+    "physical_zip": "04841",
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "021812",
+    "locale_type": "Z"
   },
   {
     "area_name": "ATLANTIC",
@@ -5847,7 +6954,10 @@
     "physical_city": "TENANTS HARBOR",
     "physical_state": "ME",
     "physical_zip": "04860",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25245",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5860,7 +6970,10 @@
     "physical_city": "ROCKLAND",
     "physical_state": "ME",
     "physical_zip": "04841",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25147",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5873,7 +6986,10 @@
     "physical_city": "THOMASTON",
     "physical_state": "ME",
     "physical_zip": "04861",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25246",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5886,7 +7002,10 @@
     "physical_city": "UNION",
     "physical_state": "ME",
     "physical_zip": "04862",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25256",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5899,7 +7018,10 @@
     "physical_city": "VINALHAVEN",
     "physical_state": "ME",
     "physical_zip": "04863",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25267",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5912,7 +7034,10 @@
     "physical_city": "WARREN",
     "physical_state": "ME",
     "physical_zip": "04864",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25271",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5925,7 +7050,10 @@
     "physical_city": "WEST ROCKPORT",
     "physical_state": "ME",
     "physical_zip": "04865",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25300",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5938,7 +7066,10 @@
     "physical_city": "WATERVILLE",
     "physical_state": "ME",
     "physical_zip": "04901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25277",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5951,7 +7082,10 @@
     "physical_city": "WATERVILLE",
     "physical_state": "ME",
     "physical_zip": "04901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25277",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5964,7 +7098,10 @@
     "physical_city": "ALBION",
     "physical_state": "ME",
     "physical_zip": "04910",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24709",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5977,7 +7114,10 @@
     "physical_city": "ANSON",
     "physical_state": "ME",
     "physical_zip": "04911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24714",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -5990,7 +7130,10 @@
     "physical_city": "MADISON",
     "physical_state": "ME",
     "physical_zip": "04950",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25006",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6003,20 +7146,10 @@
     "physical_city": "ATHENS",
     "physical_state": "ME",
     "physical_zip": "04912",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04915",
-    "locale_name": "AMERICAN LEGION DPOBU",
-    "physical_delivery_address": "143 CHURCH ST",
-    "physical_city": "BELFAST",
-    "physical_state": "ME",
-    "physical_zip": "04915",
-    "physical_zip4": "6599"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24719",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6029,7 +7162,10 @@
     "physical_city": "BELFAST",
     "physical_state": "ME",
     "physical_zip": "04915",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24735",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6042,7 +7178,10 @@
     "physical_city": "BELGRADE",
     "physical_state": "ME",
     "physical_zip": "04917",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24736",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6055,7 +7194,10 @@
     "physical_city": "BELGRADE LAKES",
     "physical_state": "ME",
     "physical_zip": "04918",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24737",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6068,7 +7210,10 @@
     "physical_city": "BINGHAM",
     "physical_state": "ME",
     "physical_zip": "04920",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24746",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6081,7 +7226,10 @@
     "physical_city": "BROOKS",
     "physical_state": "ME",
     "physical_zip": "04921",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24764",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6094,7 +7242,10 @@
     "physical_city": "BURNHAM",
     "physical_state": "ME",
     "physical_zip": "04922",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24776",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6107,20 +7258,10 @@
     "physical_city": "CAMBRIDGE",
     "physical_state": "ME",
     "physical_zip": "04923",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04923",
-    "locale_name": "HARMONY",
-    "physical_delivery_address": "17 MAIN ST",
-    "physical_city": "HARMONY",
-    "physical_state": "ME",
-    "physical_zip": "04942",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24781",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6133,20 +7274,10 @@
     "physical_city": "CANAAN",
     "physical_state": "ME",
     "physical_zip": "04924",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04925",
-    "locale_name": "BINGHAM",
-    "physical_delivery_address": "301 MAIN ST",
-    "physical_city": "BINGHAM",
-    "physical_state": "ME",
-    "physical_zip": "04920",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24783",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6159,7 +7290,10 @@
     "physical_city": "CARATUNK",
     "physical_state": "ME",
     "physical_zip": "04925",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24790",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6172,7 +7306,10 @@
     "physical_city": "CHINA VILLAGE",
     "physical_state": "ME",
     "physical_zip": "04926",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24803",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6185,7 +7322,10 @@
     "physical_city": "CLINTON",
     "physical_state": "ME",
     "physical_zip": "04927",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24806",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6198,7 +7338,10 @@
     "physical_city": "CORINNA",
     "physical_state": "ME",
     "physical_zip": "04928",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24811",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6211,7 +7354,10 @@
     "physical_city": "DETROIT",
     "physical_state": "ME",
     "physical_zip": "04929",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24833",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6224,7 +7370,10 @@
     "physical_city": "DEXTER",
     "physical_state": "ME",
     "physical_zip": "04930",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24834",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6237,7 +7386,10 @@
     "physical_city": "DIXMONT",
     "physical_state": "ME",
     "physical_zip": "04932",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24837",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6250,7 +7402,10 @@
     "physical_city": "EAST NEWPORT",
     "physical_state": "ME",
     "physical_zip": "04933",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24859",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6263,7 +7418,10 @@
     "physical_city": "EAST VASSALBORO",
     "physical_state": "ME",
     "physical_zip": "04935",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24865",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6276,7 +7434,10 @@
     "physical_city": "EUSTIS",
     "physical_state": "ME",
     "physical_zip": "04936",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24882",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6289,7 +7450,10 @@
     "physical_city": "FAIRFIELD",
     "physical_state": "ME",
     "physical_zip": "04937",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24884",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6302,7 +7466,10 @@
     "physical_city": "WATERVILLE",
     "physical_state": "ME",
     "physical_zip": "04901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25277",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6315,7 +7482,10 @@
     "physical_city": "FARMINGTON",
     "physical_state": "ME",
     "physical_zip": "04938",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24890",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6328,7 +7498,10 @@
     "physical_city": "DEXTER",
     "physical_state": "ME",
     "physical_zip": "04930",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24834",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6341,7 +7514,10 @@
     "physical_city": "GARLAND",
     "physical_state": "ME",
     "physical_zip": "04939",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24905",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6354,7 +7530,10 @@
     "physical_city": "FREEDOM",
     "physical_state": "ME",
     "physical_zip": "04941",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24897",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6367,7 +7546,10 @@
     "physical_city": "HARMONY",
     "physical_state": "ME",
     "physical_zip": "04942",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24931",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6380,7 +7562,10 @@
     "physical_city": "HARTLAND",
     "physical_state": "ME",
     "physical_zip": "04943",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24935",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6393,7 +7578,10 @@
     "physical_city": "HINCKLEY",
     "physical_state": "ME",
     "physical_zip": "04944",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V24938",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6406,7 +7594,10 @@
     "physical_city": "JACKMAN",
     "physical_state": "ME",
     "physical_zip": "04945",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24953",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6419,7 +7610,10 @@
     "physical_city": "KINGFIELD",
     "physical_state": "ME",
     "physical_zip": "04947",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24964",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6432,7 +7626,10 @@
     "physical_city": "LIBERTY",
     "physical_state": "ME",
     "physical_zip": "04949",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24978",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6445,7 +7642,10 @@
     "physical_city": "MADISON",
     "physical_state": "ME",
     "physical_zip": "04950",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25006",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6458,7 +7658,10 @@
     "physical_city": "BROOKS",
     "physical_state": "ME",
     "physical_zip": "04921",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V24764",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6471,7 +7674,10 @@
     "physical_city": "MONROE",
     "physical_state": "ME",
     "physical_zip": "04951",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25034",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6484,7 +7690,10 @@
     "physical_city": "MORRILL",
     "physical_state": "ME",
     "physical_zip": "04952",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25039",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6497,7 +7706,10 @@
     "physical_city": "NEWPORT",
     "physical_state": "ME",
     "physical_zip": "04953",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25056",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6510,7 +7722,10 @@
     "physical_city": "NEW PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04961",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25071",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6523,7 +7738,10 @@
     "physical_city": "NEW SHARON",
     "physical_state": "ME",
     "physical_zip": "04955",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25050",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6536,7 +7754,10 @@
     "physical_city": "NEW VINEYARD",
     "physical_state": "ME",
     "physical_zip": "04956",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25052",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6549,7 +7770,10 @@
     "physical_city": "NORRIDGEWOCK",
     "physical_state": "ME",
     "physical_zip": "04957",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25059",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6562,7 +7786,10 @@
     "physical_city": "MADISON",
     "physical_state": "ME",
     "physical_zip": "04950",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25006",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6575,7 +7802,10 @@
     "physical_city": "NORTH ANSON",
     "physical_state": "ME",
     "physical_zip": "04958",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25061",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6588,7 +7818,10 @@
     "physical_city": "NEW PORTLAND",
     "physical_state": "ME",
     "physical_zip": "04961",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25071",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6601,7 +7834,10 @@
     "physical_city": "NORTH VASSALBORO",
     "physical_state": "ME",
     "physical_zip": "04962",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25076",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6614,7 +7850,10 @@
     "physical_city": "OAKLAND",
     "physical_state": "ME",
     "physical_zip": "04963",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25086",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6627,7 +7866,10 @@
     "physical_city": "OQUOSSOC",
     "physical_state": "ME",
     "physical_zip": "04964",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25092",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6640,7 +7882,10 @@
     "physical_city": "PALMYRA",
     "physical_state": "ME",
     "physical_zip": "04965",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25104",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6653,7 +7898,10 @@
     "physical_city": "PHILLIPS",
     "physical_state": "ME",
     "physical_zip": "04966",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25118",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6666,7 +7914,10 @@
     "physical_city": "PITTSFIELD",
     "physical_state": "ME",
     "physical_zip": "04967",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25121",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6679,7 +7930,10 @@
     "physical_city": "PLYMOUTH",
     "physical_state": "ME",
     "physical_zip": "04969",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25123",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6692,7 +7946,10 @@
     "physical_city": "RANGELEY",
     "physical_state": "ME",
     "physical_zip": "04970",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25142",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6705,7 +7962,10 @@
     "physical_city": "SAINT ALBANS",
     "physical_state": "ME",
     "physical_zip": "04971",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25158",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6718,7 +7978,10 @@
     "physical_city": "STOCKTON SPRINGS",
     "physical_state": "ME",
     "physical_zip": "04981",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25231",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6731,7 +7994,10 @@
     "physical_city": "SEARSMONT",
     "physical_state": "ME",
     "physical_zip": "04973",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25170",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6744,7 +8010,10 @@
     "physical_city": "SEARSPORT",
     "physical_state": "ME",
     "physical_zip": "04974",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25171",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6757,7 +8026,10 @@
     "physical_city": "SHAWMUT",
     "physical_state": "ME",
     "physical_zip": "04975",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25180",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6770,7 +8042,10 @@
     "physical_city": "SKOWHEGAN",
     "physical_state": "ME",
     "physical_zip": "04976",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25187",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6783,7 +8058,10 @@
     "physical_city": "SMITHFIELD",
     "physical_state": "ME",
     "physical_zip": "04978",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25189",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6796,7 +8074,10 @@
     "physical_city": "SOLON",
     "physical_state": "ME",
     "physical_zip": "04979",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25193",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6809,7 +8090,10 @@
     "physical_city": "STOCKTON SPRINGS",
     "physical_state": "ME",
     "physical_zip": "04981",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25231",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6822,7 +8106,10 @@
     "physical_city": "STRATTON",
     "physical_state": "ME",
     "physical_zip": "04982",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25235",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6835,7 +8122,10 @@
     "physical_city": "STRONG",
     "physical_state": "ME",
     "physical_zip": "04983",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25236",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6848,20 +8138,10 @@
     "physical_city": "TEMPLE",
     "physical_state": "ME",
     "physical_zip": "04984",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "ME-NH-VT",
-    "district_no": "040",
-    "delivery_zipcode": "04985",
-    "locale_name": "BINGHAM",
-    "physical_delivery_address": "301 MAIN ST",
-    "physical_city": "BINGHAM",
-    "physical_state": "ME",
-    "physical_zip": "04920",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V25244",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6874,7 +8154,10 @@
     "physical_city": "WEST FORKS",
     "physical_state": "ME",
     "physical_zip": "04985",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25292",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6887,7 +8170,10 @@
     "physical_city": "THORNDIKE",
     "physical_state": "ME",
     "physical_zip": "04986",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25247",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6900,7 +8186,10 @@
     "physical_city": "TROY",
     "physical_state": "ME",
     "physical_zip": "04987",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25253",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6913,7 +8202,10 @@
     "physical_city": "UNITY",
     "physical_state": "ME",
     "physical_zip": "04988",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25258",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6926,7 +8218,10 @@
     "physical_city": "NORTH VASSALBORO",
     "physical_state": "ME",
     "physical_zip": "04962",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25076",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6939,7 +8234,10 @@
     "physical_city": "VASSALBORO",
     "physical_state": "ME",
     "physical_zip": "04989",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25264",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -6952,6 +8250,9 @@
     "physical_city": "WEST FARMINGTON",
     "physical_state": "ME",
     "physical_zip": "04992",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25291",
+    "locale_type": "P"
   }
 ]

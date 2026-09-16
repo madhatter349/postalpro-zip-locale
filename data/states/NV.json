@@ -10,7 +10,10 @@
     "physical_city": "ALAMO",
     "physical_state": "NV",
     "physical_zip": "89001",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z14306",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,7 +26,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14441",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +42,10 @@
     "physical_city": "BEATTY",
     "physical_state": "NV",
     "physical_zip": "89003",
-    "physical_zip4": "0107"
+    "physical_zip4": "0107",
+    "zip_class_code": "P",
+    "locale_key": "Z14321",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +58,10 @@
     "physical_city": "BLUE DIAMOND",
     "physical_state": "NV",
     "physical_zip": "89004",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14324",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "BOULDER CITY",
     "physical_state": "NV",
     "physical_zip": "89005",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14329",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -75,7 +90,10 @@
     "physical_city": "BOULDER CITY",
     "physical_state": "NV",
     "physical_zip": "89005",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14329",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -88,7 +106,10 @@
     "physical_city": "BUNKERVILLE",
     "physical_state": "NV",
     "physical_zip": "89007",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "Z14331",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -101,7 +122,10 @@
     "physical_city": "CALIENTE",
     "physical_state": "NV",
     "physical_zip": "89008",
-    "physical_zip4": "0100"
+    "physical_zip4": "0100",
+    "zip_class_code": null,
+    "locale_key": "Z14336",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -114,7 +138,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14441",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -127,7 +154,10 @@
     "physical_city": "DYER",
     "physical_state": "NV",
     "physical_zip": "89010",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14389",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +170,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14441",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +186,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89012",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "021235",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +202,10 @@
     "physical_city": "GOLDFIELD",
     "physical_state": "NV",
     "physical_zip": "89013",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14430",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +218,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89012",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "021235",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -192,7 +234,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14441",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -205,7 +250,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89014",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z14434",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -218,7 +266,10 @@
     "physical_city": "ALAMO",
     "physical_state": "NV",
     "physical_zip": "89001",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z14306",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -231,7 +282,10 @@
     "physical_city": "INDIAN SPRINGS",
     "physical_state": "NV",
     "physical_zip": "89018",
-    "physical_zip4": "0139"
+    "physical_zip4": "0139",
+    "zip_class_code": "P",
+    "locale_key": "Z14451",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -244,7 +298,10 @@
     "physical_city": "JEAN",
     "physical_state": "NV",
     "physical_zip": "89019",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14460",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -257,7 +314,10 @@
     "physical_city": "AMARGOSA VALLEY",
     "physical_state": "NV",
     "physical_zip": "89020",
-    "physical_zip4": "0482"
+    "physical_zip4": "0482",
+    "zip_class_code": null,
+    "locale_key": "Z14307",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -270,7 +330,10 @@
     "physical_city": "LOGANDALE",
     "physical_state": "NV",
     "physical_zip": "89021",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z14488",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -283,7 +346,10 @@
     "physical_city": "MANHATTAN",
     "physical_state": "NV",
     "physical_zip": "89022",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z14495",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -296,7 +362,10 @@
     "physical_city": "MERCURY",
     "physical_state": "NV",
     "physical_zip": "89023",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z14502",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -309,7 +378,10 @@
     "physical_city": "MESQUITE",
     "physical_state": "NV",
     "physical_zip": "89027",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z14503",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -322,7 +394,10 @@
     "physical_city": "MOAPA",
     "physical_state": "NV",
     "physical_zip": "89025",
-    "physical_zip4": "9002"
+    "physical_zip4": "9002",
+    "zip_class_code": "P",
+    "locale_key": "Z14510",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -335,7 +410,10 @@
     "physical_city": "MESQUITE",
     "physical_state": "NV",
     "physical_zip": "89027",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14503",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -348,7 +426,10 @@
     "physical_city": "LAUGHLIN",
     "physical_state": "NV",
     "physical_zip": "89029",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14480",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -361,7 +442,10 @@
     "physical_city": "LAUGHLIN",
     "physical_state": "NV",
     "physical_zip": "89029",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14480",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -374,7 +458,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89030",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14533",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -387,7 +474,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18888",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -400,7 +490,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18888",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -413,7 +506,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18888",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -426,7 +522,10 @@
     "physical_city": "MESQUITE",
     "physical_state": "NV",
     "physical_zip": "89027",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14503",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -439,7 +538,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89030",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14533",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -452,7 +554,10 @@
     "physical_city": "MOAPA",
     "physical_state": "NV",
     "physical_zip": "89025",
-    "physical_zip4": "9002"
+    "physical_zip4": "9002",
+    "zip_class_code": "P",
+    "locale_key": "Z14510",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -465,7 +570,10 @@
     "physical_city": "SEARCHLIGHT",
     "physical_state": "NV",
     "physical_zip": "89046",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14596",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -478,7 +586,26 @@
     "physical_city": "OVERTON",
     "physical_state": "NV",
     "physical_zip": "89040",
-    "physical_zip4": "9000"
+    "physical_zip4": "9000",
+    "zip_class_code": null,
+    "locale_key": "Z14539",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "NV-UT",
+    "district_no": "890",
+    "delivery_zipcode": "89041",
+    "locale_name": "PAHRUMP",
+    "physical_delivery_address": "2300 POSTAL DR",
+    "physical_city": "PAHRUMP",
+    "physical_state": "NV",
+    "physical_zip": "89048",
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14542",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -491,20 +618,10 @@
     "physical_city": "PAHRUMP",
     "physical_state": "NV",
     "physical_zip": "89061",
-    "physical_zip4": "7988"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "89041",
-    "locale_name": "PAHRUMP",
-    "physical_delivery_address": "2300 POSTAL DR",
-    "physical_city": "PAHRUMP",
-    "physical_state": "NV",
-    "physical_zip": "89048",
-    "physical_zip4": "9998"
+    "physical_zip4": "7988",
+    "zip_class_code": "P",
+    "locale_key": "001391",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -517,7 +634,10 @@
     "physical_city": "PANACA",
     "physical_state": "NV",
     "physical_zip": "89042",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14544",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -530,7 +650,10 @@
     "physical_city": "PIOCHE",
     "physical_state": "NV",
     "physical_zip": "89043",
-    "physical_zip4": "2568"
+    "physical_zip4": "2568",
+    "zip_class_code": null,
+    "locale_key": "Z14556",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -543,7 +666,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89052",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "006348",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -556,7 +682,26 @@
     "physical_city": "ROUND MOUNTAIN",
     "physical_state": "NV",
     "physical_zip": "89045",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14585",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "NV-UT",
+    "district_no": "890",
+    "delivery_zipcode": "89045",
+    "locale_name": "TONOPAH",
+    "physical_delivery_address": "201 ERIE MAIN",
+    "physical_city": "TONOPAH",
+    "physical_state": "NV",
+    "physical_zip": "89049",
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14658",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -569,7 +714,10 @@
     "physical_city": "SEARCHLIGHT",
     "physical_state": "NV",
     "physical_zip": "89046",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14596",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -582,7 +730,10 @@
     "physical_city": "SILVERPEAK",
     "physical_state": "NV",
     "physical_zip": "89047",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z14607",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -595,7 +746,10 @@
     "physical_city": "PAHRUMP",
     "physical_state": "NV",
     "physical_zip": "89048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14542",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -608,7 +762,10 @@
     "physical_city": "TONOPAH",
     "physical_state": "NV",
     "physical_zip": "89049",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14658",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -621,7 +778,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89052",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "006348",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -634,7 +794,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89012",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "021235",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -647,7 +810,10 @@
     "physical_city": "JEAN",
     "physical_state": "NV",
     "physical_zip": "89019",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14460",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -660,7 +826,10 @@
     "physical_city": "PAHRUMP",
     "physical_state": "NV",
     "physical_zip": "89048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14542",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -673,7 +842,10 @@
     "physical_city": "PAHRUMP",
     "physical_state": "NV",
     "physical_zip": "89060",
-    "physical_zip4": "2659"
+    "physical_zip4": "2659",
+    "zip_class_code": null,
+    "locale_key": "001392",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -686,7 +858,10 @@
     "physical_city": "PAHRUMP",
     "physical_state": "NV",
     "physical_zip": "89048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14542",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -699,7 +874,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89012",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "021235",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -712,7 +890,10 @@
     "physical_city": "HENDERSON",
     "physical_state": "NV",
     "physical_zip": "89052",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "006348",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -725,7 +906,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18888",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -738,7 +922,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18888",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -751,7 +938,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18888",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -764,7 +954,10 @@
     "physical_city": "NORTH LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18888",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -777,7 +970,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89106",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18965",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -790,7 +986,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89102",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14421",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -803,7 +1002,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89103",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000025",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -816,7 +1018,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89104",
-    "physical_zip4": "4460"
+    "physical_zip4": "4460",
+    "zip_class_code": null,
+    "locale_key": "Z14448",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -829,7 +1034,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89123",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z17942",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -842,7 +1050,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89106",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18965",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -855,7 +1066,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89102",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14421",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -868,7 +1082,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89108",
-    "physical_zip4": "2991"
+    "physical_zip4": "2991",
+    "zip_class_code": null,
+    "locale_key": "003507",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -881,7 +1098,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89119",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14548",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -894,7 +1114,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89115",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18119",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -907,7 +1130,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89111",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z14305",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -920,7 +1146,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89121",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z14395",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -933,7 +1162,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89113",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "006237",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -946,7 +1178,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89102",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14421",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -959,7 +1194,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89115",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18119",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -972,7 +1210,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89104",
-    "physical_zip4": "4460"
+    "physical_zip4": "4460",
+    "zip_class_code": "P",
+    "locale_key": "Z14448",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -985,7 +1226,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89146",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14618",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -998,7 +1242,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89103",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000025",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1011,7 +1258,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89119",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14548",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1024,7 +1274,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89121",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14395",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1037,7 +1290,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89121",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14395",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1050,7 +1306,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89142",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "001998",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1063,20 +1322,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89123",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "89124",
-    "locale_name": "CROSSROADS",
-    "physical_delivery_address": "6210 N JONES BLVD",
-    "physical_city": "LAS VEGAS",
-    "physical_state": "NV",
-    "physical_zip": "89130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17942",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1089,7 +1338,26 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89199",
-    "physical_zip4": "9712"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "Z14422",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "NV-UT",
+    "district_no": "890",
+    "delivery_zipcode": "89124",
+    "locale_name": "CROSSROADS",
+    "physical_delivery_address": "6210 N JONES BLVD",
+    "physical_city": "LAS VEGAS",
+    "physical_state": "NV",
+    "physical_zip": "89130",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002956",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1102,7 +1370,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89101",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z14381",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1115,7 +1386,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89102",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14421",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1128,7 +1402,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89106",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18965",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1141,7 +1418,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89128",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14574",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1154,7 +1434,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89128",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14574",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1167,7 +1450,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002956",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1180,7 +1466,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002956",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1193,7 +1482,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89119",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14548",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1206,7 +1498,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89128",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z14574",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1219,7 +1514,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89134",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17910",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1232,7 +1530,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89134",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17910",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1245,7 +1546,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "002956",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1258,7 +1562,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89134",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z17910",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1271,7 +1578,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89134",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17910",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1284,7 +1594,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89113",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "006237",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1297,7 +1610,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89113",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "006237",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1310,7 +1626,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89123",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17942",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1323,7 +1642,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89142",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "001998",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1336,7 +1658,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002956",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1349,7 +1674,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89134",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17910",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1362,7 +1690,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89128",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14574",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1375,7 +1706,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89102",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14421",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1388,7 +1722,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89146",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14618",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1401,7 +1738,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89113",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "006237",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1414,7 +1754,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002956",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1427,7 +1770,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89115",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18119",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1440,7 +1786,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89108",
-    "physical_zip4": "2991"
+    "physical_zip4": "2991",
+    "zip_class_code": "P",
+    "locale_key": "003507",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1453,7 +1802,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89121",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "006349",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1466,7 +1818,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89199",
-    "physical_zip4": "9712"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "Z14422",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1479,7 +1834,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89142",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "001998",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1492,20 +1850,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89199",
-    "physical_zip4": "9712"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "89165",
-    "locale_name": "SUNRISE",
-    "physical_delivery_address": "4885 E CAREY AVE",
-    "physical_city": "LAS VEGAS",
-    "physical_state": "NV",
-    "physical_zip": "89115",
-    "physical_zip4": "9998"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "Z14422",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1518,7 +1866,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89130",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "002956",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1531,7 +1882,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89119",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14548",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1544,7 +1898,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89119",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14548",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1557,7 +1914,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89103",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "000025",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1570,7 +1930,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89113",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "006237",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1583,7 +1946,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89113",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "006237",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1596,7 +1962,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89146",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14618",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1609,7 +1978,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89123",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17942",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1622,7 +1994,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89104",
-    "physical_zip4": "4460"
+    "physical_zip4": "4460",
+    "zip_class_code": "P",
+    "locale_key": "Z14448",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1635,7 +2010,10 @@
     "physical_city": "LAS VEGAS",
     "physical_state": "NV",
     "physical_zip": "89199",
-    "physical_zip4": "9712"
+    "physical_zip4": "9712",
+    "zip_class_code": "P",
+    "locale_key": "Z14422",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1648,7 +2026,10 @@
     "physical_city": "ELY",
     "physical_state": "NV",
     "physical_zip": "89301",
-    "physical_zip4": "3140"
+    "physical_zip4": "3140",
+    "zip_class_code": null,
+    "locale_key": "Z14404",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1661,7 +2042,10 @@
     "physical_city": "AUSTIN",
     "physical_state": "NV",
     "physical_zip": "89310",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14314",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1674,7 +2058,10 @@
     "physical_city": "BAKER",
     "physical_state": "NV",
     "physical_zip": "89311",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14316",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1687,7 +2074,10 @@
     "physical_city": "ELY",
     "physical_state": "NV",
     "physical_zip": "89301",
-    "physical_zip4": "3140"
+    "physical_zip4": "3140",
+    "zip_class_code": null,
+    "locale_key": "Z14404",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1700,7 +2090,10 @@
     "physical_city": "ELY",
     "physical_state": "NV",
     "physical_zip": "89301",
-    "physical_zip4": "3140"
+    "physical_zip4": "3140",
+    "zip_class_code": "P",
+    "locale_key": "Z14404",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1713,7 +2106,10 @@
     "physical_city": "EUREKA",
     "physical_state": "NV",
     "physical_zip": "89316",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14407",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1726,7 +2122,10 @@
     "physical_city": "LUND",
     "physical_state": "NV",
     "physical_zip": "89317",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14491",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1739,7 +2138,10 @@
     "physical_city": "MC GILL",
     "physical_state": "NV",
     "physical_zip": "89318",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14499",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1752,7 +2154,10 @@
     "physical_city": "ELY",
     "physical_state": "NV",
     "physical_zip": "89301",
-    "physical_zip4": "3140"
+    "physical_zip4": "3140",
+    "zip_class_code": "P",
+    "locale_key": "Z14404",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1765,7 +2170,10 @@
     "physical_city": "CRYSTAL BAY",
     "physical_state": "NV",
     "physical_zip": "89402",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z14373",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1778,7 +2186,10 @@
     "physical_city": "DAYTON",
     "physical_state": "NV",
     "physical_zip": "89403",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14376",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1791,7 +2202,10 @@
     "physical_city": "DENIO",
     "physical_state": "NV",
     "physical_zip": "89404",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z14378",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1804,7 +2218,10 @@
     "physical_city": "FALLON",
     "physical_state": "NV",
     "physical_zip": "89406",
-    "physical_zip4": "2930"
+    "physical_zip4": "2930",
+    "zip_class_code": null,
+    "locale_key": "Z14408",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1817,7 +2234,10 @@
     "physical_city": "FALLON",
     "physical_state": "NV",
     "physical_zip": "89406",
-    "physical_zip4": "2930"
+    "physical_zip4": "2930",
+    "zip_class_code": "P",
+    "locale_key": "Z14408",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1830,7 +2250,10 @@
     "physical_city": "FALLON",
     "physical_state": "NV",
     "physical_zip": "89406",
-    "physical_zip4": "3275"
+    "physical_zip4": "3275",
+    "zip_class_code": "P",
+    "locale_key": "Z18950",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1843,7 +2266,10 @@
     "physical_city": "FERNLEY",
     "physical_state": "NV",
     "physical_zip": "89408",
-    "physical_zip4": "7747"
+    "physical_zip4": "7747",
+    "zip_class_code": null,
+    "locale_key": "Z14413",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1856,7 +2282,10 @@
     "physical_city": "GABBS",
     "physical_state": "NV",
     "physical_zip": "89409",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14416",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1869,7 +2298,10 @@
     "physical_city": "GARDNERVILLE",
     "physical_state": "NV",
     "physical_zip": "89410",
-    "physical_zip4": "8300"
+    "physical_zip4": "8300",
+    "zip_class_code": null,
+    "locale_key": "Z14419",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1882,7 +2314,10 @@
     "physical_city": "GENOA",
     "physical_state": "NV",
     "physical_zip": "89411",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14423",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1895,7 +2330,10 @@
     "physical_city": "GERLACH",
     "physical_state": "NV",
     "physical_zip": "89412",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14424",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1908,7 +2346,10 @@
     "physical_city": "GLENBROOK",
     "physical_state": "NV",
     "physical_zip": "89413",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14425",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1921,7 +2362,10 @@
     "physical_city": "GOLCONDA",
     "physical_state": "NV",
     "physical_zip": "89414",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14426",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1934,7 +2378,10 @@
     "physical_city": "WINNEMUCCA",
     "physical_state": "NV",
     "physical_zip": "89445",
-    "physical_zip4": "3676"
+    "physical_zip4": "3676",
+    "zip_class_code": null,
+    "locale_key": "Z14700",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1947,7 +2394,10 @@
     "physical_city": "HAWTHORNE",
     "physical_state": "NV",
     "physical_zip": "89415",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14438",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1960,7 +2410,10 @@
     "physical_city": "IMLAY",
     "physical_state": "NV",
     "physical_zip": "89418",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14449",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1973,7 +2426,10 @@
     "physical_city": "LOVELOCK",
     "physical_state": "NV",
     "physical_zip": "89419",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14489",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1986,7 +2442,10 @@
     "physical_city": "LUNING",
     "physical_state": "NV",
     "physical_zip": "89420",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "Z14492",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1999,7 +2458,10 @@
     "physical_city": "MC DERMITT",
     "physical_state": "NV",
     "physical_zip": "89421",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14498",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2012,7 +2474,10 @@
     "physical_city": "MINA",
     "physical_state": "NV",
     "physical_zip": "89422",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14508",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2025,7 +2490,10 @@
     "physical_city": "MINDEN",
     "physical_state": "NV",
     "physical_zip": "89423",
-    "physical_zip4": "4307"
+    "physical_zip4": "4307",
+    "zip_class_code": null,
+    "locale_key": "Z14509",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2038,7 +2506,10 @@
     "physical_city": "NIXON",
     "physical_state": "NV",
     "physical_zip": "89424",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14531",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2051,7 +2522,10 @@
     "physical_city": "OROVADA",
     "physical_state": "NV",
     "physical_zip": "89425",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14538",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2064,7 +2538,10 @@
     "physical_city": "PARADISE VALLEY",
     "physical_state": "NV",
     "physical_zip": "89426",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14549",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2077,7 +2554,10 @@
     "physical_city": "SCHURZ",
     "physical_state": "NV",
     "physical_zip": "89427",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14595",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2090,7 +2570,10 @@
     "physical_city": "SILVER CITY",
     "physical_state": "NV",
     "physical_zip": "89428",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14604",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2103,7 +2586,10 @@
     "physical_city": "SILVER SPRINGS",
     "physical_state": "NV",
     "physical_zip": "89429",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14606",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2116,7 +2602,10 @@
     "physical_city": "SMITH",
     "physical_state": "NV",
     "physical_zip": "89430",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14611",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2129,7 +2618,10 @@
     "physical_city": "SPARKS",
     "physical_state": "NV",
     "physical_zip": "89431",
-    "physical_zip4": "7419"
+    "physical_zip4": "7419",
+    "zip_class_code": null,
+    "locale_key": "Z14616",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2142,7 +2634,10 @@
     "physical_city": "SPARKS",
     "physical_state": "NV",
     "physical_zip": "89431",
-    "physical_zip4": "7419"
+    "physical_zip4": "7419",
+    "zip_class_code": "P",
+    "locale_key": "Z14616",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2155,7 +2650,10 @@
     "physical_city": "SPARKS",
     "physical_state": "NV",
     "physical_zip": "89431",
-    "physical_zip4": "7419"
+    "physical_zip4": "7419",
+    "zip_class_code": null,
+    "locale_key": "Z14616",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2168,7 +2666,10 @@
     "physical_city": "SUN VALLEY",
     "physical_state": "NV",
     "physical_zip": "89433",
-    "physical_zip4": "7303"
+    "physical_zip4": "7303",
+    "zip_class_code": null,
+    "locale_key": "Z14648",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2181,7 +2682,10 @@
     "physical_city": "SPARKS",
     "physical_state": "NV",
     "physical_zip": "89434",
-    "physical_zip4": "8040"
+    "physical_zip4": "8040",
+    "zip_class_code": null,
+    "locale_key": "Z17859",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2194,7 +2698,10 @@
     "physical_city": "SPARKS",
     "physical_state": "NV",
     "physical_zip": "89434",
-    "physical_zip4": "8040"
+    "physical_zip4": "8040",
+    "zip_class_code": "P",
+    "locale_key": "Z17859",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2207,7 +2714,10 @@
     "physical_city": "SPARKS",
     "physical_state": "NV",
     "physical_zip": "89434",
-    "physical_zip4": "8040"
+    "physical_zip4": "8040",
+    "zip_class_code": null,
+    "locale_key": "Z17859",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2220,7 +2730,10 @@
     "physical_city": "VALMY",
     "physical_state": "NV",
     "physical_zip": "89438",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14677",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2233,7 +2746,10 @@
     "physical_city": "VERDI",
     "physical_state": "NV",
     "physical_zip": "89439",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14678",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2246,7 +2762,10 @@
     "physical_city": "VIRGINIA CITY",
     "physical_state": "NV",
     "physical_zip": "89440",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14679",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2259,7 +2778,10 @@
     "physical_city": "SPARKS",
     "physical_state": "NV",
     "physical_zip": "89434",
-    "physical_zip4": "8040"
+    "physical_zip4": "8040",
+    "zip_class_code": null,
+    "locale_key": "Z17859",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2272,7 +2794,10 @@
     "physical_city": "WADSWORTH",
     "physical_state": "NV",
     "physical_zip": "89442",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14683",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2285,7 +2810,10 @@
     "physical_city": "WELLINGTON",
     "physical_state": "NV",
     "physical_zip": "89444",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14692",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2298,7 +2826,10 @@
     "physical_city": "WINNEMUCCA",
     "physical_state": "NV",
     "physical_zip": "89445",
-    "physical_zip4": "3676"
+    "physical_zip4": "3676",
+    "zip_class_code": null,
+    "locale_key": "Z14700",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2311,20 +2842,10 @@
     "physical_city": "WINNEMUCCA",
     "physical_state": "NV",
     "physical_zip": "89445",
-    "physical_zip4": "3676"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "89447",
-    "locale_name": "SOUTH VALLEY",
-    "physical_delivery_address": "811 S MAIN ST",
-    "physical_city": "YERINGTON",
-    "physical_state": "NV",
-    "physical_zip": "89447",
-    "physical_zip4": "2467"
+    "physical_zip4": "3676",
+    "zip_class_code": "P",
+    "locale_key": "Z14700",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2337,7 +2858,26 @@
     "physical_city": "YERINGTON",
     "physical_state": "NV",
     "physical_zip": "89447",
-    "physical_zip4": "2278"
+    "physical_zip4": "2278",
+    "zip_class_code": null,
+    "locale_key": "Z14703",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "NV-UT",
+    "district_no": "890",
+    "delivery_zipcode": "89447",
+    "locale_name": "SOUTH VALLEY",
+    "physical_delivery_address": "811 S MAIN ST",
+    "physical_city": "YERINGTON",
+    "physical_state": "NV",
+    "physical_zip": "89447",
+    "physical_zip4": "2467",
+    "zip_class_code": null,
+    "locale_key": "001937",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2350,7 +2890,10 @@
     "physical_city": "ZEPHYR COVE",
     "physical_state": "NV",
     "physical_zip": "89448",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14704",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2363,7 +2906,10 @@
     "physical_city": "STATELINE",
     "physical_state": "NV",
     "physical_zip": "89449",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14635",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2376,7 +2922,10 @@
     "physical_city": "INCLINE VILLAGE",
     "physical_state": "NV",
     "physical_zip": "89451",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z14450",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2389,7 +2938,10 @@
     "physical_city": "INCLINE VILLAGE",
     "physical_state": "NV",
     "physical_zip": "89451",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14450",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2402,7 +2954,10 @@
     "physical_city": "GARDNERVILLE",
     "physical_state": "NV",
     "physical_zip": "89460",
-    "physical_zip4": "0800"
+    "physical_zip4": "0800",
+    "zip_class_code": null,
+    "locale_key": "002212",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2415,7 +2970,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89503",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14686",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2428,7 +2986,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14578",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2441,7 +3002,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89503",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14686",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2454,7 +3018,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89501",
-    "physical_zip4": "1377"
+    "physical_zip4": "1377",
+    "zip_class_code": "P",
+    "locale_key": "015301",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2467,7 +3034,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89501",
-    "physical_zip4": "1377"
+    "physical_zip4": "1377",
+    "zip_class_code": "P",
+    "locale_key": "015301",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2480,7 +3050,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89506",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14603",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2493,7 +3066,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89503",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z14673",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2506,7 +3082,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89506",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14603",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2519,7 +3098,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14578",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2532,7 +3114,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14578",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2545,7 +3130,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89511",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14639",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2558,7 +3146,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89506",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z14603",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2571,7 +3162,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89503",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14686",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2584,7 +3178,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14578",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2597,7 +3194,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14578",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2610,7 +3210,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14578",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2623,7 +3226,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89511",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14639",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2636,7 +3242,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89523",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z17846",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2649,7 +3258,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89523",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z17846",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2662,7 +3274,10 @@
     "physical_city": "RENO",
     "physical_state": "NV",
     "physical_zip": "89510",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14578",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2675,7 +3290,10 @@
     "physical_city": "CARSON CITY",
     "physical_state": "NV",
     "physical_zip": "89701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14342",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2688,7 +3306,10 @@
     "physical_city": "CARSON CITY",
     "physical_state": "NV",
     "physical_zip": "89701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z14342",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2701,7 +3322,10 @@
     "physical_city": "CARSON CITY",
     "physical_state": "NV",
     "physical_zip": "89701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14342",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2714,7 +3338,10 @@
     "physical_city": "CARSON CITY",
     "physical_state": "NV",
     "physical_zip": "89701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14342",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2727,7 +3354,10 @@
     "physical_city": "CARSON CITY",
     "physical_state": "NV",
     "physical_zip": "89701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14342",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2740,7 +3370,10 @@
     "physical_city": "CARSON CITY",
     "physical_state": "NV",
     "physical_zip": "89701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z14342",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2753,7 +3386,10 @@
     "physical_city": "CARSON CITY",
     "physical_state": "NV",
     "physical_zip": "89706",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18787",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2766,7 +3402,10 @@
     "physical_city": "ELKO",
     "physical_state": "NV",
     "physical_zip": "89801",
-    "physical_zip4": "2797"
+    "physical_zip4": "2797",
+    "zip_class_code": null,
+    "locale_key": "Z18947",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2779,7 +3418,10 @@
     "physical_city": "ELKO",
     "physical_state": "NV",
     "physical_zip": "89801",
-    "physical_zip4": "3618"
+    "physical_zip4": "3618",
+    "zip_class_code": "P",
+    "locale_key": "Z14401",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2792,7 +3434,10 @@
     "physical_city": "SPRING CREEK",
     "physical_state": "NV",
     "physical_zip": "89815",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Z18825",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2805,7 +3450,10 @@
     "physical_city": "BATTLE MOUNTAIN",
     "physical_state": "NV",
     "physical_zip": "89820",
-    "physical_zip4": "2617"
+    "physical_zip4": "2617",
+    "zip_class_code": null,
+    "locale_key": "Z14320",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2818,7 +3466,10 @@
     "physical_city": "CARLIN",
     "physical_state": "NV",
     "physical_zip": "89822",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14339",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2831,7 +3482,10 @@
     "physical_city": "CARLIN",
     "physical_state": "NV",
     "physical_zip": "89822",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14339",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2844,7 +3498,10 @@
     "physical_city": "DEETH",
     "physical_state": "NV",
     "physical_zip": "89823",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14377",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2857,7 +3514,10 @@
     "physical_city": "JACKPOT",
     "physical_state": "NV",
     "physical_zip": "89825",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14456",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2870,7 +3530,10 @@
     "physical_city": "JARBIDGE",
     "physical_state": "NV",
     "physical_zip": "89826",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "017435",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2883,7 +3546,10 @@
     "physical_city": "LAMOILLE",
     "physical_state": "NV",
     "physical_zip": "89828",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14474",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2896,7 +3562,10 @@
     "physical_city": "SPRING CREEK",
     "physical_state": "NV",
     "physical_zip": "89815",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Z18825",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2909,7 +3578,10 @@
     "physical_city": "MONTELLO",
     "physical_state": "NV",
     "physical_zip": "89830",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14512",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2922,7 +3594,10 @@
     "physical_city": "MOUNTAIN CITY",
     "physical_state": "NV",
     "physical_zip": "89831",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14514",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2935,7 +3610,10 @@
     "physical_city": "OWYHEE",
     "physical_state": "NV",
     "physical_zip": "89832",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14541",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2948,7 +3626,10 @@
     "physical_city": "WELLS",
     "physical_state": "NV",
     "physical_zip": "89835",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14693",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2961,7 +3642,10 @@
     "physical_city": "TUSCARORA",
     "physical_state": "NV",
     "physical_zip": "89834",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14668",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2974,7 +3658,10 @@
     "physical_city": "WELLS",
     "physical_state": "NV",
     "physical_zip": "89835",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "Z14693",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2987,6 +3674,9 @@
     "physical_city": "WEST WENDOVER",
     "physical_state": "NV",
     "physical_zip": "89883",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14694",
+    "locale_type": "P"
   }
 ]

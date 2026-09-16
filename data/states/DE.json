@@ -10,7 +10,10 @@
     "physical_city": "BEAR",
     "physical_state": "DE",
     "physical_zip": "19701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21192",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -23,7 +26,10 @@
     "physical_city": "BEAR",
     "physical_state": "DE",
     "physical_zip": "19701",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "002414",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -36,7 +42,10 @@
     "physical_city": "CLAYMONT",
     "physical_state": "DE",
     "physical_zip": "19703",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21234",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -49,7 +58,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19809",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21254",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -62,7 +74,10 @@
     "physical_city": "DELAWARE CITY",
     "physical_state": "DE",
     "physical_zip": "19706",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21240",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -75,7 +90,10 @@
     "physical_city": "HOCKESSIN",
     "physical_state": "DE",
     "physical_zip": "19707",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21294",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -88,7 +106,10 @@
     "physical_city": "KIRKWOOD",
     "physical_state": "DE",
     "physical_zip": "19708",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21301",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -101,7 +122,10 @@
     "physical_city": "MIDDLETOWN",
     "physical_state": "DE",
     "physical_zip": "19709",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21317",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -114,7 +138,26 @@
     "physical_city": "MONTCHANIN",
     "physical_state": "DE",
     "physical_zip": "19710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21329",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "DE-PA 2",
+    "district_no": "190",
+    "delivery_zipcode": "19711",
+    "locale_name": "NEWARK",
+    "physical_delivery_address": "401 OGLETOWN RD",
+    "physical_city": "NEWARK",
+    "physical_state": "DE",
+    "physical_zip": "19711",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21334",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -127,20 +170,10 @@
     "physical_city": "NEWARK",
     "physical_state": "DE",
     "physical_zip": "19711",
-    "physical_zip4": "9996"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "DE-PA 2",
-    "district_no": "190",
-    "delivery_zipcode": "19711",
-    "locale_name": "NEWARK",
-    "physical_delivery_address": "401 OGLETOWN RD",
-    "physical_city": "NEWARK",
-    "physical_state": "DE",
-    "physical_zip": "19711",
-    "physical_zip4": "9998"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "016595",
+    "locale_type": "5"
   },
   {
     "area_name": "ATLANTIC",
@@ -153,7 +186,10 @@
     "physical_city": "NEWARK",
     "physical_state": "DE",
     "physical_zip": "19711",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21334",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -166,7 +202,10 @@
     "physical_city": "NEWARK",
     "physical_state": "DE",
     "physical_zip": "19711",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21334",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -179,7 +218,10 @@
     "physical_city": "NEWARK",
     "physical_state": "DE",
     "physical_zip": "19711",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V21266",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -192,20 +234,10 @@
     "physical_city": "NEWARK",
     "physical_state": "DE",
     "physical_zip": "19711",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "DE-PA 2",
-    "district_no": "190",
-    "delivery_zipcode": "19720",
-    "locale_name": "CENTERPOINT",
-    "physical_delivery_address": "105 JOHNSON WAY",
-    "physical_city": "NEW CASTLE",
-    "physical_state": "DE",
-    "physical_zip": "19720",
-    "physical_zip4": "9997"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21334",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -218,7 +250,10 @@
     "physical_city": "NEW CASTLE",
     "physical_state": "DE",
     "physical_zip": "19720",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "V21312",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -231,7 +266,26 @@
     "physical_city": "NEW CASTLE",
     "physical_state": "DE",
     "physical_zip": "19720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21333",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "DE-PA 2",
+    "district_no": "190",
+    "delivery_zipcode": "19720",
+    "locale_name": "CENTERPOINT",
+    "physical_delivery_address": "105 JOHNSON WAY",
+    "physical_city": "NEW CASTLE",
+    "physical_state": "DE",
+    "physical_zip": "19720",
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V27585",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -244,7 +298,10 @@
     "physical_city": "ODESSA",
     "physical_state": "DE",
     "physical_zip": "19730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21342",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -257,7 +314,10 @@
     "physical_city": "PORT PENN",
     "physical_state": "DE",
     "physical_zip": "19731",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21345",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -270,7 +330,10 @@
     "physical_city": "ROCKLAND",
     "physical_state": "DE",
     "physical_zip": "19732",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21355",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -283,7 +346,10 @@
     "physical_city": "SAINT GEORGES",
     "physical_state": "DE",
     "physical_zip": "19733",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21358",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -296,7 +362,10 @@
     "physical_city": "MIDDLETOWN",
     "physical_state": "DE",
     "physical_zip": "19709",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21317",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -309,20 +378,10 @@
     "physical_city": "TOWNSEND",
     "physical_state": "DE",
     "physical_zip": "19734",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "DE-PA 2",
-    "district_no": "190",
-    "delivery_zipcode": "19736",
-    "locale_name": "HOCKESSIN",
-    "physical_delivery_address": "651 VALLEY RD",
-    "physical_city": "HOCKESSIN",
-    "physical_state": "DE",
-    "physical_zip": "19707",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21373",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -335,7 +394,10 @@
     "physical_city": "YORKLYN",
     "physical_state": "DE",
     "physical_zip": "19736",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21390",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -348,7 +410,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "010806",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -361,7 +426,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19809",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21254",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -374,7 +442,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19803",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "V27586",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -387,7 +458,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19810",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "012351",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -400,7 +474,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19804",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "010797",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -413,7 +490,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19805",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21302",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -426,7 +506,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19805",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21302",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -439,7 +522,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19807",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21281",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -452,7 +538,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19805",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21302",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -465,7 +554,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19808",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21314",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -478,7 +570,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19809",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21254",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -491,7 +586,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19809",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21254",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -504,7 +602,10 @@
     "physical_city": "NEW CASTLE",
     "physical_state": "DE",
     "physical_zip": "19720",
-    "physical_zip4": "9696"
+    "physical_zip4": "9696",
+    "zip_class_code": "P",
+    "locale_key": "V27419",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -517,7 +618,10 @@
     "physical_city": "NEW CASTLE",
     "physical_state": "DE",
     "physical_zip": "19720",
-    "physical_zip4": "9696"
+    "physical_zip4": "9696",
+    "zip_class_code": "P",
+    "locale_key": "V27419",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -530,7 +634,10 @@
     "physical_city": "WILMINGTON",
     "physical_state": "DE",
     "physical_zip": "19801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "010806",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -543,7 +650,10 @@
     "physical_city": "DOVER",
     "physical_state": "DE",
     "physical_zip": "19904",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21248",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -556,7 +666,10 @@
     "physical_city": "DOVER AFB",
     "physical_state": "DE",
     "physical_zip": "19902",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21250",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -569,7 +682,10 @@
     "physical_city": "DOVER",
     "physical_state": "DE",
     "physical_zip": "19904",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V21248",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -582,7 +698,10 @@
     "physical_city": "DOVER",
     "physical_state": "DE",
     "physical_zip": "19904",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21248",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -595,7 +714,10 @@
     "physical_city": "DOVER",
     "physical_state": "DE",
     "physical_zip": "19904",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V21248",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -608,7 +730,10 @@
     "physical_city": "BETHANY BEACH",
     "physical_state": "DE",
     "physical_zip": "19930",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21197",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -621,7 +746,10 @@
     "physical_city": "FRANKFORD",
     "physical_state": "DE",
     "physical_zip": "19945",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "012169",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -634,7 +762,10 @@
     "physical_city": "BETHEL",
     "physical_state": "DE",
     "physical_zip": "19931",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21198",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -647,7 +778,10 @@
     "physical_city": "LAUREL",
     "physical_state": "DE",
     "physical_zip": "19956",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21303",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -660,7 +794,10 @@
     "physical_city": "BRIDGEVILLE",
     "physical_state": "DE",
     "physical_zip": "19933",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21212",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -673,7 +810,10 @@
     "physical_city": "SEAFORD",
     "physical_state": "DE",
     "physical_zip": "19973",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21359",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -686,7 +826,10 @@
     "physical_city": "CAMDEN WYOMING",
     "physical_state": "DE",
     "physical_zip": "19934",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21218",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -699,7 +842,10 @@
     "physical_city": "CHESWOLD",
     "physical_state": "DE",
     "physical_zip": "19936",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21228",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -712,7 +858,10 @@
     "physical_city": "CLAYTON",
     "physical_state": "DE",
     "physical_zip": "19938",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21235",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -725,7 +874,10 @@
     "physical_city": "DAGSBORO",
     "physical_state": "DE",
     "physical_zip": "19939",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21238",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -738,7 +890,10 @@
     "physical_city": "FRANKFORD",
     "physical_state": "DE",
     "physical_zip": "19945",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "012169",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -751,7 +906,10 @@
     "physical_city": "DELMAR",
     "physical_state": "DE",
     "physical_zip": "19940",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21242",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -764,7 +922,10 @@
     "physical_city": "LAUREL",
     "physical_state": "DE",
     "physical_zip": "19956",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21303",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -777,7 +938,10 @@
     "physical_city": "ELLENDALE",
     "physical_state": "DE",
     "physical_zip": "19941",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21257",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -790,7 +954,10 @@
     "physical_city": "GEORGETOWN",
     "physical_state": "DE",
     "physical_zip": "19947",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21277",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -803,7 +970,10 @@
     "physical_city": "FELTON",
     "physical_state": "DE",
     "physical_zip": "19943",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21268",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -816,7 +986,10 @@
     "physical_city": "FRANKFORD",
     "physical_state": "DE",
     "physical_zip": "19945",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "012169",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -829,7 +1002,10 @@
     "physical_city": "FRANKFORD",
     "physical_state": "DE",
     "physical_zip": "19945",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21273",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -842,7 +1018,10 @@
     "physical_city": "FRANKFORD",
     "physical_state": "DE",
     "physical_zip": "19945",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "012169",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -855,7 +1034,10 @@
     "physical_city": "FELTON",
     "physical_state": "DE",
     "physical_zip": "19943",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21268",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -868,7 +1050,10 @@
     "physical_city": "FREDERICA",
     "physical_state": "DE",
     "physical_zip": "19946",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21275",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -881,7 +1066,10 @@
     "physical_city": "GEORGETOWN",
     "physical_state": "DE",
     "physical_zip": "19947",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21277",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -894,7 +1082,10 @@
     "physical_city": "GREENWOOD",
     "physical_state": "DE",
     "physical_zip": "19950",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21285",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -907,7 +1098,10 @@
     "physical_city": "SEAFORD",
     "physical_state": "DE",
     "physical_zip": "19973",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21359",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -920,7 +1114,10 @@
     "physical_city": "GEORGETOWN",
     "physical_state": "DE",
     "physical_zip": "19947",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21277",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -933,7 +1130,10 @@
     "physical_city": "HARBESON",
     "physical_state": "DE",
     "physical_zip": "19951",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V21287",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -946,7 +1146,10 @@
     "physical_city": "HARRINGTON",
     "physical_state": "DE",
     "physical_zip": "19952",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21289",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -959,7 +1162,10 @@
     "physical_city": "HARTLY",
     "physical_state": "DE",
     "physical_zip": "19953",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21291",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -972,7 +1178,10 @@
     "physical_city": "HOUSTON",
     "physical_state": "DE",
     "physical_zip": "19954",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21297",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -985,7 +1194,10 @@
     "physical_city": "MILFORD",
     "physical_state": "DE",
     "physical_zip": "19963",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21320",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -998,7 +1210,10 @@
     "physical_city": "KENTON",
     "physical_state": "DE",
     "physical_zip": "19955",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21300",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1011,7 +1226,10 @@
     "physical_city": "LAUREL",
     "physical_state": "DE",
     "physical_zip": "19956",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21303",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1024,7 +1242,10 @@
     "physical_city": "LEWES",
     "physical_state": "DE",
     "physical_zip": "19958",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21304",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1037,7 +1258,10 @@
     "physical_city": "REHOBOTH BEACH",
     "physical_state": "DE",
     "physical_zip": "19971",
-    "physical_zip4": "6134"
+    "physical_zip4": "6134",
+    "zip_class_code": null,
+    "locale_key": "018895",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1050,7 +1274,10 @@
     "physical_city": "LINCOLN",
     "physical_state": "DE",
     "physical_zip": "19960",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21307",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1063,7 +1290,10 @@
     "physical_city": "LITTLE CREEK",
     "physical_state": "DE",
     "physical_zip": "19961",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21308",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1076,7 +1306,10 @@
     "physical_city": "MAGNOLIA",
     "physical_state": "DE",
     "physical_zip": "19962",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21311",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1089,7 +1322,10 @@
     "physical_city": "MILFORD",
     "physical_state": "DE",
     "physical_zip": "19963",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21320",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1102,7 +1338,10 @@
     "physical_city": "MILLSBORO",
     "physical_state": "DE",
     "physical_zip": "19966",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21322",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1115,7 +1354,10 @@
     "physical_city": "BETHANY BEACH",
     "physical_state": "DE",
     "physical_zip": "19930",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21197",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1128,7 +1370,10 @@
     "physical_city": "FRANKFORD",
     "physical_state": "DE",
     "physical_zip": "19945",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "012169",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1141,7 +1386,10 @@
     "physical_city": "MILTON",
     "physical_state": "DE",
     "physical_zip": "19968",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21327",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1154,7 +1402,10 @@
     "physical_city": "NASSAU",
     "physical_state": "DE",
     "physical_zip": "19969",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21332",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1167,7 +1418,10 @@
     "physical_city": "BETHANY BEACH",
     "physical_state": "DE",
     "physical_zip": "19930",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21197",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1180,7 +1434,10 @@
     "physical_city": "FRANKFORD",
     "physical_state": "DE",
     "physical_zip": "19945",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "012169",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1193,7 +1450,10 @@
     "physical_city": "REHOBOTH BEACH",
     "physical_state": "DE",
     "physical_zip": "19971",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21352",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1206,7 +1466,10 @@
     "physical_city": "REHOBOTH BEACH",
     "physical_state": "DE",
     "physical_zip": "19971",
-    "physical_zip4": "6134"
+    "physical_zip4": "6134",
+    "zip_class_code": null,
+    "locale_key": "018895",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1219,7 +1482,10 @@
     "physical_city": "SEAFORD",
     "physical_state": "DE",
     "physical_zip": "19973",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21359",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1232,7 +1498,10 @@
     "physical_city": "SELBYVILLE",
     "physical_state": "DE",
     "physical_zip": "19975",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21361",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1245,7 +1514,10 @@
     "physical_city": "FRANKFORD",
     "physical_state": "DE",
     "physical_zip": "19945",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "012169",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1258,20 +1530,10 @@
     "physical_city": "SMYRNA",
     "physical_state": "DE",
     "physical_zip": "19977",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "DE-PA 2",
-    "district_no": "190",
-    "delivery_zipcode": "19979",
-    "locale_name": "FELTON",
-    "physical_delivery_address": "1 W SEWELL ST",
-    "physical_city": "FELTON",
-    "physical_state": "DE",
-    "physical_zip": "19943",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21366",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1284,7 +1546,10 @@
     "physical_city": "VIOLA",
     "physical_state": "DE",
     "physical_zip": "19979",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21375",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1297,7 +1562,10 @@
     "physical_city": "WOODSIDE",
     "physical_state": "DE",
     "physical_zip": "19980",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V21388",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1310,6 +1578,9 @@
     "physical_city": "LAUREL",
     "physical_state": "DE",
     "physical_zip": "19956",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V21303",
+    "locale_type": "P"
   }
 ]

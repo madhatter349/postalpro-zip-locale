@@ -10,7 +10,10 @@
     "physical_city": "ALCESTER",
     "physical_state": "SD",
     "physical_zip": "57001",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A468",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -23,7 +26,10 @@
     "physical_city": "AURORA",
     "physical_state": "SD",
     "physical_zip": "57002",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A496",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -36,7 +42,10 @@
     "physical_city": "BALTIC",
     "physical_state": "SD",
     "physical_zip": "57003",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A503",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -49,7 +58,10 @@
     "physical_city": "BERESFORD",
     "physical_state": "SD",
     "physical_zip": "57004",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A516",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -62,7 +74,10 @@
     "physical_city": "BRANDON",
     "physical_state": "SD",
     "physical_zip": "57005",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A540",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -75,20 +90,10 @@
     "physical_city": "BROOKINGS",
     "physical_state": "SD",
     "physical_zip": "57006",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57010",
-    "locale_name": "VERMILLION",
-    "physical_delivery_address": "16 COURT ST",
-    "physical_city": "VERMILLION",
-    "physical_state": "SD",
-    "physical_zip": "57069",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A548",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -101,7 +106,10 @@
     "physical_city": "CANISTOTA",
     "physical_state": "SD",
     "physical_zip": "57012",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A567",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -114,7 +122,10 @@
     "physical_city": "CANTON",
     "physical_state": "SD",
     "physical_zip": "57013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A570",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -127,7 +138,10 @@
     "physical_city": "CENTERVILLE",
     "physical_state": "SD",
     "physical_zip": "57014",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A585",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -140,7 +154,10 @@
     "physical_city": "CHANCELLOR",
     "physical_state": "SD",
     "physical_zip": "57015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A590",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -153,7 +170,10 @@
     "physical_city": "LENNOX",
     "physical_state": "SD",
     "physical_zip": "57039",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A872",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -166,20 +186,10 @@
     "physical_city": "CHESTER",
     "physical_state": "SD",
     "physical_zip": "57016",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57016",
-    "locale_name": "COLTON",
-    "physical_delivery_address": "213 E 4TH ST",
-    "physical_city": "COLTON",
-    "physical_state": "SD",
-    "physical_zip": "57018",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A593",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -192,7 +202,10 @@
     "physical_city": "COLMAN",
     "physical_state": "SD",
     "physical_zip": "57017",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A606",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -205,7 +218,10 @@
     "physical_city": "COLTON",
     "physical_state": "SD",
     "physical_zip": "57018",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A608",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -218,7 +234,10 @@
     "physical_city": "CROOKS",
     "physical_state": "SD",
     "physical_zip": "57020",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A625",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -231,20 +250,10 @@
     "physical_city": "DAVIS",
     "physical_state": "SD",
     "physical_zip": "57021",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57021",
-    "locale_name": "LENNOX",
-    "physical_delivery_address": "200 S MAIN ST",
-    "physical_city": "LENNOX",
-    "physical_state": "SD",
-    "physical_zip": "57039",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A636",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -257,20 +266,10 @@
     "physical_city": "DELL RAPIDS",
     "physical_state": "SD",
     "physical_zip": "57022",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57024",
-    "locale_name": "FLANDREAU",
-    "physical_delivery_address": "102 W 2ND AVE",
-    "physical_city": "FLANDREAU",
-    "physical_state": "SD",
-    "physical_zip": "57028",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A641",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -283,7 +282,10 @@
     "physical_city": "ELK POINT",
     "physical_state": "SD",
     "physical_zip": "57025",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A664",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -296,20 +298,10 @@
     "physical_city": "ELKTON",
     "physical_state": "SD",
     "physical_zip": "57026",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57027",
-    "locale_name": "CANTON",
-    "physical_delivery_address": "315 E 5TH ST",
-    "physical_city": "CANTON",
-    "physical_state": "SD",
-    "physical_zip": "57013",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A665",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -322,7 +314,10 @@
     "physical_city": "FAIRVIEW",
     "physical_state": "SD",
     "physical_zip": "57027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A686",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -335,7 +330,26 @@
     "physical_city": "FLANDREAU",
     "physical_state": "SD",
     "physical_zip": "57028",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A694",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "IA-NE-SD",
+    "district_no": "500",
+    "delivery_zipcode": "57029",
+    "locale_name": "BRIDGEWATER",
+    "physical_delivery_address": "235 N MAIN AVE",
+    "physical_city": "BRIDGEWATER",
+    "physical_state": "SD",
+    "physical_zip": "57319",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A544",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -348,7 +362,10 @@
     "physical_city": "FREEMAN",
     "physical_state": "SD",
     "physical_zip": "57029",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A710",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -361,7 +378,10 @@
     "physical_city": "GARRETSON",
     "physical_state": "SD",
     "physical_zip": "57030",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A716",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -374,20 +394,10 @@
     "physical_city": "GAYVILLE",
     "physical_state": "SD",
     "physical_zip": "57031",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57031",
-    "locale_name": "YANKTON",
-    "physical_delivery_address": "506 W 25TH ST",
-    "physical_city": "YANKTON",
-    "physical_state": "SD",
-    "physical_zip": "57078",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A718",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -400,7 +410,10 @@
     "physical_city": "HARRISBURG",
     "physical_state": "SD",
     "physical_zip": "57032",
-    "physical_zip4": "2729"
+    "physical_zip4": "2729",
+    "zip_class_code": null,
+    "locale_key": "W1A749",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -413,7 +426,10 @@
     "physical_city": "HARTFORD",
     "physical_state": "SD",
     "physical_zip": "57033",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A752",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -426,7 +442,10 @@
     "physical_city": "ALCESTER",
     "physical_state": "SD",
     "physical_zip": "57001",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A468",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -439,7 +458,10 @@
     "physical_city": "HUDSON",
     "physical_state": "SD",
     "physical_zip": "57034",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A793",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -452,7 +474,10 @@
     "physical_city": "HUMBOLDT",
     "physical_state": "SD",
     "physical_zip": "57035",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A795",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -465,20 +490,10 @@
     "physical_city": "HURLEY",
     "physical_state": "SD",
     "physical_zip": "57036",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57036",
-    "locale_name": "PARKER",
-    "physical_delivery_address": "125 S MAIN AVE",
-    "physical_city": "PARKER",
-    "physical_state": "SD",
-    "physical_zip": "57053",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A797",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -491,7 +506,10 @@
     "physical_city": "IRENE",
     "physical_state": "SD",
     "physical_zip": "57037",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A811",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -504,7 +522,10 @@
     "physical_city": "JEFFERSON",
     "physical_state": "SD",
     "physical_zip": "57038",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A820",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -517,7 +538,10 @@
     "physical_city": "NORTH SIOUX CITY",
     "physical_state": "SD",
     "physical_zip": "57049",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A970",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -530,7 +554,10 @@
     "physical_city": "LENNOX",
     "physical_state": "SD",
     "physical_zip": "57039",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A872",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -543,20 +570,10 @@
     "physical_city": "LESTERVILLE",
     "physical_state": "SD",
     "physical_zip": "57040",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57041",
-    "locale_name": "HARTFORD",
-    "physical_delivery_address": "901 N OAKS AVE",
-    "physical_city": "HARTFORD",
-    "physical_state": "SD",
-    "physical_zip": "57033",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A874",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -569,7 +586,10 @@
     "physical_city": "MADISON",
     "physical_state": "SD",
     "physical_zip": "57042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A898",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -582,20 +602,10 @@
     "physical_city": "MARION",
     "physical_state": "SD",
     "physical_zip": "57043",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57043",
-    "locale_name": "PARKER",
-    "physical_delivery_address": "125 S MAIN AVE",
-    "physical_city": "PARKER",
-    "physical_state": "SD",
-    "physical_zip": "57053",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A908",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -608,7 +618,10 @@
     "physical_city": "MENNO",
     "physical_state": "SD",
     "physical_zip": "57045",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A924",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -621,33 +634,10 @@
     "physical_city": "MISSION HILL",
     "physical_state": "SD",
     "physical_zip": "57046",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57046",
-    "locale_name": "YANKTON",
-    "physical_delivery_address": "506 W 25TH ST",
-    "physical_city": "YANKTON",
-    "physical_state": "SD",
-    "physical_zip": "57078",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57047",
-    "locale_name": "PARKER",
-    "physical_delivery_address": "125 S MAIN AVE",
-    "physical_city": "PARKER",
-    "physical_state": "SD",
-    "physical_zip": "57053",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A938",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -660,7 +650,10 @@
     "physical_city": "MONTROSE",
     "physical_state": "SD",
     "physical_zip": "57048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A947",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -673,7 +666,10 @@
     "physical_city": "NORTH SIOUX CITY",
     "physical_state": "SD",
     "physical_zip": "57049",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A970",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -686,20 +682,10 @@
     "physical_city": "NUNDA",
     "physical_state": "SD",
     "physical_zip": "57050",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57050",
-    "locale_name": "RAMONA",
-    "physical_delivery_address": "217 E MAIN ST",
-    "physical_city": "RAMONA",
-    "physical_state": "SD",
-    "physical_zip": "57054",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A974",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -712,20 +698,10 @@
     "physical_city": "OLDHAM",
     "physical_state": "SD",
     "physical_zip": "57051",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57052",
-    "locale_name": "MENNO",
-    "physical_delivery_address": "227 S 5TH ST",
-    "physical_city": "MENNO",
-    "physical_state": "SD",
-    "physical_zip": "57045",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A986",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -738,7 +714,10 @@
     "physical_city": "OLIVET",
     "physical_state": "SD",
     "physical_zip": "57052",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A987",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -751,7 +730,10 @@
     "physical_city": "PARKER",
     "physical_state": "SD",
     "physical_zip": "57053",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B006",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -764,33 +746,10 @@
     "physical_city": "RAMONA",
     "physical_state": "SD",
     "physical_zip": "57054",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57055",
-    "locale_name": "CROOKS",
-    "physical_delivery_address": "112 MAIN ST",
-    "physical_city": "CROOKS",
-    "physical_state": "SD",
-    "physical_zip": "57020",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57057",
-    "locale_name": "RAMONA",
-    "physical_delivery_address": "217 E MAIN ST",
-    "physical_city": "RAMONA",
-    "physical_state": "SD",
-    "physical_zip": "57054",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B043",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -803,7 +762,10 @@
     "physical_city": "SALEM",
     "physical_state": "SD",
     "physical_zip": "57058",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B088",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -816,7 +778,10 @@
     "physical_city": "SCOTLAND",
     "physical_state": "SD",
     "physical_zip": "57059",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B094",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -829,7 +794,10 @@
     "physical_city": "SINAI",
     "physical_state": "SD",
     "physical_zip": "57061",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B106",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -842,7 +810,10 @@
     "physical_city": "SPRINGFIELD",
     "physical_state": "SD",
     "physical_zip": "57062",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B126",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -855,7 +826,10 @@
     "physical_city": "TABOR",
     "physical_state": "SD",
     "physical_zip": "57063",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B182",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -868,20 +842,10 @@
     "physical_city": "TEA",
     "physical_state": "SD",
     "physical_zip": "57064",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57065",
-    "locale_name": "DELL RAPIDS",
-    "physical_delivery_address": "305 E 4TH ST",
-    "physical_city": "DELL RAPIDS",
-    "physical_state": "SD",
-    "physical_zip": "57022",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "W1B184",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -894,7 +858,10 @@
     "physical_city": "TRENT",
     "physical_state": "SD",
     "physical_zip": "57065",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B198",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -907,7 +874,10 @@
     "physical_city": "TYNDALL",
     "physical_state": "SD",
     "physical_zip": "57066",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B208",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -920,20 +890,10 @@
     "physical_city": "UTICA",
     "physical_state": "SD",
     "physical_zip": "57067",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57067",
-    "locale_name": "YANKTON",
-    "physical_delivery_address": "506 W 25TH ST",
-    "physical_city": "YANKTON",
-    "physical_state": "SD",
-    "physical_zip": "57078",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B215",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -946,7 +906,10 @@
     "physical_city": "BRANDON",
     "physical_state": "SD",
     "physical_zip": "57005",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A540",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -959,7 +922,10 @@
     "physical_city": "VALLEY SPRINGS",
     "physical_state": "SD",
     "physical_zip": "57068",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B217",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -972,7 +938,10 @@
     "physical_city": "VERMILLION",
     "physical_state": "SD",
     "physical_zip": "57069",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B222",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -985,7 +954,10 @@
     "physical_city": "VIBORG",
     "physical_state": "SD",
     "physical_zip": "57070",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B224",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -998,7 +970,10 @@
     "physical_city": "VOLGA",
     "physical_state": "SD",
     "physical_zip": "57071",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B231",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1011,7 +986,10 @@
     "physical_city": "IRENE",
     "physical_state": "SD",
     "physical_zip": "57037",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A811",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1024,7 +1002,10 @@
     "physical_city": "VOLIN",
     "physical_state": "SD",
     "physical_zip": "57072",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B232",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1037,7 +1018,10 @@
     "physical_city": "IRENE",
     "physical_state": "SD",
     "physical_zip": "57037",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A811",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1050,7 +1034,10 @@
     "physical_city": "WAKONDA",
     "physical_state": "SD",
     "physical_zip": "57073",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B235",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1063,7 +1050,10 @@
     "physical_city": "WENTWORTH",
     "physical_state": "SD",
     "physical_zip": "57075",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B256",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1076,7 +1066,10 @@
     "physical_city": "MADISON",
     "physical_state": "SD",
     "physical_zip": "57042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A898",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1089,20 +1082,10 @@
     "physical_city": "WINFRED",
     "physical_state": "SD",
     "physical_zip": "57076",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57077",
-    "locale_name": "LENNOX",
-    "physical_delivery_address": "200 S MAIN ST",
-    "physical_city": "LENNOX",
-    "physical_state": "SD",
-    "physical_zip": "57039",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B278",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1115,7 +1098,10 @@
     "physical_city": "WORTHING",
     "physical_state": "SD",
     "physical_zip": "57077",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B285",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1128,7 +1114,10 @@
     "physical_city": "YANKTON",
     "physical_state": "SD",
     "physical_zip": "57078",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B288",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1141,7 +1130,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57104",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": "P",
+    "locale_key": "021158",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1154,7 +1146,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57104",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": null,
+    "locale_key": "021158",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1167,7 +1162,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57104",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": null,
+    "locale_key": "021158",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1180,7 +1178,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57106",
-    "physical_zip4": "4227"
+    "physical_zip4": "4227",
+    "zip_class_code": null,
+    "locale_key": "W1C629",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1193,7 +1194,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57106",
-    "physical_zip4": "4227"
+    "physical_zip4": "4227",
+    "zip_class_code": null,
+    "locale_key": "W1C629",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1206,7 +1210,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57104",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": null,
+    "locale_key": "021158",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1219,7 +1226,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57106",
-    "physical_zip4": "4227"
+    "physical_zip4": "4227",
+    "zip_class_code": null,
+    "locale_key": "W1C629",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1232,7 +1242,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57106",
-    "physical_zip4": "4325"
+    "physical_zip4": "4325",
+    "zip_class_code": "P",
+    "locale_key": "W1C616",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -1245,7 +1258,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57104",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": null,
+    "locale_key": "021158",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1258,7 +1274,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57104",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": "P",
+    "locale_key": "021158",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1271,7 +1290,10 @@
     "physical_city": "SIOUX FALLS",
     "physical_state": "SD",
     "physical_zip": "57104",
-    "physical_zip4": "9300"
+    "physical_zip4": "9300",
+    "zip_class_code": "P",
+    "locale_key": "W1B107",
+    "locale_type": "E"
   },
   {
     "area_name": "CENTRAL",
@@ -1284,7 +1306,10 @@
     "physical_city": "WATERTOWN",
     "physical_state": "SD",
     "physical_zip": "57201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B248",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1297,7 +1322,10 @@
     "physical_city": "ARLINGTON",
     "physical_state": "SD",
     "physical_zip": "57212",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A484",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1310,20 +1338,10 @@
     "physical_city": "ASTORIA",
     "physical_state": "SD",
     "physical_zip": "57213",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57213",
-    "locale_name": "TORONTO",
-    "physical_delivery_address": "540 MAIN AVE",
-    "physical_city": "TORONTO",
-    "physical_state": "SD",
-    "physical_zip": "57268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A490",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1336,7 +1354,10 @@
     "physical_city": "BADGER",
     "physical_state": "SD",
     "physical_zip": "57214",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A500",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1349,7 +1370,10 @@
     "physical_city": "BIG STONE CITY",
     "physical_state": "SD",
     "physical_zip": "57216",
-    "physical_zip4": "2226"
+    "physical_zip4": "2226",
+    "zip_class_code": null,
+    "locale_key": "W1A521",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1362,7 +1386,10 @@
     "physical_city": "BRADLEY",
     "physical_state": "SD",
     "physical_zip": "57217",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A538",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1375,20 +1402,10 @@
     "physical_city": "BRANDT",
     "physical_state": "SD",
     "physical_zip": "57218",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57218",
-    "locale_name": "TORONTO",
-    "physical_delivery_address": "540 MAIN AVE",
-    "physical_city": "TORONTO",
-    "physical_state": "SD",
-    "physical_zip": "57268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A541",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1401,7 +1418,10 @@
     "physical_city": "BRISTOL",
     "physical_state": "SD",
     "physical_zip": "57219",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A545",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1414,7 +1434,10 @@
     "physical_city": "WEBSTER",
     "physical_state": "SD",
     "physical_zip": "57274",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B252",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1427,7 +1450,10 @@
     "physical_city": "BRUCE",
     "physical_state": "SD",
     "physical_zip": "57220",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A549",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1440,7 +1466,10 @@
     "physical_city": "BRYANT",
     "physical_state": "SD",
     "physical_zip": "57221",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A550",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1453,7 +1482,10 @@
     "physical_city": "CASTLEWOOD",
     "physical_state": "SD",
     "physical_zip": "57223",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A579",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1466,7 +1498,10 @@
     "physical_city": "CLAIRE CITY",
     "physical_state": "SD",
     "physical_zip": "57224",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A596",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1479,7 +1514,10 @@
     "physical_city": "CLARK",
     "physical_state": "SD",
     "physical_zip": "57225",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A598",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1492,7 +1530,10 @@
     "physical_city": "CLEAR LAKE",
     "physical_state": "SD",
     "physical_zip": "57226",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A601",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1505,20 +1546,10 @@
     "physical_city": "CORONA",
     "physical_state": "SD",
     "physical_zip": "57227",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57227",
-    "locale_name": "WILMOT",
-    "physical_delivery_address": "713 MAIN ST",
-    "physical_city": "WILMOT",
-    "physical_state": "SD",
-    "physical_zip": "57279",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A615",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1531,7 +1562,10 @@
     "physical_city": "DE SMET",
     "physical_state": "SD",
     "physical_zip": "57231",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A637",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1544,7 +1578,10 @@
     "physical_city": "EDEN",
     "physical_state": "SD",
     "physical_zip": "57232",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A659",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1557,20 +1594,10 @@
     "physical_city": "ROSLYN",
     "physical_state": "SD",
     "physical_zip": "57261",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57233",
-    "locale_name": "LAKE PRESTON",
-    "physical_delivery_address": "220 MAIN AVE N",
-    "physical_city": "LAKE PRESTON",
-    "physical_state": "SD",
-    "physical_zip": "57249",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B075",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1583,7 +1610,10 @@
     "physical_city": "ESTELLINE",
     "physical_state": "SD",
     "physical_zip": "57234",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A679",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1596,20 +1626,10 @@
     "physical_city": "FLORENCE",
     "physical_state": "SD",
     "physical_zip": "57235",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57236",
-    "locale_name": "CLARK",
-    "physical_delivery_address": "111 N SMITH ST",
-    "physical_city": "CLARK",
-    "physical_state": "SD",
-    "physical_zip": "57225",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A696",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1622,7 +1642,10 @@
     "physical_city": "GARDEN CITY",
     "physical_state": "SD",
     "physical_zip": "57236",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A715",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1635,7 +1658,10 @@
     "physical_city": "GARY",
     "physical_state": "SD",
     "physical_zip": "57237",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A717",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1648,20 +1674,10 @@
     "physical_city": "GOODWIN",
     "physical_state": "SD",
     "physical_zip": "57238",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57238",
-    "locale_name": "WATERTOWN",
-    "physical_delivery_address": "405 E KEMP AVE",
-    "physical_city": "WATERTOWN",
-    "physical_state": "SD",
-    "physical_zip": "57201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A727",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1674,20 +1690,10 @@
     "physical_city": "GRENVILLE",
     "physical_state": "SD",
     "physical_zip": "57239",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57239",
-    "locale_name": "ROSLYN",
-    "physical_delivery_address": "509 N MAIN ST",
-    "physical_city": "ROSLYN",
-    "physical_state": "SD",
-    "physical_zip": "57261",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A737",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1700,7 +1706,10 @@
     "physical_city": "HAYTI",
     "physical_state": "SD",
     "physical_zip": "57241",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A755",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1713,7 +1722,10 @@
     "physical_city": "HAZEL",
     "physical_state": "SD",
     "physical_zip": "57242",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A757",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1726,7 +1738,10 @@
     "physical_city": "HENRY",
     "physical_state": "SD",
     "physical_zip": "57243",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A760",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1739,7 +1754,10 @@
     "physical_city": "KRANZBURG",
     "physical_state": "SD",
     "physical_zip": "57245",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A844",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1752,20 +1770,10 @@
     "physical_city": "LABOLT",
     "physical_state": "SD",
     "physical_zip": "57246",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57246",
-    "locale_name": "MILBANK",
-    "physical_delivery_address": "222 E 3RD AVE",
-    "physical_city": "MILBANK",
-    "physical_state": "SD",
-    "physical_zip": "57252",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A847",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -1778,20 +1786,10 @@
     "physical_city": "LAKE CITY",
     "physical_state": "SD",
     "physical_zip": "57247",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57247",
-    "locale_name": "VEBLEN",
-    "physical_delivery_address": "206 S MAIN ST",
-    "physical_city": "VEBLEN",
-    "physical_state": "SD",
-    "physical_zip": "57270",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A855",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1804,7 +1802,10 @@
     "physical_city": "LAKE NORDEN",
     "physical_state": "SD",
     "physical_zip": "57248",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A859",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1817,7 +1818,10 @@
     "physical_city": "LAKE PRESTON",
     "physical_state": "SD",
     "physical_zip": "57249",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A861",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1830,20 +1834,10 @@
     "physical_city": "MARVIN",
     "physical_state": "SD",
     "physical_zip": "57251",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57251",
-    "locale_name": "SOUTH SHORE",
-    "physical_delivery_address": "105 N MAIN ST",
-    "physical_city": "SOUTH SHORE",
-    "physical_state": "SD",
-    "physical_zip": "57263",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A911",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1856,7 +1850,10 @@
     "physical_city": "MILBANK",
     "physical_state": "SD",
     "physical_zip": "57252",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A928",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1869,20 +1866,10 @@
     "physical_city": "NEW EFFINGTON",
     "physical_state": "SD",
     "physical_zip": "57255",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57256",
-    "locale_name": "WAUBAY",
-    "physical_delivery_address": "105 N MAIN ST",
-    "physical_city": "WAUBAY",
-    "physical_state": "SD",
-    "physical_zip": "57273",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A960",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1895,20 +1882,10 @@
     "physical_city": "PEEVER",
     "physical_state": "SD",
     "physical_zip": "57257",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57257",
-    "locale_name": "SISSETON",
-    "physical_delivery_address": "205 E OAK ST STE 103",
-    "physical_city": "SISSETON",
-    "physical_state": "SD",
-    "physical_zip": "57262",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B012",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1921,7 +1898,10 @@
     "physical_city": "RAYMOND",
     "physical_state": "SD",
     "physical_zip": "57258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B050",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1934,7 +1914,10 @@
     "physical_city": "REVILLO",
     "physical_state": "SD",
     "physical_zip": "57259",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B062",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1947,7 +1930,10 @@
     "physical_city": "ROSHOLT",
     "physical_state": "SD",
     "physical_zip": "57260",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B074",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1960,7 +1946,10 @@
     "physical_city": "ROSLYN",
     "physical_state": "SD",
     "physical_zip": "57261",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B075",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1973,7 +1962,10 @@
     "physical_city": "AGENCY VILLAGE",
     "physical_state": "SD",
     "physical_zip": "57262",
-    "physical_zip4": "7409"
+    "physical_zip4": "7409",
+    "zip_class_code": null,
+    "locale_key": "W1A465",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -1986,7 +1978,10 @@
     "physical_city": "SISSETON",
     "physical_state": "SD",
     "physical_zip": "57262",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B110",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1999,7 +1994,10 @@
     "physical_city": "SOUTH SHORE",
     "physical_state": "SD",
     "physical_zip": "57263",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B116",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2012,7 +2010,10 @@
     "physical_city": "SOUTH SHORE",
     "physical_state": "SD",
     "physical_zip": "57263",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B116",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2025,20 +2026,10 @@
     "physical_city": "STOCKHOLM",
     "physical_state": "SD",
     "physical_zip": "57264",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57265",
-    "locale_name": "SOUTH SHORE",
-    "physical_delivery_address": "105 N MAIN ST",
-    "physical_city": "SOUTH SHORE",
-    "physical_state": "SD",
-    "physical_zip": "57263",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B168",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2051,7 +2042,10 @@
     "physical_city": "STRANDBURG",
     "physical_state": "SD",
     "physical_zip": "57265",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B171",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -2064,7 +2058,10 @@
     "physical_city": "SUMMIT",
     "physical_state": "SD",
     "physical_zip": "57266",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B176",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2077,7 +2074,10 @@
     "physical_city": "TORONTO",
     "physical_state": "SD",
     "physical_zip": "57268",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B196",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2090,7 +2090,10 @@
     "physical_city": "MILBANK",
     "physical_state": "SD",
     "physical_zip": "57252",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A928",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2103,33 +2106,10 @@
     "physical_city": "VEBLEN",
     "physical_state": "SD",
     "physical_zip": "57270",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57271",
-    "locale_name": "HAZEL",
-    "physical_delivery_address": "17 W WILLIAMS ST",
-    "physical_city": "HAZEL",
-    "physical_state": "SD",
-    "physical_zip": "57242",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57272",
-    "locale_name": "BRADLEY",
-    "physical_delivery_address": "201 MAIN ST",
-    "physical_city": "BRADLEY",
-    "physical_state": "SD",
-    "physical_zip": "57217",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B220",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2142,7 +2122,10 @@
     "physical_city": "WALLACE",
     "physical_state": "SD",
     "physical_zip": "57272",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B240",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2155,7 +2138,10 @@
     "physical_city": "WAUBAY",
     "physical_state": "SD",
     "physical_zip": "57273",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B249",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2168,7 +2154,10 @@
     "physical_city": "WEBSTER",
     "physical_state": "SD",
     "physical_zip": "57274",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B252",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2181,7 +2170,10 @@
     "physical_city": "WHITE",
     "physical_state": "SD",
     "physical_zip": "57276",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B266",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2194,7 +2186,10 @@
     "physical_city": "WILLOW LAKE",
     "physical_state": "SD",
     "physical_zip": "57278",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B275",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2207,7 +2202,10 @@
     "physical_city": "WILMOT",
     "physical_state": "SD",
     "physical_zip": "57279",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B276",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2220,7 +2218,10 @@
     "physical_city": "MITCHELL",
     "physical_state": "SD",
     "physical_zip": "57301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A941",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2233,7 +2234,10 @@
     "physical_city": "ALEXANDRIA",
     "physical_state": "SD",
     "physical_zip": "57311",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A469",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2246,7 +2250,10 @@
     "physical_city": "ALPENA",
     "physical_state": "SD",
     "physical_zip": "57312",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A471",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2259,7 +2266,10 @@
     "physical_city": "ARMOUR",
     "physical_state": "SD",
     "physical_zip": "57313",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A485",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2272,7 +2282,10 @@
     "physical_city": "ARTESIAN",
     "physical_state": "SD",
     "physical_zip": "57314",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A488",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2285,7 +2298,10 @@
     "physical_city": "AVON",
     "physical_state": "SD",
     "physical_zip": "57315",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A498",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2298,7 +2314,10 @@
     "physical_city": "BONESTEEL",
     "physical_state": "SD",
     "physical_zip": "57317",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A533",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2311,7 +2330,10 @@
     "physical_city": "BRIDGEWATER",
     "physical_state": "SD",
     "physical_zip": "57319",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A544",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2324,20 +2346,10 @@
     "physical_city": "CANOVA",
     "physical_state": "SD",
     "physical_zip": "57321",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57321",
-    "locale_name": "HOWARD",
-    "physical_delivery_address": "100 N MAIN ST",
-    "physical_city": "HOWARD",
-    "physical_state": "SD",
-    "physical_zip": "57349",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A569",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2350,7 +2362,10 @@
     "physical_city": "CARPENTER",
     "physical_state": "SD",
     "physical_zip": "57322",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A574",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2363,7 +2378,10 @@
     "physical_city": "WILLOW LAKE",
     "physical_state": "SD",
     "physical_zip": "57278",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B275",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2376,20 +2394,10 @@
     "physical_city": "CARTHAGE",
     "physical_state": "SD",
     "physical_zip": "57323",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57323",
-    "locale_name": "HOWARD",
-    "physical_delivery_address": "100 N MAIN ST",
-    "physical_city": "HOWARD",
-    "physical_state": "SD",
-    "physical_zip": "57349",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A576",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2402,7 +2410,10 @@
     "physical_city": "CAVOUR",
     "physical_state": "SD",
     "physical_zip": "57324",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A580",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2415,7 +2426,10 @@
     "physical_city": "CHAMBERLAIN",
     "physical_state": "SD",
     "physical_zip": "57325",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A588",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2428,20 +2442,10 @@
     "physical_city": "CORSICA",
     "physical_state": "SD",
     "physical_zip": "57328",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57329",
-    "locale_name": "WAGNER",
-    "physical_delivery_address": "109 2ND ST SE",
-    "physical_city": "WAGNER",
-    "physical_state": "SD",
-    "physical_zip": "57380",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A616",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2454,7 +2458,10 @@
     "physical_city": "DELMONT",
     "physical_state": "SD",
     "physical_zip": "57330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A642",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2467,7 +2474,10 @@
     "physical_city": "PARKSTON",
     "physical_state": "SD",
     "physical_zip": "57366",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B007",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2480,7 +2490,10 @@
     "physical_city": "EMERY",
     "physical_state": "SD",
     "physical_zip": "57332",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A671",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2493,7 +2506,10 @@
     "physical_city": "ETHAN",
     "physical_state": "SD",
     "physical_zip": "57334",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A680",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2506,7 +2522,10 @@
     "physical_city": "FAIRFAX",
     "physical_state": "SD",
     "physical_zip": "57335",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A684",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2519,7 +2538,10 @@
     "physical_city": "ARTESIAN",
     "physical_state": "SD",
     "physical_zip": "57314",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A488",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2532,20 +2554,10 @@
     "physical_city": "FORT THOMPSON",
     "physical_state": "SD",
     "physical_zip": "57339",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57340",
-    "locale_name": "ALEXANDRIA",
-    "physical_delivery_address": "501 MAIN ST",
-    "physical_city": "ALEXANDRIA",
-    "physical_state": "SD",
-    "physical_zip": "57311",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A704",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2558,7 +2570,10 @@
     "physical_city": "FULTON",
     "physical_state": "SD",
     "physical_zip": "57340",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A712",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2571,7 +2586,10 @@
     "physical_city": "GANN VALLEY",
     "physical_state": "SD",
     "physical_zip": "57341",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A714",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2584,20 +2602,10 @@
     "physical_city": "GEDDES",
     "physical_state": "SD",
     "physical_zip": "57342",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57344",
-    "locale_name": "CORSICA",
-    "physical_delivery_address": "225 E MAIN ST",
-    "physical_city": "CORSICA",
-    "physical_state": "SD",
-    "physical_zip": "57328",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A719",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2610,7 +2618,10 @@
     "physical_city": "HIGHMORE",
     "physical_state": "SD",
     "physical_zip": "57345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A768",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2623,7 +2634,10 @@
     "physical_city": "HIGHMORE",
     "physical_state": "SD",
     "physical_zip": "57345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A768",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2636,7 +2650,10 @@
     "physical_city": "HITCHCOCK",
     "physical_state": "SD",
     "physical_zip": "57348",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A779",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2649,7 +2666,10 @@
     "physical_city": "HOWARD",
     "physical_state": "SD",
     "physical_zip": "57349",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A789",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2662,7 +2682,10 @@
     "physical_city": "HURON",
     "physical_state": "SD",
     "physical_zip": "57350",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A798",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2675,7 +2698,10 @@
     "physical_city": "IROQUOIS",
     "physical_state": "SD",
     "physical_zip": "57353",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A813",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2688,7 +2714,10 @@
     "physical_city": "KAYLOR",
     "physical_state": "SD",
     "physical_zip": "57354",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A833",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2701,7 +2730,10 @@
     "physical_city": "KIMBALL",
     "physical_state": "SD",
     "physical_zip": "57355",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A840",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2714,7 +2746,10 @@
     "physical_city": "LAKE ANDES",
     "physical_state": "SD",
     "physical_zip": "57356",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A851",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2727,7 +2762,10 @@
     "physical_city": "LANE",
     "physical_state": "SD",
     "physical_zip": "57358",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A864",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -2740,7 +2778,10 @@
     "physical_city": "LETCHER",
     "physical_state": "SD",
     "physical_zip": "57359",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A875",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2753,7 +2794,10 @@
     "physical_city": "MARTY",
     "physical_state": "SD",
     "physical_zip": "57361",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1C070",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -2766,7 +2810,10 @@
     "physical_city": "MILLER",
     "physical_state": "SD",
     "physical_zip": "57362",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A932",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2779,20 +2826,10 @@
     "physical_city": "MOUNT VERNON",
     "physical_state": "SD",
     "physical_zip": "57363",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57364",
-    "locale_name": "CORSICA",
-    "physical_delivery_address": "225 E MAIN ST",
-    "physical_city": "CORSICA",
-    "physical_state": "SD",
-    "physical_zip": "57328",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A952",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2805,7 +2842,10 @@
     "physical_city": "NEW HOLLAND",
     "physical_state": "SD",
     "physical_zip": "57364",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A961",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2818,7 +2858,10 @@
     "physical_city": "OACOMA",
     "physical_state": "SD",
     "physical_zip": "57365",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A975",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2831,7 +2874,10 @@
     "physical_city": "PARKSTON",
     "physical_state": "SD",
     "physical_zip": "57366",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B007",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2844,7 +2890,10 @@
     "physical_city": "PICKSTOWN",
     "physical_state": "SD",
     "physical_zip": "57367",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B015",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2857,7 +2906,10 @@
     "physical_city": "PLANKINTON",
     "physical_state": "SD",
     "physical_zip": "57368",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B024",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2870,7 +2922,10 @@
     "physical_city": "PLATTE",
     "physical_state": "SD",
     "physical_zip": "57369",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B026",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2883,20 +2938,10 @@
     "physical_city": "PUKWANA",
     "physical_state": "SD",
     "physical_zip": "57370",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57371",
-    "locale_name": "HIGHMORE",
-    "physical_delivery_address": "111 COMMERCIAL AVE SE",
-    "physical_city": "HIGHMORE",
-    "physical_state": "SD",
-    "physical_zip": "57345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B039",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2909,7 +2954,10 @@
     "physical_city": "REE HEIGHTS",
     "physical_state": "SD",
     "physical_zip": "57371",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B058",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2922,7 +2970,10 @@
     "physical_city": "MILLER",
     "physical_state": "SD",
     "physical_zip": "57362",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A932",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2935,20 +2986,10 @@
     "physical_city": "SAINT LAWRENCE",
     "physical_state": "SD",
     "physical_zip": "57373",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57374",
-    "locale_name": "SALEM",
-    "physical_delivery_address": "311 N MAIN ST",
-    "physical_city": "SALEM",
-    "physical_state": "SD",
-    "physical_zip": "57058",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B086",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2961,7 +3002,10 @@
     "physical_city": "SPENCER",
     "physical_state": "SD",
     "physical_zip": "57374",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B120",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2974,7 +3018,10 @@
     "physical_city": "STICKNEY",
     "physical_state": "SD",
     "physical_zip": "57375",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B167",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2987,20 +3034,10 @@
     "physical_city": "TRIPP",
     "physical_state": "SD",
     "physical_zip": "57376",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57379",
-    "locale_name": "ALPENA",
-    "physical_delivery_address": "818 MAIN ST",
-    "physical_city": "ALPENA",
-    "physical_state": "SD",
-    "physical_zip": "57312",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B199",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3013,7 +3050,10 @@
     "physical_city": "WAGNER",
     "physical_state": "SD",
     "physical_zip": "57380",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B234",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3026,7 +3066,10 @@
     "physical_city": "WESSINGTON",
     "physical_state": "SD",
     "physical_zip": "57381",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B257",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3039,7 +3082,10 @@
     "physical_city": "WESSINGTON SPRINGS",
     "physical_state": "SD",
     "physical_zip": "57382",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B258",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3052,7 +3098,10 @@
     "physical_city": "WHITE LAKE",
     "physical_state": "SD",
     "physical_zip": "57383",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B268",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3065,7 +3114,10 @@
     "physical_city": "WOLSEY",
     "physical_state": "SD",
     "physical_zip": "57384",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B282",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3078,20 +3130,10 @@
     "physical_city": "WOONSOCKET",
     "physical_state": "SD",
     "physical_zip": "57385",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57386",
-    "locale_name": "HURON",
-    "physical_delivery_address": "410 DAKOTA AVE S",
-    "physical_city": "HURON",
-    "physical_state": "SD",
-    "physical_zip": "57350",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B284",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3104,7 +3146,10 @@
     "physical_city": "ABERDEEN",
     "physical_state": "SD",
     "physical_zip": "57401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A461",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3117,20 +3162,10 @@
     "physical_city": "ABERDEEN",
     "physical_state": "SD",
     "physical_zip": "57401",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57420",
-    "locale_name": "AKASKA NPU",
-    "physical_delivery_address": "103 SWAN CREEK RD",
-    "physical_city": "AKASKA",
-    "physical_state": "SD",
-    "physical_zip": "57420",
-    "physical_zip4": "2000"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A461",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3143,7 +3178,10 @@
     "physical_city": "LANGFORD",
     "physical_state": "SD",
     "physical_zip": "57454",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A865",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3156,7 +3194,10 @@
     "physical_city": "GROTON",
     "physical_state": "SD",
     "physical_zip": "57445",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A739",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3169,20 +3210,10 @@
     "physical_city": "ASHTON",
     "physical_state": "SD",
     "physical_zip": "57424",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57424",
-    "locale_name": "REDFIELD",
-    "physical_delivery_address": "24 E 6TH AVE",
-    "physical_city": "REDFIELD",
-    "physical_state": "SD",
-    "physical_zip": "57469",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A489",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3195,20 +3226,10 @@
     "physical_city": "BARNARD",
     "physical_state": "SD",
     "physical_zip": "57426",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57427",
-    "locale_name": "ABERDEEN",
-    "physical_delivery_address": "1202 S 5TH ST",
-    "physical_city": "ABERDEEN",
-    "physical_state": "SD",
-    "physical_zip": "57401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A505",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3221,7 +3242,10 @@
     "physical_city": "BATH",
     "physical_state": "SD",
     "physical_zip": "57427",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A507",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3234,7 +3258,10 @@
     "physical_city": "BOWDLE",
     "physical_state": "SD",
     "physical_zip": "57428",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A536",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3247,7 +3274,10 @@
     "physical_city": "BRENTFORD",
     "physical_state": "SD",
     "physical_zip": "57429",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A542",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3260,7 +3290,10 @@
     "physical_city": "BRITTON",
     "physical_state": "SD",
     "physical_zip": "57430",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A546",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3273,7 +3306,10 @@
     "physical_city": "LANGFORD",
     "physical_state": "SD",
     "physical_zip": "57454",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A865",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3286,7 +3322,10 @@
     "physical_city": "COLUMBIA",
     "physical_state": "SD",
     "physical_zip": "57433",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A609",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3299,7 +3338,10 @@
     "physical_city": "CONDE",
     "physical_state": "SD",
     "physical_zip": "57434",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A612",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3312,7 +3354,10 @@
     "physical_city": "CRESBARD",
     "physical_state": "SD",
     "physical_zip": "57435",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A623",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3325,7 +3370,10 @@
     "physical_city": "DOLAND",
     "physical_state": "SD",
     "physical_zip": "57436",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A648",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3338,7 +3386,10 @@
     "physical_city": "EUREKA",
     "physical_state": "SD",
     "physical_zip": "57437",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A681",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3351,7 +3402,10 @@
     "physical_city": "FAULKTON",
     "physical_state": "SD",
     "physical_zip": "57438",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A690",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3364,7 +3418,10 @@
     "physical_city": "FERNEY",
     "physical_state": "SD",
     "physical_zip": "57439",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A692",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -3377,7 +3434,10 @@
     "physical_city": "FRANKFORT",
     "physical_state": "SD",
     "physical_zip": "57440",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A707",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3390,7 +3450,10 @@
     "physical_city": "REDFIELD",
     "physical_state": "SD",
     "physical_zip": "57469",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B055",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3403,7 +3466,10 @@
     "physical_city": "FREDERICK",
     "physical_state": "SD",
     "physical_zip": "57441",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A709",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3416,7 +3482,10 @@
     "physical_city": "GETTYSBURG",
     "physical_state": "SD",
     "physical_zip": "57442",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A720",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3429,7 +3498,10 @@
     "physical_city": "GROTON",
     "physical_state": "SD",
     "physical_zip": "57445",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A739",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3442,7 +3514,10 @@
     "physical_city": "HECLA",
     "physical_state": "SD",
     "physical_zip": "57446",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A759",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3455,20 +3530,10 @@
     "physical_city": "HOSMER",
     "physical_state": "SD",
     "physical_zip": "57448",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57449",
-    "locale_name": "COLUMBIA",
-    "physical_delivery_address": "5 N BROADWAY ST",
-    "physical_city": "COLUMBIA",
-    "physical_state": "SD",
-    "physical_zip": "57433",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A784",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3481,7 +3546,10 @@
     "physical_city": "HOVEN",
     "physical_state": "SD",
     "physical_zip": "57450",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A788",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3494,7 +3562,10 @@
     "physical_city": "IPSWICH",
     "physical_state": "SD",
     "physical_zip": "57451",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A810",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3507,7 +3578,10 @@
     "physical_city": "JAVA",
     "physical_state": "SD",
     "physical_zip": "57452",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A819",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3520,20 +3594,10 @@
     "physical_city": "LANGFORD",
     "physical_state": "SD",
     "physical_zip": "57454",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57455",
-    "locale_name": "GETTYSBURG",
-    "physical_delivery_address": "110 N EXENE ST",
-    "physical_city": "GETTYSBURG",
-    "physical_state": "SD",
-    "physical_zip": "57442",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A865",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3546,20 +3610,10 @@
     "physical_city": "LEOLA",
     "physical_state": "SD",
     "physical_zip": "57456",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57457",
-    "locale_name": "EUREKA",
-    "physical_delivery_address": "709 G AVE",
-    "physical_city": "EUREKA",
-    "physical_state": "SD",
-    "physical_zip": "57437",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A873",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3572,7 +3626,10 @@
     "physical_city": "MANSFIELD",
     "physical_state": "SD",
     "physical_zip": "57460",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A903",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3585,7 +3642,10 @@
     "physical_city": "WARNER",
     "physical_state": "SD",
     "physical_zip": "57479",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B244",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3598,7 +3658,10 @@
     "physical_city": "MELLETTE",
     "physical_state": "SD",
     "physical_zip": "57461",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A923",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3611,7 +3674,10 @@
     "physical_city": "MELLETTE",
     "physical_state": "SD",
     "physical_zip": "57461",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A923",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3624,7 +3690,10 @@
     "physical_city": "NORTHVILLE",
     "physical_state": "SD",
     "physical_zip": "57465",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A971",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3637,7 +3706,10 @@
     "physical_city": "ONAKA",
     "physical_state": "SD",
     "physical_zip": "57466",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A990",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3650,7 +3722,10 @@
     "physical_city": "ORIENT",
     "physical_state": "SD",
     "physical_zip": "57467",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A995",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3663,7 +3738,10 @@
     "physical_city": "PIERPONT",
     "physical_state": "SD",
     "physical_zip": "57468",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B017",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3676,20 +3754,10 @@
     "physical_city": "REDFIELD",
     "physical_state": "SD",
     "physical_zip": "57469",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57470",
-    "locale_name": "ORIENT",
-    "physical_delivery_address": "101 WINTER ST",
-    "physical_city": "ORIENT",
-    "physical_state": "SD",
-    "physical_zip": "57467",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B055",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3702,7 +3770,10 @@
     "physical_city": "ROSCOE",
     "physical_state": "SD",
     "physical_zip": "57471",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B071",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3715,20 +3786,10 @@
     "physical_city": "SELBY",
     "physical_state": "SD",
     "physical_zip": "57472",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57473",
-    "locale_name": "ONAKA",
-    "physical_delivery_address": "123 MAIN ST",
-    "physical_city": "ONAKA",
-    "physical_state": "SD",
-    "physical_zip": "57466",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B096",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3741,20 +3802,10 @@
     "physical_city": "SENECA",
     "physical_state": "SD",
     "physical_zip": "57473",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57474",
-    "locale_name": "ABERDEEN",
-    "physical_delivery_address": "1202 S 5TH ST",
-    "physical_city": "ABERDEEN",
-    "physical_state": "SD",
-    "physical_zip": "57401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B097",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3767,20 +3818,10 @@
     "physical_city": "TOLSTOY",
     "physical_state": "SD",
     "physical_zip": "57475",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57476",
-    "locale_name": "REDFIELD",
-    "physical_delivery_address": "24 E 6TH AVE",
-    "physical_city": "REDFIELD",
-    "physical_state": "SD",
-    "physical_zip": "57469",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B195",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3793,20 +3834,10 @@
     "physical_city": "TULARE",
     "physical_state": "SD",
     "physical_zip": "57476",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57477",
-    "locale_name": "DOLAND",
-    "physical_delivery_address": "204 HUMPHREY DR N",
-    "physical_city": "DOLAND",
-    "physical_state": "SD",
-    "physical_zip": "57436",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B202",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3819,7 +3850,10 @@
     "physical_city": "TURTON",
     "physical_state": "SD",
     "physical_zip": "57477",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B205",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3832,7 +3866,10 @@
     "physical_city": "WARNER",
     "physical_state": "SD",
     "physical_zip": "57479",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B244",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3845,7 +3882,10 @@
     "physical_city": "FREDERICK",
     "physical_state": "SD",
     "physical_zip": "57441",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A709",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3858,7 +3898,10 @@
     "physical_city": "WESTPORT",
     "physical_state": "SD",
     "physical_zip": "57481",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B263",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3871,7 +3914,10 @@
     "physical_city": "PIERRE",
     "physical_state": "SD",
     "physical_zip": "57501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B019",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3884,20 +3930,10 @@
     "physical_city": "AGAR",
     "physical_state": "SD",
     "physical_zip": "57520",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57520",
-    "locale_name": "ONIDA",
-    "physical_delivery_address": "703 BIRCH AVE",
-    "physical_city": "ONIDA",
-    "physical_state": "SD",
-    "physical_zip": "57564",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A464",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3910,7 +3946,10 @@
     "physical_city": "BELVIDERE",
     "physical_state": "SD",
     "physical_zip": "57521",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A512",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3923,7 +3962,10 @@
     "physical_city": "BLUNT",
     "physical_state": "SD",
     "physical_zip": "57522",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A532",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3936,7 +3978,10 @@
     "physical_city": "BURKE",
     "physical_state": "SD",
     "physical_zip": "57523",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A558",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3949,20 +3994,10 @@
     "physical_city": "COLOME",
     "physical_state": "SD",
     "physical_zip": "57528",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57529",
-    "locale_name": "GREGORY",
-    "physical_delivery_address": "517 MAIN ST",
-    "physical_city": "GREGORY",
-    "physical_state": "SD",
-    "physical_zip": "57533",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A607",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3975,20 +4010,10 @@
     "physical_city": "DRAPER",
     "physical_state": "SD",
     "physical_zip": "57531",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57531",
-    "locale_name": "MURDO",
-    "physical_delivery_address": "216 MAIN ST",
-    "physical_city": "MURDO",
-    "physical_state": "SD",
-    "physical_zip": "57559",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A652",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4001,7 +4026,10 @@
     "physical_city": "FORT PIERRE",
     "physical_state": "SD",
     "physical_zip": "57532",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A703",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4014,7 +4042,10 @@
     "physical_city": "GREGORY",
     "physical_state": "SD",
     "physical_zip": "57533",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A736",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4027,20 +4058,10 @@
     "physical_city": "HAMILL",
     "physical_state": "SD",
     "physical_zip": "57534",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57534",
-    "locale_name": "WINNER",
-    "physical_delivery_address": "402 S MONROE ST",
-    "physical_city": "WINNER",
-    "physical_state": "SD",
-    "physical_zip": "57580",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A744",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4053,20 +4074,10 @@
     "physical_city": "HARROLD",
     "physical_state": "SD",
     "physical_zip": "57536",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57537",
-    "locale_name": "FORT PIERRE",
-    "physical_delivery_address": "412 N DEADWOOD ST",
-    "physical_city": "FORT PIERRE",
-    "physical_state": "SD",
-    "physical_zip": "57532",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A751",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4079,7 +4090,10 @@
     "physical_city": "BURKE",
     "physical_state": "SD",
     "physical_zip": "57523",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A558",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4092,7 +4106,10 @@
     "physical_city": "HERRICK",
     "physical_state": "SD",
     "physical_zip": "57538",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A765",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4105,7 +4122,10 @@
     "physical_city": "HIGHMORE",
     "physical_state": "SD",
     "physical_zip": "57345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A768",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4118,20 +4138,10 @@
     "physical_city": "IDEAL",
     "physical_state": "SD",
     "physical_zip": "57541",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57541",
-    "locale_name": "WINNER",
-    "physical_delivery_address": "402 S MONROE ST",
-    "physical_city": "WINNER",
-    "physical_state": "SD",
-    "physical_zip": "57580",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A803",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4144,7 +4154,10 @@
     "physical_city": "KADOKA",
     "physical_state": "SD",
     "physical_zip": "57543",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A827",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4157,7 +4170,10 @@
     "physical_city": "KENNEBEC",
     "physical_state": "SD",
     "physical_zip": "57544",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A836",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4170,20 +4186,10 @@
     "physical_city": "LONG VALLEY",
     "physical_state": "SD",
     "physical_zip": "57547",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57547",
-    "locale_name": "MARTIN",
-    "physical_delivery_address": "506 3RD AVE",
-    "physical_city": "MARTIN",
-    "physical_state": "SD",
-    "physical_zip": "57551",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000424",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -4196,7 +4202,10 @@
     "physical_city": "LOWER BRULE",
     "physical_state": "SD",
     "physical_zip": "57548",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A890",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4209,7 +4218,10 @@
     "physical_city": "MARTIN",
     "physical_state": "SD",
     "physical_zip": "57551",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A909",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4222,7 +4234,10 @@
     "physical_city": "MIDLAND",
     "physical_state": "SD",
     "physical_zip": "57552",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A925",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4235,7 +4250,10 @@
     "physical_city": "PHILIP",
     "physical_state": "SD",
     "physical_zip": "57567",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B014",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4248,7 +4266,10 @@
     "physical_city": "MISSION",
     "physical_state": "SD",
     "physical_zip": "57555",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A937",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4261,7 +4282,10 @@
     "physical_city": "MURDO",
     "physical_state": "SD",
     "physical_zip": "57559",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A955",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4274,20 +4298,10 @@
     "physical_city": "NORRIS",
     "physical_state": "SD",
     "physical_zip": "57560",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57562",
-    "locale_name": "MURDO",
-    "physical_delivery_address": "216 MAIN ST",
-    "physical_city": "MURDO",
-    "physical_state": "SD",
-    "physical_zip": "57559",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A969",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4300,7 +4314,10 @@
     "physical_city": "OKREEK",
     "physical_state": "SD",
     "physical_zip": "57563",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A983",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4313,7 +4330,10 @@
     "physical_city": "ONIDA",
     "physical_state": "SD",
     "physical_zip": "57564",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A991",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4326,7 +4346,10 @@
     "physical_city": "PARMELEE",
     "physical_state": "SD",
     "physical_zip": "57566",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B008",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4339,7 +4362,10 @@
     "physical_city": "PHILIP",
     "physical_state": "SD",
     "physical_zip": "57567",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B014",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4352,7 +4378,10 @@
     "physical_city": "PRESHO",
     "physical_state": "SD",
     "physical_zip": "57568",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B035",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4365,7 +4394,10 @@
     "physical_city": "RELIANCE",
     "physical_state": "SD",
     "physical_zip": "57569",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B059",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4378,20 +4410,10 @@
     "physical_city": "ROSEBUD",
     "physical_state": "SD",
     "physical_zip": "57570",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57571",
-    "locale_name": "BURKE",
-    "physical_delivery_address": "833 MAIN ST",
-    "physical_city": "BURKE",
-    "physical_state": "SD",
-    "physical_zip": "57523",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B072",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4404,7 +4426,10 @@
     "physical_city": "SAINT FRANCIS",
     "physical_state": "SD",
     "physical_zip": "57572",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B085",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4417,7 +4442,10 @@
     "physical_city": "MARTIN",
     "physical_state": "SD",
     "physical_zip": "57551",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A909",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4430,7 +4458,10 @@
     "physical_city": "VIVIAN",
     "physical_state": "SD",
     "physical_zip": "57576",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B230",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4443,7 +4474,10 @@
     "physical_city": "WANBLEE",
     "physical_state": "SD",
     "physical_zip": "57577",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B242",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4456,7 +4490,10 @@
     "physical_city": "WHITE RIVER",
     "physical_state": "SD",
     "physical_zip": "57579",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B270",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4469,20 +4506,10 @@
     "physical_city": "WINNER",
     "physical_state": "SD",
     "physical_zip": "57580",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57584",
-    "locale_name": "WINNER",
-    "physical_delivery_address": "402 S MONROE ST",
-    "physical_city": "WINNER",
-    "physical_state": "SD",
-    "physical_zip": "57580",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B279",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4495,20 +4522,10 @@
     "physical_city": "WITTEN",
     "physical_state": "SD",
     "physical_zip": "57584",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57585",
-    "locale_name": "WINNER",
-    "physical_delivery_address": "402 S MONROE ST",
-    "physical_city": "WINNER",
-    "physical_state": "SD",
-    "physical_zip": "57580",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B280",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4521,7 +4538,10 @@
     "physical_city": "WOOD",
     "physical_state": "SD",
     "physical_zip": "57585",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B283",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4534,7 +4554,10 @@
     "physical_city": "MOBRIDGE",
     "physical_state": "SD",
     "physical_zip": "57601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A943",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4547,7 +4570,10 @@
     "physical_city": "BISON",
     "physical_state": "SD",
     "physical_zip": "57620",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A524",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4560,20 +4586,10 @@
     "physical_city": "BULLHEAD",
     "physical_state": "SD",
     "physical_zip": "57621",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57622",
-    "locale_name": "DUPREE",
-    "physical_delivery_address": "323 S MAIN ST",
-    "physical_city": "DUPREE",
-    "physical_state": "SD",
-    "physical_zip": "57623",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A554",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4586,7 +4602,10 @@
     "physical_city": "DUPREE",
     "physical_state": "SD",
     "physical_zip": "57623",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A654",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4599,7 +4618,10 @@
     "physical_city": "EAGLE BUTTE",
     "physical_state": "SD",
     "physical_zip": "57625",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A656",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4612,7 +4634,10 @@
     "physical_city": "FAITH",
     "physical_state": "SD",
     "physical_zip": "57626",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A687",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4625,7 +4650,10 @@
     "physical_city": "TIMBER LAKE",
     "physical_state": "SD",
     "physical_zip": "57656",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B194",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4638,20 +4666,10 @@
     "physical_city": "GLENHAM",
     "physical_state": "SD",
     "physical_zip": "57631",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57631",
-    "locale_name": "MOBRIDGE",
-    "physical_delivery_address": "404 N MAIN ST",
-    "physical_city": "MOBRIDGE",
-    "physical_state": "SD",
-    "physical_zip": "57601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A726",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4664,7 +4682,10 @@
     "physical_city": "HERREID",
     "physical_state": "SD",
     "physical_zip": "57632",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A764",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4677,7 +4698,10 @@
     "physical_city": "ISABEL",
     "physical_state": "SD",
     "physical_zip": "57633",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A814",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4690,7 +4714,10 @@
     "physical_city": "MORRISTOWN",
     "physical_state": "SD",
     "physical_zip": "57645",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A949",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4703,7 +4730,10 @@
     "physical_city": "LANTRY",
     "physical_state": "SD",
     "physical_zip": "57636",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A866",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4716,7 +4746,10 @@
     "physical_city": "LEMMON",
     "physical_state": "SD",
     "physical_zip": "57638",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A871",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4729,7 +4762,10 @@
     "physical_city": "LITTLE EAGLE",
     "physical_state": "SD",
     "physical_zip": "57639",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A885",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4742,7 +4778,10 @@
     "physical_city": "MC INTOSH",
     "physical_state": "SD",
     "physical_zip": "57641",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A916",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4755,7 +4794,10 @@
     "physical_city": "MC LAUGHLIN",
     "physical_state": "SD",
     "physical_zip": "57642",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A917",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4768,7 +4810,10 @@
     "physical_city": "MEADOW",
     "physical_state": "SD",
     "physical_zip": "57644",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A920",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4781,20 +4826,10 @@
     "physical_city": "MORRISTOWN",
     "physical_state": "SD",
     "physical_zip": "57645",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57646",
-    "locale_name": "HERREID",
-    "physical_delivery_address": "118 MAIN ST N",
-    "physical_city": "HERREID",
-    "physical_state": "SD",
-    "physical_zip": "57632",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A949",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4807,7 +4842,10 @@
     "physical_city": "MOUND CITY",
     "physical_state": "SD",
     "physical_zip": "57646",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A951",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4820,7 +4858,10 @@
     "physical_city": "POLLOCK",
     "physical_state": "SD",
     "physical_zip": "57648",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B029",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4833,7 +4874,10 @@
     "physical_city": "BISON",
     "physical_state": "SD",
     "physical_zip": "57620",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A524",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4846,7 +4890,10 @@
     "physical_city": "REVA",
     "physical_state": "SD",
     "physical_zip": "57651",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B061",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4859,7 +4906,10 @@
     "physical_city": "RIDGEVIEW",
     "physical_state": "SD",
     "physical_zip": "57652",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B064",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4872,20 +4922,10 @@
     "physical_city": "TIMBER LAKE",
     "physical_state": "SD",
     "physical_zip": "57656",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57657",
-    "locale_name": "TIMBER LAKE",
-    "physical_delivery_address": "801 MAIN ST",
-    "physical_city": "TIMBER LAKE",
-    "physical_state": "SD",
-    "physical_zip": "57656",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B194",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4898,7 +4938,10 @@
     "physical_city": "TRAIL CITY",
     "physical_state": "SD",
     "physical_zip": "57657",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B197",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4911,20 +4954,10 @@
     "physical_city": "MOBRIDGE",
     "physical_state": "SD",
     "physical_zip": "57601",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57659",
-    "locale_name": "MC INTOSH",
-    "physical_delivery_address": "312 MAIN ST",
-    "physical_city": "MC INTOSH",
-    "physical_state": "SD",
-    "physical_zip": "57641",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A943",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4937,7 +4970,10 @@
     "physical_city": "MORRISTOWN",
     "physical_state": "SD",
     "physical_zip": "57645",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A949",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4950,7 +4986,10 @@
     "physical_city": "WHITEHORSE",
     "physical_state": "SD",
     "physical_zip": "57661",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B271",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4958,12 +4997,15 @@
     "district_name": "IA-NE-SD",
     "district_no": "500",
     "delivery_zipcode": "57701",
-    "locale_name": "RAPID CITY",
+    "locale_name": "RAPID CITY SD SDC",
     "physical_delivery_address": "500 EAST BLVD",
     "physical_city": "RAPID CITY",
     "physical_state": "SD",
     "physical_zip": "57701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9939",
+    "zip_class_code": null,
+    "locale_key": "021587",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -4971,12 +5013,15 @@
     "district_name": "IA-NE-SD",
     "district_no": "500",
     "delivery_zipcode": "57702",
-    "locale_name": "RAPID CITY",
+    "locale_name": "RAPID CITY SD SDC",
     "physical_delivery_address": "500 EAST BLVD",
     "physical_city": "RAPID CITY",
     "physical_state": "SD",
     "physical_zip": "57701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9939",
+    "zip_class_code": null,
+    "locale_key": "021587",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -4984,12 +5029,15 @@
     "district_name": "IA-NE-SD",
     "district_no": "500",
     "delivery_zipcode": "57703",
-    "locale_name": "RAPID CITY",
+    "locale_name": "RAPID CITY SD SDC",
     "physical_delivery_address": "500 EAST BLVD",
     "physical_city": "RAPID CITY",
     "physical_state": "SD",
     "physical_zip": "57701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9939",
+    "zip_class_code": null,
+    "locale_key": "021587",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -5002,7 +5050,10 @@
     "physical_city": "BOX ELDER",
     "physical_state": "SD",
     "physical_zip": "57719",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A537",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5010,38 +5061,15 @@
     "district_name": "IA-NE-SD",
     "district_no": "500",
     "delivery_zipcode": "57709",
-    "locale_name": "CPU BOYD DRUG  WEST",
-    "physical_delivery_address": "655 MOUNTAIN VIEW RD",
-    "physical_city": "RAPID CITY",
-    "physical_state": "SD",
-    "physical_zip": "57702",
-    "physical_zip4": "2518"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57709",
-    "locale_name": "CPU BOYD DRUG EAST",
-    "physical_delivery_address": "909 E SAINT PATRICK ST STE 1",
-    "physical_city": "RAPID CITY",
-    "physical_state": "SD",
-    "physical_zip": "57701",
-    "physical_zip4": "5799"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57709",
-    "locale_name": "RAPID CITY",
+    "locale_name": "RAPID CITY SD SDC",
     "physical_delivery_address": "500 EAST BLVD",
     "physical_city": "RAPID CITY",
     "physical_state": "SD",
     "physical_zip": "57701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9939",
+    "zip_class_code": "P",
+    "locale_key": "021587",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -5054,7 +5082,10 @@
     "physical_city": "ALLEN",
     "physical_state": "SD",
     "physical_zip": "57714",
-    "physical_zip4": "1700"
+    "physical_zip4": "1700",
+    "zip_class_code": null,
+    "locale_key": "W1A470",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5067,7 +5098,10 @@
     "physical_city": "BATESLAND",
     "physical_state": "SD",
     "physical_zip": "57716",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A506",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5080,7 +5114,10 @@
     "physical_city": "BELLE FOURCHE",
     "physical_state": "SD",
     "physical_zip": "57717",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A511",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5093,7 +5130,10 @@
     "physical_city": "BLACK HAWK",
     "physical_state": "SD",
     "physical_zip": "57718",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A526",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5106,7 +5146,10 @@
     "physical_city": "BOX ELDER",
     "physical_state": "SD",
     "physical_zip": "57719",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A537",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5119,7 +5162,10 @@
     "physical_city": "BUFFALO",
     "physical_state": "SD",
     "physical_zip": "57720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A551",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5132,7 +5178,10 @@
     "physical_city": "HOT SPRINGS",
     "physical_state": "SD",
     "physical_zip": "57747",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A785",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5145,7 +5194,10 @@
     "physical_city": "CAMP CROOK",
     "physical_state": "SD",
     "physical_zip": "57724",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A564",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5158,7 +5210,10 @@
     "physical_city": "CAPUTA",
     "physical_state": "SD",
     "physical_zip": "57725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A572",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5171,7 +5226,10 @@
     "physical_city": "NEW UNDERWOOD",
     "physical_state": "SD",
     "physical_zip": "57761",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A962",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5184,7 +5242,10 @@
     "physical_city": "CUSTER",
     "physical_state": "SD",
     "physical_zip": "57730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A627",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5197,7 +5258,10 @@
     "physical_city": "DEADWOOD",
     "physical_state": "SD",
     "physical_zip": "57732",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A638",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5210,7 +5274,10 @@
     "physical_city": "EDGEMONT",
     "physical_state": "SD",
     "physical_zip": "57735",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A660",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5223,7 +5290,10 @@
     "physical_city": "ENNING",
     "physical_state": "SD",
     "physical_zip": "57737",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A675",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5236,7 +5306,10 @@
     "physical_city": "STURGIS",
     "physical_state": "SD",
     "physical_zip": "57785",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B174",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5249,7 +5322,10 @@
     "physical_city": "FAIRBURN",
     "physical_state": "SD",
     "physical_zip": "57738",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A683",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5262,7 +5338,10 @@
     "physical_city": "FORT MEADE",
     "physical_state": "SD",
     "physical_zip": "57741",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A702",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5275,7 +5354,10 @@
     "physical_city": "HERMOSA",
     "physical_state": "SD",
     "physical_zip": "57744",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A763",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5288,7 +5370,10 @@
     "physical_city": "HILL CITY",
     "physical_state": "SD",
     "physical_zip": "57745",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A770",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5301,7 +5386,10 @@
     "physical_city": "HOT SPRINGS",
     "physical_state": "SD",
     "physical_zip": "57747",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A785",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5314,7 +5402,10 @@
     "physical_city": "HOWES",
     "physical_state": "SD",
     "physical_zip": "57748",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A791",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5327,7 +5418,26 @@
     "physical_city": "STURGIS",
     "physical_state": "SD",
     "physical_zip": "57785",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B174",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "CENTRAL",
+    "area_code": "4J",
+    "district_name": "IA-NE-SD",
+    "district_no": "500",
+    "delivery_zipcode": "57750",
+    "locale_name": "WALL",
+    "physical_delivery_address": "529 MAIN ST",
+    "physical_city": "WALL",
+    "physical_state": "SD",
+    "physical_zip": "57790",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B238",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5340,20 +5450,10 @@
     "physical_city": "INTERIOR",
     "physical_state": "SD",
     "physical_zip": "57750",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57750",
-    "locale_name": "WALL",
-    "physical_delivery_address": "529 MAIN ST",
-    "physical_city": "WALL",
-    "physical_state": "SD",
-    "physical_zip": "57790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "020492",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -5366,7 +5466,10 @@
     "physical_city": "KEYSTONE",
     "physical_state": "SD",
     "physical_zip": "57751",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A838",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5379,7 +5482,10 @@
     "physical_city": "KYLE",
     "physical_state": "SD",
     "physical_zip": "57752",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A845",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5392,7 +5498,10 @@
     "physical_city": "LEAD",
     "physical_state": "SD",
     "physical_zip": "57754",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A869",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5405,7 +5514,10 @@
     "physical_city": "BUFFALO",
     "physical_state": "SD",
     "physical_zip": "57720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A551",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5418,20 +5530,10 @@
     "physical_city": "MANDERSON",
     "physical_state": "SD",
     "physical_zip": "57756",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57758",
-    "locale_name": "NEWELL",
-    "physical_delivery_address": "207 GIRARD AVE",
-    "physical_city": "NEWELL",
-    "physical_state": "SD",
-    "physical_zip": "57760",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1A902",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5444,7 +5546,10 @@
     "physical_city": "NEMO",
     "physical_state": "SD",
     "physical_zip": "57759",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A959",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5457,7 +5562,10 @@
     "physical_city": "NEWELL",
     "physical_state": "SD",
     "physical_zip": "57760",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A964",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5470,20 +5578,10 @@
     "physical_city": "NEW UNDERWOOD",
     "physical_state": "SD",
     "physical_zip": "57761",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57762",
-    "locale_name": "BELLE FOURCHE",
-    "physical_delivery_address": "804 STATE ST",
-    "physical_city": "BELLE FOURCHE",
-    "physical_state": "SD",
-    "physical_zip": "57717",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A962",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5496,7 +5594,10 @@
     "physical_city": "NISLAND",
     "physical_state": "SD",
     "physical_zip": "57762",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A965",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5509,7 +5610,10 @@
     "physical_city": "OELRICHS",
     "physical_state": "SD",
     "physical_zip": "57763",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A978",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5522,20 +5626,10 @@
     "physical_city": "OGLALA",
     "physical_state": "SD",
     "physical_zip": "57764",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57766",
-    "locale_name": "HOT SPRINGS",
-    "physical_delivery_address": "146 N CHICAGO ST",
-    "physical_city": "HOT SPRINGS",
-    "physical_state": "SD",
-    "physical_zip": "57747",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A979",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5548,7 +5642,10 @@
     "physical_city": "ORAL",
     "physical_state": "SD",
     "physical_zip": "57766",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A993",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5561,7 +5658,10 @@
     "physical_city": "WASTA",
     "physical_state": "SD",
     "physical_zip": "57791",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B245",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5574,7 +5674,10 @@
     "physical_city": "PIEDMONT",
     "physical_state": "SD",
     "physical_zip": "57769",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B016",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5587,7 +5690,10 @@
     "physical_city": "PINE RIDGE",
     "physical_state": "SD",
     "physical_zip": "57770",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B020",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5600,7 +5706,10 @@
     "physical_city": "PORCUPINE",
     "physical_state": "SD",
     "physical_zip": "57772",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B031",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5613,7 +5722,10 @@
     "physical_city": "PRINGLE",
     "physical_state": "SD",
     "physical_zip": "57773",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B036",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5626,7 +5738,10 @@
     "physical_city": "QUINN",
     "physical_state": "SD",
     "physical_zip": "57775",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B041",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5639,7 +5754,10 @@
     "physical_city": "WALL",
     "physical_state": "SD",
     "physical_zip": "57790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B238",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5652,7 +5770,10 @@
     "physical_city": "REDIG",
     "physical_state": "SD",
     "physical_zip": "57776",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B056",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5665,20 +5786,10 @@
     "physical_city": "SAINT ONGE",
     "physical_state": "SD",
     "physical_zip": "57779",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57779",
-    "locale_name": "SPEARFISH",
-    "physical_delivery_address": "120 YANKEE ST",
-    "physical_city": "SPEARFISH",
-    "physical_state": "SD",
-    "physical_zip": "57783",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B087",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5691,20 +5802,10 @@
     "physical_city": "SCENIC",
     "physical_state": "SD",
     "physical_zip": "57780",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57780",
-    "locale_name": "WALL",
-    "physical_delivery_address": "529 MAIN ST",
-    "physical_city": "WALL",
-    "physical_state": "SD",
-    "physical_zip": "57790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B093",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5717,7 +5818,10 @@
     "physical_city": "SMITHWICK",
     "physical_state": "SD",
     "physical_zip": "57782",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B682",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -5730,7 +5834,10 @@
     "physical_city": "SPEARFISH",
     "physical_state": "SD",
     "physical_zip": "57783",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B118",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5743,7 +5850,10 @@
     "physical_city": "STURGIS",
     "physical_state": "SD",
     "physical_zip": "57785",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B174",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5756,7 +5866,10 @@
     "physical_city": "UNION CENTER",
     "physical_state": "SD",
     "physical_zip": "57787",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B209",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5769,7 +5882,10 @@
     "physical_city": "VALE",
     "physical_state": "SD",
     "physical_zip": "57788",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B216",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5782,7 +5898,10 @@
     "physical_city": "WALL",
     "physical_state": "SD",
     "physical_zip": "57790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B238",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5795,7 +5914,10 @@
     "physical_city": "WASTA",
     "physical_state": "SD",
     "physical_zip": "57791",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B245",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5808,7 +5930,10 @@
     "physical_city": "STURGIS",
     "physical_state": "SD",
     "physical_zip": "57785",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B174",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5821,7 +5946,10 @@
     "physical_city": "WHITE OWL",
     "physical_state": "SD",
     "physical_zip": "57792",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B269",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5834,7 +5962,10 @@
     "physical_city": "WHITEWOOD",
     "physical_state": "SD",
     "physical_zip": "57793",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B272",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5847,7 +5978,10 @@
     "physical_city": "WOUNDED KNEE",
     "physical_state": "SD",
     "physical_zip": "57794",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B286",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5860,7 +5994,10 @@
     "physical_city": "MC LAUGHLIN",
     "physical_state": "SD",
     "physical_zip": "57642",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A917",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5873,6 +6010,9 @@
     "physical_city": "CAMP CROOK",
     "physical_state": "SD",
     "physical_zip": "57724",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1A564",
+    "locale_type": "P"
   }
 ]

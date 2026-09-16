@@ -10,7 +10,10 @@
     "physical_city": "ABBEVILLE",
     "physical_state": "MS",
     "physical_zip": "38601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13153",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -23,7 +26,10 @@
     "physical_city": "ARKABUTLA",
     "physical_state": "MS",
     "physical_zip": "38602",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13182",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -36,7 +42,10 @@
     "physical_city": "ASHLAND",
     "physical_state": "MS",
     "physical_zip": "38603",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13187",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -49,7 +58,10 @@
     "physical_city": "BATESVILLE",
     "physical_state": "MS",
     "physical_zip": "38606",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13215",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -62,7 +74,10 @@
     "physical_city": "BLUE MOUNTAIN",
     "physical_state": "MS",
     "physical_zip": "38610",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13282",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -75,7 +90,10 @@
     "physical_city": "BYHALIA",
     "physical_state": "MS",
     "physical_zip": "38611",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13338",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -88,7 +106,10 @@
     "physical_city": "CLARKSDALE",
     "physical_state": "MS",
     "physical_zip": "38614",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13404",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -101,7 +122,10 @@
     "physical_city": "COAHOMA",
     "physical_state": "MS",
     "physical_zip": "38617",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13416",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -114,7 +138,10 @@
     "physical_city": "COLDWATER",
     "physical_state": "MS",
     "physical_zip": "38618",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13422",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -127,7 +154,10 @@
     "physical_city": "COMO",
     "physical_state": "MS",
     "physical_zip": "38619",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13439",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -140,7 +170,10 @@
     "physical_city": "COURTLAND",
     "physical_state": "MS",
     "physical_zip": "38620",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13446",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -153,7 +186,10 @@
     "physical_city": "CRENSHAW",
     "physical_state": "MS",
     "physical_zip": "38621",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13452",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -166,7 +202,10 @@
     "physical_city": "CROWDER",
     "physical_state": "MS",
     "physical_zip": "38622",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13459",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -179,7 +218,10 @@
     "physical_city": "DARLING",
     "physical_state": "MS",
     "physical_zip": "38623",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13480",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -192,7 +234,10 @@
     "physical_city": "DUMAS",
     "physical_state": "MS",
     "physical_zip": "38625",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13532",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -205,7 +250,10 @@
     "physical_city": "RIPLEY",
     "physical_state": "MS",
     "physical_zip": "38663",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14310",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -218,7 +266,10 @@
     "physical_city": "DUNDEE",
     "physical_state": "MS",
     "physical_zip": "38626",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13534",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -231,7 +282,10 @@
     "physical_city": "ETTA",
     "physical_state": "MS",
     "physical_zip": "38627",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13587",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -244,7 +298,10 @@
     "physical_city": "FALKNER",
     "physical_state": "MS",
     "physical_zip": "38629",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13603",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -257,7 +314,10 @@
     "physical_city": "FRIARS POINT",
     "physical_state": "MS",
     "physical_zip": "38631",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13631",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -270,7 +330,10 @@
     "physical_city": "HERNANDO",
     "physical_state": "MS",
     "physical_zip": "38632",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13733",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -283,7 +346,10 @@
     "physical_city": "HICKORY FLAT",
     "physical_state": "MS",
     "physical_zip": "38633",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13736",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -296,7 +362,10 @@
     "physical_city": "HOLLY SPRINGS",
     "physical_state": "MS",
     "physical_zip": "38635",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "000427",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -309,7 +378,10 @@
     "physical_city": "HOLLY SPRINGS",
     "physical_state": "MS",
     "physical_zip": "38635",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Y13766",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -322,7 +394,10 @@
     "physical_city": "HOLLY SPRINGS",
     "physical_state": "MS",
     "physical_zip": "38635",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000427",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -335,7 +410,10 @@
     "physical_city": "HORN LAKE",
     "physical_state": "MS",
     "physical_zip": "38637",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13771",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -348,7 +426,10 @@
     "physical_city": "INDEPENDENCE",
     "physical_state": "MS",
     "physical_zip": "38638",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13784",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -361,7 +442,10 @@
     "physical_city": "JONESTOWN",
     "physical_state": "MS",
     "physical_zip": "38639",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13815",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -374,7 +458,10 @@
     "physical_city": "LAKE CORMORANT",
     "physical_state": "MS",
     "physical_zip": "38641",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13850",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -387,7 +474,10 @@
     "physical_city": "WALLS",
     "physical_state": "MS",
     "physical_zip": "38680",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14588",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -400,7 +490,10 @@
     "physical_city": "LAMAR",
     "physical_state": "MS",
     "physical_zip": "38642",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13854",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -413,7 +506,10 @@
     "physical_city": "LAMBERT",
     "physical_state": "MS",
     "physical_zip": "38643",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13856",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -426,20 +522,10 @@
     "physical_city": "MARKS",
     "physical_state": "MS",
     "physical_zip": "38646",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38644",
-    "locale_name": "DUNDEE",
-    "physical_delivery_address": "1028 RYALS RD",
-    "physical_city": "DUNDEE",
-    "physical_state": "MS",
-    "physical_zip": "38626",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13947",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -452,7 +538,10 @@
     "physical_city": "CLARKSDALE",
     "physical_state": "MS",
     "physical_zip": "38614",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13404",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -465,7 +554,10 @@
     "physical_city": "LYON",
     "physical_state": "MS",
     "physical_zip": "38645",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13923",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -478,7 +570,10 @@
     "physical_city": "MARKS",
     "physical_state": "MS",
     "physical_zip": "38646",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13947",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -491,7 +586,10 @@
     "physical_city": "ASHLAND",
     "physical_state": "MS",
     "physical_zip": "38603",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13187",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -504,7 +602,10 @@
     "physical_city": "MICHIGAN CITY",
     "physical_state": "MS",
     "physical_zip": "38647",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14001",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -517,7 +618,10 @@
     "physical_city": "HOLLY SPRINGS",
     "physical_state": "MS",
     "physical_zip": "38635",
-    "physical_zip4": "7806"
+    "physical_zip4": "7806",
+    "zip_class_code": "P",
+    "locale_key": "Y14062",
+    "locale_type": "C"
   },
   {
     "area_name": "SOUTHERN",
@@ -530,7 +634,10 @@
     "physical_city": "MYRTLE",
     "physical_state": "MS",
     "physical_zip": "38650",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14082",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -543,7 +650,10 @@
     "physical_city": "NESBIT",
     "physical_state": "MS",
     "physical_zip": "38651",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14096",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -556,7 +666,10 @@
     "physical_city": "NEW ALBANY",
     "physical_state": "MS",
     "physical_zip": "38652",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14099",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -569,7 +682,10 @@
     "physical_city": "OLIVE BRANCH",
     "physical_state": "MS",
     "physical_zip": "38654",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14149",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -582,7 +698,10 @@
     "physical_city": "OXFORD",
     "physical_state": "MS",
     "physical_zip": "38655",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14162",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -595,7 +714,10 @@
     "physical_city": "POPE",
     "physical_state": "MS",
     "physical_zip": "38658",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14247",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -608,20 +730,10 @@
     "physical_city": "POTTS CAMP",
     "physical_state": "MS",
     "physical_zip": "38659",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38661",
-    "locale_name": "IDA B WELLS",
-    "physical_delivery_address": "365 MARTIN LUTHER KING JR DR",
-    "physical_city": "HOLLY SPRINGS",
-    "physical_state": "MS",
-    "physical_zip": "38635",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14262",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -634,7 +746,26 @@
     "physical_city": "RED BANKS",
     "physical_state": "MS",
     "physical_zip": "38661",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14290",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "AL-MS",
+    "district_no": "350",
+    "delivery_zipcode": "38661",
+    "locale_name": "IDA B WELLS",
+    "physical_delivery_address": "365 MARTIN LUTHER KING JR DR",
+    "physical_city": "HOLLY SPRINGS",
+    "physical_state": "MS",
+    "physical_zip": "38635",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000427",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -647,7 +778,10 @@
     "physical_city": "RIPLEY",
     "physical_state": "MS",
     "physical_zip": "38663",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14310",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -660,7 +794,10 @@
     "physical_city": "ROBINSONVILLE",
     "physical_state": "MS",
     "physical_zip": "38664",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14313",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -673,7 +810,10 @@
     "physical_city": "SARAH",
     "physical_state": "MS",
     "physical_zip": "38665",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14361",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -686,7 +826,10 @@
     "physical_city": "SARDIS",
     "physical_state": "MS",
     "physical_zip": "38666",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14362",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -699,7 +842,10 @@
     "physical_city": "SENATOBIA",
     "physical_state": "MS",
     "physical_zip": "38668",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14379",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -712,7 +858,10 @@
     "physical_city": "SLEDGE",
     "physical_state": "MS",
     "physical_zip": "38670",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14412",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -725,7 +874,10 @@
     "physical_city": "SOUTHAVEN",
     "physical_state": "MS",
     "physical_zip": "38671",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14428",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -738,7 +890,10 @@
     "physical_city": "SOUTHAVEN",
     "physical_state": "MS",
     "physical_zip": "38671",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14428",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -751,7 +906,10 @@
     "physical_city": "OXFORD",
     "physical_state": "MS",
     "physical_zip": "38655",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14162",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -764,7 +922,10 @@
     "physical_city": "TAYLOR",
     "physical_state": "MS",
     "physical_zip": "38673",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14479",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -777,7 +938,10 @@
     "physical_city": "FALKNER",
     "physical_state": "MS",
     "physical_zip": "38629",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13603",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -790,7 +954,10 @@
     "physical_city": "TIPLERSVILLE",
     "physical_state": "MS",
     "physical_zip": "38674",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14505",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -803,7 +970,10 @@
     "physical_city": "TUNICA",
     "physical_state": "MS",
     "physical_zip": "38676",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14530",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -816,7 +986,10 @@
     "physical_city": "VICTORIA",
     "physical_state": "MS",
     "physical_zip": "38679",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14574",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -829,7 +1002,10 @@
     "physical_city": "WALLS",
     "physical_state": "MS",
     "physical_zip": "38680",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14588",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -842,7 +1018,10 @@
     "physical_city": "WALNUT",
     "physical_state": "MS",
     "physical_zip": "38683",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14590",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -855,7 +1034,10 @@
     "physical_city": "WATERFORD",
     "physical_state": "MS",
     "physical_zip": "38685",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14602",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -868,7 +1050,10 @@
     "physical_city": "GREENVILLE",
     "physical_state": "MS",
     "physical_zip": "38703",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13456",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -881,7 +1066,10 @@
     "physical_city": "GREENVILLE",
     "physical_state": "MS",
     "physical_zip": "38701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13682",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -894,7 +1082,10 @@
     "physical_city": "GREENVILLE",
     "physical_state": "MS",
     "physical_zip": "38701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13682",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -907,7 +1098,10 @@
     "physical_city": "GREENVILLE",
     "physical_state": "MS",
     "physical_zip": "38703",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13456",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -920,7 +1114,10 @@
     "physical_city": "GREENVILLE",
     "physical_state": "MS",
     "physical_zip": "38703",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13456",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -933,20 +1130,10 @@
     "physical_city": "ALLIGATOR",
     "physical_state": "MS",
     "physical_zip": "38720",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38720",
-    "locale_name": "DUNCAN",
-    "physical_delivery_address": "112 E MAIN ST",
-    "physical_city": "DUNCAN",
-    "physical_state": "MS",
-    "physical_zip": "38740",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13167",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -959,7 +1146,10 @@
     "physical_city": "ANGUILLA",
     "physical_state": "MS",
     "physical_zip": "38721",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13176",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -972,7 +1162,10 @@
     "physical_city": "ARCOLA",
     "physical_state": "MS",
     "physical_zip": "38722",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13180",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -985,7 +1178,10 @@
     "physical_city": "AVON",
     "physical_state": "MS",
     "physical_zip": "38723",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13196",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -998,7 +1194,10 @@
     "physical_city": "BENOIT",
     "physical_state": "MS",
     "physical_zip": "38725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1011,7 +1210,10 @@
     "physical_city": "BEULAH",
     "physical_state": "MS",
     "physical_zip": "38726",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13255",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1024,7 +1226,10 @@
     "physical_city": "BOYLE",
     "physical_state": "MS",
     "physical_zip": "38730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13300",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1037,20 +1242,10 @@
     "physical_city": "CLEVELAND",
     "physical_state": "MS",
     "physical_zip": "38732",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38731",
-    "locale_name": "CHATHAM DPOBU",
-    "physical_delivery_address": "7 ROYS STORE RD",
-    "physical_city": "CHATHAM",
-    "physical_state": "MS",
-    "physical_zip": "38731",
-    "physical_zip4": "9800"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13410",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1063,7 +1258,10 @@
     "physical_city": "CLEVELAND",
     "physical_state": "MS",
     "physical_zip": "38732",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13410",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1076,7 +1274,10 @@
     "physical_city": "DODDSVILLE",
     "physical_state": "MS",
     "physical_zip": "38736",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13511",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1089,20 +1290,10 @@
     "physical_city": "DREW",
     "physical_state": "MS",
     "physical_zip": "38737",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38738",
-    "locale_name": "DREW",
-    "physical_delivery_address": "146 W PARK AVE",
-    "physical_city": "DREW",
-    "physical_state": "MS",
-    "physical_zip": "38737",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13525",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1115,7 +1306,10 @@
     "physical_city": "DUBLIN",
     "physical_state": "MS",
     "physical_zip": "38739",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13529",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1128,7 +1322,10 @@
     "physical_city": "DUNCAN",
     "physical_state": "MS",
     "physical_zip": "38740",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13533",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1141,7 +1338,10 @@
     "physical_city": "GLEN ALLAN",
     "physical_state": "MS",
     "physical_zip": "38744",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13658",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1154,7 +1354,10 @@
     "physical_city": "GRACE",
     "physical_state": "MS",
     "physical_zip": "38745",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13673",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1167,7 +1370,10 @@
     "physical_city": "GUNNISON",
     "physical_state": "MS",
     "physical_zip": "38746",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13702",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1180,7 +1386,10 @@
     "physical_city": "HOLLANDALE",
     "physical_state": "MS",
     "physical_zip": "38748",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13757",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1193,7 +1402,10 @@
     "physical_city": "INDIANOLA",
     "physical_state": "MS",
     "physical_zip": "38751",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13789",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1206,7 +1418,10 @@
     "physical_city": "INVERNESS",
     "physical_state": "MS",
     "physical_zip": "38753",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13792",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1219,7 +1434,10 @@
     "physical_city": "ISOLA",
     "physical_state": "MS",
     "physical_zip": "38754",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13796",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1232,7 +1450,10 @@
     "physical_city": "LELAND",
     "physical_state": "MS",
     "physical_zip": "38756",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13877",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1245,7 +1466,10 @@
     "physical_city": "MERIGOLD",
     "physical_state": "MS",
     "physical_zip": "38759",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13996",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1258,7 +1482,10 @@
     "physical_city": "METCALFE",
     "physical_state": "MS",
     "physical_zip": "38760",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13999",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1271,7 +1498,10 @@
     "physical_city": "MOORHEAD",
     "physical_state": "MS",
     "physical_zip": "38761",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14041",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1284,7 +1514,10 @@
     "physical_city": "MOUND BAYOU",
     "physical_state": "MS",
     "physical_zip": "38762",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14055",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1297,20 +1530,10 @@
     "physical_city": "PACE",
     "physical_state": "MS",
     "physical_zip": "38764",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38765",
-    "locale_name": "PANTHER BURN DPOBU",
-    "physical_delivery_address": "83 PANTHER BURN RD",
-    "physical_city": "PANTHER BURN",
-    "physical_state": "MS",
-    "physical_zip": "38765",
-    "physical_zip4": "9700"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14164",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1323,7 +1546,10 @@
     "physical_city": "RENA LARA",
     "physical_state": "MS",
     "physical_zip": "38767",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14297",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1336,7 +1562,10 @@
     "physical_city": "ROME",
     "physical_state": "MS",
     "physical_zip": "38768",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14324",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1349,7 +1578,10 @@
     "physical_city": "ROSEDALE",
     "physical_state": "MS",
     "physical_zip": "38769",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14328",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1362,7 +1594,10 @@
     "physical_city": "RULEVILLE",
     "physical_state": "MS",
     "physical_zip": "38771",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14336",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1375,7 +1610,10 @@
     "physical_city": "SHAW",
     "physical_state": "MS",
     "physical_zip": "38773",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14387",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1388,7 +1626,10 @@
     "physical_city": "SHAW",
     "physical_state": "MS",
     "physical_zip": "38773",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14387",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1401,7 +1642,10 @@
     "physical_city": "SHELBY",
     "physical_state": "MS",
     "physical_zip": "38774",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14388",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1414,7 +1658,10 @@
     "physical_city": "STONEVILLE",
     "physical_state": "MS",
     "physical_zip": "38776",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14449",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1427,7 +1674,10 @@
     "physical_city": "SUNFLOWER",
     "physical_state": "MS",
     "physical_zip": "38778",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14465",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1440,7 +1690,10 @@
     "physical_city": "WAYSIDE",
     "physical_state": "MS",
     "physical_zip": "38780",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14610",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1453,20 +1706,10 @@
     "physical_city": "WINSTONVILLE",
     "physical_state": "MS",
     "physical_zip": "38781",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38782",
-    "locale_name": "WINTERVILLE DPOBU",
-    "physical_delivery_address": "1031A SLAB RD",
-    "physical_city": "WINTERVILLE",
-    "physical_state": "MS",
-    "physical_zip": "38782",
-    "physical_zip4": "9800"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14646",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1479,7 +1722,10 @@
     "physical_city": "TUPELO",
     "physical_state": "MS",
     "physical_zip": "38801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14532",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1492,7 +1738,10 @@
     "physical_city": "TUPELO",
     "physical_state": "MS",
     "physical_zip": "38804",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13522",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1505,7 +1754,10 @@
     "physical_city": "TUPELO",
     "physical_state": "MS",
     "physical_zip": "38801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14532",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1518,7 +1770,10 @@
     "physical_city": "TUPELO",
     "physical_state": "MS",
     "physical_zip": "38801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14532",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1531,7 +1786,10 @@
     "physical_city": "ALGOMA",
     "physical_state": "MS",
     "physical_zip": "38820",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13166",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1544,7 +1802,10 @@
     "physical_city": "AMORY",
     "physical_state": "MS",
     "physical_zip": "38821",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13174",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1557,7 +1818,10 @@
     "physical_city": "BALDWYN",
     "physical_state": "MS",
     "physical_zip": "38824",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13201",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1570,7 +1834,10 @@
     "physical_city": "BECKER",
     "physical_state": "MS",
     "physical_zip": "38825",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13231",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1583,7 +1850,10 @@
     "physical_city": "BELDEN",
     "physical_state": "MS",
     "physical_zip": "38826",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13234",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1596,7 +1866,10 @@
     "physical_city": "BELMONT",
     "physical_state": "MS",
     "physical_zip": "38827",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13243",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1609,7 +1882,10 @@
     "physical_city": "BLUE SPRINGS",
     "physical_state": "MS",
     "physical_zip": "38828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13285",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1622,7 +1898,10 @@
     "physical_city": "BOONEVILLE",
     "physical_state": "MS",
     "physical_zip": "38829",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13294",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1635,7 +1914,10 @@
     "physical_city": "BURNSVILLE",
     "physical_state": "MS",
     "physical_zip": "38833",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13331",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1648,7 +1930,10 @@
     "physical_city": "CORINTH",
     "physical_state": "MS",
     "physical_zip": "38834",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13441",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1661,7 +1946,10 @@
     "physical_city": "CORINTH",
     "physical_state": "MS",
     "physical_zip": "38834",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13441",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1674,7 +1962,10 @@
     "physical_city": "DENNIS",
     "physical_state": "MS",
     "physical_zip": "38838",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13499",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1687,7 +1978,10 @@
     "physical_city": "TISHOMINGO",
     "physical_state": "MS",
     "physical_zip": "38873",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14509",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1700,7 +1994,10 @@
     "physical_city": "DERMA",
     "physical_state": "MS",
     "physical_zip": "38839",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13505",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1713,7 +2010,10 @@
     "physical_city": "ECRU",
     "physical_state": "MS",
     "physical_zip": "38841",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13555",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1726,7 +2026,10 @@
     "physical_city": "PONTOTOC",
     "physical_state": "MS",
     "physical_zip": "38863",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1739,7 +2042,10 @@
     "physical_city": "FULTON",
     "physical_state": "MS",
     "physical_zip": "38843",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13638",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1752,7 +2058,10 @@
     "physical_city": "GATTMAN",
     "physical_state": "MS",
     "physical_zip": "38844",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13647",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1765,7 +2074,10 @@
     "physical_city": "GLEN",
     "physical_state": "MS",
     "physical_zip": "38846",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13657",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1778,7 +2090,10 @@
     "physical_city": "BELMONT",
     "physical_state": "MS",
     "physical_zip": "38827",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13243",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1791,20 +2106,10 @@
     "physical_city": "GOLDEN",
     "physical_state": "MS",
     "physical_zip": "38847",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38848",
-    "locale_name": "GATTMAN",
-    "physical_delivery_address": "52492 HIGHWAY 278 E",
-    "physical_city": "GATTMAN",
-    "physical_state": "MS",
-    "physical_zip": "38844",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13664",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1817,7 +2122,10 @@
     "physical_city": "GREENWOOD SPRINGS",
     "physical_state": "MS",
     "physical_zip": "38848",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13689",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1830,7 +2138,10 @@
     "physical_city": "GUNTOWN",
     "physical_state": "MS",
     "physical_zip": "38849",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13703",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1843,7 +2154,10 @@
     "physical_city": "SALTILLO",
     "physical_state": "MS",
     "physical_zip": "38866",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14349",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1856,7 +2170,10 @@
     "physical_city": "HOULKA",
     "physical_state": "MS",
     "physical_zip": "38850",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13774",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1869,7 +2186,10 @@
     "physical_city": "HOUSTON",
     "physical_state": "MS",
     "physical_zip": "38851",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13775",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1882,7 +2202,10 @@
     "physical_city": "IUKA",
     "physical_state": "MS",
     "physical_zip": "38852",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13798",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1895,7 +2218,10 @@
     "physical_city": "MANTACHIE",
     "physical_state": "MS",
     "physical_zip": "38855",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13942",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1908,7 +2234,10 @@
     "physical_city": "MARIETTA",
     "physical_state": "MS",
     "physical_zip": "38856",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13945",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1921,7 +2250,10 @@
     "physical_city": "MOOREVILLE",
     "physical_state": "MS",
     "physical_zip": "38857",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14038",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1934,20 +2266,10 @@
     "physical_city": "NETTLETON",
     "physical_state": "MS",
     "physical_zip": "38858",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38859",
-    "locale_name": "BOONEVILLE",
-    "physical_delivery_address": "515 N 2ND ST",
-    "physical_city": "BOONEVILLE",
-    "physical_state": "MS",
-    "physical_zip": "38829",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14098",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1960,7 +2282,10 @@
     "physical_city": "OKOLONA",
     "physical_state": "MS",
     "physical_zip": "38860",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14139",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1973,7 +2298,10 @@
     "physical_city": "PLANTERSVILLE",
     "physical_state": "MS",
     "physical_zip": "38862",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14231",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1986,7 +2314,10 @@
     "physical_city": "PONTOTOC",
     "physical_state": "MS",
     "physical_zip": "38863",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1999,7 +2330,10 @@
     "physical_city": "PONTOTOC",
     "physical_state": "MS",
     "physical_zip": "38863",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2012,7 +2346,10 @@
     "physical_city": "RANDOLPH",
     "physical_state": "MS",
     "physical_zip": "38864",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14286",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2025,7 +2362,10 @@
     "physical_city": "RIENZI",
     "physical_state": "MS",
     "physical_zip": "38865",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14309",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2038,7 +2378,10 @@
     "physical_city": "SALTILLO",
     "physical_state": "MS",
     "physical_zip": "38866",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14349",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2051,7 +2394,10 @@
     "physical_city": "SHANNON",
     "physical_state": "MS",
     "physical_zip": "38868",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14383",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2064,7 +2410,10 @@
     "physical_city": "SHERMAN",
     "physical_state": "MS",
     "physical_zip": "38869",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14392",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2077,7 +2426,10 @@
     "physical_city": "AMORY",
     "physical_state": "MS",
     "physical_zip": "38821",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13174",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2090,7 +2442,10 @@
     "physical_city": "SMITHVILLE",
     "physical_state": "MS",
     "physical_zip": "38870",
-    "physical_zip4": "9745"
+    "physical_zip4": "9745",
+    "zip_class_code": null,
+    "locale_key": "014835",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -2103,7 +2458,10 @@
     "physical_city": "PONTOTOC",
     "physical_state": "MS",
     "physical_zip": "38863",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2116,7 +2474,10 @@
     "physical_city": "THAXTON",
     "physical_state": "MS",
     "physical_zip": "38871",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14489",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2129,7 +2490,10 @@
     "physical_city": "TISHOMINGO",
     "physical_state": "MS",
     "physical_zip": "38873",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14509",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2142,7 +2506,10 @@
     "physical_city": "TOCCOPOLA",
     "physical_state": "MS",
     "physical_zip": "38874",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14510",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2155,7 +2522,10 @@
     "physical_city": "TREMONT",
     "physical_state": "MS",
     "physical_zip": "38876",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14519",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2168,7 +2538,10 @@
     "physical_city": "VAN VLEET",
     "physical_state": "MS",
     "physical_zip": "38877",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14562",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2181,7 +2554,10 @@
     "physical_city": "VARDAMAN",
     "physical_state": "MS",
     "physical_zip": "38878",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14565",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2194,7 +2570,10 @@
     "physical_city": "VERONA",
     "physical_state": "MS",
     "physical_zip": "38879",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14571",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2207,7 +2586,10 @@
     "physical_city": "WHEELER",
     "physical_state": "MS",
     "physical_zip": "38880",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14626",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2220,7 +2602,10 @@
     "physical_city": "GRENADA",
     "physical_state": "MS",
     "physical_zip": "38901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13692",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2233,33 +2618,10 @@
     "physical_city": "GRENADA",
     "physical_state": "MS",
     "physical_zip": "38901",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38914",
-    "locale_name": "BIG CREEK DPOBU",
-    "physical_delivery_address": "101 E MAIN ST",
-    "physical_city": "BIG CREEK",
-    "physical_state": "MS",
-    "physical_zip": "38914",
-    "physical_zip4": "2627"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38914",
-    "locale_name": "CALHOUN CITY",
-    "physical_delivery_address": "205 N MAIN ST",
-    "physical_city": "CALHOUN CITY",
-    "physical_state": "MS",
-    "physical_zip": "38916",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13692",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2272,7 +2634,10 @@
     "physical_city": "BRUCE",
     "physical_state": "MS",
     "physical_zip": "38915",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13322",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2285,7 +2650,10 @@
     "physical_city": "CALHOUN CITY",
     "physical_state": "MS",
     "physical_zip": "38916",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13349",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2298,7 +2666,10 @@
     "physical_city": "CARROLLTON",
     "physical_state": "MS",
     "physical_zip": "38917",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13368",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2311,7 +2682,10 @@
     "physical_city": "CASCILLA",
     "physical_state": "MS",
     "physical_zip": "38920",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13375",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2324,7 +2698,10 @@
     "physical_city": "CHARLESTON",
     "physical_state": "MS",
     "physical_zip": "38921",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13386",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2337,7 +2714,10 @@
     "physical_city": "COFFEEVILLE",
     "physical_state": "MS",
     "physical_zip": "38922",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13418",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2350,7 +2730,10 @@
     "physical_city": "COILA",
     "physical_state": "MS",
     "physical_zip": "38923",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13421",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2363,7 +2746,10 @@
     "physical_city": "CRUGER",
     "physical_state": "MS",
     "physical_zip": "38924",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13460",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2376,7 +2762,10 @@
     "physical_city": "DUCK HILL",
     "physical_state": "MS",
     "physical_zip": "38925",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13530",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2389,7 +2778,10 @@
     "physical_city": "ENID",
     "physical_state": "MS",
     "physical_zip": "38927",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13576",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2402,7 +2794,10 @@
     "physical_city": "GLENDORA",
     "physical_state": "MS",
     "physical_zip": "38928",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13660",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2415,7 +2810,10 @@
     "physical_city": "GORE SPRINGS",
     "physical_state": "MS",
     "physical_zip": "38929",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13672",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2428,7 +2826,10 @@
     "physical_city": "GREENWOOD",
     "physical_state": "MS",
     "physical_zip": "38930",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "001024",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -2441,7 +2842,10 @@
     "physical_city": "GREENWOOD",
     "physical_state": "MS",
     "physical_zip": "38930",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13687",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2454,7 +2858,10 @@
     "physical_city": "HOLCOMB",
     "physical_state": "MS",
     "physical_zip": "38940",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13755",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2467,7 +2874,10 @@
     "physical_city": "ITTA BENA",
     "physical_state": "MS",
     "physical_zip": "38941",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13797",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2480,7 +2890,10 @@
     "physical_city": "MC CARLEY",
     "physical_state": "MS",
     "physical_zip": "38943",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13962",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2493,7 +2906,10 @@
     "physical_city": "MINTER CITY",
     "physical_state": "MS",
     "physical_zip": "38944",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14015",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2506,7 +2922,10 @@
     "physical_city": "MORGAN CITY",
     "physical_state": "MS",
     "physical_zip": "38946",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14042",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2519,7 +2938,10 @@
     "physical_city": "NORTH CARROLLTON",
     "physical_state": "MS",
     "physical_zip": "38947",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14121",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2532,20 +2954,10 @@
     "physical_city": "OAKLAND",
     "physical_state": "MS",
     "physical_zip": "38948",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38950",
-    "locale_name": "HOLCOMB",
-    "physical_delivery_address": "8334 HIGHWAY 7 S",
-    "physical_city": "HOLCOMB",
-    "physical_state": "MS",
-    "physical_zip": "38940",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14135",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2558,7 +2970,10 @@
     "physical_city": "PHILIPP",
     "physical_state": "MS",
     "physical_zip": "38950",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14203",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2571,7 +2986,10 @@
     "physical_city": "PITTSBORO",
     "physical_state": "MS",
     "physical_zip": "38951",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14228",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2584,7 +3002,10 @@
     "physical_city": "SCHLATER",
     "physical_state": "MS",
     "physical_zip": "38952",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14371",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2597,7 +3018,10 @@
     "physical_city": "GRENADA",
     "physical_state": "MS",
     "physical_zip": "38901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13692",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2610,7 +3034,10 @@
     "physical_city": "SCOBEY",
     "physical_state": "MS",
     "physical_zip": "38953",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14372",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2623,7 +3050,10 @@
     "physical_city": "SIDON",
     "physical_state": "MS",
     "physical_zip": "38954",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14400",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2636,7 +3066,10 @@
     "physical_city": "SUMNER",
     "physical_state": "MS",
     "physical_zip": "38957",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14463",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2649,7 +3082,10 @@
     "physical_city": "TILLATOBA",
     "physical_state": "MS",
     "physical_zip": "38961",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14502",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2662,7 +3098,10 @@
     "physical_city": "TIPPO",
     "physical_state": "MS",
     "physical_zip": "38962",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14508",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2675,20 +3114,10 @@
     "physical_city": "TUTWILER",
     "physical_state": "MS",
     "physical_zip": "38963",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "38964",
-    "locale_name": "TUTWILER",
-    "physical_delivery_address": "201 ALMA ST E",
-    "physical_city": "TUTWILER",
-    "physical_state": "MS",
-    "physical_zip": "38963",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14535",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2701,7 +3130,10 @@
     "physical_city": "VANCE",
     "physical_state": "MS",
     "physical_zip": "38964",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14563",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2714,7 +3146,10 @@
     "physical_city": "WATER VALLEY",
     "physical_state": "MS",
     "physical_zip": "38965",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y18641",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2727,7 +3162,10 @@
     "physical_city": "WEBB",
     "physical_state": "MS",
     "physical_zip": "38966",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14612",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2740,7 +3178,10 @@
     "physical_city": "WINONA",
     "physical_state": "MS",
     "physical_zip": "38967",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14645",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2753,7 +3194,10 @@
     "physical_city": "BELZONI",
     "physical_state": "MS",
     "physical_zip": "39038",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13244",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2766,7 +3210,10 @@
     "physical_city": "BENTON",
     "physical_state": "MS",
     "physical_zip": "39039",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13248",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2779,7 +3226,10 @@
     "physical_city": "BENTONIA",
     "physical_state": "MS",
     "physical_zip": "39040",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13249",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2792,7 +3242,10 @@
     "physical_city": "BOLTON",
     "physical_state": "MS",
     "physical_zip": "39041",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13292",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2805,7 +3258,10 @@
     "physical_city": "BRANDON",
     "physical_state": "MS",
     "physical_zip": "39042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13303",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2818,7 +3274,10 @@
     "physical_city": "BRANDON",
     "physical_state": "MS",
     "physical_zip": "39042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13303",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2831,7 +3290,10 @@
     "physical_city": "BRAXTON",
     "physical_state": "MS",
     "physical_zip": "39044",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13306",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2844,7 +3306,10 @@
     "physical_city": "CAMDEN",
     "physical_state": "MS",
     "physical_zip": "39045",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13352",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2857,7 +3322,10 @@
     "physical_city": "CANTON",
     "physical_state": "MS",
     "physical_zip": "39046",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13360",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2870,7 +3338,10 @@
     "physical_city": "BRANDON",
     "physical_state": "MS",
     "physical_zip": "39047",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14298",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2883,7 +3354,10 @@
     "physical_city": "CARTHAGE",
     "physical_state": "MS",
     "physical_zip": "39051",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13373",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2896,20 +3370,10 @@
     "physical_city": "CARY",
     "physical_state": "MS",
     "physical_zip": "39054",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39054",
-    "locale_name": "ROLLING FORK",
-    "physical_delivery_address": "138 WALNUT ST",
-    "physical_city": "ROLLING FORK",
-    "physical_state": "MS",
-    "physical_zip": "39159",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13374",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2922,7 +3386,10 @@
     "physical_city": "CLINTON",
     "physical_state": "MS",
     "physical_zip": "39056",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13414",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2935,7 +3402,10 @@
     "physical_city": "CONEHATTA",
     "physical_state": "MS",
     "physical_zip": "39057",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13440",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2948,7 +3418,10 @@
     "physical_city": "CRYSTAL SPRINGS",
     "physical_state": "MS",
     "physical_zip": "39059",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13462",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2961,20 +3434,10 @@
     "physical_city": "CLINTON",
     "physical_state": "MS",
     "physical_zip": "39056",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39061",
-    "locale_name": "DELTA CITY DPOBU",
-    "physical_delivery_address": "17 RITCHEY RD",
-    "physical_city": "DELTA CITY",
-    "physical_state": "MS",
-    "physical_zip": "39061",
-    "physical_zip4": "9700"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13414",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2987,7 +3450,10 @@
     "physical_city": "D LO",
     "physical_state": "MS",
     "physical_zip": "39062",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13470",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3000,7 +3466,10 @@
     "physical_city": "DURANT",
     "physical_state": "MS",
     "physical_zip": "39063",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13536",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3013,7 +3482,10 @@
     "physical_city": "EDWARDS",
     "physical_state": "MS",
     "physical_zip": "39066",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13558",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3026,7 +3498,10 @@
     "physical_city": "ETHEL",
     "physical_state": "MS",
     "physical_zip": "39067",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13586",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3039,7 +3514,10 @@
     "physical_city": "FAYETTE",
     "physical_state": "MS",
     "physical_zip": "39069",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13609",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3052,7 +3530,10 @@
     "physical_city": "FLORA",
     "physical_state": "MS",
     "physical_zip": "39071",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13614",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3065,7 +3546,10 @@
     "physical_city": "FLORENCE",
     "physical_state": "MS",
     "physical_zip": "39073",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13615",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3078,7 +3562,10 @@
     "physical_city": "FOREST",
     "physical_state": "MS",
     "physical_zip": "39074",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13621",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3091,7 +3578,10 @@
     "physical_city": "GALLMAN",
     "physical_state": "MS",
     "physical_zip": "39077",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13643",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3104,7 +3594,10 @@
     "physical_city": "GEORGETOWN",
     "physical_state": "MS",
     "physical_zip": "39078",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13652",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3117,7 +3610,10 @@
     "physical_city": "GOODMAN",
     "physical_state": "MS",
     "physical_zip": "39079",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13669",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3130,7 +3626,10 @@
     "physical_city": "HARPERVILLE",
     "physical_state": "MS",
     "physical_zip": "39080",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13710",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3143,7 +3642,10 @@
     "physical_city": "HARRISVILLE",
     "physical_state": "MS",
     "physical_zip": "39082",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13714",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3156,7 +3658,10 @@
     "physical_city": "HAZLEHURST",
     "physical_state": "MS",
     "physical_zip": "39083",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13724",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3169,7 +3674,10 @@
     "physical_city": "HERMANVILLE",
     "physical_state": "MS",
     "physical_zip": "39086",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13732",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3182,7 +3690,10 @@
     "physical_city": "HILLSBORO",
     "physical_state": "MS",
     "physical_zip": "39087",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13744",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3195,7 +3706,10 @@
     "physical_city": "HOLLY BLUFF",
     "physical_state": "MS",
     "physical_zip": "39088",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13761",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3208,7 +3722,10 @@
     "physical_city": "KOSCIUSKO",
     "physical_state": "MS",
     "physical_zip": "39090",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13842",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3221,7 +3738,10 @@
     "physical_city": "LAKE",
     "physical_state": "MS",
     "physical_zip": "39092",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13849",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3234,7 +3754,10 @@
     "physical_city": "LENA",
     "physical_state": "MS",
     "physical_zip": "39094",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13878",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3247,7 +3770,10 @@
     "physical_city": "LEXINGTON",
     "physical_state": "MS",
     "physical_zip": "39095",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13883",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3260,7 +3786,10 @@
     "physical_city": "LORMAN",
     "physical_state": "MS",
     "physical_zip": "39096",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13907",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3273,7 +3802,10 @@
     "physical_city": "LOUISE",
     "physical_state": "MS",
     "physical_zip": "39097",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13909",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3286,7 +3818,10 @@
     "physical_city": "LUDLOW",
     "physical_state": "MS",
     "physical_zip": "39098",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13917",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3299,7 +3834,10 @@
     "physical_city": "MC COOL",
     "physical_state": "MS",
     "physical_zip": "39108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13966",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3312,7 +3850,10 @@
     "physical_city": "MADDEN",
     "physical_state": "MS",
     "physical_zip": "39109",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13929",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3325,7 +3866,10 @@
     "physical_city": "MADISON",
     "physical_state": "MS",
     "physical_zip": "39110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13930",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3338,7 +3882,10 @@
     "physical_city": "MAGEE",
     "physical_state": "MS",
     "physical_zip": "39111",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13931",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3351,7 +3898,10 @@
     "physical_city": "MAYERSVILLE",
     "physical_state": "MS",
     "physical_zip": "39113",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13956",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3364,20 +3914,10 @@
     "physical_city": "MENDENHALL",
     "physical_state": "MS",
     "physical_zip": "39114",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39115",
-    "locale_name": "MIDNIGHT DPOBU",
-    "physical_delivery_address": "675 E MAIN ST",
-    "physical_city": "MIDNIGHT",
-    "physical_state": "MS",
-    "physical_zip": "39115",
-    "physical_zip4": "7000"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13991",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3390,7 +3930,10 @@
     "physical_city": "MIZE",
     "physical_state": "MS",
     "physical_zip": "39116",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14028",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3403,7 +3946,10 @@
     "physical_city": "MORTON",
     "physical_state": "MS",
     "physical_zip": "39117",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14050",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3416,7 +3962,10 @@
     "physical_city": "MOUNT OLIVE",
     "physical_state": "MS",
     "physical_zip": "39119",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14060",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3429,7 +3978,10 @@
     "physical_city": "NATCHEZ",
     "physical_state": "MS",
     "physical_zip": "39120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14088",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3442,7 +3994,10 @@
     "physical_city": "NATCHEZ",
     "physical_state": "MS",
     "physical_zip": "39120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14088",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3455,7 +4010,10 @@
     "physical_city": "NATCHEZ",
     "physical_state": "MS",
     "physical_zip": "39120",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Y14517",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -3468,7 +4026,10 @@
     "physical_city": "MADISON",
     "physical_state": "MS",
     "physical_zip": "39110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13930",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3481,7 +4042,10 @@
     "physical_city": "NEWHEBRON",
     "physical_state": "MS",
     "physical_zip": "39140",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14107",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3494,7 +4058,10 @@
     "physical_city": "PATTISON",
     "physical_state": "MS",
     "physical_zip": "39144",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14179",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3507,7 +4074,10 @@
     "physical_city": "PELAHATCHIE",
     "physical_state": "MS",
     "physical_zip": "39145",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14189",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3520,7 +4090,10 @@
     "physical_city": "PICKENS",
     "physical_state": "MS",
     "physical_zip": "39146",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14207",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3533,7 +4106,10 @@
     "physical_city": "PINEY WOODS",
     "physical_state": "MS",
     "physical_zip": "39148",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14223",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3546,7 +4122,10 @@
     "physical_city": "PINOLA",
     "physical_state": "MS",
     "physical_zip": "39149",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14224",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3559,7 +4138,10 @@
     "physical_city": "PORT GIBSON",
     "physical_state": "MS",
     "physical_zip": "39150",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14256",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3572,7 +4154,10 @@
     "physical_city": "PUCKETT",
     "physical_state": "MS",
     "physical_zip": "39151",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14274",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3585,7 +4170,10 @@
     "physical_city": "PULASKI",
     "physical_state": "MS",
     "physical_zip": "39152",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14275",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3598,7 +4186,10 @@
     "physical_city": "RALEIGH",
     "physical_state": "MS",
     "physical_zip": "39153",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14285",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3611,7 +4202,10 @@
     "physical_city": "RAYMOND",
     "physical_state": "MS",
     "physical_zip": "39154",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14289",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3624,7 +4218,10 @@
     "physical_city": "REDWOOD",
     "physical_state": "MS",
     "physical_zip": "39156",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14293",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3637,7 +4234,10 @@
     "physical_city": "RIDGELAND",
     "physical_state": "MS",
     "physical_zip": "39157",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14308",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3650,7 +4250,10 @@
     "physical_city": "RIDGELAND",
     "physical_state": "MS",
     "physical_zip": "39157",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14308",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3663,7 +4266,10 @@
     "physical_city": "ROLLING FORK",
     "physical_state": "MS",
     "physical_zip": "39159",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14322",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3676,7 +4282,10 @@
     "physical_city": "SALLIS",
     "physical_state": "MS",
     "physical_zip": "39160",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14348",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3689,7 +4298,10 @@
     "physical_city": "SANDHILL",
     "physical_state": "MS",
     "physical_zip": "39161",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14356",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3702,7 +4314,10 @@
     "physical_city": "SATARTIA",
     "physical_state": "MS",
     "physical_zip": "39162",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14365",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3715,7 +4330,10 @@
     "physical_city": "SHARON",
     "physical_state": "MS",
     "physical_zip": "39163",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "011316",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -3728,7 +4346,10 @@
     "physical_city": "SIBLEY",
     "physical_state": "MS",
     "physical_zip": "39165",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14399",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3741,7 +4362,10 @@
     "physical_city": "SILVER CITY",
     "physical_state": "MS",
     "physical_zip": "39166",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14401",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3754,7 +4378,10 @@
     "physical_city": "STAR",
     "physical_state": "MS",
     "physical_zip": "39167",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14439",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3767,7 +4394,10 @@
     "physical_city": "TAYLORSVILLE",
     "physical_state": "MS",
     "physical_zip": "39168",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14480",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3780,7 +4410,10 @@
     "physical_city": "TCHULA",
     "physical_state": "MS",
     "physical_zip": "39169",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14483",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3793,20 +4426,10 @@
     "physical_city": "TERRY",
     "physical_state": "MS",
     "physical_zip": "39170",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39171",
-    "locale_name": "THOMASTOWN DPOBU",
-    "physical_delivery_address": "7669 HIGHWAY 43 S",
-    "physical_city": "THOMASTOWN",
-    "physical_state": "MS",
-    "physical_zip": "39171",
-    "physical_zip4": "7000"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14487",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3819,20 +4442,10 @@
     "physical_city": "TINSLEY",
     "physical_state": "MS",
     "physical_zip": "39173",
-    "physical_zip4": "9700"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39173",
-    "locale_name": "YAZOO CITY",
-    "physical_delivery_address": "341 N MAIN ST",
-    "physical_city": "YAZOO CITY",
-    "physical_state": "MS",
-    "physical_zip": "39194",
-    "physical_zip4": "9998"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "015578",
+    "locale_type": "6"
   },
   {
     "area_name": "SOUTHERN",
@@ -3845,7 +4458,10 @@
     "physical_city": "TOUGALOO",
     "physical_state": "MS",
     "physical_zip": "39174",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14516",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3858,7 +4474,10 @@
     "physical_city": "UTICA",
     "physical_state": "MS",
     "physical_zip": "39175",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14552",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3871,7 +4490,10 @@
     "physical_city": "VAIDEN",
     "physical_state": "MS",
     "physical_zip": "39176",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14555",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3884,7 +4506,10 @@
     "physical_city": "VALLEY PARK",
     "physical_state": "MS",
     "physical_zip": "39177",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14558",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3897,7 +4522,10 @@
     "physical_city": "PICKENS",
     "physical_state": "MS",
     "physical_zip": "39146",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14207",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3910,7 +4538,10 @@
     "physical_city": "VICKSBURG",
     "physical_state": "MS",
     "physical_zip": "39180",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14573",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3923,7 +4554,10 @@
     "physical_city": "VICKSBURG",
     "physical_state": "MS",
     "physical_zip": "39180",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14573",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3936,7 +4570,10 @@
     "physical_city": "VICKSBURG",
     "physical_state": "MS",
     "physical_zip": "39180",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14573",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3949,7 +4586,10 @@
     "physical_city": "VICKSBURG",
     "physical_state": "MS",
     "physical_zip": "39180",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14573",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3962,7 +4602,10 @@
     "physical_city": "WALNUT GROVE",
     "physical_state": "MS",
     "physical_zip": "39189",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14591",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3975,7 +4618,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "MS",
     "physical_zip": "39190",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14598",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -3988,7 +4634,10 @@
     "physical_city": "WESSON",
     "physical_state": "MS",
     "physical_zip": "39191",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14616",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4001,7 +4650,10 @@
     "physical_city": "WEST",
     "physical_state": "MS",
     "physical_zip": "39192",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14618",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4014,7 +4666,10 @@
     "physical_city": "WHITFIELD",
     "physical_state": "MS",
     "physical_zip": "39193",
-    "physical_zip4": "5529"
+    "physical_zip4": "5529",
+    "zip_class_code": "P",
+    "locale_key": "Y18417",
+    "locale_type": "C"
   },
   {
     "area_name": "SOUTHERN",
@@ -4027,7 +4682,10 @@
     "physical_city": "YAZOO CITY",
     "physical_state": "MS",
     "physical_zip": "39194",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14664",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4040,7 +4698,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39206",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14118",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4053,7 +4714,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39211",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13876",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4066,7 +4730,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39209",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14625",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4079,7 +4746,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39204",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13802",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4092,7 +4762,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39201",
-    "physical_zip4": "9820"
+    "physical_zip4": "9820",
+    "zip_class_code": "P",
+    "locale_key": "Y13801",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4105,7 +4778,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39206",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14118",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4118,7 +4794,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39201",
-    "physical_zip4": "9820"
+    "physical_zip4": "9820",
+    "zip_class_code": "P",
+    "locale_key": "Y13801",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4131,7 +4810,10 @@
     "physical_city": "PEARL",
     "physical_state": "MS",
     "physical_zip": "39208",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14184",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -4144,7 +4826,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39209",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14625",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4157,7 +4842,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39211",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13876",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4170,7 +4858,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39212",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13357",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4183,7 +4874,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39213",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13493",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4196,7 +4890,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39201",
-    "physical_zip4": "9820"
+    "physical_zip4": "9820",
+    "zip_class_code": "P",
+    "locale_key": "Y13801",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4209,7 +4906,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39206",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14118",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4222,7 +4922,10 @@
     "physical_city": "RICHLAND",
     "physical_state": "MS",
     "physical_zip": "39218",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14304",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -4235,7 +4938,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39201",
-    "physical_zip4": "9820"
+    "physical_zip4": "9820",
+    "zip_class_code": "P",
+    "locale_key": "Y13801",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4248,7 +4954,10 @@
     "physical_city": "FLOWOOD",
     "physical_state": "MS",
     "physical_zip": "39232",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "001754",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -4261,7 +4970,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39211",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13876",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4274,7 +4986,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39269",
-    "physical_zip4": "1620"
+    "physical_zip4": "1620",
+    "zip_class_code": null,
+    "locale_key": "Y13152",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -4287,7 +5002,10 @@
     "physical_city": "BYRAM",
     "physical_state": "MS",
     "physical_zip": "39272",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13339",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -4300,7 +5018,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39212",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13357",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4313,7 +5034,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39213",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13493",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4326,7 +5050,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39204",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13802",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4339,7 +5066,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39206",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14118",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4352,7 +5082,10 @@
     "physical_city": "PEARL",
     "physical_state": "MS",
     "physical_zip": "39208",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14184",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -4365,7 +5098,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39209",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14625",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4378,7 +5114,10 @@
     "physical_city": "JACKSON",
     "physical_state": "MS",
     "physical_zip": "39216",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13617",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4391,7 +5130,10 @@
     "physical_city": "FLOWOOD",
     "physical_state": "MS",
     "physical_zip": "39232",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "001754",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -4404,7 +5146,10 @@
     "physical_city": "MERIDIAN",
     "physical_state": "MS",
     "physical_zip": "39301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13993",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4417,7 +5162,10 @@
     "physical_city": "MERIDIAN",
     "physical_state": "MS",
     "physical_zip": "39301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13993",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4430,7 +5178,10 @@
     "physical_city": "MERIDIAN",
     "physical_state": "MS",
     "physical_zip": "39305",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14119",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4443,7 +5194,10 @@
     "physical_city": "MERIDIAN",
     "physical_state": "MS",
     "physical_zip": "39301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13993",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4456,7 +5210,10 @@
     "physical_city": "MERIDIAN",
     "physical_state": "MS",
     "physical_zip": "39305",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14119",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4469,7 +5226,10 @@
     "physical_city": "MERIDIAN",
     "physical_state": "MS",
     "physical_zip": "39305",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14119",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -4482,7 +5242,10 @@
     "physical_city": "BAILEY",
     "physical_state": "MS",
     "physical_zip": "39320",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13199",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4495,7 +5258,10 @@
     "physical_city": "BUCKATUNNA",
     "physical_state": "MS",
     "physical_zip": "39322",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13324",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4508,7 +5274,10 @@
     "physical_city": "CHUNKY",
     "physical_state": "MS",
     "physical_zip": "39323",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13399",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4521,7 +5290,10 @@
     "physical_city": "CLARA",
     "physical_state": "MS",
     "physical_zip": "39324",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13403",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4534,7 +5306,10 @@
     "physical_city": "COLLINSVILLE",
     "physical_state": "MS",
     "physical_zip": "39325",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13426",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4547,7 +5322,10 @@
     "physical_city": "DALEVILLE",
     "physical_state": "MS",
     "physical_zip": "39326",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13475",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4560,7 +5338,10 @@
     "physical_city": "DECATUR",
     "physical_state": "MS",
     "physical_zip": "39327",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13486",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4573,7 +5354,10 @@
     "physical_city": "DE KALB",
     "physical_state": "MS",
     "physical_zip": "39328",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13485",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4586,7 +5370,10 @@
     "physical_city": "ENTERPRISE",
     "physical_state": "MS",
     "physical_zip": "39330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13579",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4599,7 +5386,10 @@
     "physical_city": "STONEWALL",
     "physical_state": "MS",
     "physical_zip": "39363",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14452",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4612,7 +5402,10 @@
     "physical_city": "HICKORY",
     "physical_state": "MS",
     "physical_zip": "39332",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13735",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4625,7 +5418,10 @@
     "physical_city": "LAUDERDALE",
     "physical_state": "MS",
     "physical_zip": "39335",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13863",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4638,7 +5434,10 @@
     "physical_city": "LAWRENCE",
     "physical_state": "MS",
     "physical_zip": "39336",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13865",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4651,7 +5450,10 @@
     "physical_city": "LITTLE ROCK",
     "physical_state": "MS",
     "physical_zip": "39337",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13890",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4664,7 +5466,10 @@
     "physical_city": "LOUIN",
     "physical_state": "MS",
     "physical_zip": "39338",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13908",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4677,7 +5482,10 @@
     "physical_city": "LOUISVILLE",
     "physical_state": "MS",
     "physical_zip": "39339",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13910",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4690,7 +5498,10 @@
     "physical_city": "MACON",
     "physical_state": "MS",
     "physical_zip": "39341",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13928",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4703,7 +5514,10 @@
     "physical_city": "MARION",
     "physical_state": "MS",
     "physical_zip": "39342",
-    "physical_zip4": "0358"
+    "physical_zip4": "0358",
+    "zip_class_code": null,
+    "locale_key": "Y13946",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4716,7 +5530,10 @@
     "physical_city": "NEWTON",
     "physical_state": "MS",
     "physical_zip": "39345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14109",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4729,7 +5546,10 @@
     "physical_city": "NOXAPATER",
     "physical_state": "MS",
     "physical_zip": "39346",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14128",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4742,7 +5562,10 @@
     "physical_city": "PACHUTA",
     "physical_state": "MS",
     "physical_zip": "39347",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14165",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4755,7 +5578,10 @@
     "physical_city": "PAULDING",
     "physical_state": "MS",
     "physical_zip": "39348",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14181",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4768,7 +5594,10 @@
     "physical_city": "CHOCTAW",
     "physical_state": "MS",
     "physical_zip": "39350",
-    "physical_zip4": "6571"
+    "physical_zip4": "6571",
+    "zip_class_code": null,
+    "locale_key": "Y13397",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -4781,7 +5610,10 @@
     "physical_city": "PHILADELPHIA",
     "physical_state": "MS",
     "physical_zip": "39350",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14202",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4794,7 +5626,10 @@
     "physical_city": "PORTERVILLE",
     "physical_state": "MS",
     "physical_zip": "39352",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14257",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4807,7 +5642,10 @@
     "physical_city": "PRESTON",
     "physical_state": "MS",
     "physical_zip": "39354",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14269",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4820,7 +5658,10 @@
     "physical_city": "QUITMAN",
     "physical_state": "MS",
     "physical_zip": "39355",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14282",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4833,7 +5674,10 @@
     "physical_city": "ROSE HILL",
     "physical_state": "MS",
     "physical_zip": "39356",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14325",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4846,7 +5690,10 @@
     "physical_city": "SCOOBA",
     "physical_state": "MS",
     "physical_zip": "39358",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14373",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4859,7 +5706,10 @@
     "physical_city": "SEBASTOPOL",
     "physical_state": "MS",
     "physical_zip": "39359",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14375",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4872,7 +5722,10 @@
     "physical_city": "SHUBUTA",
     "physical_state": "MS",
     "physical_zip": "39360",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14396",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4885,7 +5738,10 @@
     "physical_city": "SHUQUALAK",
     "physical_state": "MS",
     "physical_zip": "39361",
-    "physical_zip4": "9710"
+    "physical_zip4": "9710",
+    "zip_class_code": null,
+    "locale_key": "Y14397",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4898,7 +5754,10 @@
     "physical_city": "STATE LINE",
     "physical_state": "MS",
     "physical_zip": "39362",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14444",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4911,7 +5770,10 @@
     "physical_city": "STONEWALL",
     "physical_state": "MS",
     "physical_zip": "39363",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14452",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4924,7 +5786,10 @@
     "physical_city": "TOOMSUBA",
     "physical_state": "MS",
     "physical_zip": "39364",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14512",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4937,7 +5802,10 @@
     "physical_city": "UNION",
     "physical_state": "MS",
     "physical_zip": "39365",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14542",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4950,7 +5818,10 @@
     "physical_city": "VOSSBURG",
     "physical_state": "MS",
     "physical_zip": "39366",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14577",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4963,7 +5834,10 @@
     "physical_city": "WAYNESBORO",
     "physical_state": "MS",
     "physical_zip": "39367",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14607",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -4976,7 +5850,10 @@
     "physical_city": "HATTIESBURG",
     "physical_state": "MS",
     "physical_zip": "39402",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "020653",
+    "locale_type": "4"
   },
   {
     "area_name": "SOUTHERN",
@@ -4989,7 +5866,10 @@
     "physical_city": "HATTIESBURG",
     "physical_state": "MS",
     "physical_zip": "39402",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "020653",
+    "locale_type": "4"
   },
   {
     "area_name": "SOUTHERN",
@@ -5002,7 +5882,10 @@
     "physical_city": "HATTIESBURG",
     "physical_state": "MS",
     "physical_zip": "39401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13519",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5015,7 +5898,10 @@
     "physical_city": "HATTIESBURG",
     "physical_state": "MS",
     "physical_zip": "39402",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": "P",
+    "locale_key": "020653",
+    "locale_type": "4"
   },
   {
     "area_name": "SOUTHERN",
@@ -5028,7 +5914,10 @@
     "physical_city": "BASSFIELD",
     "physical_state": "MS",
     "physical_zip": "39421",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13214",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5041,7 +5930,10 @@
     "physical_city": "BAY SPRINGS",
     "physical_state": "MS",
     "physical_zip": "39422",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13223",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5054,7 +5946,10 @@
     "physical_city": "BEAUMONT",
     "physical_state": "MS",
     "physical_zip": "39423",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13230",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5067,7 +5962,10 @@
     "physical_city": "BROOKLYN",
     "physical_state": "MS",
     "physical_zip": "39425",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13316",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5080,7 +5978,10 @@
     "physical_city": "CARRIERE",
     "physical_state": "MS",
     "physical_zip": "39426",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13367",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5093,7 +5994,10 @@
     "physical_city": "PICAYUNE",
     "physical_state": "MS",
     "physical_zip": "39466",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "002225",
+    "locale_type": "4"
   },
   {
     "area_name": "SOUTHERN",
@@ -5106,7 +6010,10 @@
     "physical_city": "BASSFIELD",
     "physical_state": "MS",
     "physical_zip": "39421",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13214",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5119,7 +6026,10 @@
     "physical_city": "CARSON",
     "physical_state": "MS",
     "physical_zip": "39427",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13371",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5132,7 +6042,10 @@
     "physical_city": "COLLINS",
     "physical_state": "MS",
     "physical_zip": "39428",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13425",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5145,7 +6058,10 @@
     "physical_city": "COLUMBIA",
     "physical_state": "MS",
     "physical_zip": "39429",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13431",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5158,7 +6074,10 @@
     "physical_city": "EASTABUCHIE",
     "physical_state": "MS",
     "physical_zip": "39436",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13547",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5171,7 +6090,10 @@
     "physical_city": "ELLISVILLE",
     "physical_state": "MS",
     "physical_zip": "39437",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13568",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5184,7 +6106,10 @@
     "physical_city": "HEIDELBERG",
     "physical_state": "MS",
     "physical_zip": "39439",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13727",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5197,7 +6122,10 @@
     "physical_city": "LAUREL",
     "physical_state": "MS",
     "physical_zip": "39440",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13864",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5210,7 +6138,10 @@
     "physical_city": "LAUREL",
     "physical_state": "MS",
     "physical_zip": "39440",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13864",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5223,7 +6154,10 @@
     "physical_city": "LAUREL",
     "physical_state": "MS",
     "physical_zip": "39440",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Y13396",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5236,7 +6170,10 @@
     "physical_city": "LAUREL",
     "physical_state": "MS",
     "physical_zip": "39440",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13864",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5249,7 +6186,10 @@
     "physical_city": "LEAKESVILLE",
     "physical_state": "MS",
     "physical_zip": "39451",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13868",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5262,7 +6202,10 @@
     "physical_city": "LUCEDALE",
     "physical_state": "MS",
     "physical_zip": "39452",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13915",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5275,7 +6218,10 @@
     "physical_city": "LUMBERTON",
     "physical_state": "MS",
     "physical_zip": "39455",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13920",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5288,7 +6234,10 @@
     "physical_city": "BEAUMONT",
     "physical_state": "MS",
     "physical_zip": "39423",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13230",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5301,7 +6250,10 @@
     "physical_city": "MC LAIN",
     "physical_state": "MS",
     "physical_zip": "39456",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13968",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5314,7 +6266,10 @@
     "physical_city": "MC NEILL",
     "physical_state": "MS",
     "physical_zip": "39457",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13969",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5327,33 +6282,10 @@
     "physical_city": "MOSELLE",
     "physical_state": "MS",
     "physical_zip": "39459",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39460",
-    "locale_name": "MOSS DPOBU",
-    "physical_delivery_address": "153 JASPER HIGHWAY 537",
-    "physical_city": "LAUREL",
-    "physical_state": "MS",
-    "physical_zip": "39443",
-    "physical_zip4": "8144"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39461",
-    "locale_name": "BEAUMONT",
-    "physical_delivery_address": "825 HIGHWAY 198",
-    "physical_city": "BEAUMONT",
-    "physical_state": "MS",
-    "physical_zip": "39423",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14051",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5366,7 +6298,10 @@
     "physical_city": "NEELY",
     "physical_state": "MS",
     "physical_zip": "39461",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14095",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5379,7 +6314,10 @@
     "physical_city": "NEW AUGUSTA",
     "physical_state": "MS",
     "physical_zip": "39462",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14100",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5392,7 +6330,10 @@
     "physical_city": "NICHOLSON",
     "physical_state": "MS",
     "physical_zip": "39463",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14110",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5405,7 +6346,10 @@
     "physical_city": "OVETT",
     "physical_state": "MS",
     "physical_zip": "39464",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14159",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5418,7 +6362,10 @@
     "physical_city": "PETAL",
     "physical_state": "MS",
     "physical_zip": "39465",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14199",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5431,7 +6378,10 @@
     "physical_city": "PICAYUNE",
     "physical_state": "MS",
     "physical_zip": "39466",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14206",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5444,7 +6394,10 @@
     "physical_city": "PICAYUNE",
     "physical_state": "MS",
     "physical_zip": "39466",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "002225",
+    "locale_type": "4"
   },
   {
     "area_name": "SOUTHERN",
@@ -5453,11 +6406,14 @@
     "district_no": "350",
     "delivery_zipcode": "39470",
     "locale_name": "POPLARVILLE",
-    "physical_delivery_address": "301 S MAIN ST",
+    "physical_delivery_address": "935 S MAIN ST",
     "physical_city": "POPLARVILLE",
     "physical_state": "MS",
     "physical_zip": "39470",
-    "physical_zip4": "9998"
+    "physical_zip4": "3111",
+    "zip_class_code": null,
+    "locale_key": "Y14253",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5470,7 +6426,10 @@
     "physical_city": "PRENTISS",
     "physical_state": "MS",
     "physical_zip": "39474",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14268",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5483,7 +6442,10 @@
     "physical_city": "PURVIS",
     "physical_state": "MS",
     "physical_zip": "39475",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14278",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5496,7 +6458,10 @@
     "physical_city": "RICHTON",
     "physical_state": "MS",
     "physical_zip": "39476",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14307",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5509,7 +6474,10 @@
     "physical_city": "SANDERSVILLE",
     "physical_state": "MS",
     "physical_zip": "39477",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14353",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5522,7 +6490,10 @@
     "physical_city": "SANDY HOOK",
     "physical_state": "MS",
     "physical_zip": "39478",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14357",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5535,7 +6506,10 @@
     "physical_city": "SEMINARY",
     "physical_state": "MS",
     "physical_zip": "39479",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14377",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5548,7 +6522,10 @@
     "physical_city": "SOSO",
     "physical_state": "MS",
     "physical_zip": "39480",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14425",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5561,7 +6538,10 @@
     "physical_city": "STRINGER",
     "physical_state": "MS",
     "physical_zip": "39481",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14458",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5574,7 +6554,10 @@
     "physical_city": "SUMRALL",
     "physical_state": "MS",
     "physical_zip": "39482",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14464",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5587,7 +6570,10 @@
     "physical_city": "FOXWORTH",
     "physical_state": "MS",
     "physical_zip": "39483",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13626",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5600,7 +6586,10 @@
     "physical_city": "GULFPORT",
     "physical_state": "MS",
     "physical_zip": "39507",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13546",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5613,7 +6602,10 @@
     "physical_city": "GULFPORT",
     "physical_state": "MS",
     "physical_zip": "39501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13518",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5626,7 +6618,10 @@
     "physical_city": "GULFPORT",
     "physical_state": "MS",
     "physical_zip": "39503",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13700",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5639,7 +6634,10 @@
     "physical_city": "GULFPORT",
     "physical_state": "MS",
     "physical_zip": "39503",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13700",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5652,7 +6650,10 @@
     "physical_city": "GULFPORT",
     "physical_state": "MS",
     "physical_zip": "39507",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13546",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5665,7 +6666,10 @@
     "physical_city": "GULFPORT",
     "physical_state": "MS",
     "physical_zip": "39507",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13546",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5678,7 +6682,10 @@
     "physical_city": "BAY SAINT LOUIS",
     "physical_state": "MS",
     "physical_zip": "39520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13221",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5691,7 +6698,10 @@
     "physical_city": "BAY SAINT LOUIS",
     "physical_state": "MS",
     "physical_zip": "39520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13221",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5704,7 +6714,10 @@
     "physical_city": "BAY SAINT LOUIS",
     "physical_state": "MS",
     "physical_zip": "39520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13221",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5717,7 +6730,10 @@
     "physical_city": "DIAMONDHEAD",
     "physical_state": "MS",
     "physical_zip": "39525",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "010485",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -5730,7 +6746,10 @@
     "physical_city": "BILOXI",
     "physical_state": "MS",
     "physical_zip": "39530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13265",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5743,7 +6762,10 @@
     "physical_city": "BILOXI",
     "physical_state": "MS",
     "physical_zip": "39531",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14620",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5756,7 +6778,10 @@
     "physical_city": "DIBERVILLE",
     "physical_state": "MS",
     "physical_zip": "39540",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14120",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -5769,7 +6794,10 @@
     "physical_city": "BILOXI",
     "physical_state": "MS",
     "physical_zip": "39530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13265",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5782,7 +6810,10 @@
     "physical_city": "BILOXI",
     "physical_state": "MS",
     "physical_zip": "39534",
-    "physical_zip4": "2700"
+    "physical_zip4": "2700",
+    "zip_class_code": "P",
+    "locale_key": "Y13821",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5795,7 +6826,10 @@
     "physical_city": "BILOXI",
     "physical_state": "MS",
     "physical_zip": "39531",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14620",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -5808,7 +6842,10 @@
     "physical_city": "DIBERVILLE",
     "physical_state": "MS",
     "physical_zip": "39540",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14120",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -5821,7 +6858,10 @@
     "physical_city": "ESCATAWPA",
     "physical_state": "MS",
     "physical_zip": "39552",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13583",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5834,7 +6874,10 @@
     "physical_city": "GAUTIER",
     "physical_state": "MS",
     "physical_zip": "39553",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13648",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5847,7 +6890,10 @@
     "physical_city": "HURLEY",
     "physical_state": "MS",
     "physical_zip": "39555",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13778",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5860,7 +6906,10 @@
     "physical_city": "KILN",
     "physical_state": "MS",
     "physical_zip": "39556",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13830",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5873,7 +6922,10 @@
     "physical_city": "BAY SAINT LOUIS",
     "physical_state": "MS",
     "physical_zip": "39520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13221",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5886,7 +6938,10 @@
     "physical_city": "LONG BEACH",
     "physical_state": "MS",
     "physical_zip": "39560",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13902",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5899,7 +6954,10 @@
     "physical_city": "MC HENRY",
     "physical_state": "MS",
     "physical_zip": "39561",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13967",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5912,7 +6970,10 @@
     "physical_city": "MOSS POINT",
     "physical_state": "MS",
     "physical_zip": "39563",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14053",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -5925,7 +6986,10 @@
     "physical_city": "MOSS POINT",
     "physical_state": "MS",
     "physical_zip": "39563",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14053",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -5938,7 +7002,10 @@
     "physical_city": "OCEAN SPRINGS",
     "physical_state": "MS",
     "physical_zip": "39564",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14138",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5951,7 +7018,10 @@
     "physical_city": "VANCLEAVE",
     "physical_state": "MS",
     "physical_zip": "39565",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14564",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -5964,7 +7034,10 @@
     "physical_city": "OCEAN SPRINGS",
     "physical_state": "MS",
     "physical_zip": "39564",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14138",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5977,7 +7050,10 @@
     "physical_city": "PASCAGOULA",
     "physical_state": "MS",
     "physical_zip": "39567",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14174",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -5990,7 +7066,10 @@
     "physical_city": "PASCAGOULA",
     "physical_state": "MS",
     "physical_zip": "39567",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14174",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6003,7 +7082,10 @@
     "physical_city": "PASCAGOULA",
     "physical_state": "MS",
     "physical_zip": "39567",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14174",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6016,7 +7098,10 @@
     "physical_city": "PASS CHRISTIAN",
     "physical_state": "MS",
     "physical_zip": "39571",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14176",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6029,7 +7114,10 @@
     "physical_city": "BAY SAINT LOUIS",
     "physical_state": "MS",
     "physical_zip": "39520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13221",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6042,7 +7130,10 @@
     "physical_city": "PEARLINGTON",
     "physical_state": "MS",
     "physical_zip": "39572",
-    "physical_zip4": "7748"
+    "physical_zip4": "7748",
+    "zip_class_code": null,
+    "locale_key": "011315",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -6055,7 +7146,10 @@
     "physical_city": "PERKINSTON",
     "physical_state": "MS",
     "physical_zip": "39573",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14196",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6068,7 +7162,10 @@
     "physical_city": "SAUCIER",
     "physical_state": "MS",
     "physical_zip": "39574",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14366",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6081,7 +7178,10 @@
     "physical_city": "BAY SAINT LOUIS",
     "physical_state": "MS",
     "physical_zip": "39520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13221",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6094,7 +7194,10 @@
     "physical_city": "WIGGINS",
     "physical_state": "MS",
     "physical_zip": "39577",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14638",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6107,7 +7210,10 @@
     "physical_city": "PASCAGOULA",
     "physical_state": "MS",
     "physical_zip": "39567",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14174",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6120,7 +7226,10 @@
     "physical_city": "BROOKHAVEN",
     "physical_state": "MS",
     "physical_zip": "39601",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Y18558",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -6133,7 +7242,10 @@
     "physical_city": "BROOKHAVEN",
     "physical_state": "MS",
     "physical_zip": "39601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13314",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6146,7 +7258,10 @@
     "physical_city": "BROOKHAVEN",
     "physical_state": "MS",
     "physical_zip": "39601",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Y18558",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -6159,7 +7274,10 @@
     "physical_city": "BOGUE CHITTO",
     "physical_state": "MS",
     "physical_zip": "39629",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13289",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6172,7 +7290,10 @@
     "physical_city": "BUDE",
     "physical_state": "MS",
     "physical_zip": "39630",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13326",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6185,7 +7306,10 @@
     "physical_city": "CENTREVILLE",
     "physical_state": "MS",
     "physical_zip": "39631",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13381",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6198,7 +7322,10 @@
     "physical_city": "CROSBY",
     "physical_state": "MS",
     "physical_zip": "39633",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13454",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6211,7 +7338,10 @@
     "physical_city": "GLOSTER",
     "physical_state": "MS",
     "physical_zip": "39638",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13661",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6224,7 +7354,10 @@
     "physical_city": "FERNWOOD",
     "physical_state": "MS",
     "physical_zip": "39635",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13611",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6237,7 +7370,10 @@
     "physical_city": "GLOSTER",
     "physical_state": "MS",
     "physical_zip": "39638",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13661",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6250,7 +7386,10 @@
     "physical_city": "JAYESS",
     "physical_state": "MS",
     "physical_zip": "39641",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13807",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6263,7 +7402,10 @@
     "physical_city": "KOKOMO",
     "physical_state": "MS",
     "physical_zip": "39643",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13838",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6276,7 +7418,10 @@
     "physical_city": "LIBERTY",
     "physical_state": "MS",
     "physical_zip": "39645",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13884",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6289,7 +7434,10 @@
     "physical_city": "MC CALL CREEK",
     "physical_state": "MS",
     "physical_zip": "39647",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13961",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6302,7 +7450,10 @@
     "physical_city": "MCCOMB",
     "physical_state": "MS",
     "physical_zip": "39648",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13964",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6315,7 +7466,10 @@
     "physical_city": "MCCOMB",
     "physical_state": "MS",
     "physical_zip": "39648",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13964",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6328,7 +7482,10 @@
     "physical_city": "MAGNOLIA",
     "physical_state": "MS",
     "physical_zip": "39652",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13933",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6341,7 +7498,10 @@
     "physical_city": "MEADVILLE",
     "physical_state": "MS",
     "physical_zip": "39653",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13986",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6354,7 +7514,10 @@
     "physical_city": "MONTICELLO",
     "physical_state": "MS",
     "physical_zip": "39654",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14034",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6367,7 +7530,10 @@
     "physical_city": "OAK VALE",
     "physical_state": "MS",
     "physical_zip": "39656",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14134",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6380,7 +7546,10 @@
     "physical_city": "OSYKA",
     "physical_state": "MS",
     "physical_zip": "39657",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14157",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6393,7 +7562,10 @@
     "physical_city": "ROXIE",
     "physical_state": "MS",
     "physical_zip": "39661",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14334",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6406,7 +7578,10 @@
     "physical_city": "BOGUE CHITTO",
     "physical_state": "MS",
     "physical_zip": "39629",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13289",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6419,7 +7594,10 @@
     "physical_city": "RUTH",
     "physical_state": "MS",
     "physical_zip": "39662",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14340",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6432,7 +7610,10 @@
     "physical_city": "SILVER CREEK",
     "physical_state": "MS",
     "physical_zip": "39663",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14402",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6445,7 +7626,10 @@
     "physical_city": "SMITHDALE",
     "physical_state": "MS",
     "physical_zip": "39664",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14414",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6458,7 +7642,10 @@
     "physical_city": "SONTAG",
     "physical_state": "MS",
     "physical_zip": "39665",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14424",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6471,7 +7658,10 @@
     "physical_city": "SUMMIT",
     "physical_state": "MS",
     "physical_zip": "39666",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14462",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6484,7 +7674,10 @@
     "physical_city": "TYLERTOWN",
     "physical_state": "MS",
     "physical_zip": "39667",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14536",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6497,7 +7690,10 @@
     "physical_city": "UNION CHURCH",
     "physical_state": "MS",
     "physical_zip": "39668",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14543",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6510,7 +7706,10 @@
     "physical_city": "WOODVILLE",
     "physical_state": "MS",
     "physical_zip": "39669",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14656",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6523,7 +7722,10 @@
     "physical_city": "COLUMBUS",
     "physical_state": "MS",
     "physical_zip": "39705",
-    "physical_zip4": "1311"
+    "physical_zip4": "1311",
+    "zip_class_code": null,
+    "locale_key": "Y13433",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6536,7 +7738,10 @@
     "physical_city": "COLUMBUS",
     "physical_state": "MS",
     "physical_zip": "39705",
-    "physical_zip4": "1311"
+    "physical_zip4": "1311",
+    "zip_class_code": null,
+    "locale_key": "Y13433",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6549,7 +7754,10 @@
     "physical_city": "COLUMBUS",
     "physical_state": "MS",
     "physical_zip": "39701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "001663",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -6562,7 +7770,10 @@
     "physical_city": "COLUMBUS",
     "physical_state": "MS",
     "physical_zip": "39702",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13599",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -6575,7 +7786,10 @@
     "physical_city": "COLUMBUS",
     "physical_state": "MS",
     "physical_zip": "39705",
-    "physical_zip4": "1311"
+    "physical_zip4": "1311",
+    "zip_class_code": null,
+    "locale_key": "Y13433",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6588,7 +7802,10 @@
     "physical_city": "ABERDEEN",
     "physical_state": "MS",
     "physical_zip": "39730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13157",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6601,7 +7818,10 @@
     "physical_city": "ACKERMAN",
     "physical_state": "MS",
     "physical_zip": "39735",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13158",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6614,7 +7834,10 @@
     "physical_city": "ARTESIA",
     "physical_state": "MS",
     "physical_zip": "39736",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y13186",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6627,7 +7850,10 @@
     "physical_city": "BELLEFONTAINE",
     "physical_state": "MS",
     "physical_zip": "39737",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13238",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6640,7 +7866,10 @@
     "physical_city": "BROOKSVILLE",
     "physical_state": "MS",
     "physical_zip": "39739",
-    "physical_zip4": "5205"
+    "physical_zip4": "5205",
+    "zip_class_code": null,
+    "locale_key": "Y13318",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6653,7 +7882,10 @@
     "physical_city": "CALEDONIA",
     "physical_state": "MS",
     "physical_zip": "39740",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13347",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6666,7 +7898,10 @@
     "physical_city": "CEDARBLUFF",
     "physical_state": "MS",
     "physical_zip": "39741",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13378",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6679,7 +7914,10 @@
     "physical_city": "CRAWFORD",
     "physical_state": "MS",
     "physical_zip": "39743",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13451",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6692,7 +7930,10 @@
     "physical_city": "EUPORA",
     "physical_state": "MS",
     "physical_zip": "39744",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13589",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6705,7 +7946,10 @@
     "physical_city": "FRENCH CAMP",
     "physical_state": "MS",
     "physical_zip": "39745",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13628",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6718,7 +7962,10 @@
     "physical_city": "WEIR",
     "physical_state": "MS",
     "physical_zip": "39772",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14613",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6731,7 +7978,10 @@
     "physical_city": "HAMILTON",
     "physical_state": "MS",
     "physical_zip": "39746",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13705",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6744,7 +7994,10 @@
     "physical_city": "KILMICHAEL",
     "physical_state": "MS",
     "physical_zip": "39747",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13829",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6757,7 +8010,10 @@
     "physical_city": "MABEN",
     "physical_state": "MS",
     "physical_zip": "39750",
-    "physical_zip4": "9681"
+    "physical_zip4": "9681",
+    "zip_class_code": null,
+    "locale_key": "Y13925",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6770,7 +8026,10 @@
     "physical_city": "MANTEE",
     "physical_state": "MS",
     "physical_zip": "39751",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13943",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6783,7 +8042,10 @@
     "physical_city": "WOODLAND",
     "physical_state": "MS",
     "physical_zip": "39776",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14654",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6796,20 +8058,10 @@
     "physical_city": "MATHISTON",
     "physical_state": "MS",
     "physical_zip": "39752",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39753",
-    "locale_name": "MAYHEW DPOBU",
-    "physical_delivery_address": "438 MAYHEW RD",
-    "physical_city": "MAYHEW",
-    "physical_state": "MS",
-    "physical_zip": "39753",
-    "physical_zip4": "9700"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y13951",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6822,7 +8074,10 @@
     "physical_city": "PHEBA",
     "physical_state": "MS",
     "physical_zip": "39755",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14200",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6835,7 +8090,10 @@
     "physical_city": "PRAIRIE",
     "physical_state": "MS",
     "physical_zip": "39756",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14267",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6848,7 +8106,10 @@
     "physical_city": "STARKVILLE",
     "physical_state": "MS",
     "physical_zip": "39759",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14440",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6861,7 +8122,10 @@
     "physical_city": "STARKVILLE",
     "physical_state": "MS",
     "physical_zip": "39759",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Y14440",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6874,7 +8138,10 @@
     "physical_city": "MISSISSIPPI STATE",
     "physical_state": "MS",
     "physical_zip": "39762",
-    "physical_zip4": "9611"
+    "physical_zip4": "9611",
+    "zip_class_code": "P",
+    "locale_key": "Y14024",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6887,7 +8154,10 @@
     "physical_city": "STEENS",
     "physical_state": "MS",
     "physical_zip": "39766",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14445",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6900,7 +8170,10 @@
     "physical_city": "STEWART",
     "physical_state": "MS",
     "physical_zip": "39767",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14448",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6913,20 +8186,10 @@
     "physical_city": "STURGIS",
     "physical_state": "MS",
     "physical_zip": "39769",
-    "physical_zip4": "9127"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "AL-MS",
-    "district_no": "350",
-    "delivery_zipcode": "39771",
-    "locale_name": "EUPORA",
-    "physical_delivery_address": "107 N DUNN ST",
-    "physical_city": "EUPORA",
-    "physical_state": "MS",
-    "physical_zip": "39744",
-    "physical_zip4": "9998"
+    "physical_zip4": "9127",
+    "zip_class_code": null,
+    "locale_key": "Y14460",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6939,7 +8202,10 @@
     "physical_city": "WALTHALL",
     "physical_state": "MS",
     "physical_zip": "39771",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14594",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6952,7 +8218,10 @@
     "physical_city": "WEIR",
     "physical_state": "MS",
     "physical_zip": "39772",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14613",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6965,7 +8234,10 @@
     "physical_city": "WEST POINT",
     "physical_state": "MS",
     "physical_zip": "39773",
-    "physical_zip4": "2923"
+    "physical_zip4": "2923",
+    "zip_class_code": null,
+    "locale_key": "Y14623",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -6978,6 +8250,9 @@
     "physical_city": "WOODLAND",
     "physical_state": "MS",
     "physical_zip": "39776",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Y14654",
+    "locale_type": "P"
   }
 ]

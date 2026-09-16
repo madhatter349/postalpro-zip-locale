@@ -10,7 +10,10 @@
     "physical_city": "AIEA",
     "physical_state": "HI",
     "physical_zip": "96701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12107",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,7 +26,10 @@
     "physical_city": "PEARL CITY",
     "physical_state": "HI",
     "physical_zip": "96782",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12311",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +42,10 @@
     "physical_city": "ANAHOLA",
     "physical_state": "HI",
     "physical_zip": "96703",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12112",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +58,10 @@
     "physical_city": "CAPTAIN COOK",
     "physical_state": "HI",
     "physical_zip": "96704",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12124",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "KEALAKEKUA",
     "physical_state": "HI",
     "physical_zip": "96750",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12228",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -75,7 +90,10 @@
     "physical_city": "ELEELE",
     "physical_state": "HI",
     "physical_zip": "96705",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12136",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -88,7 +106,10 @@
     "physical_city": "EWA BEACH",
     "physical_state": "HI",
     "physical_zip": "96706",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12138",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -101,7 +122,10 @@
     "physical_city": "EWA BEACH",
     "physical_state": "HI",
     "physical_zip": "96706",
-    "physical_zip4": "1999"
+    "physical_zip4": "1999",
+    "zip_class_code": null,
+    "locale_key": "Z12139",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -114,7 +138,10 @@
     "physical_city": "KAPOLEI",
     "physical_state": "HI",
     "physical_zip": "96707",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Z12118",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -127,7 +154,10 @@
     "physical_city": "WAIPAHU",
     "physical_state": "HI",
     "physical_zip": "96797",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12368",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +170,10 @@
     "physical_city": "HAIKU",
     "physical_state": "HI",
     "physical_zip": "96708",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12147",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +186,10 @@
     "physical_city": "KAPOLEI",
     "physical_state": "HI",
     "physical_zip": "96707",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z18776",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +202,10 @@
     "physical_city": "HONOMU",
     "physical_state": "HI",
     "physical_zip": "96728",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12189",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +218,10 @@
     "physical_city": "HALEIWA",
     "physical_state": "HI",
     "physical_zip": "96712",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12150",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -192,7 +234,10 @@
     "physical_city": "WAIALUA",
     "physical_state": "HI",
     "physical_zip": "96791",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12356",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -205,7 +250,10 @@
     "physical_city": "HANA",
     "physical_state": "HI",
     "physical_zip": "96713",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z12152",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -218,7 +266,10 @@
     "physical_city": "HANALEI",
     "physical_state": "HI",
     "physical_zip": "96714",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12153",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -231,7 +282,10 @@
     "physical_city": "LIHUE",
     "physical_state": "HI",
     "physical_zip": "96766",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -240,11 +294,14 @@
     "district_no": "967",
     "delivery_zipcode": "96716",
     "locale_name": "HANAPEPE",
-    "physical_delivery_address": "3817 KONA RD",
+    "physical_delivery_address": "3817 KOULA RD",
     "physical_city": "HANAPEPE",
     "physical_state": "HI",
     "physical_zip": "96716",
-    "physical_zip4": "9997"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z12155",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -257,7 +314,10 @@
     "physical_city": "HAUULA",
     "physical_state": "HI",
     "physical_zip": "96717",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12156",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -270,7 +330,10 @@
     "physical_city": "HAWAII NATIONAL PARK",
     "physical_state": "HI",
     "physical_zip": "96718",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12160",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -283,7 +346,10 @@
     "physical_city": "HAWI",
     "physical_state": "HI",
     "physical_zip": "96719",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12165",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -296,7 +362,10 @@
     "physical_city": "HILO",
     "physical_state": "HI",
     "physical_zip": "96720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12171",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -309,7 +378,10 @@
     "physical_city": "HILO",
     "physical_state": "HI",
     "physical_zip": "96720",
-    "physical_zip4": "2452"
+    "physical_zip4": "2452",
+    "zip_class_code": "P",
+    "locale_key": "Z12128",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -322,7 +394,10 @@
     "physical_city": "KILAUEA",
     "physical_state": "HI",
     "physical_zip": "96754",
-    "physical_zip4": "5389"
+    "physical_zip4": "5389",
+    "zip_class_code": null,
+    "locale_key": "Z12236",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -335,7 +410,10 @@
     "physical_city": "PRINCEVILLE",
     "physical_state": "HI",
     "physical_zip": "96722",
-    "physical_zip4": "5438"
+    "physical_zip4": "5438",
+    "zip_class_code": null,
+    "locale_key": "Z12324",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -348,7 +426,10 @@
     "physical_city": "HOLUALOA",
     "physical_state": "HI",
     "physical_zip": "96725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12177",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -361,7 +442,10 @@
     "physical_city": "HONAUNAU",
     "physical_state": "HI",
     "physical_zip": "96726",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12179",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -374,7 +458,10 @@
     "physical_city": "HONOKAA",
     "physical_state": "HI",
     "physical_zip": "96727",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12182",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -387,7 +474,10 @@
     "physical_city": "HONOKAA",
     "physical_state": "HI",
     "physical_zip": "96727",
-    "physical_zip4": "7211"
+    "physical_zip4": "7211",
+    "zip_class_code": null,
+    "locale_key": "Z12246",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -400,7 +490,10 @@
     "physical_city": "HONOMU",
     "physical_state": "HI",
     "physical_zip": "96728",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12189",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -413,7 +506,10 @@
     "physical_city": "HOOLEHUA",
     "physical_state": "HI",
     "physical_zip": "96729",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12190",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -426,7 +522,10 @@
     "physical_city": "KAAAWA",
     "physical_state": "HI",
     "physical_zip": "96730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12195",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -439,7 +538,10 @@
     "physical_city": "KAHUKU",
     "physical_state": "HI",
     "physical_zip": "96731",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12197",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -452,7 +554,10 @@
     "physical_city": "LAIE",
     "physical_state": "HI",
     "physical_zip": "96762",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12253",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -465,7 +570,10 @@
     "physical_city": "KAHULUI",
     "physical_state": "HI",
     "physical_zip": "96732",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12198",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -478,7 +586,10 @@
     "physical_city": "KAHULUI",
     "physical_state": "HI",
     "physical_zip": "96732",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12198",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -491,7 +602,10 @@
     "physical_city": "KAILUA",
     "physical_state": "HI",
     "physical_zip": "96734",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12200",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -504,7 +618,10 @@
     "physical_city": "OCEAN VIEW",
     "physical_state": "HI",
     "physical_zip": "96737",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "018637",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -517,7 +634,10 @@
     "physical_city": "WAIKOLOA",
     "physical_state": "HI",
     "physical_zip": "96738",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12360",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -530,7 +650,10 @@
     "physical_city": "KAILUA KONA",
     "physical_state": "HI",
     "physical_zip": "96740",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z12201",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -538,12 +661,15 @@
     "district_name": "HAWAII",
     "district_no": "967",
     "delivery_zipcode": "96740",
-    "locale_name": "KAILUA KONA",
-    "physical_delivery_address": "75-971 HENRY ST BLDG 6",
+    "locale_name": "KAILUA KONA CARRIER ANNEX",
+    "physical_delivery_address": "74-5577 PALANI RD",
     "physical_city": "KAILUA KONA",
     "physical_state": "HI",
     "physical_zip": "96740",
-    "physical_zip4": "9996"
+    "physical_zip4": "9995",
+    "zip_class_code": null,
+    "locale_key": "021519",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -556,7 +682,10 @@
     "physical_city": "KALAHEO",
     "physical_state": "HI",
     "physical_zip": "96741",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12206",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -569,7 +698,10 @@
     "physical_city": "KALAUPAPA",
     "physical_state": "HI",
     "physical_zip": "96742",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12209",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -582,20 +714,10 @@
     "physical_city": "KAMUELA",
     "physical_state": "HI",
     "physical_zip": "96743",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "HAWAII",
-    "district_no": "967",
-    "delivery_zipcode": "96743",
-    "locale_name": "KAWAIHAE NPU",
-    "physical_delivery_address": "61-3657 AKONI PULE HWY",
-    "physical_city": "KAMUELA",
-    "physical_state": "HI",
-    "physical_zip": "96743",
-    "physical_zip4": "7709"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12210",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -608,7 +730,10 @@
     "physical_city": "KANEOHE",
     "physical_state": "HI",
     "physical_zip": "96744",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12211",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -621,7 +746,10 @@
     "physical_city": "KAILUA KONA",
     "physical_state": "HI",
     "physical_zip": "96740",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "Z12201",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -634,7 +762,10 @@
     "physical_city": "KAPAA",
     "physical_state": "HI",
     "physical_zip": "96746",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12215",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -647,7 +778,10 @@
     "physical_city": "KAUMAKANI",
     "physical_state": "HI",
     "physical_zip": "96747",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12224",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -660,7 +794,10 @@
     "physical_city": "KAUNAKAKAI",
     "physical_state": "HI",
     "physical_zip": "96748",
-    "physical_zip4": "8697"
+    "physical_zip4": "8697",
+    "zip_class_code": null,
+    "locale_key": "Z12225",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -673,7 +810,10 @@
     "physical_city": "KEAAU",
     "physical_state": "HI",
     "physical_zip": "96749",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12227",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -686,7 +826,10 @@
     "physical_city": "KEALAKEKUA",
     "physical_state": "HI",
     "physical_zip": "96750",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12228",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -699,7 +842,10 @@
     "physical_city": "KEKAHA",
     "physical_state": "HI",
     "physical_zip": "96752",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12233",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -712,7 +858,10 @@
     "physical_city": "KIHEI",
     "physical_state": "HI",
     "physical_zip": "96753",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12234",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -725,7 +874,10 @@
     "physical_city": "KILAUEA",
     "physical_state": "HI",
     "physical_zip": "96754",
-    "physical_zip4": "5389"
+    "physical_zip4": "5389",
+    "zip_class_code": null,
+    "locale_key": "Z12236",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -738,7 +890,10 @@
     "physical_city": "KAPAAU",
     "physical_state": "HI",
     "physical_zip": "96755",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12217",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -751,7 +906,10 @@
     "physical_city": "KOLOA",
     "physical_state": "HI",
     "physical_zip": "96756",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12240",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -764,7 +922,10 @@
     "physical_city": "KUALAPUU",
     "physical_state": "HI",
     "physical_zip": "96757",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12243",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -777,7 +938,10 @@
     "physical_city": "KUNIA",
     "physical_state": "HI",
     "physical_zip": "96759",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12249",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -790,7 +954,10 @@
     "physical_city": "KURTISTOWN",
     "physical_state": "HI",
     "physical_zip": "96760",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z12250",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -803,7 +970,10 @@
     "physical_city": "LAHAINA",
     "physical_state": "HI",
     "physical_zip": "96761",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12251",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -816,7 +986,10 @@
     "physical_city": "LAIE",
     "physical_state": "HI",
     "physical_zip": "96762",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12253",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -829,7 +1002,10 @@
     "physical_city": "LANAI CITY",
     "physical_state": "HI",
     "physical_zip": "96763",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12255",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -842,7 +1018,10 @@
     "physical_city": "LAUPAHOEHOE",
     "physical_state": "HI",
     "physical_zip": "96764",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12256",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -855,20 +1034,10 @@
     "physical_city": "LAWAI",
     "physical_state": "HI",
     "physical_zip": "96765",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "HAWAII",
-    "district_no": "967",
-    "delivery_zipcode": "96766",
-    "locale_name": "LIHUE",
-    "physical_delivery_address": "4441 RICE ST",
-    "physical_city": "LIHUE",
-    "physical_state": "HI",
-    "physical_zip": "96766",
-    "physical_zip4": "9998"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12257",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -881,7 +1050,26 @@
     "physical_city": "LIHUE",
     "physical_state": "HI",
     "physical_zip": "96766",
-    "physical_zip4": "1488"
+    "physical_zip4": "1488",
+    "zip_class_code": null,
+    "locale_key": "Z12125",
+    "locale_type": "4"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96766",
+    "locale_name": "LIHUE",
+    "physical_delivery_address": "4441 RICE ST",
+    "physical_city": "LIHUE",
+    "physical_state": "HI",
+    "physical_zip": "96766",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -894,7 +1082,10 @@
     "physical_city": "LAHAINA",
     "physical_state": "HI",
     "physical_zip": "96761",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12251",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -907,7 +1098,10 @@
     "physical_city": "MAKAWAO",
     "physical_state": "HI",
     "physical_zip": "96768",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12267",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -920,7 +1114,10 @@
     "physical_city": "MAKAWELI",
     "physical_state": "HI",
     "physical_zip": "96769",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12269",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -933,7 +1130,10 @@
     "physical_city": "MAUNALOA",
     "physical_state": "HI",
     "physical_zip": "96770",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12276",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -946,7 +1146,10 @@
     "physical_city": "MOUNTAIN VIEW",
     "physical_state": "HI",
     "physical_zip": "96771",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z12283",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -959,7 +1162,10 @@
     "physical_city": "NAALEHU",
     "physical_state": "HI",
     "physical_zip": "96772",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12285",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -972,7 +1178,10 @@
     "physical_city": "NINOLE",
     "physical_state": "HI",
     "physical_zip": "96773",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12297",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -985,7 +1194,10 @@
     "physical_city": "PAAUILO",
     "physical_state": "HI",
     "physical_zip": "96776",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12304",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -998,7 +1210,10 @@
     "physical_city": "PAAUILO",
     "physical_state": "HI",
     "physical_zip": "96776",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12304",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1011,7 +1226,10 @@
     "physical_city": "PAHALA",
     "physical_state": "HI",
     "physical_zip": "96777",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12305",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1024,7 +1242,10 @@
     "physical_city": "PAHOA",
     "physical_state": "HI",
     "physical_zip": "96778",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12306",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1037,7 +1258,10 @@
     "physical_city": "PAIA",
     "physical_state": "HI",
     "physical_zip": "96779",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12307",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1050,7 +1274,10 @@
     "physical_city": "PAPAALOA",
     "physical_state": "HI",
     "physical_zip": "96780",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12309",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1063,7 +1290,10 @@
     "physical_city": "PAPAIKOU",
     "physical_state": "HI",
     "physical_zip": "96781",
-    "physical_zip4": "7735"
+    "physical_zip4": "7735",
+    "zip_class_code": null,
+    "locale_key": "Z12310",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1076,7 +1306,10 @@
     "physical_city": "PEARL CITY",
     "physical_state": "HI",
     "physical_zip": "96782",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12311",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1089,7 +1322,10 @@
     "physical_city": "PEPEEKEO",
     "physical_state": "HI",
     "physical_zip": "96783",
-    "physical_zip4": "8497"
+    "physical_zip4": "8497",
+    "zip_class_code": null,
+    "locale_key": "Z12320",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1102,7 +1338,10 @@
     "physical_city": "KAHULUI",
     "physical_state": "HI",
     "physical_zip": "96732",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12198",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1115,7 +1354,10 @@
     "physical_city": "VOLCANO",
     "physical_state": "HI",
     "physical_zip": "96785",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12352",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1128,7 +1370,10 @@
     "physical_city": "WAHIAWA",
     "physical_state": "HI",
     "physical_zip": "96786",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12353",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1141,7 +1386,10 @@
     "physical_city": "MAKAWAO",
     "physical_state": "HI",
     "physical_zip": "96768",
-    "physical_zip4": "8544"
+    "physical_zip4": "8544",
+    "zip_class_code": "P",
+    "locale_key": "Z12328",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1154,7 +1402,10 @@
     "physical_city": "MILILANI",
     "physical_state": "HI",
     "physical_zip": "96789",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12277",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1167,7 +1418,10 @@
     "physical_city": "KULA",
     "physical_state": "HI",
     "physical_zip": "96790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12247",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1180,20 +1434,10 @@
     "physical_city": "WAIALUA",
     "physical_state": "HI",
     "physical_zip": "96791",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "HAWAII",
-    "district_no": "967",
-    "delivery_zipcode": "96792",
-    "locale_name": "NANAKULI",
-    "physical_delivery_address": "87-2070 FARRINGTON HWY STE J",
-    "physical_city": "WAIANAE",
-    "physical_state": "HI",
-    "physical_zip": "96792",
-    "physical_zip4": "3798"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12356",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1206,7 +1450,26 @@
     "physical_city": "WAIANAE",
     "physical_state": "HI",
     "physical_zip": "96792",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12357",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "HAWAII",
+    "district_no": "967",
+    "delivery_zipcode": "96792",
+    "locale_name": "NANAKULI",
+    "physical_delivery_address": "87-2070 FARRINGTON HWY STE J",
+    "physical_city": "WAIANAE",
+    "physical_state": "HI",
+    "physical_zip": "96792",
+    "physical_zip4": "3798",
+    "zip_class_code": null,
+    "locale_key": "Z17810",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1219,7 +1482,10 @@
     "physical_city": "WAILUKU",
     "physical_state": "HI",
     "physical_zip": "96793",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12363",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1232,7 +1498,10 @@
     "physical_city": "WAIMANALO",
     "physical_state": "HI",
     "physical_zip": "96795",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12365",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1245,7 +1514,10 @@
     "physical_city": "WAIMEA",
     "physical_state": "HI",
     "physical_zip": "96796",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12367",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1258,7 +1530,10 @@
     "physical_city": "WAIPAHU",
     "physical_state": "HI",
     "physical_zip": "96797",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12368",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1271,7 +1546,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1284,7 +1562,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1297,7 +1578,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1310,7 +1594,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1323,7 +1610,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1336,7 +1626,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1349,7 +1642,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1362,7 +1658,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1375,7 +1674,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1388,7 +1690,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1401,7 +1706,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1414,7 +1722,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1427,7 +1738,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1440,7 +1754,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12129",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1453,7 +1770,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96815",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12359",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1466,7 +1786,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96816",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12355",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1479,7 +1802,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96817",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12221",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1492,7 +1818,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96820",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12186",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1505,7 +1834,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96819",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18134",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1518,7 +1850,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96820",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12186",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1531,7 +1866,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96825",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12158",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1544,7 +1882,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96822",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12271",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1557,7 +1898,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96822",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12271",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1570,7 +1914,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96821",
-    "physical_zip4": "1899"
+    "physical_zip4": "1899",
+    "zip_class_code": "P",
+    "locale_key": "Z12110",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1583,7 +1930,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96825",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12158",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1596,7 +1946,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96822",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z12271",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1609,7 +1962,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96826",
-    "physical_zip4": "3398"
+    "physical_zip4": "3398",
+    "zip_class_code": "P",
+    "locale_key": "Z12281",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1622,7 +1978,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96815",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12359",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1635,7 +1994,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96815",
-    "physical_zip4": "1298"
+    "physical_zip4": "1298",
+    "zip_class_code": "P",
+    "locale_key": "Z12135",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1648,7 +2010,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96817",
-    "physical_zip4": "5199"
+    "physical_zip4": "5199",
+    "zip_class_code": "P",
+    "locale_key": "Z12351",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1661,7 +2026,10 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96820",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z12186",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1674,19 +2042,9 @@
     "physical_city": "HONOLULU",
     "physical_state": "HI",
     "physical_zip": "96822",
-    "physical_zip4": "1896"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "HAWAII",
-    "district_no": "967",
-    "delivery_zipcode": "96850",
-    "locale_name": "DOWNTOWN HONOLULU",
-    "physical_delivery_address": "335 MERCHANT ST FL GROUND",
-    "physical_city": "HONOLULU",
-    "physical_state": "HI",
-    "physical_zip": "96813",
-    "physical_zip4": "9998"
+    "physical_zip4": "1896",
+    "zip_class_code": "P",
+    "locale_key": "Z12273",
+    "locale_type": "5"
   }
 ]

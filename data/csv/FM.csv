@@ -1,0 +1,5 @@
+area_name,area_code,district_name,district_no,delivery_zipcode,locale_name,physical_delivery_address,physical_city,physical_state,physical_zip,physical_zip4,zip_class_code,locale_key,locale_type
+WESTPAC,4E,HAWAII,967,96941,POHNPEI,1 KOLONIA TOWN,POHNPEI,FM,96941,9997,P,Z12063,P
+WESTPAC,4E,HAWAII,967,96942,CHUUK,1 WENO,CHUUK,FM,96942,9997,P,Z12058,P
+WESTPAC,4E,HAWAII,967,96943,YAP,1 COLONIA,YAP,FM,96943,9997,P,Z12067,P
+WESTPAC,4E,HAWAII,967,96944,KOSRAE,1 TOFOL,KOSRAE,FM,96944,9997,P,Z12061,P

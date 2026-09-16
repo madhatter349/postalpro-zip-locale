@@ -10,6 +10,9 @@
     "physical_city": "PAGO PAGO",
     "physical_state": "AS",
     "physical_zip": "96799",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": "P",
+    "locale_key": "Z10357",
+    "locale_type": "P"
   }
 ]

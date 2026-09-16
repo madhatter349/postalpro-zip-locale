@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "result": "unchanged",
+  "started_at": "2026-09-16T11:59:27.524Z",
+  "finished_at": "2026-09-16T11:59:28.561Z",
+  "duration_ms": 1037,
+  "last_updated": "September 08, 2026",
+  "last_checked": "2026-09-16T11:59:28.560Z",
+  "total_records": 42288,
+  "state_count": 60,
+  "unique_zipcodes": 37105,
+  "source": {
+    "url": "https://postalpro.usps.com/mnt/glusterfs/2026-09/ZIP_Locale_Detail.xlsx",
+    "sha256": "8c7df9f02b5125f96e483ceeba543b3ceb4824a7ad1809bd53bc8f9d309fb02a",
+    "bytes": 4437342,
+    "last_modified": "Tue, 08 Sep 2026 18:13:09 GMT",
+    "published": "September 08, 2026"
+  },
+  "last_change": {
+    "added": 183,
+    "removed": 2234,
+    "changed": 16
+  },
+  "last_error": null
+}

@@ -10,7 +10,10 @@
     "physical_city": "ANTELOPE",
     "physical_state": "OR",
     "physical_zip": "97001",
-    "physical_zip4": "7001"
+    "physical_zip4": "7001",
+    "zip_class_code": "P",
+    "locale_key": "Z14730",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,7 +26,10 @@
     "physical_city": "AURORA",
     "physical_state": "OR",
     "physical_zip": "97002",
-    "physical_zip4": "7002"
+    "physical_zip4": "7002",
+    "zip_class_code": null,
+    "locale_key": "Z14743",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +42,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97291",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "020666",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +58,10 @@
     "physical_city": "BEAVERCREEK",
     "physical_state": "OR",
     "physical_zip": "97004",
-    "physical_zip4": "7004"
+    "physical_zip4": "7004",
+    "zip_class_code": null,
+    "locale_key": "Z14759",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "BEAVERTON",
     "physical_state": "OR",
     "physical_zip": "97005",
-    "physical_zip4": "2869"
+    "physical_zip4": "2869",
+    "zip_class_code": null,
+    "locale_key": "Z14760",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -75,7 +90,10 @@
     "physical_city": "BEAVERTON",
     "physical_state": "OR",
     "physical_zip": "97078",
-    "physical_zip4": "1570"
+    "physical_zip4": "1570",
+    "zip_class_code": null,
+    "locale_key": "Z14721",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -88,7 +106,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97291",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "020666",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -101,7 +122,10 @@
     "physical_city": "BEAVERTON",
     "physical_state": "OR",
     "physical_zip": "97078",
-    "physical_zip4": "1570"
+    "physical_zip4": "1570",
+    "zip_class_code": null,
+    "locale_key": "Z14721",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -114,7 +138,10 @@
     "physical_city": "BEAVERTON",
     "physical_state": "OR",
     "physical_zip": "97005",
-    "physical_zip4": "2869"
+    "physical_zip4": "2869",
+    "zip_class_code": null,
+    "locale_key": "Z14760",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -127,7 +154,10 @@
     "physical_city": "BORING",
     "physical_state": "OR",
     "physical_zip": "97009",
-    "physical_zip4": "9009"
+    "physical_zip4": "9009",
+    "zip_class_code": null,
+    "locale_key": "Z14785",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +170,10 @@
     "physical_city": "BRIDAL VEIL",
     "physical_state": "OR",
     "physical_zip": "97010",
-    "physical_zip4": "7010"
+    "physical_zip4": "7010",
+    "zip_class_code": "P",
+    "locale_key": "Z14789",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +186,10 @@
     "physical_city": "BRIGHTWOOD",
     "physical_state": "OR",
     "physical_zip": "97011",
-    "physical_zip4": "7011"
+    "physical_zip4": "7011",
+    "zip_class_code": null,
+    "locale_key": "Z14793",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +202,10 @@
     "physical_city": "CANBY",
     "physical_state": "OR",
     "physical_zip": "97013",
-    "physical_zip4": "3434"
+    "physical_zip4": "3434",
+    "zip_class_code": null,
+    "locale_key": "Z14823",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +218,10 @@
     "physical_city": "CASCADE LOCKS",
     "physical_state": "OR",
     "physical_zip": "97014",
-    "physical_zip4": "7014"
+    "physical_zip4": "7014",
+    "zip_class_code": null,
+    "locale_key": "Z14834",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -192,7 +234,10 @@
     "physical_city": "CLACKAMAS",
     "physical_state": "OR",
     "physical_zip": "97015",
-    "physical_zip4": "9594"
+    "physical_zip4": "9594",
+    "zip_class_code": null,
+    "locale_key": "Z14861",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -205,7 +250,10 @@
     "physical_city": "CLACKAMAS",
     "physical_state": "OR",
     "physical_zip": "97015",
-    "physical_zip4": "9630"
+    "physical_zip4": "9630",
+    "zip_class_code": null,
+    "locale_key": "Z14862",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -218,7 +266,10 @@
     "physical_city": "CLATSKANIE",
     "physical_state": "OR",
     "physical_zip": "97016",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14864",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -231,7 +282,10 @@
     "physical_city": "COLTON",
     "physical_state": "OR",
     "physical_zip": "97017",
-    "physical_zip4": "7017"
+    "physical_zip4": "7017",
+    "zip_class_code": null,
+    "locale_key": "Z14872",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -244,7 +298,10 @@
     "physical_city": "COLUMBIA CITY",
     "physical_state": "OR",
     "physical_zip": "97018",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "Z14873",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -257,7 +314,10 @@
     "physical_city": "SAINT HELENS",
     "physical_state": "OR",
     "physical_zip": "97051",
-    "physical_zip4": "6223"
+    "physical_zip4": "6223",
+    "zip_class_code": null,
+    "locale_key": "Z15474",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -270,7 +330,10 @@
     "physical_city": "CORBETT",
     "physical_state": "OR",
     "physical_zip": "97019",
-    "physical_zip4": "7019"
+    "physical_zip4": "7019",
+    "zip_class_code": null,
+    "locale_key": "Z14879",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -283,7 +346,10 @@
     "physical_city": "DONALD",
     "physical_state": "OR",
     "physical_zip": "97020",
-    "physical_zip4": "7020"
+    "physical_zip4": "7020",
+    "zip_class_code": null,
+    "locale_key": "Z14944",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -296,7 +362,10 @@
     "physical_city": "DUFUR",
     "physical_state": "OR",
     "physical_zip": "97021",
-    "physical_zip4": "7021"
+    "physical_zip4": "7021",
+    "zip_class_code": null,
+    "locale_key": "Z14953",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -309,7 +378,10 @@
     "physical_city": "EAGLE CREEK",
     "physical_state": "OR",
     "physical_zip": "97022",
-    "physical_zip4": "7022"
+    "physical_zip4": "7022",
+    "zip_class_code": null,
+    "locale_key": "Z14958",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -322,7 +394,10 @@
     "physical_city": "ESTACADA",
     "physical_state": "OR",
     "physical_zip": "97023",
-    "physical_zip4": "7023"
+    "physical_zip4": "7023",
+    "zip_class_code": null,
+    "locale_key": "Z14983",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -335,7 +410,10 @@
     "physical_city": "ESTACADA",
     "physical_state": "OR",
     "physical_zip": "97023",
-    "physical_zip4": "7023"
+    "physical_zip4": "7023",
+    "zip_class_code": null,
+    "locale_key": "Z14983",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -348,7 +426,10 @@
     "physical_city": "FAIRVIEW",
     "physical_state": "OR",
     "physical_zip": "97024",
-    "physical_zip4": "7024"
+    "physical_zip4": "7024",
+    "zip_class_code": null,
+    "locale_key": "Z14989",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -361,7 +442,10 @@
     "physical_city": "GERVAIS",
     "physical_state": "OR",
     "physical_zip": "97026",
-    "physical_zip4": "7026"
+    "physical_zip4": "7026",
+    "zip_class_code": null,
+    "locale_key": "Z15035",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -374,7 +458,10 @@
     "physical_city": "WOODBURN",
     "physical_state": "OR",
     "physical_zip": "97071",
-    "physical_zip4": "7071"
+    "physical_zip4": "7071",
+    "zip_class_code": null,
+    "locale_key": "Z15766",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -387,7 +474,10 @@
     "physical_city": "CLACKAMAS",
     "physical_state": "OR",
     "physical_zip": "97015",
-    "physical_zip4": "9630"
+    "physical_zip4": "9630",
+    "zip_class_code": null,
+    "locale_key": "Z14862",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -400,7 +490,10 @@
     "physical_city": "GLADSTONE",
     "physical_state": "OR",
     "physical_zip": "97027",
-    "physical_zip4": "2700"
+    "physical_zip4": "2700",
+    "zip_class_code": null,
+    "locale_key": "Z15038",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -413,7 +506,10 @@
     "physical_city": "GOVERNMENT CAMP",
     "physical_state": "OR",
     "physical_zip": "97028",
-    "physical_zip4": "7028"
+    "physical_zip4": "7028",
+    "zip_class_code": null,
+    "locale_key": "Z15055",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -426,7 +522,10 @@
     "physical_city": "GRASS VALLEY",
     "physical_state": "OR",
     "physical_zip": "97029",
-    "physical_zip4": "7029"
+    "physical_zip4": "7029",
+    "zip_class_code": null,
+    "locale_key": "Z15061",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -439,7 +538,10 @@
     "physical_city": "GRESHAM",
     "physical_state": "OR",
     "physical_zip": "97030",
-    "physical_zip4": "3000"
+    "physical_zip4": "3000",
+    "zip_class_code": null,
+    "locale_key": "Z15071",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -452,7 +554,10 @@
     "physical_city": "HOOD RIVER",
     "physical_state": "OR",
     "physical_zip": "97031",
-    "physical_zip4": "7031"
+    "physical_zip4": "7031",
+    "zip_class_code": null,
+    "locale_key": "Z15106",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -465,7 +570,10 @@
     "physical_city": "HOOD RIVER",
     "physical_state": "OR",
     "physical_zip": "97031",
-    "physical_zip4": "8585"
+    "physical_zip4": "8585",
+    "zip_class_code": null,
+    "locale_key": "011602",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -478,7 +586,10 @@
     "physical_city": "AURORA",
     "physical_state": "OR",
     "physical_zip": "97002",
-    "physical_zip4": "7002"
+    "physical_zip4": "7002",
+    "zip_class_code": null,
+    "locale_key": "Z14743",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -491,7 +602,10 @@
     "physical_city": "HUBBARD",
     "physical_state": "OR",
     "physical_zip": "97032",
-    "physical_zip4": "7032"
+    "physical_zip4": "7032",
+    "zip_class_code": null,
+    "locale_key": "Z15111",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -504,7 +618,10 @@
     "physical_city": "KENT",
     "physical_state": "OR",
     "physical_zip": "97033",
-    "physical_zip4": "7033"
+    "physical_zip4": "7033",
+    "zip_class_code": "P",
+    "locale_key": "Z15156",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -517,7 +634,10 @@
     "physical_city": "LAKE OSWEGO",
     "physical_state": "OR",
     "physical_zip": "97034",
-    "physical_zip4": "7034"
+    "physical_zip4": "7034",
+    "zip_class_code": null,
+    "locale_key": "Z15180",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -530,7 +650,10 @@
     "physical_city": "LAKE GROVE",
     "physical_state": "OR",
     "physical_zip": "97035",
-    "physical_zip4": "3401"
+    "physical_zip4": "3401",
+    "zip_class_code": null,
+    "locale_key": "Z15178",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -543,7 +666,10 @@
     "physical_city": "LAKE OSWEGO",
     "physical_state": "OR",
     "physical_zip": "97034",
-    "physical_zip4": "7034"
+    "physical_zip4": "7034",
+    "zip_class_code": null,
+    "locale_key": "Z15180",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -556,7 +682,10 @@
     "physical_city": "MARYLHURST",
     "physical_state": "OR",
     "physical_zip": "97036",
-    "physical_zip4": "7036"
+    "physical_zip4": "7036",
+    "zip_class_code": "P",
+    "locale_key": "Z15230",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -569,7 +698,10 @@
     "physical_city": "MAUPIN",
     "physical_state": "OR",
     "physical_zip": "97037",
-    "physical_zip4": "7037"
+    "physical_zip4": "7037",
+    "zip_class_code": null,
+    "locale_key": "Z15231",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -582,7 +714,10 @@
     "physical_city": "MOLALLA",
     "physical_state": "OR",
     "physical_zip": "97038",
-    "physical_zip4": "7038"
+    "physical_zip4": "7038",
+    "zip_class_code": null,
+    "locale_key": "Z15281",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -595,7 +730,10 @@
     "physical_city": "MORO",
     "physical_state": "OR",
     "physical_zip": "97039",
-    "physical_zip4": "7039"
+    "physical_zip4": "7039",
+    "zip_class_code": null,
+    "locale_key": "Z15286",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -608,33 +746,10 @@
     "physical_city": "MOSIER",
     "physical_state": "OR",
     "physical_zip": "97040",
-    "physical_zip4": "7040"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97040",
-    "locale_name": "THE DALLES",
-    "physical_delivery_address": "101 W 2ND ST",
-    "physical_city": "THE DALLES",
-    "physical_state": "OR",
-    "physical_zip": "97058",
-    "physical_zip4": "1705"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97041",
-    "locale_name": "HOOD RIVER ANNEX",
-    "physical_delivery_address": "3020 LOWER MILL DR",
-    "physical_city": "HOOD RIVER",
-    "physical_state": "OR",
-    "physical_zip": "97031",
-    "physical_zip4": "8585"
+    "physical_zip4": "7040",
+    "zip_class_code": null,
+    "locale_key": "Z15287",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -647,7 +762,26 @@
     "physical_city": "MOUNT HOOD PARKDALE",
     "physical_state": "OR",
     "physical_zip": "97041",
-    "physical_zip4": "7041"
+    "physical_zip4": "7041",
+    "zip_class_code": null,
+    "locale_key": "Z15290",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ID-MT-OR",
+    "district_no": "970",
+    "delivery_zipcode": "97041",
+    "locale_name": "HOOD RIVER ANNEX",
+    "physical_delivery_address": "3020 LOWER MILL DR",
+    "physical_city": "HOOD RIVER",
+    "physical_state": "OR",
+    "physical_zip": "97031",
+    "physical_zip4": "8585",
+    "zip_class_code": null,
+    "locale_key": "011602",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -660,7 +794,10 @@
     "physical_city": "MULINO",
     "physical_state": "OR",
     "physical_zip": "97042",
-    "physical_zip4": "7042"
+    "physical_zip4": "7042",
+    "zip_class_code": null,
+    "locale_key": "Z15298",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -673,7 +810,10 @@
     "physical_city": "ODELL",
     "physical_state": "OR",
     "physical_zip": "97044",
-    "physical_zip4": "7044"
+    "physical_zip4": "7044",
+    "zip_class_code": "P",
+    "locale_key": "Z15359",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -686,7 +826,10 @@
     "physical_city": "OREGON CITY",
     "physical_state": "OR",
     "physical_zip": "97045",
-    "physical_zip4": "0821"
+    "physical_zip4": "0821",
+    "zip_class_code": null,
+    "locale_key": "Z15365",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -699,7 +842,10 @@
     "physical_city": "RAINIER",
     "physical_state": "OR",
     "physical_zip": "97048",
-    "physical_zip4": "2630"
+    "physical_zip4": "2630",
+    "zip_class_code": null,
+    "locale_key": "Z15429",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -712,7 +858,10 @@
     "physical_city": "RHODODENDRON",
     "physical_state": "OR",
     "physical_zip": "97049",
-    "physical_zip4": "7049"
+    "physical_zip4": "7049",
+    "zip_class_code": null,
+    "locale_key": "Z15437",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -725,7 +874,10 @@
     "physical_city": "RUFUS",
     "physical_state": "OR",
     "physical_zip": "97050",
-    "physical_zip4": "7050"
+    "physical_zip4": "7050",
+    "zip_class_code": "P",
+    "locale_key": "Z15470",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -738,7 +890,10 @@
     "physical_city": "SAINT HELENS",
     "physical_state": "OR",
     "physical_zip": "97051",
-    "physical_zip4": "6223"
+    "physical_zip4": "6223",
+    "zip_class_code": null,
+    "locale_key": "Z15474",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -751,7 +906,10 @@
     "physical_city": "SAINT HELENS",
     "physical_state": "OR",
     "physical_zip": "97051",
-    "physical_zip4": "6223"
+    "physical_zip4": "6223",
+    "zip_class_code": null,
+    "locale_key": "Z15474",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -764,7 +922,10 @@
     "physical_city": "SAINT HELENS",
     "physical_state": "OR",
     "physical_zip": "97051",
-    "physical_zip4": "6223"
+    "physical_zip4": "6223",
+    "zip_class_code": null,
+    "locale_key": "Z15474",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -777,7 +938,10 @@
     "physical_city": "SANDY",
     "physical_state": "OR",
     "physical_zip": "97055",
-    "physical_zip4": "7055"
+    "physical_zip4": "7055",
+    "zip_class_code": null,
+    "locale_key": "Z15484",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -790,7 +954,10 @@
     "physical_city": "SCAPPOOSE",
     "physical_state": "OR",
     "physical_zip": "97056",
-    "physical_zip4": "3106"
+    "physical_zip4": "3106",
+    "zip_class_code": null,
+    "locale_key": "Z15487",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -803,7 +970,10 @@
     "physical_city": "SHANIKO",
     "physical_state": "OR",
     "physical_zip": "97057",
-    "physical_zip4": "7057"
+    "physical_zip4": "7057",
+    "zip_class_code": "P",
+    "locale_key": "Z15502",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -816,7 +986,10 @@
     "physical_city": "THE DALLES",
     "physical_state": "OR",
     "physical_zip": "97058",
-    "physical_zip4": "1705"
+    "physical_zip4": "1705",
+    "zip_class_code": null,
+    "locale_key": "Z15638",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -829,7 +1002,10 @@
     "physical_city": "TROUTDALE",
     "physical_state": "OR",
     "physical_zip": "97060",
-    "physical_zip4": "7060"
+    "physical_zip4": "7060",
+    "zip_class_code": null,
+    "locale_key": "Z15657",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -842,7 +1018,10 @@
     "physical_city": "TUALATIN",
     "physical_state": "OR",
     "physical_zip": "97062",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z15658",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -855,7 +1034,10 @@
     "physical_city": "TUALATIN",
     "physical_state": "OR",
     "physical_zip": "97062",
-    "physical_zip4": "8806"
+    "physical_zip4": "8806",
+    "zip_class_code": null,
+    "locale_key": "Z18782",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -868,7 +1050,10 @@
     "physical_city": "TYGH VALLEY",
     "physical_state": "OR",
     "physical_zip": "97063",
-    "physical_zip4": "7063"
+    "physical_zip4": "7063",
+    "zip_class_code": null,
+    "locale_key": "Z15664",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -881,7 +1066,10 @@
     "physical_city": "VERNONIA",
     "physical_state": "OR",
     "physical_zip": "97064",
-    "physical_zip4": "7064"
+    "physical_zip4": "7064",
+    "zip_class_code": null,
+    "locale_key": "Z15686",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -894,7 +1082,10 @@
     "physical_city": "WASCO",
     "physical_state": "OR",
     "physical_zip": "97065",
-    "physical_zip4": "7065"
+    "physical_zip4": "7065",
+    "zip_class_code": null,
+    "locale_key": "Z15708",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -907,7 +1098,10 @@
     "physical_city": "WELCHES",
     "physical_state": "OR",
     "physical_zip": "97067",
-    "physical_zip4": "7067"
+    "physical_zip4": "7067",
+    "zip_class_code": null,
+    "locale_key": "Z15714",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -920,7 +1114,10 @@
     "physical_city": "WEST LINN",
     "physical_state": "OR",
     "physical_zip": "97068",
-    "physical_zip4": "7206"
+    "physical_zip4": "7206",
+    "zip_class_code": null,
+    "locale_key": "Z15718",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -933,7 +1130,10 @@
     "physical_city": "WILSONVILLE",
     "physical_state": "OR",
     "physical_zip": "97070",
-    "physical_zip4": "9465"
+    "physical_zip4": "9465",
+    "zip_class_code": null,
+    "locale_key": "Z15752",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -946,7 +1146,10 @@
     "physical_city": "WOODBURN",
     "physical_state": "OR",
     "physical_zip": "97071",
-    "physical_zip4": "7071"
+    "physical_zip4": "7071",
+    "zip_class_code": null,
+    "locale_key": "Z15766",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -959,7 +1162,10 @@
     "physical_city": "BEAVERTON",
     "physical_state": "OR",
     "physical_zip": "97005",
-    "physical_zip4": "2869"
+    "physical_zip4": "2869",
+    "zip_class_code": "P",
+    "locale_key": "Z14760",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -972,7 +1178,10 @@
     "physical_city": "BEAVERTON",
     "physical_state": "OR",
     "physical_zip": "97005",
-    "physical_zip4": "2869"
+    "physical_zip4": "2869",
+    "zip_class_code": "P",
+    "locale_key": "Z14760",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -985,7 +1194,10 @@
     "physical_city": "BEAVERTON",
     "physical_state": "OR",
     "physical_zip": "97078",
-    "physical_zip4": "1570"
+    "physical_zip4": "1570",
+    "zip_class_code": null,
+    "locale_key": "Z14721",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -998,7 +1210,10 @@
     "physical_city": "GRESHAM",
     "physical_state": "OR",
     "physical_zip": "97030",
-    "physical_zip4": "3000"
+    "physical_zip4": "3000",
+    "zip_class_code": null,
+    "locale_key": "Z15071",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1011,7 +1226,10 @@
     "physical_city": "CLACKAMAS",
     "physical_state": "OR",
     "physical_zip": "97015",
-    "physical_zip4": "9630"
+    "physical_zip4": "9630",
+    "zip_class_code": null,
+    "locale_key": "Z14862",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1024,7 +1242,10 @@
     "physical_city": "BORING",
     "physical_state": "OR",
     "physical_zip": "97009",
-    "physical_zip4": "9009"
+    "physical_zip4": "9009",
+    "zip_class_code": null,
+    "locale_key": "Z14785",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1037,7 +1258,10 @@
     "physical_city": "AMITY",
     "physical_state": "OR",
     "physical_zip": "97101",
-    "physical_zip4": "2820"
+    "physical_zip4": "2820",
+    "zip_class_code": null,
+    "locale_key": "Z14728",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1050,7 +1274,10 @@
     "physical_city": "CANNON BEACH",
     "physical_state": "OR",
     "physical_zip": "97110",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14824",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1063,7 +1290,10 @@
     "physical_city": "ASTORIA",
     "physical_state": "OR",
     "physical_zip": "97103",
-    "physical_zip4": "4543"
+    "physical_zip4": "4543",
+    "zip_class_code": null,
+    "locale_key": "Z14740",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1076,7 +1306,10 @@
     "physical_city": "BANKS",
     "physical_state": "OR",
     "physical_zip": "97106",
-    "physical_zip4": "6021"
+    "physical_zip4": "6021",
+    "zip_class_code": null,
+    "locale_key": "Z14750",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1089,7 +1322,10 @@
     "physical_city": "BAY CITY",
     "physical_state": "OR",
     "physical_zip": "97107",
-    "physical_zip4": "9701"
+    "physical_zip4": "9701",
+    "zip_class_code": null,
+    "locale_key": "Z14754",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1102,7 +1338,10 @@
     "physical_city": "TILLAMOOK",
     "physical_state": "OR",
     "physical_zip": "97141",
-    "physical_zip4": "2441"
+    "physical_zip4": "2441",
+    "zip_class_code": null,
+    "locale_key": "Z15644",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1115,7 +1354,10 @@
     "physical_city": "CLOVERDALE",
     "physical_state": "OR",
     "physical_zip": "97112",
-    "physical_zip4": "9555"
+    "physical_zip4": "9555",
+    "zip_class_code": null,
+    "locale_key": "Z14867",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1128,7 +1370,10 @@
     "physical_city": "BANKS",
     "physical_state": "OR",
     "physical_zip": "97106",
-    "physical_zip4": "6021"
+    "physical_zip4": "6021",
+    "zip_class_code": null,
+    "locale_key": "Z14750",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1141,7 +1386,10 @@
     "physical_city": "CANNON BEACH",
     "physical_state": "OR",
     "physical_zip": "97110",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z14824",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1154,7 +1402,10 @@
     "physical_city": "CARLTON",
     "physical_state": "OR",
     "physical_zip": "97111",
-    "physical_zip4": "9104"
+    "physical_zip4": "9104",
+    "zip_class_code": null,
+    "locale_key": "Z14830",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1167,7 +1418,10 @@
     "physical_city": "CLOVERDALE",
     "physical_state": "OR",
     "physical_zip": "97112",
-    "physical_zip4": "9555"
+    "physical_zip4": "9555",
+    "zip_class_code": null,
+    "locale_key": "Z14867",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1180,7 +1434,10 @@
     "physical_city": "CORNELIUS",
     "physical_state": "OR",
     "physical_zip": "97113",
-    "physical_zip4": "8813"
+    "physical_zip4": "8813",
+    "zip_class_code": null,
+    "locale_key": "Z14880",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1193,7 +1450,10 @@
     "physical_city": "DAYTON",
     "physical_state": "OR",
     "physical_zip": "97114",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14920",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1206,7 +1466,10 @@
     "physical_city": "DUNDEE",
     "physical_state": "OR",
     "physical_zip": "97115",
-    "physical_zip4": "9605"
+    "physical_zip4": "9605",
+    "zip_class_code": null,
+    "locale_key": "Z14954",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1219,7 +1482,10 @@
     "physical_city": "FOREST GROVE",
     "physical_state": "OR",
     "physical_zip": "97116",
-    "physical_zip4": "2448"
+    "physical_zip4": "2448",
+    "zip_class_code": null,
+    "locale_key": "Z15006",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1232,7 +1498,10 @@
     "physical_city": "FOREST GROVE",
     "physical_state": "OR",
     "physical_zip": "97116",
-    "physical_zip4": "2448"
+    "physical_zip4": "2448",
+    "zip_class_code": null,
+    "locale_key": "Z15006",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1245,7 +1514,10 @@
     "physical_city": "GARIBALDI",
     "physical_state": "OR",
     "physical_zip": "97118",
-    "physical_zip4": "9100"
+    "physical_zip4": "9100",
+    "zip_class_code": "P",
+    "locale_key": "Z15028",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1258,7 +1530,10 @@
     "physical_city": "GASTON",
     "physical_state": "OR",
     "physical_zip": "97119",
-    "physical_zip4": "8225"
+    "physical_zip4": "8225",
+    "zip_class_code": null,
+    "locale_key": "Z15029",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1271,7 +1546,10 @@
     "physical_city": "HAMMOND",
     "physical_state": "OR",
     "physical_zip": "97121",
-    "physical_zip4": "9200"
+    "physical_zip4": "9200",
+    "zip_class_code": null,
+    "locale_key": "Z15078",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1284,7 +1562,10 @@
     "physical_city": "WARRENTON",
     "physical_state": "OR",
     "physical_zip": "97146",
-    "physical_zip4": "9333"
+    "physical_zip4": "9333",
+    "zip_class_code": null,
+    "locale_key": "Z15707",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1297,7 +1578,10 @@
     "physical_city": "CLOVERDALE",
     "physical_state": "OR",
     "physical_zip": "97112",
-    "physical_zip4": "9555"
+    "physical_zip4": "9555",
+    "zip_class_code": null,
+    "locale_key": "Z14867",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1310,7 +1594,10 @@
     "physical_city": "HEBO",
     "physical_state": "OR",
     "physical_zip": "97122",
-    "physical_zip4": "9723"
+    "physical_zip4": "9723",
+    "zip_class_code": null,
+    "locale_key": "Z15090",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1323,7 +1610,10 @@
     "physical_city": "HILLSBORO",
     "physical_state": "OR",
     "physical_zip": "97123",
-    "physical_zip4": "3954"
+    "physical_zip4": "3954",
+    "zip_class_code": null,
+    "locale_key": "Z15101",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1336,7 +1626,10 @@
     "physical_city": "HILLSBORO",
     "physical_state": "OR",
     "physical_zip": "97123",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "Z18783",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1349,7 +1642,10 @@
     "physical_city": "HILLSBORO",
     "physical_state": "OR",
     "physical_zip": "97123",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "Z18783",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1362,7 +1658,10 @@
     "physical_city": "BANKS",
     "physical_state": "OR",
     "physical_zip": "97106",
-    "physical_zip4": "6021"
+    "physical_zip4": "6021",
+    "zip_class_code": null,
+    "locale_key": "Z14750",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1375,7 +1674,10 @@
     "physical_city": "DAYTON",
     "physical_state": "OR",
     "physical_zip": "97114",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14920",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1388,7 +1690,10 @@
     "physical_city": "LAFAYETTE",
     "physical_state": "OR",
     "physical_zip": "97127",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z15176",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1401,7 +1706,10 @@
     "physical_city": "MCMINNVILLE",
     "physical_state": "OR",
     "physical_zip": "97128",
-    "physical_zip4": "4700"
+    "physical_zip4": "4700",
+    "zip_class_code": null,
+    "locale_key": "Z15243",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1414,7 +1722,10 @@
     "physical_city": "HILLSBORO",
     "physical_state": "OR",
     "physical_zip": "97123",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "Z18783",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1427,7 +1738,10 @@
     "physical_city": "MANZANITA",
     "physical_state": "OR",
     "physical_zip": "97130",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "Z15223",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1440,7 +1754,10 @@
     "physical_city": "NEHALEM",
     "physical_state": "OR",
     "physical_zip": "97131",
-    "physical_zip4": "9518"
+    "physical_zip4": "9518",
+    "zip_class_code": null,
+    "locale_key": "Z15316",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1453,7 +1770,10 @@
     "physical_city": "NEWBERG",
     "physical_state": "OR",
     "physical_zip": "97132",
-    "physical_zip4": "2928"
+    "physical_zip4": "2928",
+    "zip_class_code": null,
+    "locale_key": "Z15326",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1466,20 +1786,10 @@
     "physical_city": "NEWBERG",
     "physical_state": "OR",
     "physical_zip": "97132",
-    "physical_zip4": "2155"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97133",
-    "locale_name": "BEAVERTON OR S&DC",
-    "physical_delivery_address": "3685 NE ALOCLEK DR",
-    "physical_city": "PORTLAND",
-    "physical_state": "OR",
-    "physical_zip": "97291",
-    "physical_zip4": "9800"
+    "physical_zip4": "2155",
+    "zip_class_code": null,
+    "locale_key": "Z18768",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1492,7 +1802,26 @@
     "physical_city": "NORTH PLAINS",
     "physical_state": "OR",
     "physical_zip": "97133",
-    "physical_zip4": "6184"
+    "physical_zip4": "6184",
+    "zip_class_code": null,
+    "locale_key": "Z15337",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ID-MT-OR",
+    "district_no": "970",
+    "delivery_zipcode": "97133",
+    "locale_name": "BEAVERTON OR S&DC",
+    "physical_delivery_address": "3685 NE ALOCLEK DR",
+    "physical_city": "PORTLAND",
+    "physical_state": "OR",
+    "physical_zip": "97291",
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "020666",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1505,7 +1834,10 @@
     "physical_city": "OCEANSIDE",
     "physical_state": "OR",
     "physical_zip": "97134",
-    "physical_zip4": "9100"
+    "physical_zip4": "9100",
+    "zip_class_code": "P",
+    "locale_key": "Z15358",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1518,7 +1850,10 @@
     "physical_city": "PACIFIC CITY",
     "physical_state": "OR",
     "physical_zip": "97135",
-    "physical_zip4": "9101"
+    "physical_zip4": "9101",
+    "zip_class_code": "P",
+    "locale_key": "Z15377",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1531,7 +1866,10 @@
     "physical_city": "ROCKAWAY BEACH",
     "physical_state": "OR",
     "physical_zip": "97136",
-    "physical_zip4": "9411"
+    "physical_zip4": "9411",
+    "zip_class_code": null,
+    "locale_key": "Z15453",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1544,7 +1882,10 @@
     "physical_city": "SAINT PAUL",
     "physical_state": "OR",
     "physical_zip": "97137",
-    "physical_zip4": "9640"
+    "physical_zip4": "9640",
+    "zip_class_code": null,
+    "locale_key": "Z15477",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1557,7 +1898,10 @@
     "physical_city": "SEASIDE",
     "physical_state": "OR",
     "physical_zip": "97138",
-    "physical_zip4": "5733"
+    "physical_zip4": "5733",
+    "zip_class_code": null,
+    "locale_key": "Z15495",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1570,7 +1914,10 @@
     "physical_city": "SHERWOOD",
     "physical_state": "OR",
     "physical_zip": "97140",
-    "physical_zip4": "8766"
+    "physical_zip4": "8766",
+    "zip_class_code": null,
+    "locale_key": "Z15508",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1583,7 +1930,10 @@
     "physical_city": "TUALATIN",
     "physical_state": "OR",
     "physical_zip": "97062",
-    "physical_zip4": "8806"
+    "physical_zip4": "8806",
+    "zip_class_code": null,
+    "locale_key": "Z18782",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1596,7 +1946,10 @@
     "physical_city": "TILLAMOOK",
     "physical_state": "OR",
     "physical_zip": "97141",
-    "physical_zip4": "2441"
+    "physical_zip4": "2441",
+    "zip_class_code": null,
+    "locale_key": "Z15644",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1609,7 +1962,10 @@
     "physical_city": "TILLAMOOK",
     "physical_state": "OR",
     "physical_zip": "97141",
-    "physical_zip4": "9467"
+    "physical_zip4": "9467",
+    "zip_class_code": "P",
+    "locale_key": "Z15321",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1622,7 +1978,10 @@
     "physical_city": "FOREST GROVE",
     "physical_state": "OR",
     "physical_zip": "97116",
-    "physical_zip4": "2448"
+    "physical_zip4": "2448",
+    "zip_class_code": null,
+    "locale_key": "Z15006",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1635,7 +1994,10 @@
     "physical_city": "TOLOVANA PARK",
     "physical_state": "OR",
     "physical_zip": "97145",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z15651",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1648,7 +2010,10 @@
     "physical_city": "WARRENTON",
     "physical_state": "OR",
     "physical_zip": "97146",
-    "physical_zip4": "9333"
+    "physical_zip4": "9333",
+    "zip_class_code": null,
+    "locale_key": "Z15707",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1661,7 +2026,10 @@
     "physical_city": "WHEELER",
     "physical_state": "OR",
     "physical_zip": "97147",
-    "physical_zip4": "9100"
+    "physical_zip4": "9100",
+    "zip_class_code": "P",
+    "locale_key": "Z15738",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1674,7 +2042,10 @@
     "physical_city": "YAMHILL",
     "physical_state": "OR",
     "physical_zip": "97148",
-    "physical_zip4": "4700"
+    "physical_zip4": "4700",
+    "zip_class_code": null,
+    "locale_key": "Z15771",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1687,7 +2058,10 @@
     "physical_city": "CLOVERDALE",
     "physical_state": "OR",
     "physical_zip": "97112",
-    "physical_zip4": "9555"
+    "physical_zip4": "9555",
+    "zip_class_code": null,
+    "locale_key": "Z14867",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1700,7 +2074,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97201",
-    "physical_zip4": "4915"
+    "physical_zip4": "4915",
+    "zip_class_code": null,
+    "locale_key": "020139",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1713,7 +2090,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97202",
-    "physical_zip4": "7333"
+    "physical_zip4": "7333",
+    "zip_class_code": null,
+    "locale_key": "000494",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1726,7 +2106,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97203",
-    "physical_zip4": "4826"
+    "physical_zip4": "4826",
+    "zip_class_code": null,
+    "locale_key": "Z15475",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1739,7 +2122,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97204",
-    "physical_zip4": "3264"
+    "physical_zip4": "3264",
+    "zip_class_code": null,
+    "locale_key": "015306",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1752,7 +2138,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97204",
-    "physical_zip4": "3264"
+    "physical_zip4": "3264",
+    "zip_class_code": null,
+    "locale_key": "015306",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1765,7 +2154,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97286",
-    "physical_zip4": "3039"
+    "physical_zip4": "3039",
+    "zip_class_code": null,
+    "locale_key": "Z14897",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1778,7 +2170,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97204",
-    "physical_zip4": "3264"
+    "physical_zip4": "3264",
+    "zip_class_code": "P",
+    "locale_key": "015306",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1791,7 +2186,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97208",
-    "physical_zip4": "8098"
+    "physical_zip4": "8098",
+    "zip_class_code": "P",
+    "locale_key": "Z15411",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1804,7 +2202,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97209",
-    "physical_zip4": "1815"
+    "physical_zip4": "1815",
+    "zip_class_code": null,
+    "locale_key": "020140",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1817,7 +2218,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97209",
-    "physical_zip4": "1815"
+    "physical_zip4": "1815",
+    "zip_class_code": null,
+    "locale_key": "020140",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1830,7 +2234,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97211",
-    "physical_zip4": "3857"
+    "physical_zip4": "3857",
+    "zip_class_code": null,
+    "locale_key": "Z15395",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1843,7 +2250,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97212",
-    "physical_zip4": "4039"
+    "physical_zip4": "4039",
+    "zip_class_code": null,
+    "locale_key": "Z15103",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1856,7 +2266,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97213",
-    "physical_zip4": "2515"
+    "physical_zip4": "2515",
+    "zip_class_code": null,
+    "locale_key": "Z15463",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1869,7 +2282,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97214",
-    "physical_zip4": "2387"
+    "physical_zip4": "2387",
+    "zip_class_code": null,
+    "locale_key": "Z14965",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1882,7 +2298,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97206",
-    "physical_zip4": "8599"
+    "physical_zip4": "8599",
+    "zip_class_code": null,
+    "locale_key": "Z15194",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1895,7 +2314,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97216",
-    "physical_zip4": "2756"
+    "physical_zip4": "2756",
+    "zip_class_code": null,
+    "locale_key": "Z18115",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1908,7 +2330,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97217",
-    "physical_zip4": "6819"
+    "physical_zip4": "6819",
+    "zip_class_code": null,
+    "locale_key": "Z15157",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1921,7 +2346,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97213",
-    "physical_zip4": "2515"
+    "physical_zip4": "2515",
+    "zip_class_code": null,
+    "locale_key": "Z15463",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1934,7 +2362,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97219",
-    "physical_zip4": "1643"
+    "physical_zip4": "1643",
+    "zip_class_code": null,
+    "locale_key": "Z15300",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1947,7 +2378,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97230",
-    "physical_zip4": "1335"
+    "physical_zip4": "1335",
+    "zip_class_code": null,
+    "locale_key": "Z15385",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1960,7 +2394,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97225",
-    "physical_zip4": "3407"
+    "physical_zip4": "3407",
+    "zip_class_code": null,
+    "locale_key": "Z15727",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1973,7 +2410,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97267",
-    "physical_zip4": "5623"
+    "physical_zip4": "5623",
+    "zip_class_code": null,
+    "locale_key": "Z15348",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1986,7 +2426,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97223",
-    "physical_zip4": "6222"
+    "physical_zip4": "6222",
+    "zip_class_code": null,
+    "locale_key": "Z15643",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1999,7 +2442,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97223",
-    "physical_zip4": "6222"
+    "physical_zip4": "6222",
+    "zip_class_code": null,
+    "locale_key": "Z15643",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2012,7 +2458,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97225",
-    "physical_zip4": "3407"
+    "physical_zip4": "3407",
+    "zip_class_code": null,
+    "locale_key": "Z15727",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2025,7 +2474,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97212",
-    "physical_zip4": "4039"
+    "physical_zip4": "4039",
+    "zip_class_code": null,
+    "locale_key": "Z15103",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2038,7 +2490,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97208",
-    "physical_zip4": "8098"
+    "physical_zip4": "8098",
+    "zip_class_code": "P",
+    "locale_key": "Z15411",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2051,7 +2506,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97291",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "020666",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2064,7 +2522,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97230",
-    "physical_zip4": "1335"
+    "physical_zip4": "1335",
+    "zip_class_code": null,
+    "locale_key": "Z15385",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2077,7 +2538,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97203",
-    "physical_zip4": "4826"
+    "physical_zip4": "4826",
+    "zip_class_code": null,
+    "locale_key": "Z15475",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2090,7 +2554,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97214",
-    "physical_zip4": "2387"
+    "physical_zip4": "2387",
+    "zip_class_code": null,
+    "locale_key": "Z14965",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2103,7 +2570,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97230",
-    "physical_zip4": "1335"
+    "physical_zip4": "1335",
+    "zip_class_code": null,
+    "locale_key": "Z15385",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2116,7 +2586,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97206",
-    "physical_zip4": "8599"
+    "physical_zip4": "8599",
+    "zip_class_code": null,
+    "locale_key": "Z15194",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2129,7 +2602,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97220",
-    "physical_zip4": "9050"
+    "physical_zip4": "9050",
+    "zip_class_code": "P",
+    "locale_key": "020504",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2142,7 +2618,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97219",
-    "physical_zip4": "1643"
+    "physical_zip4": "1643",
+    "zip_class_code": null,
+    "locale_key": "Z15300",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2155,7 +2634,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97240",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": "P",
+    "locale_key": "Z14846",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2168,7 +2650,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97202",
-    "physical_zip4": "2398"
+    "physical_zip4": "2398",
+    "zip_class_code": "P",
+    "locale_key": "Z14798",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2181,7 +2666,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97206",
-    "physical_zip4": "8599"
+    "physical_zip4": "8599",
+    "zip_class_code": null,
+    "locale_key": "Z15194",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2194,7 +2682,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97267",
-    "physical_zip4": "5623"
+    "physical_zip4": "5623",
+    "zip_class_code": null,
+    "locale_key": "Z15348",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2207,7 +2698,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97267",
-    "physical_zip4": "5623"
+    "physical_zip4": "5623",
+    "zip_class_code": "P",
+    "locale_key": "Z15348",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2220,7 +2714,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97222",
-    "physical_zip4": "7748"
+    "physical_zip4": "7748",
+    "zip_class_code": "P",
+    "locale_key": "Z15271",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2233,7 +2730,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97219",
-    "physical_zip4": "1643"
+    "physical_zip4": "1643",
+    "zip_class_code": "P",
+    "locale_key": "Z15300",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2246,7 +2746,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97223",
-    "physical_zip4": "6222"
+    "physical_zip4": "6222",
+    "zip_class_code": "P",
+    "locale_key": "Z15643",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2259,7 +2762,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97202",
-    "physical_zip4": "5706"
+    "physical_zip4": "5706",
+    "zip_class_code": "P",
+    "locale_key": "Z15496",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2272,7 +2778,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97203",
-    "physical_zip4": "4826"
+    "physical_zip4": "4826",
+    "zip_class_code": "P",
+    "locale_key": "Z15475",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2285,7 +2794,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97286",
-    "physical_zip4": "3039"
+    "physical_zip4": "3039",
+    "zip_class_code": "P",
+    "locale_key": "Z14897",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2298,7 +2810,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97266",
-    "physical_zip4": "2999"
+    "physical_zip4": "2999",
+    "zip_class_code": "P",
+    "locale_key": "Z17993",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2311,7 +2826,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97216",
-    "physical_zip4": "2756"
+    "physical_zip4": "2756",
+    "zip_class_code": "P",
+    "locale_key": "Z18115",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2324,7 +2842,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97214",
-    "physical_zip4": "2387"
+    "physical_zip4": "2387",
+    "zip_class_code": "P",
+    "locale_key": "Z14965",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2337,7 +2858,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97230",
-    "physical_zip4": "1335"
+    "physical_zip4": "1335",
+    "zip_class_code": "P",
+    "locale_key": "Z15385",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2350,7 +2874,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97209",
-    "physical_zip4": "1815"
+    "physical_zip4": "1815",
+    "zip_class_code": "P",
+    "locale_key": "020140",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2363,7 +2890,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "OR",
     "physical_zip": "97225",
-    "physical_zip4": "3407"
+    "physical_zip4": "3407",
+    "zip_class_code": "P",
+    "locale_key": "Z15727",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2376,20 +2906,10 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97301",
-    "physical_zip4": "9913"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97302",
-    "locale_name": "SALEM OR S&DC",
-    "physical_delivery_address": "1050 25TH ST SE",
-    "physical_city": "SALEM",
-    "physical_state": "OR",
-    "physical_zip": "97301",
-    "physical_zip4": "9913"
+    "physical_zip4": "9913",
+    "zip_class_code": null,
+    "locale_key": "020654",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2402,7 +2922,26 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97302",
-    "physical_zip4": "3831"
+    "physical_zip4": "3831",
+    "zip_class_code": null,
+    "locale_key": "Z15689",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ID-MT-OR",
+    "district_no": "970",
+    "delivery_zipcode": "97302",
+    "locale_name": "SALEM OR S&DC",
+    "physical_delivery_address": "1050 25TH ST SE",
+    "physical_city": "SALEM",
+    "physical_state": "OR",
+    "physical_zip": "97301",
+    "physical_zip4": "9913",
+    "zip_class_code": null,
+    "locale_key": "020654",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2415,7 +2954,10 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97301",
-    "physical_zip4": "0643"
+    "physical_zip4": "0643",
+    "zip_class_code": null,
+    "locale_key": "Z15105",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2428,20 +2970,10 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97301",
-    "physical_zip4": "2397"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97304",
-    "locale_name": "SALEM OR S&DC",
-    "physical_delivery_address": "1050 25TH ST SE",
-    "physical_city": "SALEM",
-    "physical_state": "OR",
-    "physical_zip": "97301",
-    "physical_zip4": "9913"
+    "physical_zip4": "2397",
+    "zip_class_code": null,
+    "locale_key": "Z18218",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2454,7 +2986,26 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97304",
-    "physical_zip4": "3060"
+    "physical_zip4": "3060",
+    "zip_class_code": null,
+    "locale_key": "Z15722",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ID-MT-OR",
+    "district_no": "970",
+    "delivery_zipcode": "97304",
+    "locale_name": "SALEM OR S&DC",
+    "physical_delivery_address": "1050 25TH ST SE",
+    "physical_city": "SALEM",
+    "physical_state": "OR",
+    "physical_zip": "97301",
+    "physical_zip4": "9913",
+    "zip_class_code": null,
+    "locale_key": "020654",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2467,20 +3018,10 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97305",
-    "physical_zip4": "9600"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97305",
-    "locale_name": "OAK PARK 97305 PO BOXES",
-    "physical_delivery_address": "3284 LANCASTER DR NE STE C",
-    "physical_city": "SALEM",
-    "physical_state": "OR",
-    "physical_zip": "97305",
-    "physical_zip4": "1177"
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "Z14799",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2493,7 +3034,26 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97301",
-    "physical_zip4": "2397"
+    "physical_zip4": "2397",
+    "zip_class_code": null,
+    "locale_key": "Z18218",
+    "locale_type": "4"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ID-MT-OR",
+    "district_no": "970",
+    "delivery_zipcode": "97305",
+    "locale_name": "OAK PARK 97305 PO BOXES",
+    "physical_delivery_address": "3284 LANCASTER DR NE STE C",
+    "physical_city": "SALEM",
+    "physical_state": "OR",
+    "physical_zip": "97305",
+    "physical_zip4": "1177",
+    "zip_class_code": null,
+    "locale_key": "009917",
+    "locale_type": "6"
   },
   {
     "area_name": "WESTPAC",
@@ -2506,7 +3066,10 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97301",
-    "physical_zip4": "9913"
+    "physical_zip4": "9913",
+    "zip_class_code": null,
+    "locale_key": "020654",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2519,7 +3082,10 @@
     "physical_city": "KEIZER",
     "physical_state": "OR",
     "physical_zip": "97303",
-    "physical_zip4": "2000"
+    "physical_zip4": "2000",
+    "zip_class_code": "P",
+    "locale_key": "Z15153",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2532,7 +3098,10 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97301",
-    "physical_zip4": "3601"
+    "physical_zip4": "3601",
+    "zip_class_code": "P",
+    "locale_key": "Z15421",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2545,7 +3114,10 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97301",
-    "physical_zip4": "9913"
+    "physical_zip4": "9913",
+    "zip_class_code": "P",
+    "locale_key": "020654",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2558,7 +3130,10 @@
     "physical_city": "SALEM",
     "physical_state": "OR",
     "physical_zip": "97301",
-    "physical_zip4": "9913"
+    "physical_zip4": "9913",
+    "zip_class_code": null,
+    "locale_key": "020654",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -2571,7 +3146,10 @@
     "physical_city": "ALBANY",
     "physical_state": "OR",
     "physical_zip": "97321",
-    "physical_zip4": "2238"
+    "physical_zip4": "2238",
+    "zip_class_code": null,
+    "locale_key": "Z14717",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2584,7 +3162,10 @@
     "physical_city": "ALBANY",
     "physical_state": "OR",
     "physical_zip": "97321",
-    "physical_zip4": "2238"
+    "physical_zip4": "2238",
+    "zip_class_code": null,
+    "locale_key": "Z14717",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2597,7 +3178,10 @@
     "physical_city": "ALSEA",
     "physical_state": "OR",
     "physical_zip": "97324",
-    "physical_zip4": "9407"
+    "physical_zip4": "9407",
+    "zip_class_code": null,
+    "locale_key": "Z14724",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2610,7 +3194,10 @@
     "physical_city": "PHILOMATH",
     "physical_state": "OR",
     "physical_zip": "97370",
-    "physical_zip4": "9416"
+    "physical_zip4": "9416",
+    "zip_class_code": null,
+    "locale_key": "Z15393",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2623,7 +3210,10 @@
     "physical_city": "AUMSVILLE",
     "physical_state": "OR",
     "physical_zip": "97325",
-    "physical_zip4": "9809"
+    "physical_zip4": "9809",
+    "zip_class_code": null,
+    "locale_key": "Z14742",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2636,7 +3226,10 @@
     "physical_city": "BLODGETT",
     "physical_state": "OR",
     "physical_zip": "97326",
-    "physical_zip4": "9604"
+    "physical_zip4": "9604",
+    "zip_class_code": null,
+    "locale_key": "Z14777",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2649,7 +3242,10 @@
     "physical_city": "BROWNSVILLE",
     "physical_state": "OR",
     "physical_zip": "97327",
-    "physical_zip4": "2147"
+    "physical_zip4": "2147",
+    "zip_class_code": null,
+    "locale_key": "Z14802",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2662,7 +3258,10 @@
     "physical_city": "FOSTER",
     "physical_state": "OR",
     "physical_zip": "97345",
-    "physical_zip4": "9740"
+    "physical_zip4": "9740",
+    "zip_class_code": null,
+    "locale_key": "Z15013",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2675,7 +3274,10 @@
     "physical_city": "SWEET HOME",
     "physical_state": "OR",
     "physical_zip": "97386",
-    "physical_zip4": "2122"
+    "physical_zip4": "2122",
+    "zip_class_code": null,
+    "locale_key": "Z15626",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2688,7 +3290,10 @@
     "physical_city": "CORVALLIS",
     "physical_state": "OR",
     "physical_zip": "97333",
-    "physical_zip4": "4631"
+    "physical_zip4": "4631",
+    "zip_class_code": null,
+    "locale_key": "Z14882",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2701,7 +3306,10 @@
     "physical_city": "CORVALLIS",
     "physical_state": "OR",
     "physical_zip": "97333",
-    "physical_zip4": "4631"
+    "physical_zip4": "4631",
+    "zip_class_code": null,
+    "locale_key": "Z14882",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2714,7 +3322,10 @@
     "physical_city": "CRABTREE",
     "physical_state": "OR",
     "physical_zip": "97335",
-    "physical_zip4": "1111"
+    "physical_zip4": "1111",
+    "zip_class_code": "P",
+    "locale_key": "Z14887",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2727,7 +3338,10 @@
     "physical_city": "CRAWFORDSVILLE",
     "physical_state": "OR",
     "physical_zip": "97336",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z14892",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2740,7 +3354,10 @@
     "physical_city": "DALLAS",
     "physical_state": "OR",
     "physical_zip": "97338",
-    "physical_zip4": "3102"
+    "physical_zip4": "3102",
+    "zip_class_code": null,
+    "locale_key": "Z14913",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2753,7 +3370,10 @@
     "physical_city": "CORVALLIS",
     "physical_state": "OR",
     "physical_zip": "97333",
-    "physical_zip4": "4631"
+    "physical_zip4": "4631",
+    "zip_class_code": "P",
+    "locale_key": "Z14882",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2766,7 +3386,10 @@
     "physical_city": "DEPOE BAY",
     "physical_state": "OR",
     "physical_zip": "97341",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z14929",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2779,7 +3402,10 @@
     "physical_city": "DETROIT",
     "physical_state": "OR",
     "physical_zip": "97342",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z14933",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2792,7 +3418,10 @@
     "physical_city": "EDDYVILLE",
     "physical_state": "OR",
     "physical_zip": "97343",
-    "physical_zip4": "9792"
+    "physical_zip4": "9792",
+    "zip_class_code": null,
+    "locale_key": "Z14969",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2805,7 +3434,10 @@
     "physical_city": "FALLS CITY",
     "physical_state": "OR",
     "physical_zip": "97344",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z14992",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2818,7 +3450,10 @@
     "physical_city": "FOSTER",
     "physical_state": "OR",
     "physical_zip": "97345",
-    "physical_zip4": "9740"
+    "physical_zip4": "9740",
+    "zip_class_code": null,
+    "locale_key": "Z15013",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2831,7 +3466,10 @@
     "physical_city": "SWEET HOME",
     "physical_state": "OR",
     "physical_zip": "97386",
-    "physical_zip4": "2122"
+    "physical_zip4": "2122",
+    "zip_class_code": null,
+    "locale_key": "Z15626",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2844,7 +3482,10 @@
     "physical_city": "MILL CITY",
     "physical_state": "OR",
     "physical_zip": "97360",
-    "physical_zip4": "2602"
+    "physical_zip4": "2602",
+    "zip_class_code": null,
+    "locale_key": "Z15263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2857,7 +3498,10 @@
     "physical_city": "GRAND RONDE",
     "physical_state": "OR",
     "physical_zip": "97347",
-    "physical_zip4": "9720"
+    "physical_zip4": "9720",
+    "zip_class_code": null,
+    "locale_key": "Z15057",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2870,7 +3514,10 @@
     "physical_city": "HALSEY",
     "physical_state": "OR",
     "physical_zip": "97348",
-    "physical_zip4": "9671"
+    "physical_zip4": "9671",
+    "zip_class_code": null,
+    "locale_key": "Z15077",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2883,7 +3530,10 @@
     "physical_city": "IDANHA",
     "physical_state": "OR",
     "physical_zip": "97350",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "Z15115",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2896,7 +3546,10 @@
     "physical_city": "INDEPENDENCE",
     "physical_state": "OR",
     "physical_zip": "97351",
-    "physical_zip4": "2031"
+    "physical_zip4": "2031",
+    "zip_class_code": null,
+    "locale_key": "Z15122",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2909,7 +3562,10 @@
     "physical_city": "JEFFERSON",
     "physical_state": "OR",
     "physical_zip": "97352",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z15136",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2922,7 +3578,10 @@
     "physical_city": "LEBANON",
     "physical_state": "OR",
     "physical_zip": "97355",
-    "physical_zip4": "2344"
+    "physical_zip4": "2344",
+    "zip_class_code": null,
+    "locale_key": "Z15190",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2935,7 +3594,10 @@
     "physical_city": "LOGSDEN",
     "physical_state": "OR",
     "physical_zip": "97357",
-    "physical_zip4": "9701"
+    "physical_zip4": "9701",
+    "zip_class_code": null,
+    "locale_key": "Z15207",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2948,7 +3610,10 @@
     "physical_city": "SILETZ",
     "physical_state": "OR",
     "physical_zip": "97380",
-    "physical_zip4": "9746"
+    "physical_zip4": "9746",
+    "zip_class_code": null,
+    "locale_key": "Z15510",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2961,7 +3626,10 @@
     "physical_city": "LYONS",
     "physical_state": "OR",
     "physical_zip": "97358",
-    "physical_zip4": "2129"
+    "physical_zip4": "2129",
+    "zip_class_code": null,
+    "locale_key": "Z15216",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2974,7 +3642,10 @@
     "physical_city": "MILL CITY",
     "physical_state": "OR",
     "physical_zip": "97360",
-    "physical_zip4": "2602"
+    "physical_zip4": "2602",
+    "zip_class_code": null,
+    "locale_key": "Z15263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2987,7 +3658,10 @@
     "physical_city": "MONMOUTH",
     "physical_state": "OR",
     "physical_zip": "97361",
-    "physical_zip4": "2339"
+    "physical_zip4": "2339",
+    "zip_class_code": null,
+    "locale_key": "Z15283",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3000,7 +3674,10 @@
     "physical_city": "MOUNT ANGEL",
     "physical_state": "OR",
     "physical_zip": "97362",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z15288",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3013,20 +3690,10 @@
     "physical_city": "SILVERTON",
     "physical_state": "OR",
     "physical_zip": "97381",
-    "physical_zip4": "1440"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97364",
-    "locale_name": "LINCOLN CITY",
-    "physical_delivery_address": "1501 SE EAST DEVILS LAKE RD",
-    "physical_city": "LINCOLN CITY",
-    "physical_state": "OR",
-    "physical_zip": "97367",
-    "physical_zip4": "2621"
+    "physical_zip4": "1440",
+    "zip_class_code": null,
+    "locale_key": "Z15514",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3039,7 +3706,10 @@
     "physical_city": "NEOTSU",
     "physical_state": "OR",
     "physical_zip": "97364",
-    "physical_zip4": "9778"
+    "physical_zip4": "9778",
+    "zip_class_code": null,
+    "locale_key": "Z15318",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3052,7 +3722,10 @@
     "physical_city": "NEWPORT",
     "physical_state": "OR",
     "physical_zip": "97365",
-    "physical_zip4": "3818"
+    "physical_zip4": "3818",
+    "zip_class_code": null,
+    "locale_key": "Z15327",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3065,7 +3738,10 @@
     "physical_city": "NEWPORT",
     "physical_state": "OR",
     "physical_zip": "97365",
-    "physical_zip4": "3818"
+    "physical_zip4": "3818",
+    "zip_class_code": null,
+    "locale_key": "Z15327",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3078,7 +3754,10 @@
     "physical_city": "LINCOLN CITY",
     "physical_state": "OR",
     "physical_zip": "97367",
-    "physical_zip4": "2621"
+    "physical_zip4": "2621",
+    "zip_class_code": null,
+    "locale_key": "Z15204",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3091,7 +3770,10 @@
     "physical_city": "LINCOLN CITY",
     "physical_state": "OR",
     "physical_zip": "97367",
-    "physical_zip4": "2621"
+    "physical_zip4": "2621",
+    "zip_class_code": null,
+    "locale_key": "Z15204",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3104,7 +3786,10 @@
     "physical_city": "OTIS",
     "physical_state": "OR",
     "physical_zip": "97368",
-    "physical_zip4": "9544"
+    "physical_zip4": "9544",
+    "zip_class_code": null,
+    "locale_key": "Z15372",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3117,7 +3802,10 @@
     "physical_city": "NEWPORT",
     "physical_state": "OR",
     "physical_zip": "97365",
-    "physical_zip4": "3818"
+    "physical_zip4": "3818",
+    "zip_class_code": null,
+    "locale_key": "Z15327",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3130,7 +3818,10 @@
     "physical_city": "PHILOMATH",
     "physical_state": "OR",
     "physical_zip": "97370",
-    "physical_zip4": "9416"
+    "physical_zip4": "9416",
+    "zip_class_code": null,
+    "locale_key": "Z15393",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3143,7 +3834,10 @@
     "physical_city": "RICKREALL",
     "physical_state": "OR",
     "physical_zip": "97371",
-    "physical_zip4": "9770"
+    "physical_zip4": "9770",
+    "zip_class_code": null,
+    "locale_key": "Z15441",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3156,7 +3850,10 @@
     "physical_city": "SAINT BENEDICT",
     "physical_state": "OR",
     "physical_zip": "97373",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15473",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3169,7 +3866,10 @@
     "physical_city": "SCIO",
     "physical_state": "OR",
     "physical_zip": "97374",
-    "physical_zip4": "9394"
+    "physical_zip4": "9394",
+    "zip_class_code": null,
+    "locale_key": "Z15489",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3182,7 +3882,10 @@
     "physical_city": "SCOTTS MILLS",
     "physical_state": "OR",
     "physical_zip": "97375",
-    "physical_zip4": "9704"
+    "physical_zip4": "9704",
+    "zip_class_code": null,
+    "locale_key": "Z15490",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3195,7 +3898,10 @@
     "physical_city": "WALDPORT",
     "physical_state": "OR",
     "physical_zip": "97394",
-    "physical_zip4": "6401"
+    "physical_zip4": "6401",
+    "zip_class_code": null,
+    "locale_key": "Z15695",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3208,7 +3914,10 @@
     "physical_city": "SHEDD",
     "physical_state": "OR",
     "physical_zip": "97377",
-    "physical_zip4": "9740"
+    "physical_zip4": "9740",
+    "zip_class_code": null,
+    "locale_key": "Z15505",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3221,7 +3930,10 @@
     "physical_city": "SHERIDAN",
     "physical_state": "OR",
     "physical_zip": "97378",
-    "physical_zip4": "1947"
+    "physical_zip4": "1947",
+    "zip_class_code": null,
+    "locale_key": "Z15507",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3234,7 +3946,10 @@
     "physical_city": "SILETZ",
     "physical_state": "OR",
     "physical_zip": "97380",
-    "physical_zip4": "9746"
+    "physical_zip4": "9746",
+    "zip_class_code": null,
+    "locale_key": "Z15510",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3247,7 +3962,10 @@
     "physical_city": "SILVERTON",
     "physical_state": "OR",
     "physical_zip": "97381",
-    "physical_zip4": "1440"
+    "physical_zip4": "1440",
+    "zip_class_code": null,
+    "locale_key": "Z15514",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3260,7 +3978,10 @@
     "physical_city": "STAYTON",
     "physical_state": "OR",
     "physical_zip": "97383",
-    "physical_zip4": "1711"
+    "physical_zip4": "1711",
+    "zip_class_code": null,
+    "locale_key": "Z15607",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3273,7 +3994,10 @@
     "physical_city": "LYONS",
     "physical_state": "OR",
     "physical_zip": "97358",
-    "physical_zip4": "2129"
+    "physical_zip4": "2129",
+    "zip_class_code": "P",
+    "locale_key": "Z15216",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3286,7 +4010,10 @@
     "physical_city": "SUBLIMITY",
     "physical_state": "OR",
     "physical_zip": "97385",
-    "physical_zip4": "9113"
+    "physical_zip4": "9113",
+    "zip_class_code": null,
+    "locale_key": "Z15611",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3299,7 +4026,10 @@
     "physical_city": "SWEET HOME",
     "physical_state": "OR",
     "physical_zip": "97386",
-    "physical_zip4": "2122"
+    "physical_zip4": "2122",
+    "zip_class_code": null,
+    "locale_key": "Z15626",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3312,7 +4042,10 @@
     "physical_city": "GLENEDEN BEACH",
     "physical_state": "OR",
     "physical_zip": "97388",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15045",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3325,7 +4058,10 @@
     "physical_city": "TANGENT",
     "physical_state": "OR",
     "physical_zip": "97389",
-    "physical_zip4": "9607"
+    "physical_zip4": "9607",
+    "zip_class_code": null,
+    "locale_key": "Z15633",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3338,7 +4074,10 @@
     "physical_city": "TIDEWATER",
     "physical_state": "OR",
     "physical_zip": "97390",
-    "physical_zip4": "9607"
+    "physical_zip4": "9607",
+    "zip_class_code": null,
+    "locale_key": "Z15642",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3351,20 +4090,10 @@
     "physical_city": "TOLEDO",
     "physical_state": "OR",
     "physical_zip": "97391",
-    "physical_zip4": "1508"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97392",
-    "locale_name": "SALEM OR S&DC",
-    "physical_delivery_address": "1050 25TH ST SE",
-    "physical_city": "SALEM",
-    "physical_state": "OR",
-    "physical_zip": "97301",
-    "physical_zip4": "9913"
+    "physical_zip4": "1508",
+    "zip_class_code": null,
+    "locale_key": "Z15649",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3377,7 +4106,26 @@
     "physical_city": "TURNER",
     "physical_state": "OR",
     "physical_zip": "97392",
-    "physical_zip4": "9606"
+    "physical_zip4": "9606",
+    "zip_class_code": null,
+    "locale_key": "Z15660",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ID-MT-OR",
+    "district_no": "970",
+    "delivery_zipcode": "97392",
+    "locale_name": "SALEM OR S&DC",
+    "physical_delivery_address": "1050 25TH ST SE",
+    "physical_city": "SALEM",
+    "physical_state": "OR",
+    "physical_zip": "97301",
+    "physical_zip4": "9913",
+    "zip_class_code": null,
+    "locale_key": "020654",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -3390,7 +4138,10 @@
     "physical_city": "WALDPORT",
     "physical_state": "OR",
     "physical_zip": "97394",
-    "physical_zip4": "6401"
+    "physical_zip4": "6401",
+    "zip_class_code": null,
+    "locale_key": "Z15695",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3403,7 +4154,10 @@
     "physical_city": "WILLAMINA",
     "physical_state": "OR",
     "physical_zip": "97396",
-    "physical_zip4": "2744"
+    "physical_zip4": "2744",
+    "zip_class_code": null,
+    "locale_key": "Z15749",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3416,7 +4170,10 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97401",
-    "physical_zip4": "2602"
+    "physical_zip4": "2602",
+    "zip_class_code": null,
+    "locale_key": "Z18243",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -3429,20 +4186,10 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97402",
-    "physical_zip4": "2754"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97403",
-    "locale_name": "DOWNTOWN EUGENE",
-    "physical_delivery_address": "520 WILLAMETTE ST",
-    "physical_city": "EUGENE",
-    "physical_state": "OR",
-    "physical_zip": "97401",
-    "physical_zip4": "2768"
+    "physical_zip4": "2754",
+    "zip_class_code": null,
+    "locale_key": "Z15735",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3455,7 +4202,26 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97405",
-    "physical_zip4": "3819"
+    "physical_zip4": "3819",
+    "zip_class_code": null,
+    "locale_key": "Z15526",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ID-MT-OR",
+    "district_no": "970",
+    "delivery_zipcode": "97403",
+    "locale_name": "DOWNTOWN EUGENE",
+    "physical_delivery_address": "520 WILLAMETTE ST",
+    "physical_city": "EUGENE",
+    "physical_state": "OR",
+    "physical_zip": "97401",
+    "physical_zip4": "2768",
+    "zip_class_code": null,
+    "locale_key": "Z18885",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3468,7 +4234,10 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97404",
-    "physical_zip4": "2512"
+    "physical_zip4": "2512",
+    "zip_class_code": null,
+    "locale_key": "Z17798",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3481,7 +4250,10 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97405",
-    "physical_zip4": "3819"
+    "physical_zip4": "3819",
+    "zip_class_code": null,
+    "locale_key": "Z15526",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3494,7 +4266,10 @@
     "physical_city": "AGNESS",
     "physical_state": "OR",
     "physical_zip": "97406",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": null,
+    "locale_key": "Z14714",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3507,7 +4282,10 @@
     "physical_city": "ALLEGANY",
     "physical_state": "OR",
     "physical_zip": "97407",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z14720",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3520,7 +4298,10 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97408",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "Z14870",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3533,7 +4314,10 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97404",
-    "physical_zip4": "2512"
+    "physical_zip4": "2512",
+    "zip_class_code": null,
+    "locale_key": "Z17798",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3546,7 +4330,10 @@
     "physical_city": "ALVADORE",
     "physical_state": "OR",
     "physical_zip": "97409",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z14726",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3559,7 +4346,10 @@
     "physical_city": "AZALEA",
     "physical_state": "OR",
     "physical_zip": "97410",
-    "physical_zip4": "9736"
+    "physical_zip4": "9736",
+    "zip_class_code": null,
+    "locale_key": "Z14744",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3572,7 +4362,10 @@
     "physical_city": "BANDON",
     "physical_state": "OR",
     "physical_zip": "97411",
-    "physical_zip4": "9062"
+    "physical_zip4": "9062",
+    "zip_class_code": null,
+    "locale_key": "Z14749",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3585,7 +4378,10 @@
     "physical_city": "BLACHLY",
     "physical_state": "OR",
     "physical_zip": "97412",
-    "physical_zip4": "9713"
+    "physical_zip4": "9713",
+    "zip_class_code": null,
+    "locale_key": "Z14774",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3598,7 +4394,10 @@
     "physical_city": "BLUE RIVER",
     "physical_state": "OR",
     "physical_zip": "97413",
-    "physical_zip4": "9737"
+    "physical_zip4": "9737",
+    "zip_class_code": null,
+    "locale_key": "Z14779",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3611,7 +4410,10 @@
     "physical_city": "BROADBENT",
     "physical_state": "OR",
     "physical_zip": "97414",
-    "physical_zip4": "9714"
+    "physical_zip4": "9714",
+    "zip_class_code": null,
+    "locale_key": "Z14794",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3624,7 +4426,10 @@
     "physical_city": "BROOKINGS",
     "physical_state": "OR",
     "physical_zip": "97415",
-    "physical_zip4": "7900"
+    "physical_zip4": "7900",
+    "zip_class_code": null,
+    "locale_key": "Z14797",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3637,20 +4442,10 @@
     "physical_city": "CAMAS VALLEY",
     "physical_state": "OR",
     "physical_zip": "97416",
-    "physical_zip4": "9778"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97416",
-    "locale_name": "WINSTON",
-    "physical_delivery_address": "291 SW MAIN ST",
-    "physical_city": "WINSTON",
-    "physical_state": "OR",
-    "physical_zip": "97496",
-    "physical_zip4": "9769"
+    "physical_zip4": "9778",
+    "zip_class_code": null,
+    "locale_key": "012031",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3663,7 +4458,10 @@
     "physical_city": "CANYONVILLE",
     "physical_state": "OR",
     "physical_zip": "97417",
-    "physical_zip4": "9703"
+    "physical_zip4": "9703",
+    "zip_class_code": null,
+    "locale_key": "Z14826",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3676,7 +4474,10 @@
     "physical_city": "CHESHIRE",
     "physical_state": "OR",
     "physical_zip": "97419",
-    "physical_zip4": "9752"
+    "physical_zip4": "9752",
+    "zip_class_code": null,
+    "locale_key": "Z14856",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3689,7 +4490,10 @@
     "physical_city": "COOS BAY",
     "physical_state": "OR",
     "physical_zip": "97420",
-    "physical_zip4": "9601"
+    "physical_zip4": "9601",
+    "zip_class_code": null,
+    "locale_key": "Z14852",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3702,7 +4506,10 @@
     "physical_city": "COOS BAY",
     "physical_state": "OR",
     "physical_zip": "97420",
-    "physical_zip4": "1573"
+    "physical_zip4": "1573",
+    "zip_class_code": null,
+    "locale_key": "Z14875",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3715,7 +4522,10 @@
     "physical_city": "COOS BAY",
     "physical_state": "OR",
     "physical_zip": "97420",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z14966",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -3728,7 +4538,10 @@
     "physical_city": "COOS BAY",
     "physical_state": "OR",
     "physical_zip": "97420",
-    "physical_zip4": "3204"
+    "physical_zip4": "3204",
+    "zip_class_code": null,
+    "locale_key": "Z14979",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3741,7 +4554,10 @@
     "physical_city": "COQUILLE",
     "physical_state": "OR",
     "physical_zip": "97423",
-    "physical_zip4": "1287"
+    "physical_zip4": "1287",
+    "zip_class_code": null,
+    "locale_key": "Z14878",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3754,7 +4570,10 @@
     "physical_city": "COTTAGE GROVE",
     "physical_state": "OR",
     "physical_zip": "97424",
-    "physical_zip4": "2210"
+    "physical_zip4": "2210",
+    "zip_class_code": null,
+    "locale_key": "Z14883",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3767,7 +4586,10 @@
     "physical_city": "CRESWELL",
     "physical_state": "OR",
     "physical_zip": "97426",
-    "physical_zip4": "9774"
+    "physical_zip4": "9774",
+    "zip_class_code": null,
+    "locale_key": "Z14898",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3780,7 +4602,10 @@
     "physical_city": "DAYS CREEK",
     "physical_state": "OR",
     "physical_zip": "97429",
-    "physical_zip4": "9756"
+    "physical_zip4": "9756",
+    "zip_class_code": null,
+    "locale_key": "Z14918",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3793,7 +4618,10 @@
     "physical_city": "DEADWOOD",
     "physical_state": "OR",
     "physical_zip": "97430",
-    "physical_zip4": "9719"
+    "physical_zip4": "9719",
+    "zip_class_code": null,
+    "locale_key": "Z14923",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3806,7 +4634,10 @@
     "physical_city": "DEXTER",
     "physical_state": "OR",
     "physical_zip": "97431",
-    "physical_zip4": "9775"
+    "physical_zip4": "9775",
+    "zip_class_code": null,
+    "locale_key": "Z14936",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3819,7 +4650,10 @@
     "physical_city": "DILLARD",
     "physical_state": "OR",
     "physical_zip": "97432",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z14940",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3832,7 +4666,10 @@
     "physical_city": "COTTAGE GROVE",
     "physical_state": "OR",
     "physical_zip": "97424",
-    "physical_zip4": "2210"
+    "physical_zip4": "2210",
+    "zip_class_code": null,
+    "locale_key": "Z14883",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3845,7 +4682,10 @@
     "physical_city": "DORENA",
     "physical_state": "OR",
     "physical_zip": "97434",
-    "physical_zip4": "9712"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "Z14946",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3858,7 +4698,10 @@
     "physical_city": "DRAIN",
     "physical_state": "OR",
     "physical_zip": "97435",
-    "physical_zip4": "9706"
+    "physical_zip4": "9706",
+    "zip_class_code": null,
+    "locale_key": "Z14950",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3871,7 +4714,10 @@
     "physical_city": "ELKTON",
     "physical_state": "OR",
     "physical_zip": "97436",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "Z14974",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3884,7 +4730,10 @@
     "physical_city": "ELMIRA",
     "physical_state": "OR",
     "physical_zip": "97437",
-    "physical_zip4": "9759"
+    "physical_zip4": "9759",
+    "zip_class_code": null,
+    "locale_key": "Z14976",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3897,7 +4746,10 @@
     "physical_city": "LOWELL",
     "physical_state": "OR",
     "physical_zip": "97452",
-    "physical_zip4": "9742"
+    "physical_zip4": "9742",
+    "zip_class_code": null,
+    "locale_key": "Z15215",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3910,7 +4762,10 @@
     "physical_city": "FLORENCE",
     "physical_state": "OR",
     "physical_zip": "97439",
-    "physical_zip4": "9491"
+    "physical_zip4": "9491",
+    "zip_class_code": null,
+    "locale_key": "Z15005",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3923,7 +4778,10 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97401",
-    "physical_zip4": "2768"
+    "physical_zip4": "2768",
+    "zip_class_code": "P",
+    "locale_key": "Z18885",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3936,7 +4794,10 @@
     "physical_city": "GARDINER",
     "physical_state": "OR",
     "physical_zip": "97441",
-    "physical_zip4": "9706"
+    "physical_zip4": "9706",
+    "zip_class_code": null,
+    "locale_key": "Z15027",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3949,7 +4810,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "OR",
     "physical_zip": "97442",
-    "physical_zip4": "9744"
+    "physical_zip4": "9744",
+    "zip_class_code": null,
+    "locale_key": "Z15042",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3962,7 +4826,10 @@
     "physical_city": "GLIDE",
     "physical_state": "OR",
     "physical_zip": "97443",
-    "physical_zip4": "9738"
+    "physical_zip4": "9738",
+    "zip_class_code": null,
+    "locale_key": "Z15048",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3975,7 +4842,10 @@
     "physical_city": "GOLD BEACH",
     "physical_state": "OR",
     "physical_zip": "97444",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "Z15051",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3988,7 +4858,10 @@
     "physical_city": "HARRISBURG",
     "physical_state": "OR",
     "physical_zip": "97446",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z15086",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4001,7 +4874,10 @@
     "physical_city": "IDLEYLD PARK",
     "physical_state": "OR",
     "physical_zip": "97447",
-    "physical_zip4": "9000"
+    "physical_zip4": "9000",
+    "zip_class_code": null,
+    "locale_key": "Z15116",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4014,7 +4890,10 @@
     "physical_city": "JUNCTION CITY",
     "physical_state": "OR",
     "physical_zip": "97448",
-    "physical_zip4": "1600"
+    "physical_zip4": "1600",
+    "zip_class_code": null,
+    "locale_key": "Z15145",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4027,7 +4906,10 @@
     "physical_city": "LAKESIDE",
     "physical_state": "OR",
     "physical_zip": "97449",
-    "physical_zip4": "9703"
+    "physical_zip4": "9703",
+    "zip_class_code": null,
+    "locale_key": "Z15182",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4040,7 +4922,10 @@
     "physical_city": "LANGLOIS",
     "physical_state": "OR",
     "physical_zip": "97450",
-    "physical_zip4": "9714"
+    "physical_zip4": "9714",
+    "zip_class_code": null,
+    "locale_key": "Z15185",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4053,7 +4938,10 @@
     "physical_city": "LORANE",
     "physical_state": "OR",
     "physical_zip": "97451",
-    "physical_zip4": "9719"
+    "physical_zip4": "9719",
+    "zip_class_code": null,
+    "locale_key": "Z15212",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4066,7 +4954,10 @@
     "physical_city": "LOWELL",
     "physical_state": "OR",
     "physical_zip": "97452",
-    "physical_zip4": "9742"
+    "physical_zip4": "9742",
+    "zip_class_code": null,
+    "locale_key": "Z15215",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4079,7 +4970,10 @@
     "physical_city": "MAPLETON",
     "physical_state": "OR",
     "physical_zip": "97453",
-    "physical_zip4": "9506"
+    "physical_zip4": "9506",
+    "zip_class_code": null,
+    "locale_key": "Z15224",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4092,7 +4986,10 @@
     "physical_city": "MARCOLA",
     "physical_state": "OR",
     "physical_zip": "97454",
-    "physical_zip4": "9789"
+    "physical_zip4": "9789",
+    "zip_class_code": null,
+    "locale_key": "Z15225",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4105,7 +5002,10 @@
     "physical_city": "PLEASANT HILL",
     "physical_state": "OR",
     "physical_zip": "97455",
-    "physical_zip4": "9699"
+    "physical_zip4": "9699",
+    "zip_class_code": null,
+    "locale_key": "Z15403",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4118,7 +5018,10 @@
     "physical_city": "EUGENE",
     "physical_state": "OR",
     "physical_zip": "97405",
-    "physical_zip4": "3819"
+    "physical_zip4": "3819",
+    "zip_class_code": null,
+    "locale_key": "Z15526",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4131,7 +5034,10 @@
     "physical_city": "MONROE",
     "physical_state": "OR",
     "physical_zip": "97456",
-    "physical_zip4": "9606"
+    "physical_zip4": "9606",
+    "zip_class_code": null,
+    "locale_key": "Z15284",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4144,7 +5050,10 @@
     "physical_city": "MYRTLE CREEK",
     "physical_state": "OR",
     "physical_zip": "97457",
-    "physical_zip4": "9665"
+    "physical_zip4": "9665",
+    "zip_class_code": null,
+    "locale_key": "Z15303",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4157,7 +5066,10 @@
     "physical_city": "MYRTLE POINT",
     "physical_state": "OR",
     "physical_zip": "97458",
-    "physical_zip4": "1033"
+    "physical_zip4": "1033",
+    "zip_class_code": null,
+    "locale_key": "Z15305",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4170,7 +5082,10 @@
     "physical_city": "NORTH BEND",
     "physical_state": "OR",
     "physical_zip": "97459",
-    "physical_zip4": "3409"
+    "physical_zip4": "3409",
+    "zip_class_code": null,
+    "locale_key": "Z15333",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4183,7 +5098,10 @@
     "physical_city": "NOTI",
     "physical_state": "OR",
     "physical_zip": "97461",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "Z15343",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4196,7 +5114,10 @@
     "physical_city": "OAKLAND",
     "physical_state": "OR",
     "physical_zip": "97462",
-    "physical_zip4": "9754"
+    "physical_zip4": "9754",
+    "zip_class_code": null,
+    "locale_key": "Z15353",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4209,7 +5130,10 @@
     "physical_city": "OAKRIDGE",
     "physical_state": "OR",
     "physical_zip": "97463",
-    "physical_zip4": "9701"
+    "physical_zip4": "9701",
+    "zip_class_code": null,
+    "locale_key": "Z15354",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4222,7 +5146,10 @@
     "physical_city": "OPHIR",
     "physical_state": "OR",
     "physical_zip": "97464",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15363",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4235,7 +5162,10 @@
     "physical_city": "PORT ORFORD",
     "physical_state": "OR",
     "physical_zip": "97465",
-    "physical_zip4": "9571"
+    "physical_zip4": "9571",
+    "zip_class_code": null,
+    "locale_key": "Z15409",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4248,7 +5178,10 @@
     "physical_city": "POWERS",
     "physical_state": "OR",
     "physical_zip": "97466",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "Z15416",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4261,7 +5194,10 @@
     "physical_city": "REEDSPORT",
     "physical_state": "OR",
     "physical_zip": "97467",
-    "physical_zip4": "1424"
+    "physical_zip4": "1424",
+    "zip_class_code": null,
+    "locale_key": "Z15434",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4274,7 +5210,10 @@
     "physical_city": "REEDSPORT",
     "physical_state": "OR",
     "physical_zip": "97467",
-    "physical_zip4": "8792"
+    "physical_zip4": "8792",
+    "zip_class_code": null,
+    "locale_key": "Z15756",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4287,7 +5226,10 @@
     "physical_city": "RIDDLE",
     "physical_state": "OR",
     "physical_zip": "97469",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "Z15442",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4300,7 +5242,10 @@
     "physical_city": "ROSEBURG",
     "physical_state": "OR",
     "physical_zip": "97470",
-    "physical_zip4": "4965"
+    "physical_zip4": "4965",
+    "zip_class_code": null,
+    "locale_key": "Z15465",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4313,7 +5258,10 @@
     "physical_city": "ROSEBURG",
     "physical_state": "OR",
     "physical_zip": "97470",
-    "physical_zip4": "4965"
+    "physical_zip4": "4965",
+    "zip_class_code": null,
+    "locale_key": "Z15465",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4326,7 +5274,10 @@
     "physical_city": "SCOTTSBURG",
     "physical_state": "OR",
     "physical_zip": "97473",
-    "physical_zip4": "9732"
+    "physical_zip4": "9732",
+    "zip_class_code": null,
+    "locale_key": "Z15492",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4339,7 +5290,10 @@
     "physical_city": "SPRINGFIELD",
     "physical_state": "OR",
     "physical_zip": "97475",
-    "physical_zip4": "9912"
+    "physical_zip4": "9912",
+    "zip_class_code": "P",
+    "locale_key": "020874",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4352,7 +5306,10 @@
     "physical_city": "PORT ORFORD",
     "physical_state": "OR",
     "physical_zip": "97465",
-    "physical_zip4": "9571"
+    "physical_zip4": "9571",
+    "zip_class_code": null,
+    "locale_key": "Z15409",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4365,7 +5322,10 @@
     "physical_city": "SPRINGFIELD",
     "physical_state": "OR",
     "physical_zip": "97477",
-    "physical_zip4": "4767"
+    "physical_zip4": "4767",
+    "zip_class_code": null,
+    "locale_key": "Z15535",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4378,7 +5338,10 @@
     "physical_city": "SPRINGFIELD",
     "physical_state": "OR",
     "physical_zip": "97478",
-    "physical_zip4": "6073"
+    "physical_zip4": "6073",
+    "zip_class_code": null,
+    "locale_key": "000351",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4391,7 +5354,10 @@
     "physical_city": "SUTHERLIN",
     "physical_state": "OR",
     "physical_zip": "97479",
-    "physical_zip4": "9532"
+    "physical_zip4": "9532",
+    "zip_class_code": null,
+    "locale_key": "Z15623",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4404,7 +5370,10 @@
     "physical_city": "SWISSHOME",
     "physical_state": "OR",
     "physical_zip": "97480",
-    "physical_zip4": "9716"
+    "physical_zip4": "9716",
+    "zip_class_code": null,
+    "locale_key": "Z15627",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4417,7 +5386,10 @@
     "physical_city": "TENMILE",
     "physical_state": "OR",
     "physical_zip": "97481",
-    "physical_zip4": "9762"
+    "physical_zip4": "9762",
+    "zip_class_code": null,
+    "locale_key": "Z15636",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4430,7 +5402,10 @@
     "physical_city": "WINSTON",
     "physical_state": "OR",
     "physical_zip": "97496",
-    "physical_zip4": "9769"
+    "physical_zip4": "9769",
+    "zip_class_code": null,
+    "locale_key": "Z15759",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4443,7 +5418,10 @@
     "physical_city": "TILLER",
     "physical_state": "OR",
     "physical_zip": "97484",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "Z15645",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4456,7 +5434,10 @@
     "physical_city": "UMPQUA",
     "physical_state": "OR",
     "physical_zip": "97486",
-    "physical_zip4": "9706"
+    "physical_zip4": "9706",
+    "zip_class_code": null,
+    "locale_key": "Z15667",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4469,7 +5450,10 @@
     "physical_city": "VENETA",
     "physical_state": "OR",
     "physical_zip": "97487",
-    "physical_zip4": "9791"
+    "physical_zip4": "9791",
+    "zip_class_code": null,
+    "locale_key": "Z15684",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4482,7 +5466,10 @@
     "physical_city": "VIDA",
     "physical_state": "OR",
     "physical_zip": "97488",
-    "physical_zip4": "9708"
+    "physical_zip4": "9708",
+    "zip_class_code": null,
+    "locale_key": "Z15687",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4495,7 +5482,10 @@
     "physical_city": "WALTERVILLE",
     "physical_state": "OR",
     "physical_zip": "97489",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "Z15698",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4508,7 +5498,10 @@
     "physical_city": "WALTON",
     "physical_state": "OR",
     "physical_zip": "97490",
-    "physical_zip4": "9716"
+    "physical_zip4": "9716",
+    "zip_class_code": null,
+    "locale_key": "Z15701",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4521,7 +5514,10 @@
     "physical_city": "WEDDERBURN",
     "physical_state": "OR",
     "physical_zip": "97491",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15713",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4534,7 +5530,10 @@
     "physical_city": "WESTFIR",
     "physical_state": "OR",
     "physical_zip": "97492",
-    "physical_zip4": "9740"
+    "physical_zip4": "9740",
+    "zip_class_code": null,
+    "locale_key": "Z15731",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4547,7 +5546,10 @@
     "physical_city": "WESTLAKE",
     "physical_state": "OR",
     "physical_zip": "97493",
-    "physical_zip4": "9725"
+    "physical_zip4": "9725",
+    "zip_class_code": null,
+    "locale_key": "Z15732",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4560,7 +5562,10 @@
     "physical_city": "WILBUR",
     "physical_state": "OR",
     "physical_zip": "97494",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15743",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4573,7 +5578,10 @@
     "physical_city": "WINCHESTER",
     "physical_state": "OR",
     "physical_zip": "97495",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "Z15755",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4586,7 +5594,10 @@
     "physical_city": "WINSTON",
     "physical_state": "OR",
     "physical_zip": "97496",
-    "physical_zip4": "9769"
+    "physical_zip4": "9769",
+    "zip_class_code": null,
+    "locale_key": "Z15759",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4599,7 +5610,10 @@
     "physical_city": "WOLF CREEK",
     "physical_state": "OR",
     "physical_zip": "97497",
-    "physical_zip4": "9603"
+    "physical_zip4": "9603",
+    "zip_class_code": null,
+    "locale_key": "Z15762",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4612,7 +5626,10 @@
     "physical_city": "YACHATS",
     "physical_state": "OR",
     "physical_zip": "97498",
-    "physical_zip4": "9600"
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "Z15770",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4625,7 +5642,10 @@
     "physical_city": "YONCALLA",
     "physical_state": "OR",
     "physical_zip": "97499",
-    "physical_zip4": "9735"
+    "physical_zip4": "9735",
+    "zip_class_code": null,
+    "locale_key": "Z15772",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4638,7 +5658,10 @@
     "physical_city": "MEDFORD",
     "physical_state": "OR",
     "physical_zip": "97501",
-    "physical_zip4": "7238"
+    "physical_zip4": "7238",
+    "zip_class_code": null,
+    "locale_key": "Z15249",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4651,7 +5674,10 @@
     "physical_city": "MEDFORD",
     "physical_state": "OR",
     "physical_zip": "97501",
-    "physical_zip4": "9844"
+    "physical_zip4": "9844",
+    "zip_class_code": null,
+    "locale_key": "020875",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4664,7 +5690,10 @@
     "physical_city": "CENTRAL POINT",
     "physical_state": "OR",
     "physical_zip": "97502",
-    "physical_zip4": "2446"
+    "physical_zip4": "2446",
+    "zip_class_code": null,
+    "locale_key": "Z14847",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4677,7 +5706,10 @@
     "physical_city": "WHITE CITY",
     "physical_state": "OR",
     "physical_zip": "97503",
-    "physical_zip4": "1668"
+    "physical_zip4": "1668",
+    "zip_class_code": null,
+    "locale_key": "Z15739",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -4690,7 +5722,10 @@
     "physical_city": "MEDFORD",
     "physical_state": "OR",
     "physical_zip": "97501",
-    "physical_zip4": "9844"
+    "physical_zip4": "9844",
+    "zip_class_code": null,
+    "locale_key": "020875",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4703,7 +5738,10 @@
     "physical_city": "ASHLAND",
     "physical_state": "OR",
     "physical_zip": "97520",
-    "physical_zip4": "1900"
+    "physical_zip4": "1900",
+    "zip_class_code": null,
+    "locale_key": "Z14737",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4716,7 +5754,10 @@
     "physical_city": "BUTTE FALLS",
     "physical_state": "OR",
     "physical_zip": "97522",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": null,
+    "locale_key": "Z14812",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4729,7 +5770,10 @@
     "physical_city": "CAVE JUNCTION",
     "physical_state": "OR",
     "physical_zip": "97523",
-    "physical_zip4": "9372"
+    "physical_zip4": "9372",
+    "zip_class_code": null,
+    "locale_key": "Z14839",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4742,7 +5786,10 @@
     "physical_city": "EAGLE POINT",
     "physical_state": "OR",
     "physical_zip": "97524",
-    "physical_zip4": "9793"
+    "physical_zip4": "9793",
+    "zip_class_code": null,
+    "locale_key": "Z14961",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4755,7 +5802,10 @@
     "physical_city": "GOLD HILL",
     "physical_state": "OR",
     "physical_zip": "97525",
-    "physical_zip4": "9585"
+    "physical_zip4": "9585",
+    "zip_class_code": null,
+    "locale_key": "Z15052",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4768,7 +5818,10 @@
     "physical_city": "GRANTS PASS",
     "physical_state": "OR",
     "physical_zip": "97526",
-    "physical_zip4": "6005"
+    "physical_zip4": "6005",
+    "zip_class_code": null,
+    "locale_key": "Z18796",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4781,7 +5834,10 @@
     "physical_city": "GRANTS PASS",
     "physical_state": "OR",
     "physical_zip": "97526",
-    "physical_zip4": "2003"
+    "physical_zip4": "2003",
+    "zip_class_code": null,
+    "locale_key": "Z15059",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4794,7 +5850,10 @@
     "physical_city": "GRANTS PASS",
     "physical_state": "OR",
     "physical_zip": "97526",
-    "physical_zip4": "6005"
+    "physical_zip4": "6005",
+    "zip_class_code": null,
+    "locale_key": "Z18796",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -4807,7 +5866,10 @@
     "physical_city": "GRANTS PASS",
     "physical_state": "OR",
     "physical_zip": "97526",
-    "physical_zip4": "2003"
+    "physical_zip4": "2003",
+    "zip_class_code": "P",
+    "locale_key": "Z15059",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4820,7 +5882,10 @@
     "physical_city": "JACKSONVILLE",
     "physical_state": "OR",
     "physical_zip": "97530",
-    "physical_zip4": "9797"
+    "physical_zip4": "9797",
+    "zip_class_code": null,
+    "locale_key": "Z15129",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4833,7 +5898,10 @@
     "physical_city": "CAVE JUNCTION",
     "physical_state": "OR",
     "physical_zip": "97523",
-    "physical_zip4": "9372"
+    "physical_zip4": "9372",
+    "zip_class_code": null,
+    "locale_key": "Z14839",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4846,7 +5914,10 @@
     "physical_city": "SELMA",
     "physical_state": "OR",
     "physical_zip": "97538",
-    "physical_zip4": "9729"
+    "physical_zip4": "9729",
+    "zip_class_code": null,
+    "locale_key": "Z15497",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4859,7 +5930,10 @@
     "physical_city": "MERLIN",
     "physical_state": "OR",
     "physical_zip": "97532",
-    "physical_zip4": "8725"
+    "physical_zip4": "8725",
+    "zip_class_code": null,
+    "locale_key": "Z15257",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4872,7 +5946,10 @@
     "physical_city": "MURPHY",
     "physical_state": "OR",
     "physical_zip": "97533",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15301",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4885,7 +5962,10 @@
     "physical_city": "CAVE JUNCTION",
     "physical_state": "OR",
     "physical_zip": "97523",
-    "physical_zip4": "9372"
+    "physical_zip4": "9372",
+    "zip_class_code": null,
+    "locale_key": "Z14839",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4898,7 +5978,10 @@
     "physical_city": "O BRIEN",
     "physical_state": "OR",
     "physical_zip": "97534",
-    "physical_zip4": "9701"
+    "physical_zip4": "9701",
+    "zip_class_code": null,
+    "locale_key": "Z15346",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4911,7 +5994,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "OR",
     "physical_zip": "97535",
-    "physical_zip4": "9803"
+    "physical_zip4": "9803",
+    "zip_class_code": null,
+    "locale_key": "Z15394",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4924,7 +6010,10 @@
     "physical_city": "PROSPECT",
     "physical_state": "OR",
     "physical_zip": "97536",
-    "physical_zip4": "9722"
+    "physical_zip4": "9722",
+    "zip_class_code": null,
+    "locale_key": "Z15423",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4937,7 +6026,10 @@
     "physical_city": "ROGUE RIVER",
     "physical_state": "OR",
     "physical_zip": "97537",
-    "physical_zip4": "9675"
+    "physical_zip4": "9675",
+    "zip_class_code": null,
+    "locale_key": "Z15461",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4950,7 +6042,10 @@
     "physical_city": "SELMA",
     "physical_state": "OR",
     "physical_zip": "97538",
-    "physical_zip4": "9729"
+    "physical_zip4": "9729",
+    "zip_class_code": null,
+    "locale_key": "Z15497",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4963,7 +6058,10 @@
     "physical_city": "SHADY COVE",
     "physical_state": "OR",
     "physical_zip": "97539",
-    "physical_zip4": "9804"
+    "physical_zip4": "9804",
+    "zip_class_code": null,
+    "locale_key": "Z15499",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4976,7 +6074,10 @@
     "physical_city": "PHOENIX",
     "physical_state": "OR",
     "physical_zip": "97535",
-    "physical_zip4": "9803"
+    "physical_zip4": "9803",
+    "zip_class_code": null,
+    "locale_key": "Z15394",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4989,7 +6090,10 @@
     "physical_city": "TALENT",
     "physical_state": "OR",
     "physical_zip": "97540",
-    "physical_zip4": "9780"
+    "physical_zip4": "9780",
+    "zip_class_code": null,
+    "locale_key": "Z15632",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5002,7 +6106,10 @@
     "physical_city": "SHADY COVE",
     "physical_state": "OR",
     "physical_zip": "97539",
-    "physical_zip4": "9804"
+    "physical_zip4": "9804",
+    "zip_class_code": null,
+    "locale_key": "Z15499",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5015,7 +6122,10 @@
     "physical_city": "TRAIL",
     "physical_state": "OR",
     "physical_zip": "97541",
-    "physical_zip4": "9749"
+    "physical_zip4": "9749",
+    "zip_class_code": null,
+    "locale_key": "Z15653",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5028,7 +6138,10 @@
     "physical_city": "SELMA",
     "physical_state": "OR",
     "physical_zip": "97538",
-    "physical_zip4": "9729"
+    "physical_zip4": "9729",
+    "zip_class_code": null,
+    "locale_key": "Z15497",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5041,7 +6154,10 @@
     "physical_city": "WILDERVILLE",
     "physical_state": "OR",
     "physical_zip": "97543",
-    "physical_zip4": "9721"
+    "physical_zip4": "9721",
+    "zip_class_code": null,
+    "locale_key": "Z15744",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5054,7 +6170,10 @@
     "physical_city": "WILLIAMS",
     "physical_state": "OR",
     "physical_zip": "97544",
-    "physical_zip4": "9612"
+    "physical_zip4": "9612",
+    "zip_class_code": null,
+    "locale_key": "Z15750",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5067,7 +6186,10 @@
     "physical_city": "KLAMATH FALLS",
     "physical_state": "OR",
     "physical_zip": "97601",
-    "physical_zip4": "6170"
+    "physical_zip4": "6170",
+    "zip_class_code": null,
+    "locale_key": "Z15170",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5080,7 +6202,10 @@
     "physical_city": "KLAMATH FALLS",
     "physical_state": "OR",
     "physical_zip": "97601",
-    "physical_zip4": "6170"
+    "physical_zip4": "6170",
+    "zip_class_code": "P",
+    "locale_key": "Z15170",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5093,7 +6218,10 @@
     "physical_city": "KLAMATH FALLS",
     "physical_state": "OR",
     "physical_zip": "97601",
-    "physical_zip4": "6170"
+    "physical_zip4": "6170",
+    "zip_class_code": null,
+    "locale_key": "Z15170",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5106,7 +6234,10 @@
     "physical_city": "KLAMATH FALLS",
     "physical_state": "OR",
     "physical_zip": "97601",
-    "physical_zip4": "6170"
+    "physical_zip4": "6170",
+    "zip_class_code": "P",
+    "locale_key": "Z15170",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5119,7 +6250,10 @@
     "physical_city": "ADEL",
     "physical_state": "OR",
     "physical_zip": "97620",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z14711",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5132,7 +6266,10 @@
     "physical_city": "BEATTY",
     "physical_state": "OR",
     "physical_zip": "97621",
-    "physical_zip4": "9707"
+    "physical_zip4": "9707",
+    "zip_class_code": null,
+    "locale_key": "Z14756",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5145,7 +6282,10 @@
     "physical_city": "BLY",
     "physical_state": "OR",
     "physical_zip": "97622",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z14780",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5158,7 +6298,10 @@
     "physical_city": "BONANZA",
     "physical_state": "OR",
     "physical_zip": "97623",
-    "physical_zip4": "7725"
+    "physical_zip4": "7725",
+    "zip_class_code": null,
+    "locale_key": "Z14782",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5171,7 +6314,10 @@
     "physical_city": "CHILOQUIN",
     "physical_state": "OR",
     "physical_zip": "97624",
-    "physical_zip4": "9720"
+    "physical_zip4": "9720",
+    "zip_class_code": null,
+    "locale_key": "Z14857",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5184,7 +6330,10 @@
     "physical_city": "BONANZA",
     "physical_state": "OR",
     "physical_zip": "97623",
-    "physical_zip4": "7725"
+    "physical_zip4": "7725",
+    "zip_class_code": null,
+    "locale_key": "Z14782",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5197,7 +6346,10 @@
     "physical_city": "FORT KLAMATH",
     "physical_state": "OR",
     "physical_zip": "97626",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15008",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5210,7 +6362,10 @@
     "physical_city": "KENO",
     "physical_state": "OR",
     "physical_zip": "97627",
-    "physical_zip4": "9705"
+    "physical_zip4": "9705",
+    "zip_class_code": null,
+    "locale_key": "Z15155",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5223,7 +6378,10 @@
     "physical_city": "LAKEVIEW",
     "physical_state": "OR",
     "physical_zip": "97630",
-    "physical_zip4": "1867"
+    "physical_zip4": "1867",
+    "zip_class_code": null,
+    "locale_key": "Z15183",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5236,7 +6394,10 @@
     "physical_city": "MALIN",
     "physical_state": "OR",
     "physical_zip": "97632",
-    "physical_zip4": "9771"
+    "physical_zip4": "9771",
+    "zip_class_code": null,
+    "locale_key": "Z15220",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5249,7 +6410,10 @@
     "physical_city": "MERRILL",
     "physical_state": "OR",
     "physical_zip": "97633",
-    "physical_zip4": "9723"
+    "physical_zip4": "9723",
+    "zip_class_code": null,
+    "locale_key": "Z15258",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5262,7 +6426,10 @@
     "physical_city": "MIDLAND",
     "physical_state": "OR",
     "physical_zip": "97634",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15260",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5275,7 +6442,10 @@
     "physical_city": "NEW PINE CREEK",
     "physical_state": "OR",
     "physical_zip": "97635",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "Z15324",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5288,7 +6458,10 @@
     "physical_city": "PAISLEY",
     "physical_state": "OR",
     "physical_zip": "97636",
-    "physical_zip4": "9716"
+    "physical_zip4": "9716",
+    "zip_class_code": null,
+    "locale_key": "Z15381",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5301,7 +6474,10 @@
     "physical_city": "LAKEVIEW",
     "physical_state": "OR",
     "physical_zip": "97630",
-    "physical_zip4": "1867"
+    "physical_zip4": "1867",
+    "zip_class_code": null,
+    "locale_key": "Z15183",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5314,7 +6490,10 @@
     "physical_city": "SILVER LAKE",
     "physical_state": "OR",
     "physical_zip": "97638",
-    "physical_zip4": "9504"
+    "physical_zip4": "9504",
+    "zip_class_code": null,
+    "locale_key": "Z15512",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5327,7 +6506,10 @@
     "physical_city": "CHILOQUIN",
     "physical_state": "OR",
     "physical_zip": "97624",
-    "physical_zip4": "9720"
+    "physical_zip4": "9720",
+    "zip_class_code": null,
+    "locale_key": "Z14857",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5340,7 +6522,10 @@
     "physical_city": "SPRAGUE RIVER",
     "physical_state": "OR",
     "physical_zip": "97639",
-    "physical_zip4": "8618"
+    "physical_zip4": "8618",
+    "zip_class_code": null,
+    "locale_key": "Z15532",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5353,7 +6538,10 @@
     "physical_city": "SUMMER LAKE",
     "physical_state": "OR",
     "physical_zip": "97640",
-    "physical_zip4": "8715"
+    "physical_zip4": "8715",
+    "zip_class_code": null,
+    "locale_key": "Z15612",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5366,20 +6554,10 @@
     "physical_city": "CHRISTMAS VALLEY",
     "physical_state": "OR",
     "physical_zip": "97641",
-    "physical_zip4": "9700"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97701",
-    "locale_name": "BEND DCU",
-    "physical_delivery_address": "836 SE BUSINESS WAY",
-    "physical_city": "BEND",
-    "physical_state": "OR",
-    "physical_zip": "97702",
-    "physical_zip4": "1211"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z14859",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5392,7 +6570,10 @@
     "physical_city": "BEND",
     "physical_state": "OR",
     "physical_zip": "97701",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "020873",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -5405,7 +6586,10 @@
     "physical_city": "BEND",
     "physical_state": "OR",
     "physical_zip": "97702",
-    "physical_zip4": "1211"
+    "physical_zip4": "1211",
+    "zip_class_code": null,
+    "locale_key": "Z18969",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -5418,7 +6602,10 @@
     "physical_city": "BEND",
     "physical_state": "OR",
     "physical_zip": "97701",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "020873",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -5431,7 +6618,10 @@
     "physical_city": "BEND",
     "physical_state": "OR",
     "physical_zip": "97707",
-    "physical_zip4": "2120"
+    "physical_zip4": "2120",
+    "zip_class_code": null,
+    "locale_key": "Z15620",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -5444,7 +6634,10 @@
     "physical_city": "BEND",
     "physical_state": "OR",
     "physical_zip": "97701",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": "P",
+    "locale_key": "020873",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -5457,7 +6650,10 @@
     "physical_city": "BEND",
     "physical_state": "OR",
     "physical_zip": "97703",
-    "physical_zip4": "2739"
+    "physical_zip4": "2739",
+    "zip_class_code": "P",
+    "locale_key": "Z14949",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -5470,7 +6666,10 @@
     "physical_city": "BURNS",
     "physical_state": "OR",
     "physical_zip": "97720",
-    "physical_zip4": "2203"
+    "physical_zip4": "2203",
+    "zip_class_code": null,
+    "locale_key": "Z14808",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5483,7 +6682,10 @@
     "physical_city": "MADRAS",
     "physical_state": "OR",
     "physical_zip": "97741",
-    "physical_zip4": "1703"
+    "physical_zip4": "1703",
+    "zip_class_code": null,
+    "locale_key": "Z15218",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5496,7 +6698,10 @@
     "physical_city": "BEND",
     "physical_state": "OR",
     "physical_zip": "97701",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "020873",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -5509,7 +6714,10 @@
     "physical_city": "BURNS",
     "physical_state": "OR",
     "physical_zip": "97720",
-    "physical_zip4": "2203"
+    "physical_zip4": "2203",
+    "zip_class_code": null,
+    "locale_key": "Z14808",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5522,7 +6730,10 @@
     "physical_city": "BURNS",
     "physical_state": "OR",
     "physical_zip": "97720",
-    "physical_zip4": "2203"
+    "physical_zip4": "2203",
+    "zip_class_code": null,
+    "locale_key": "Z14808",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5535,7 +6746,10 @@
     "physical_city": "PRINCETON",
     "physical_state": "OR",
     "physical_zip": "97721",
-    "physical_zip4": "9537"
+    "physical_zip4": "9537",
+    "zip_class_code": null,
+    "locale_key": "Z15419",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -5548,7 +6762,10 @@
     "physical_city": "BURNS",
     "physical_state": "OR",
     "physical_zip": "97720",
-    "physical_zip4": "2203"
+    "physical_zip4": "2203",
+    "zip_class_code": null,
+    "locale_key": "Z14808",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5561,7 +6778,10 @@
     "physical_city": "CAMP SHERMAN",
     "physical_state": "OR",
     "physical_zip": "97730",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "Z14820",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5574,7 +6794,10 @@
     "physical_city": "CHEMULT",
     "physical_state": "OR",
     "physical_zip": "97731",
-    "physical_zip4": "9733"
+    "physical_zip4": "9733",
+    "zip_class_code": null,
+    "locale_key": "Z14855",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5587,7 +6810,10 @@
     "physical_city": "CRANE",
     "physical_state": "OR",
     "physical_zip": "97732",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": "P",
+    "locale_key": "Z14888",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5600,7 +6826,10 @@
     "physical_city": "CRESCENT",
     "physical_state": "OR",
     "physical_zip": "97733",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "Z14893",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5613,7 +6842,10 @@
     "physical_city": "CULVER",
     "physical_state": "OR",
     "physical_zip": "97734",
-    "physical_zip4": "9753"
+    "physical_zip4": "9753",
+    "zip_class_code": null,
+    "locale_key": "Z14907",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5626,7 +6858,10 @@
     "physical_city": "FORT ROCK",
     "physical_state": "OR",
     "physical_zip": "97735",
-    "physical_zip4": "9798"
+    "physical_zip4": "9798",
+    "zip_class_code": "P",
+    "locale_key": "Z15009",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5639,7 +6874,10 @@
     "physical_city": "BURNS",
     "physical_state": "OR",
     "physical_zip": "97720",
-    "physical_zip4": "2203"
+    "physical_zip4": "2203",
+    "zip_class_code": null,
+    "locale_key": "Z14808",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5652,7 +6890,10 @@
     "physical_city": "GILCHRIST",
     "physical_state": "OR",
     "physical_zip": "97737",
-    "physical_zip4": "9757"
+    "physical_zip4": "9757",
+    "zip_class_code": null,
+    "locale_key": "Z15036",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5665,7 +6906,10 @@
     "physical_city": "HINES",
     "physical_state": "OR",
     "physical_zip": "97738",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "Z15102",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5678,7 +6922,10 @@
     "physical_city": "LA PINE",
     "physical_state": "OR",
     "physical_zip": "97739",
-    "physical_zip4": "9626"
+    "physical_zip4": "9626",
+    "zip_class_code": null,
+    "locale_key": "Z15173",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5691,7 +6938,10 @@
     "physical_city": "MADRAS",
     "physical_state": "OR",
     "physical_zip": "97741",
-    "physical_zip4": "1703"
+    "physical_zip4": "1703",
+    "zip_class_code": null,
+    "locale_key": "Z15218",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5704,7 +6954,10 @@
     "physical_city": "MITCHELL",
     "physical_state": "OR",
     "physical_zip": "97750",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "Z15276",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5717,7 +6970,10 @@
     "physical_city": "PAULINA",
     "physical_state": "OR",
     "physical_zip": "97751",
-    "physical_zip4": "9746"
+    "physical_zip4": "9746",
+    "zip_class_code": null,
+    "locale_key": "Z15386",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5730,7 +6986,10 @@
     "physical_city": "PRINEVILLE",
     "physical_state": "OR",
     "physical_zip": "97754",
-    "physical_zip4": "1933"
+    "physical_zip4": "1933",
+    "zip_class_code": null,
+    "locale_key": "Z15420",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5743,7 +7002,10 @@
     "physical_city": "POST",
     "physical_state": "OR",
     "physical_zip": "97752",
-    "physical_zip4": "9722"
+    "physical_zip4": "9722",
+    "zip_class_code": null,
+    "locale_key": "Z15414",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5756,7 +7018,10 @@
     "physical_city": "PRINEVILLE",
     "physical_state": "OR",
     "physical_zip": "97754",
-    "physical_zip4": "1933"
+    "physical_zip4": "1933",
+    "zip_class_code": null,
+    "locale_key": "Z15420",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5769,7 +7034,10 @@
     "physical_city": "POWELL BUTTE",
     "physical_state": "OR",
     "physical_zip": "97753",
-    "physical_zip4": "1836"
+    "physical_zip4": "1836",
+    "zip_class_code": null,
+    "locale_key": "Z15415",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5782,7 +7050,10 @@
     "physical_city": "PRINEVILLE",
     "physical_state": "OR",
     "physical_zip": "97754",
-    "physical_zip4": "1933"
+    "physical_zip4": "1933",
+    "zip_class_code": null,
+    "locale_key": "Z15420",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5795,7 +7066,10 @@
     "physical_city": "REDMOND",
     "physical_state": "OR",
     "physical_zip": "97756",
-    "physical_zip4": "1426"
+    "physical_zip4": "1426",
+    "zip_class_code": null,
+    "locale_key": "Z15433",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5808,7 +7082,10 @@
     "physical_city": "RILEY",
     "physical_state": "OR",
     "physical_zip": "97758",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15443",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5821,7 +7098,10 @@
     "physical_city": "SISTERS",
     "physical_state": "OR",
     "physical_zip": "97759",
-    "physical_zip4": "9321"
+    "physical_zip4": "9321",
+    "zip_class_code": null,
+    "locale_key": "Z15515",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5834,7 +7114,10 @@
     "physical_city": "TERREBONNE",
     "physical_state": "OR",
     "physical_zip": "97760",
-    "physical_zip4": "9775"
+    "physical_zip4": "9775",
+    "zip_class_code": null,
+    "locale_key": "Z15637",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5847,7 +7130,10 @@
     "physical_city": "WARM SPRINGS",
     "physical_state": "OR",
     "physical_zip": "97761",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": "P",
+    "locale_key": "Z15704",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5860,7 +7146,10 @@
     "physical_city": "PENDLETON",
     "physical_state": "OR",
     "physical_zip": "97801",
-    "physical_zip4": "2124"
+    "physical_zip4": "2124",
+    "zip_class_code": null,
+    "locale_key": "Z15391",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5873,7 +7162,10 @@
     "physical_city": "ADAMS",
     "physical_state": "OR",
     "physical_zip": "97810",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z14710",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5886,7 +7178,10 @@
     "physical_city": "ARLINGTON",
     "physical_state": "OR",
     "physical_zip": "97812",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z14735",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5899,7 +7194,10 @@
     "physical_city": "ATHENA",
     "physical_state": "OR",
     "physical_zip": "97813",
-    "physical_zip4": "6074"
+    "physical_zip4": "6074",
+    "zip_class_code": null,
+    "locale_key": "Z14741",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5912,7 +7210,10 @@
     "physical_city": "BAKER CITY",
     "physical_state": "OR",
     "physical_zip": "97814",
-    "physical_zip4": "3840"
+    "physical_zip4": "3840",
+    "zip_class_code": null,
+    "locale_key": "Z14746",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5925,7 +7226,10 @@
     "physical_city": "PRAIRIE CITY",
     "physical_state": "OR",
     "physical_zip": "97869",
-    "physical_zip4": "4000"
+    "physical_zip4": "4000",
+    "zip_class_code": null,
+    "locale_key": "Z15417",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5938,7 +7242,10 @@
     "physical_city": "BOARDMAN",
     "physical_state": "OR",
     "physical_zip": "97818",
-    "physical_zip4": "9724"
+    "physical_zip4": "9724",
+    "zip_class_code": null,
+    "locale_key": "Z14781",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5951,7 +7258,10 @@
     "physical_city": "JOHN DAY",
     "physical_state": "OR",
     "physical_zip": "97845",
-    "physical_zip4": "1148"
+    "physical_zip4": "1148",
+    "zip_class_code": null,
+    "locale_key": "Z15139",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5964,7 +7274,10 @@
     "physical_city": "CANYON CITY",
     "physical_state": "OR",
     "physical_zip": "97820",
-    "physical_zip4": "6188"
+    "physical_zip4": "6188",
+    "zip_class_code": null,
+    "locale_key": "Z14825",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5977,7 +7290,10 @@
     "physical_city": "CONDON",
     "physical_state": "OR",
     "physical_zip": "97823",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z14874",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -5990,7 +7306,10 @@
     "physical_city": "COVE",
     "physical_state": "OR",
     "physical_zip": "97824",
-    "physical_zip4": "8429"
+    "physical_zip4": "8429",
+    "zip_class_code": null,
+    "locale_key": "Z14886",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6003,7 +7322,10 @@
     "physical_city": "DAYVILLE",
     "physical_state": "OR",
     "physical_zip": "97825",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z14921",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6016,7 +7338,10 @@
     "physical_city": "ECHO",
     "physical_state": "OR",
     "physical_zip": "97826",
-    "physical_zip4": "9656"
+    "physical_zip4": "9656",
+    "zip_class_code": null,
+    "locale_key": "Z14968",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6029,7 +7354,10 @@
     "physical_city": "ELGIN",
     "physical_state": "OR",
     "physical_zip": "97827",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z14972",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6042,7 +7370,10 @@
     "physical_city": "ENTERPRISE",
     "physical_state": "OR",
     "physical_zip": "97828",
-    "physical_zip4": "1038"
+    "physical_zip4": "1038",
+    "zip_class_code": null,
+    "locale_key": "Z14981",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6055,7 +7386,10 @@
     "physical_city": "FOSSIL",
     "physical_state": "OR",
     "physical_zip": "97830",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15012",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6068,7 +7402,10 @@
     "physical_city": "HAINES",
     "physical_state": "OR",
     "physical_zip": "97833",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15074",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6081,7 +7418,10 @@
     "physical_city": "HALFWAY",
     "physical_state": "OR",
     "physical_zip": "97834",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15075",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6094,7 +7434,10 @@
     "physical_city": "HELIX",
     "physical_state": "OR",
     "physical_zip": "97835",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15093",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6107,7 +7450,10 @@
     "physical_city": "HEPPNER",
     "physical_state": "OR",
     "physical_zip": "97836",
-    "physical_zip4": "5001"
+    "physical_zip4": "5001",
+    "zip_class_code": null,
+    "locale_key": "Z15097",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6120,7 +7466,10 @@
     "physical_city": "PRAIRIE CITY",
     "physical_state": "OR",
     "physical_zip": "97869",
-    "physical_zip4": "4000"
+    "physical_zip4": "4000",
+    "zip_class_code": null,
+    "locale_key": "Z15417",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6133,7 +7482,10 @@
     "physical_city": "HERMISTON",
     "physical_state": "OR",
     "physical_zip": "97838",
-    "physical_zip4": "1757"
+    "physical_zip4": "1757",
+    "zip_class_code": null,
+    "locale_key": "Z15099",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6146,7 +7498,10 @@
     "physical_city": "HEPPNER",
     "physical_state": "OR",
     "physical_zip": "97836",
-    "physical_zip4": "5001"
+    "physical_zip4": "5001",
+    "zip_class_code": null,
+    "locale_key": "Z15097",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6159,7 +7514,10 @@
     "physical_city": "LEXINGTON",
     "physical_state": "OR",
     "physical_zip": "97839",
-    "physical_zip4": "3000"
+    "physical_zip4": "3000",
+    "zip_class_code": null,
+    "locale_key": "Z15198",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -6172,7 +7530,10 @@
     "physical_city": "OXBOW",
     "physical_state": "OR",
     "physical_zip": "97840",
-    "physical_zip4": "5905"
+    "physical_zip4": "5905",
+    "zip_class_code": null,
+    "locale_key": "Z15376",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6185,7 +7546,10 @@
     "physical_city": "IMBLER",
     "physical_state": "OR",
     "physical_zip": "97841",
-    "physical_zip4": "8109"
+    "physical_zip4": "8109",
+    "zip_class_code": null,
+    "locale_key": "Z15120",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6198,7 +7562,10 @@
     "physical_city": "IMNAHA",
     "physical_state": "OR",
     "physical_zip": "97842",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15121",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6211,7 +7578,10 @@
     "physical_city": "IONE",
     "physical_state": "OR",
     "physical_zip": "97843",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15124",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6224,7 +7594,10 @@
     "physical_city": "IRRIGON",
     "physical_state": "OR",
     "physical_zip": "97844",
-    "physical_zip4": "6937"
+    "physical_zip4": "6937",
+    "zip_class_code": null,
+    "locale_key": "Z15126",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6237,7 +7610,10 @@
     "physical_city": "JOHN DAY",
     "physical_state": "OR",
     "physical_zip": "97845",
-    "physical_zip4": "1148"
+    "physical_zip4": "1148",
+    "zip_class_code": null,
+    "locale_key": "Z15139",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6250,7 +7626,10 @@
     "physical_city": "JOSEPH",
     "physical_state": "OR",
     "physical_zip": "97846",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15144",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6263,7 +7642,10 @@
     "physical_city": "KIMBERLY",
     "physical_state": "OR",
     "physical_zip": "97848",
-    "physical_zip4": "6272"
+    "physical_zip4": "6272",
+    "zip_class_code": null,
+    "locale_key": "Z15160",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6276,7 +7658,10 @@
     "physical_city": "LA GRANDE",
     "physical_state": "OR",
     "physical_zip": "97850",
-    "physical_zip4": "2525"
+    "physical_zip4": "2525",
+    "zip_class_code": null,
+    "locale_key": "Z15172",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6289,7 +7674,10 @@
     "physical_city": "LONG CREEK",
     "physical_state": "OR",
     "physical_zip": "97856",
-    "physical_zip4": "7039"
+    "physical_zip4": "7039",
+    "zip_class_code": null,
+    "locale_key": "Z15209",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6302,20 +7690,10 @@
     "physical_city": "LOSTINE",
     "physical_state": "OR",
     "physical_zip": "97857",
-    "physical_zip4": "2011"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97859",
-    "locale_name": "PENDLETON",
-    "physical_delivery_address": "104 SW DORION AVE",
-    "physical_city": "PENDLETON",
-    "physical_state": "OR",
-    "physical_zip": "97801",
-    "physical_zip4": "2124"
+    "physical_zip4": "2011",
+    "zip_class_code": null,
+    "locale_key": "Z15214",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6328,7 +7706,10 @@
     "physical_city": "MILTON FREEWATER",
     "physical_state": "OR",
     "physical_zip": "97862",
-    "physical_zip4": "1857"
+    "physical_zip4": "1857",
+    "zip_class_code": null,
+    "locale_key": "Z15268",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6341,7 +7722,10 @@
     "physical_city": "MONUMENT",
     "physical_state": "OR",
     "physical_zip": "97864",
-    "physical_zip4": "3318"
+    "physical_zip4": "3318",
+    "zip_class_code": null,
+    "locale_key": "Z15285",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6354,7 +7738,10 @@
     "physical_city": "MOUNT VERNON",
     "physical_state": "OR",
     "physical_zip": "97865",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15292",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6367,7 +7754,10 @@
     "physical_city": "NORTH POWDER",
     "physical_state": "OR",
     "physical_zip": "97867",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15338",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6380,7 +7770,10 @@
     "physical_city": "PILOT ROCK",
     "physical_state": "OR",
     "physical_zip": "97868",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15396",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6393,7 +7786,10 @@
     "physical_city": "PRAIRIE CITY",
     "physical_state": "OR",
     "physical_zip": "97869",
-    "physical_zip4": "4000"
+    "physical_zip4": "4000",
+    "zip_class_code": null,
+    "locale_key": "Z15417",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6406,7 +7802,10 @@
     "physical_city": "RICHLAND",
     "physical_state": "OR",
     "physical_zip": "97870",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15440",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6419,7 +7818,10 @@
     "physical_city": "SENECA",
     "physical_state": "OR",
     "physical_zip": "97873",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15498",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6432,7 +7834,10 @@
     "physical_city": "SPRAY",
     "physical_state": "OR",
     "physical_zip": "97874",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15533",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6445,7 +7850,10 @@
     "physical_city": "STANFIELD",
     "physical_state": "OR",
     "physical_zip": "97875",
-    "physical_zip4": "9729"
+    "physical_zip4": "9729",
+    "zip_class_code": null,
+    "locale_key": "Z15603",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6458,7 +7866,10 @@
     "physical_city": "IMBLER",
     "physical_state": "OR",
     "physical_zip": "97841",
-    "physical_zip4": "8109"
+    "physical_zip4": "8109",
+    "zip_class_code": null,
+    "locale_key": "Z15120",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6471,7 +7882,10 @@
     "physical_city": "SUMMERVILLE",
     "physical_state": "OR",
     "physical_zip": "97876",
-    "physical_zip4": "8174"
+    "physical_zip4": "8174",
+    "zip_class_code": null,
+    "locale_key": "Z15615",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -6484,7 +7898,10 @@
     "physical_city": "SUMPTER",
     "physical_state": "OR",
     "physical_zip": "97877",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15618",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6497,7 +7914,10 @@
     "physical_city": "UKIAH",
     "physical_state": "OR",
     "physical_zip": "97880",
-    "physical_zip4": "5001"
+    "physical_zip4": "5001",
+    "zip_class_code": "P",
+    "locale_key": "Z14912",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -6510,7 +7930,10 @@
     "physical_city": "UKIAH",
     "physical_state": "OR",
     "physical_zip": "97880",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": "P",
+    "locale_key": "Z15665",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6523,7 +7946,10 @@
     "physical_city": "UMATILLA",
     "physical_state": "OR",
     "physical_zip": "97882",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15666",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6536,7 +7962,10 @@
     "physical_city": "UNION",
     "physical_state": "OR",
     "physical_zip": "97883",
-    "physical_zip4": "9419"
+    "physical_zip4": "9419",
+    "zip_class_code": null,
+    "locale_key": "Z15668",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6549,7 +7978,10 @@
     "physical_city": "UNITY",
     "physical_state": "OR",
     "physical_zip": "97884",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15671",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6562,7 +7994,10 @@
     "physical_city": "WALLOWA",
     "physical_state": "OR",
     "physical_zip": "97885",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15697",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6575,7 +8010,10 @@
     "physical_city": "WESTON",
     "physical_state": "OR",
     "physical_zip": "97886",
-    "physical_zip4": "4000"
+    "physical_zip4": "4000",
+    "zip_class_code": null,
+    "locale_key": "Z15733",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6588,7 +8026,10 @@
     "physical_city": "ADRIAN",
     "physical_state": "OR",
     "physical_zip": "97901",
-    "physical_zip4": "5099"
+    "physical_zip4": "5099",
+    "zip_class_code": null,
+    "locale_key": "Z14712",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6601,7 +8042,10 @@
     "physical_city": "AROCK",
     "physical_state": "OR",
     "physical_zip": "97902",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": "P",
+    "locale_key": "Z14736",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6614,7 +8058,10 @@
     "physical_city": "VALE",
     "physical_state": "OR",
     "physical_zip": "97918",
-    "physical_zip4": "1351"
+    "physical_zip4": "1351",
+    "zip_class_code": null,
+    "locale_key": "Z15679",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6627,7 +8074,10 @@
     "physical_city": "DREWSEY",
     "physical_state": "OR",
     "physical_zip": "97904",
-    "physical_zip4": "5001"
+    "physical_zip4": "5001",
+    "zip_class_code": null,
+    "locale_key": "Z14952",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6640,7 +8090,10 @@
     "physical_city": "DURKEE",
     "physical_state": "OR",
     "physical_zip": "97905",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": "P",
+    "locale_key": "Z14957",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6653,20 +8106,10 @@
     "physical_city": "HARPER",
     "physical_state": "OR",
     "physical_zip": "97906",
-    "physical_zip4": "4000"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ID-MT-OR",
-    "district_no": "970",
-    "delivery_zipcode": "97906",
-    "locale_name": "VALE",
-    "physical_delivery_address": "177 B ST E",
-    "physical_city": "VALE",
-    "physical_state": "OR",
-    "physical_zip": "97918",
-    "physical_zip4": "1351"
+    "physical_zip4": "4000",
+    "zip_class_code": null,
+    "locale_key": "Z15083",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6679,7 +8122,10 @@
     "physical_city": "HUNTINGTON",
     "physical_state": "OR",
     "physical_zip": "97907",
-    "physical_zip4": "4000"
+    "physical_zip4": "4000",
+    "zip_class_code": null,
+    "locale_key": "Z15114",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6692,7 +8138,10 @@
     "physical_city": "VALE",
     "physical_state": "OR",
     "physical_zip": "97918",
-    "physical_zip4": "1351"
+    "physical_zip4": "1351",
+    "zip_class_code": null,
+    "locale_key": "Z15679",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6705,7 +8154,10 @@
     "physical_city": "JAMIESON",
     "physical_state": "OR",
     "physical_zip": "97909",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15132",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6718,7 +8170,10 @@
     "physical_city": "VALE",
     "physical_state": "OR",
     "physical_zip": "97918",
-    "physical_zip4": "1351"
+    "physical_zip4": "1351",
+    "zip_class_code": null,
+    "locale_key": "Z15679",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6731,7 +8186,10 @@
     "physical_city": "JORDAN VALLEY",
     "physical_state": "OR",
     "physical_zip": "97910",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z15143",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6744,7 +8202,10 @@
     "physical_city": "JUNTURA",
     "physical_state": "OR",
     "physical_zip": "97911",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "Z15148",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6757,7 +8218,10 @@
     "physical_city": "NYSSA",
     "physical_state": "OR",
     "physical_zip": "97913",
-    "physical_zip4": "3906"
+    "physical_zip4": "3906",
+    "zip_class_code": null,
+    "locale_key": "Z15345",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6770,7 +8234,10 @@
     "physical_city": "ONTARIO",
     "physical_state": "OR",
     "physical_zip": "97914",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15362",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6783,7 +8250,10 @@
     "physical_city": "JUNTURA",
     "physical_state": "OR",
     "physical_zip": "97911",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "Z15148",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6796,7 +8266,10 @@
     "physical_city": "VALE",
     "physical_state": "OR",
     "physical_zip": "97918",
-    "physical_zip4": "1351"
+    "physical_zip4": "1351",
+    "zip_class_code": null,
+    "locale_key": "Z15679",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6809,6 +8282,9 @@
     "physical_city": "HARPER",
     "physical_state": "OR",
     "physical_zip": "97906",
-    "physical_zip4": "4000"
+    "physical_zip4": "4000",
+    "zip_class_code": "P",
+    "locale_key": "Z15083",
+    "locale_type": "P"
   }
 ]

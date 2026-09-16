@@ -10,7 +10,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10090",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -23,7 +26,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99502",
-    "physical_zip4": "9992"
+    "physical_zip4": "9992",
+    "zip_class_code": null,
+    "locale_key": "Z10274",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +42,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99503",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10202",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +58,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99504",
-    "physical_zip4": "3673"
+    "physical_zip4": "3673",
+    "zip_class_code": null,
+    "locale_key": "Z10208",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "JBER",
     "physical_state": "AK",
     "physical_zip": "99505",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10113",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -75,7 +90,10 @@
     "physical_city": "JBER",
     "physical_state": "AK",
     "physical_zip": "99505",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10113",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -88,7 +106,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99507",
-    "physical_zip4": "1713"
+    "physical_zip4": "1713",
+    "zip_class_code": null,
+    "locale_key": "Z10183",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -101,7 +122,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99508",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10264",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -114,7 +138,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99517",
-    "physical_zip4": "3315"
+    "physical_zip4": "3315",
+    "zip_class_code": "P",
+    "locale_key": "Z10296",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -127,7 +154,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10090",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +170,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99515",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10141",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +186,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99508",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10264",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +202,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99515",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10141",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +218,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99515",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10141",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -192,7 +234,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99517",
-    "physical_zip4": "3315"
+    "physical_zip4": "3315",
+    "zip_class_code": null,
+    "locale_key": "Z10296",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -205,7 +250,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99502",
-    "physical_zip4": "9992"
+    "physical_zip4": "9992",
+    "zip_class_code": null,
+    "locale_key": "Z10274",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -218,7 +266,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10188",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -231,7 +282,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10090",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -244,7 +298,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99504",
-    "physical_zip4": "3673"
+    "physical_zip4": "3673",
+    "zip_class_code": "P",
+    "locale_key": "Z10208",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -257,7 +314,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99502",
-    "physical_zip4": "9992"
+    "physical_zip4": "9992",
+    "zip_class_code": "P",
+    "locale_key": "Z10274",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -270,7 +330,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99507",
-    "physical_zip4": "1713"
+    "physical_zip4": "1713",
+    "zip_class_code": "P",
+    "locale_key": "Z10183",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -283,7 +346,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99503",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10202",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -296,7 +362,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99515",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10141",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -309,7 +378,10 @@
     "physical_city": "ADAK",
     "physical_state": "AK",
     "physical_zip": "99546",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z18368",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -322,7 +394,10 @@
     "physical_city": "ATKA",
     "physical_state": "AK",
     "physical_zip": "99547",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10021",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -335,7 +410,10 @@
     "physical_city": "CHIGNIK LAKE",
     "physical_state": "AK",
     "physical_zip": "99548",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10051",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -348,7 +426,10 @@
     "physical_city": "PORT HEIDEN",
     "physical_state": "AK",
     "physical_zip": "99549",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10255",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -361,7 +442,10 @@
     "physical_city": "PORT LIONS",
     "physical_state": "AK",
     "physical_zip": "99550",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10256",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -374,7 +458,10 @@
     "physical_city": "AKIACHAK",
     "physical_state": "AK",
     "physical_zip": "99551",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10002",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -387,7 +474,10 @@
     "physical_city": "AKIAK",
     "physical_state": "AK",
     "physical_zip": "99552",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10003",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -400,7 +490,10 @@
     "physical_city": "AKUTAN",
     "physical_state": "AK",
     "physical_zip": "99553",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10004",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -413,7 +506,10 @@
     "physical_city": "ALAKANUK",
     "physical_state": "AK",
     "physical_zip": "99554",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10005",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -426,7 +522,10 @@
     "physical_city": "ALEKNAGIK",
     "physical_state": "AK",
     "physical_zip": "99555",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10006",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -439,7 +538,10 @@
     "physical_city": "ANCHOR POINT",
     "physical_state": "AK",
     "physical_zip": "99556",
-    "physical_zip4": "9606"
+    "physical_zip4": "9606",
+    "zip_class_code": null,
+    "locale_key": "Z10011",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -452,7 +554,10 @@
     "physical_city": "NIKOLAEVSK",
     "physical_state": "AK",
     "physical_zip": "99556",
-    "physical_zip4": "9102"
+    "physical_zip4": "9102",
+    "zip_class_code": null,
+    "locale_key": "Z10220",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -465,7 +570,10 @@
     "physical_city": "ANIAK",
     "physical_state": "AK",
     "physical_zip": "99557",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10017",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -478,7 +586,10 @@
     "physical_city": "ANVIK",
     "physical_state": "AK",
     "physical_zip": "99558",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10018",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -491,7 +602,10 @@
     "physical_city": "ATMAUTLUAK",
     "physical_state": "AK",
     "physical_zip": "99559",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z10022",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -504,7 +618,10 @@
     "physical_city": "BETHEL",
     "physical_state": "AK",
     "physical_zip": "99559",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10029",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -517,7 +634,10 @@
     "physical_city": "NAPASKIAK",
     "physical_state": "AK",
     "physical_zip": "99559",
-    "physical_zip4": "9803"
+    "physical_zip4": "9803",
+    "zip_class_code": "P",
+    "locale_key": "Z10212",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -530,7 +650,10 @@
     "physical_city": "NEWTOK",
     "physical_state": "AK",
     "physical_zip": "99559",
-    "physical_zip4": "9804"
+    "physical_zip4": "9804",
+    "zip_class_code": "P",
+    "locale_key": "Z10216",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -543,7 +666,10 @@
     "physical_city": "CHEFORNAK",
     "physical_state": "AK",
     "physical_zip": "99561",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10043",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -556,7 +682,10 @@
     "physical_city": "CHEVAK",
     "physical_state": "AK",
     "physical_zip": "99563",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10046",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -569,7 +698,10 @@
     "physical_city": "CHIGNIK",
     "physical_state": "AK",
     "physical_zip": "99564",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10049",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -582,7 +714,10 @@
     "physical_city": "CHIGNIK LAGOON",
     "physical_state": "AK",
     "physical_zip": "99565",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10050",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -595,7 +730,10 @@
     "physical_city": "CHITINA",
     "physical_state": "AK",
     "physical_zip": "99566",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10053",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -608,7 +746,10 @@
     "physical_city": "CHUGIAK",
     "physical_state": "AK",
     "physical_zip": "99567",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z10055",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -621,7 +762,10 @@
     "physical_city": "CLAM GULCH",
     "physical_state": "AK",
     "physical_zip": "99568",
-    "physical_zip4": "9753"
+    "physical_zip4": "9753",
+    "zip_class_code": null,
+    "locale_key": "Z10057",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -634,7 +778,10 @@
     "physical_city": "CLARKS POINT",
     "physical_state": "AK",
     "physical_zip": "99569",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10058",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -647,7 +794,10 @@
     "physical_city": "COLD BAY",
     "physical_state": "AK",
     "physical_zip": "99571",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10062",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -660,7 +810,10 @@
     "physical_city": "NELSON LAGOON",
     "physical_state": "AK",
     "physical_zip": "99571",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z10213",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -673,7 +826,10 @@
     "physical_city": "COOPER LANDING",
     "physical_state": "AK",
     "physical_zip": "99572",
-    "physical_zip4": "9798"
+    "physical_zip4": "9798",
+    "zip_class_code": null,
+    "locale_key": "Z10066",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -686,7 +842,10 @@
     "physical_city": "COPPER CENTER",
     "physical_state": "AK",
     "physical_zip": "99573",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10067",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -699,7 +858,10 @@
     "physical_city": "GLENNALLEN",
     "physical_state": "AK",
     "physical_zip": "99588",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10126",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -712,7 +874,10 @@
     "physical_city": "CHENEGA BAY",
     "physical_state": "AK",
     "physical_zip": "99574",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z10045",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -725,7 +890,10 @@
     "physical_city": "CORDOVA",
     "physical_state": "AK",
     "physical_zip": "99574",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10069",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -738,7 +906,10 @@
     "physical_city": "CROOKED CREEK",
     "physical_state": "AK",
     "physical_zip": "99575",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10071",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -751,7 +922,10 @@
     "physical_city": "DILLINGHAM",
     "physical_state": "AK",
     "physical_zip": "99576",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10077",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -764,7 +938,10 @@
     "physical_city": "KOLIGANEK",
     "physical_state": "AK",
     "physical_zip": "99576",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": "P",
+    "locale_key": "Z10174",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -777,7 +954,10 @@
     "physical_city": "TWIN HILLS",
     "physical_state": "AK",
     "physical_zip": "99576",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z10333",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -790,7 +970,10 @@
     "physical_city": "EAGLE RIVER",
     "physical_state": "AK",
     "physical_zip": "99577",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10089",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -803,7 +986,10 @@
     "physical_city": "EEK",
     "physical_state": "AK",
     "physical_zip": "99578",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10093",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -816,7 +1002,10 @@
     "physical_city": "EGEGIK",
     "physical_state": "AK",
     "physical_zip": "99579",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10094",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -829,7 +1018,10 @@
     "physical_city": "EKWOK",
     "physical_state": "AK",
     "physical_zip": "99580",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10098",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -842,7 +1034,10 @@
     "physical_city": "EMMONAK",
     "physical_state": "AK",
     "physical_zip": "99581",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10103",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -855,7 +1050,10 @@
     "physical_city": "FALSE PASS",
     "physical_state": "AK",
     "physical_zip": "99583",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10108",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -868,7 +1066,10 @@
     "physical_city": "MARSHALL",
     "physical_state": "AK",
     "physical_zip": "99585",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10116",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -881,7 +1082,10 @@
     "physical_city": "GAKONA",
     "physical_state": "AK",
     "physical_zip": "99586",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10122",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -894,7 +1098,10 @@
     "physical_city": "GLENNALLEN",
     "physical_state": "AK",
     "physical_zip": "99588",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10126",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -907,7 +1114,10 @@
     "physical_city": "SLANA",
     "physical_state": "AK",
     "physical_zip": "99586",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "Z10291",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -920,7 +1130,10 @@
     "physical_city": "GIRDWOOD",
     "physical_state": "AK",
     "physical_zip": "99587",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10125",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -933,7 +1146,10 @@
     "physical_city": "GLENNALLEN",
     "physical_state": "AK",
     "physical_zip": "99588",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10126",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -946,7 +1162,10 @@
     "physical_city": "GOODNEWS BAY",
     "physical_state": "AK",
     "physical_zip": "99589",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10128",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -959,7 +1178,10 @@
     "physical_city": "GRAYLING",
     "physical_state": "AK",
     "physical_zip": "99590",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10129",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -972,7 +1194,10 @@
     "physical_city": "SAINT GEORGE ISLAND",
     "physical_state": "AK",
     "physical_zip": "99591",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10268",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -985,7 +1210,10 @@
     "physical_city": "HOLY CROSS",
     "physical_state": "AK",
     "physical_zip": "99602",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10135",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -998,7 +1226,10 @@
     "physical_city": "HOMER",
     "physical_state": "AK",
     "physical_zip": "99603",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "Z10133",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1011,7 +1242,10 @@
     "physical_city": "HOMER",
     "physical_state": "AK",
     "physical_zip": "99603",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10136",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1024,7 +1258,10 @@
     "physical_city": "HOMER",
     "physical_state": "AK",
     "physical_zip": "99603",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z10210",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1037,7 +1274,10 @@
     "physical_city": "HOMER",
     "physical_state": "AK",
     "physical_zip": "99603",
-    "physical_zip4": "9803"
+    "physical_zip4": "9803",
+    "zip_class_code": null,
+    "locale_key": "Z10254",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1050,7 +1290,10 @@
     "physical_city": "HOOPER BAY",
     "physical_state": "AK",
     "physical_zip": "99604",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10138",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1063,7 +1306,10 @@
     "physical_city": "HOPE",
     "physical_state": "AK",
     "physical_zip": "99605",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10139",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1076,7 +1322,10 @@
     "physical_city": "ILIAMNA",
     "physical_state": "AK",
     "physical_zip": "99606",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10147",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1089,7 +1338,10 @@
     "physical_city": "KOKHANOK",
     "physical_state": "AK",
     "physical_zip": "99606",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z10172",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1102,7 +1354,10 @@
     "physical_city": "KALSKAG",
     "physical_state": "AK",
     "physical_zip": "99607",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10153",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1115,7 +1370,10 @@
     "physical_city": "KARLUK",
     "physical_state": "AK",
     "physical_zip": "99608",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10155",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1128,7 +1386,10 @@
     "physical_city": "KASIGLUK",
     "physical_state": "AK",
     "physical_zip": "99609",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10157",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1141,7 +1402,10 @@
     "physical_city": "KASILOF",
     "physical_state": "AK",
     "physical_zip": "99610",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "Z10158",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1154,7 +1418,10 @@
     "physical_city": "KENAI",
     "physical_state": "AK",
     "physical_zip": "99611",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10159",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1167,7 +1434,10 @@
     "physical_city": "KING COVE",
     "physical_state": "AK",
     "physical_zip": "99612",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10163",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1180,7 +1450,10 @@
     "physical_city": "IGIUGIG",
     "physical_state": "AK",
     "physical_zip": "99613",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z10146",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1193,7 +1466,10 @@
     "physical_city": "KING SALMON",
     "physical_state": "AK",
     "physical_zip": "99613",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10165",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1206,7 +1482,10 @@
     "physical_city": "ANCHORAGE",
     "physical_state": "AK",
     "physical_zip": "99503",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10202",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1219,7 +1498,10 @@
     "physical_city": "AKHIOK",
     "physical_state": "AK",
     "physical_zip": "99615",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10001",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1232,7 +1514,10 @@
     "physical_city": "CHINIAK",
     "physical_state": "AK",
     "physical_zip": "99615",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z10052",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1245,7 +1530,10 @@
     "physical_city": "KODIAK",
     "physical_state": "AK",
     "physical_zip": "99615",
-    "physical_zip4": "6090"
+    "physical_zip4": "6090",
+    "zip_class_code": null,
+    "locale_key": "Z10084",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1258,7 +1546,10 @@
     "physical_city": "KODIAK",
     "physical_state": "AK",
     "physical_zip": "99615",
-    "physical_zip4": "6995"
+    "physical_zip4": "6995",
+    "zip_class_code": null,
+    "locale_key": "Z10091",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1271,7 +1562,10 @@
     "physical_city": "KODIAK",
     "physical_state": "AK",
     "physical_zip": "99615",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10171",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1284,7 +1578,10 @@
     "physical_city": "KOTLIK",
     "physical_state": "AK",
     "physical_zip": "99620",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10176",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1297,7 +1594,10 @@
     "physical_city": "KWETHLUK",
     "physical_state": "AK",
     "physical_zip": "99621",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10180",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1310,7 +1610,10 @@
     "physical_city": "KWIGILLINGOK",
     "physical_state": "AK",
     "physical_zip": "99622",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10181",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1323,7 +1626,10 @@
     "physical_city": "WASILLA",
     "physical_state": "AK",
     "physical_zip": "99654",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10348",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1336,7 +1642,10 @@
     "physical_city": "LARSEN BAY",
     "physical_state": "AK",
     "physical_zip": "99624",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10184",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1349,7 +1658,10 @@
     "physical_city": "LEVELOCK",
     "physical_state": "AK",
     "physical_zip": "99625",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10185",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1362,7 +1674,10 @@
     "physical_city": "LOWER KALSKAG",
     "physical_state": "AK",
     "physical_zip": "99626",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10187",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1375,7 +1690,10 @@
     "physical_city": "MC GRATH",
     "physical_state": "AK",
     "physical_zip": "99627",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10193",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1388,7 +1706,10 @@
     "physical_city": "WASILLA",
     "physical_state": "AK",
     "physical_zip": "99623",
-    "physical_zip4": "9804"
+    "physical_zip4": "9804",
+    "zip_class_code": "P",
+    "locale_key": "Z10196",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1401,7 +1722,10 @@
     "physical_city": "MEKORYUK",
     "physical_state": "AK",
     "physical_zip": "99630",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10197",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1414,7 +1738,10 @@
     "physical_city": "MOOSE PASS",
     "physical_state": "AK",
     "physical_zip": "99631",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10204",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1427,7 +1754,10 @@
     "physical_city": "MOUNTAIN VILLAGE",
     "physical_state": "AK",
     "physical_zip": "99632",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10205",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1440,7 +1770,10 @@
     "physical_city": "NAKNEK",
     "physical_state": "AK",
     "physical_zip": "99633",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10209",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1453,7 +1786,10 @@
     "physical_city": "NAPAKIAK",
     "physical_state": "AK",
     "physical_zip": "99634",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10211",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1466,7 +1802,10 @@
     "physical_city": "NIKISKI",
     "physical_state": "AK",
     "physical_zip": "99635",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10219",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1479,7 +1818,10 @@
     "physical_city": "NEW STUYAHOK",
     "physical_state": "AK",
     "physical_zip": "99636",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10215",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1492,7 +1834,10 @@
     "physical_city": "TOKSOOK BAY",
     "physical_state": "AK",
     "physical_zip": "99637",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10328",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1505,7 +1850,10 @@
     "physical_city": "NINILCHIK",
     "physical_state": "AK",
     "physical_zip": "99639",
-    "physical_zip4": "9759"
+    "physical_zip4": "9759",
+    "zip_class_code": null,
+    "locale_key": "Z10223",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1518,7 +1866,10 @@
     "physical_city": "NONDALTON",
     "physical_state": "AK",
     "physical_zip": "99640",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10226",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1531,7 +1882,10 @@
     "physical_city": "NUNAPITCHUK",
     "physical_state": "AK",
     "physical_zip": "99641",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10233",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1544,7 +1898,10 @@
     "physical_city": "OLD HARBOR",
     "physical_state": "AK",
     "physical_zip": "99643",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10234",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1557,7 +1914,10 @@
     "physical_city": "OUZINKIE",
     "physical_state": "AK",
     "physical_zip": "99644",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10235",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1570,7 +1930,10 @@
     "physical_city": "PALMER",
     "physical_state": "AK",
     "physical_zip": "99645",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10236",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1583,7 +1946,10 @@
     "physical_city": "PEDRO BAY",
     "physical_state": "AK",
     "physical_zip": "99647",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10238",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1596,7 +1962,10 @@
     "physical_city": "PERRYVILLE",
     "physical_state": "AK",
     "physical_zip": "99648",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10240",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1609,7 +1978,10 @@
     "physical_city": "PILOT POINT",
     "physical_state": "AK",
     "physical_zip": "99649",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10242",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1622,7 +1994,10 @@
     "physical_city": "PILOT STATION",
     "physical_state": "AK",
     "physical_zip": "99650",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10245",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1635,7 +2010,10 @@
     "physical_city": "BIG LAKE",
     "physical_state": "AK",
     "physical_zip": "99652",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10032",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -1648,7 +2026,10 @@
     "physical_city": "PORT ALSWORTH",
     "physical_state": "AK",
     "physical_zip": "99653",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": "P",
+    "locale_key": "Z10253",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1661,7 +2042,10 @@
     "physical_city": "WASILLA",
     "physical_state": "AK",
     "physical_zip": "99654",
-    "physical_zip4": "7369"
+    "physical_zip4": "7369",
+    "zip_class_code": null,
+    "locale_key": "Z18967",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1674,7 +2058,10 @@
     "physical_city": "RED DEVIL",
     "physical_state": "AK",
     "physical_zip": "99656",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10262",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1687,7 +2074,10 @@
     "physical_city": "RUSSIAN MISSION",
     "physical_state": "AK",
     "physical_zip": "99657",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10265",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1700,7 +2090,10 @@
     "physical_city": "SAINT MARYS",
     "physical_state": "AK",
     "physical_zip": "99658",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10269",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1713,7 +2106,10 @@
     "physical_city": "SAINT MICHAEL",
     "physical_state": "AK",
     "physical_zip": "99659",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10270",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1726,7 +2122,10 @@
     "physical_city": "SAINT PAUL ISLAND",
     "physical_state": "AK",
     "physical_zip": "99660",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10272",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1739,7 +2138,10 @@
     "physical_city": "SAND POINT",
     "physical_state": "AK",
     "physical_zip": "99661",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10275",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1752,7 +2154,10 @@
     "physical_city": "SCAMMON BAY",
     "physical_state": "AK",
     "physical_zip": "99662",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10278",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1765,7 +2170,10 @@
     "physical_city": "SELDOVIA",
     "physical_state": "AK",
     "physical_zip": "99663",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10280",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1778,7 +2186,10 @@
     "physical_city": "SEWARD",
     "physical_state": "AK",
     "physical_zip": "99664",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10281",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1791,7 +2202,10 @@
     "physical_city": "NUNAM IQUA",
     "physical_state": "AK",
     "physical_zip": "99666",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10284",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1804,7 +2218,10 @@
     "physical_city": "SKWENTNA",
     "physical_state": "AK",
     "physical_zip": "99667",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10290",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1817,7 +2234,10 @@
     "physical_city": "SLEETMUTE",
     "physical_state": "AK",
     "physical_zip": "99668",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10292",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1830,7 +2250,10 @@
     "physical_city": "SOLDOTNA",
     "physical_state": "AK",
     "physical_zip": "99669",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10294",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1843,7 +2266,10 @@
     "physical_city": "SOUTH NAKNEK",
     "physical_state": "AK",
     "physical_zip": "99670",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10295",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1856,7 +2282,10 @@
     "physical_city": "STEBBINS",
     "physical_state": "AK",
     "physical_zip": "99671",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10309",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1869,7 +2298,10 @@
     "physical_city": "STERLING",
     "physical_state": "AK",
     "physical_zip": "99672",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10311",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1882,7 +2314,10 @@
     "physical_city": "SUTTON",
     "physical_state": "AK",
     "physical_zip": "99674",
-    "physical_zip4": "9801"
+    "physical_zip4": "9801",
+    "zip_class_code": null,
+    "locale_key": "Z10047",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1895,7 +2330,10 @@
     "physical_city": "SUTTON",
     "physical_state": "AK",
     "physical_zip": "99674",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10315",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1908,7 +2346,10 @@
     "physical_city": "TAKOTNA",
     "physical_state": "AK",
     "physical_zip": "99675",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10316",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1921,7 +2362,10 @@
     "physical_city": "TALKEETNA",
     "physical_state": "AK",
     "physical_zip": "99676",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10317",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1934,7 +2378,10 @@
     "physical_city": "TATITLEK",
     "physical_state": "AK",
     "physical_zip": "99677",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10320",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1947,7 +2394,10 @@
     "physical_city": "TOGIAK",
     "physical_state": "AK",
     "physical_zip": "99678",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10326",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1960,7 +2410,10 @@
     "physical_city": "TULUKSAK",
     "physical_state": "AK",
     "physical_zip": "99679",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10330",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1973,7 +2426,10 @@
     "physical_city": "TUNTUTULIAK",
     "physical_state": "AK",
     "physical_zip": "99680",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10331",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1986,7 +2442,10 @@
     "physical_city": "TYONEK",
     "physical_state": "AK",
     "physical_zip": "99682",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10335",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1999,7 +2458,10 @@
     "physical_city": "TRAPPER CREEK",
     "physical_state": "AK",
     "physical_zip": "99683",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10329",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2012,7 +2474,10 @@
     "physical_city": "UNALAKLEET",
     "physical_state": "AK",
     "physical_zip": "99684",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10336",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2025,7 +2490,10 @@
     "physical_city": "UNALASKA",
     "physical_state": "AK",
     "physical_zip": "99685",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10337",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2038,7 +2506,10 @@
     "physical_city": "VALDEZ",
     "physical_state": "AK",
     "physical_zip": "99686",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10342",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2051,7 +2522,10 @@
     "physical_city": "WASILLA",
     "physical_state": "AK",
     "physical_zip": "99654",
-    "physical_zip4": "7758"
+    "physical_zip4": "7758",
+    "zip_class_code": "P",
+    "locale_key": "Z10036",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2060,11 +2534,14 @@
     "district_no": "995",
     "delivery_zipcode": "99687",
     "locale_name": "CPU SETTLERS BAY MAIL SVC",
-    "physical_delivery_address": "4075 S COUNTRY DR STE B",
+    "physical_delivery_address": "4075 S COUNTRY DR",
     "physical_city": "WASILLA",
     "physical_state": "AK",
     "physical_zip": "99623",
-    "physical_zip4": "0533"
+    "physical_zip4": "0533",
+    "zip_class_code": "P",
+    "locale_key": "Z10169",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2077,7 +2554,10 @@
     "physical_city": "WASILLA",
     "physical_state": "AK",
     "physical_zip": "99654",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10348",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2090,7 +2570,10 @@
     "physical_city": "WILLOW",
     "physical_state": "AK",
     "physical_zip": "99688",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10351",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2103,7 +2586,10 @@
     "physical_city": "YAKUTAT",
     "physical_state": "AK",
     "physical_zip": "99689",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10353",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2116,7 +2602,10 @@
     "physical_city": "NIGHTMUTE",
     "physical_state": "AK",
     "physical_zip": "99690",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10217",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2129,7 +2618,10 @@
     "physical_city": "NIKOLAI",
     "physical_state": "AK",
     "physical_zip": "99691",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10221",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2142,7 +2634,10 @@
     "physical_city": "DUTCH HARBOR",
     "physical_state": "AK",
     "physical_zip": "99692",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10085",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2155,7 +2650,10 @@
     "physical_city": "WHITTIER",
     "physical_state": "AK",
     "physical_zip": "99693",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10350",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2168,7 +2666,10 @@
     "physical_city": "HOUSTON",
     "physical_state": "AK",
     "physical_zip": "99694",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10140",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2181,7 +2682,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "3422"
+    "physical_zip4": "3422",
+    "zip_class_code": null,
+    "locale_key": "Z10064",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2194,7 +2698,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10189",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2207,7 +2714,10 @@
     "physical_city": "EIELSON AFB",
     "physical_state": "AK",
     "physical_zip": "99702",
-    "physical_zip4": "3488"
+    "physical_zip4": "3488",
+    "zip_class_code": null,
+    "locale_key": "Z10097",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2220,20 +2730,10 @@
     "physical_city": "NORTH POLE",
     "physical_state": "AK",
     "physical_zip": "99705",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "ALASKA",
-    "district_no": "995",
-    "delivery_zipcode": "99703",
-    "locale_name": "FAIRBANKS MAIN OFFICE",
-    "physical_delivery_address": "5400 MAIL TRAIL RD",
-    "physical_city": "FAIRBANKS",
-    "physical_state": "AK",
-    "physical_zip": "99709",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10228",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2246,7 +2746,26 @@
     "physical_city": "FORT WAINWRIGHT",
     "physical_state": "AK",
     "physical_zip": "99703",
-    "physical_zip4": "8424"
+    "physical_zip4": "8424",
+    "zip_class_code": null,
+    "locale_key": "Z10114",
+    "locale_type": "B"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "ALASKA",
+    "district_no": "995",
+    "delivery_zipcode": "99703",
+    "locale_name": "FAIRBANKS MAIN OFFICE",
+    "physical_delivery_address": "5400 MAIL TRAIL RD",
+    "physical_city": "FAIRBANKS",
+    "physical_state": "AK",
+    "physical_zip": "99709",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10189",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2259,7 +2778,10 @@
     "physical_city": "CLEAR",
     "physical_state": "AK",
     "physical_zip": "99704",
-    "physical_zip4": "5360"
+    "physical_zip4": "5360",
+    "zip_class_code": null,
+    "locale_key": "Z10060",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2272,7 +2794,10 @@
     "physical_city": "NORTH POLE",
     "physical_state": "AK",
     "physical_zip": "99705",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10228",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2285,7 +2810,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z10189",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2298,7 +2826,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99701",
-    "physical_zip4": "4532"
+    "physical_zip4": "4532",
+    "zip_class_code": "P",
+    "locale_key": "Z10083",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2311,7 +2842,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "3422"
+    "physical_zip4": "3422",
+    "zip_class_code": "P",
+    "locale_key": "Z10064",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2324,7 +2858,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10063",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2337,7 +2874,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10189",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2350,7 +2890,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99712",
-    "physical_zip4": "2323"
+    "physical_zip4": "2323",
+    "zip_class_code": "P",
+    "locale_key": "Z10310",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2363,7 +2906,10 @@
     "physical_city": "NORTH POLE",
     "physical_state": "AK",
     "physical_zip": "99705",
-    "physical_zip4": "5710"
+    "physical_zip4": "5710",
+    "zip_class_code": "P",
+    "locale_key": "Z10026",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2376,7 +2922,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99709",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10189",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2389,7 +2938,10 @@
     "physical_city": "NORTH POLE",
     "physical_state": "AK",
     "physical_zip": "99705",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10228",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2402,7 +2954,10 @@
     "physical_city": "SALCHA",
     "physical_state": "AK",
     "physical_zip": "99714",
-    "physical_zip4": "9676"
+    "physical_zip4": "9676",
+    "zip_class_code": null,
+    "locale_key": "Z10273",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2415,7 +2970,10 @@
     "physical_city": "FAIRBANKS",
     "physical_state": "AK",
     "physical_zip": "99712",
-    "physical_zip4": "3798"
+    "physical_zip4": "3798",
+    "zip_class_code": "P",
+    "locale_key": "Z10334",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2428,7 +2986,10 @@
     "physical_city": "ALLAKAKET",
     "physical_state": "AK",
     "physical_zip": "99720",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10007",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2441,7 +3002,10 @@
     "physical_city": "ANAKTUVUK PASS",
     "physical_state": "AK",
     "physical_zip": "99721",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10009",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2454,7 +3018,10 @@
     "physical_city": "ARCTIC VILLAGE",
     "physical_state": "AK",
     "physical_zip": "99722",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10019",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2467,7 +3034,10 @@
     "physical_city": "BARROW",
     "physical_state": "AK",
     "physical_zip": "99723",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10027",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2480,7 +3050,10 @@
     "physical_city": "BEAVER",
     "physical_state": "AK",
     "physical_zip": "99724",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10028",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2493,7 +3066,10 @@
     "physical_city": "ESTER",
     "physical_state": "AK",
     "physical_zip": "99725",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10105",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2506,7 +3082,10 @@
     "physical_city": "BETTLES FIELD",
     "physical_state": "AK",
     "physical_zip": "99726",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10031",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2519,7 +3098,10 @@
     "physical_city": "BUCKLAND",
     "physical_state": "AK",
     "physical_zip": "99727",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10038",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2532,7 +3114,10 @@
     "physical_city": "CANTWELL",
     "physical_state": "AK",
     "physical_zip": "99729",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10040",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2545,7 +3130,10 @@
     "physical_city": "CENTRAL",
     "physical_state": "AK",
     "physical_zip": "99730",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10041",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2558,7 +3146,10 @@
     "physical_city": "FORT GREELY",
     "physical_state": "AK",
     "physical_zip": "99731",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "003786",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2571,7 +3162,10 @@
     "physical_city": "CHICKEN",
     "physical_state": "AK",
     "physical_zip": "99732",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10048",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2584,7 +3178,10 @@
     "physical_city": "CIRCLE",
     "physical_state": "AK",
     "physical_zip": "99733",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10056",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2597,7 +3194,10 @@
     "physical_city": "PRUDHOE BAY",
     "physical_state": "AK",
     "physical_zip": "99734",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10257",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -2610,7 +3210,10 @@
     "physical_city": "DEERING",
     "physical_state": "AK",
     "physical_zip": "99736",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10073",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2623,7 +3226,10 @@
     "physical_city": "DELTA JUNCTION",
     "physical_state": "AK",
     "physical_zip": "99737",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10075",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2636,7 +3242,10 @@
     "physical_city": "EAGLE",
     "physical_state": "AK",
     "physical_zip": "99738",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10088",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2649,7 +3258,10 @@
     "physical_city": "ELIM",
     "physical_state": "AK",
     "physical_zip": "99739",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10100",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2662,7 +3274,10 @@
     "physical_city": "FORT YUKON",
     "physical_state": "AK",
     "physical_zip": "99740",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10115",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2675,7 +3290,10 @@
     "physical_city": "GALENA",
     "physical_state": "AK",
     "physical_zip": "99741",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10123",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2688,7 +3306,10 @@
     "physical_city": "GAMBELL",
     "physical_state": "AK",
     "physical_zip": "99742",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10124",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2701,7 +3322,10 @@
     "physical_city": "HEALY",
     "physical_state": "AK",
     "physical_zip": "99743",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10134",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2714,7 +3338,10 @@
     "physical_city": "ANDERSON",
     "physical_state": "AK",
     "physical_zip": "99744",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10015",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2727,7 +3354,10 @@
     "physical_city": "HUGHES",
     "physical_state": "AK",
     "physical_zip": "99745",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10142",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2740,7 +3370,10 @@
     "physical_city": "HUSLIA",
     "physical_state": "AK",
     "physical_zip": "99746",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10143",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2753,7 +3386,10 @@
     "physical_city": "KALTAG",
     "physical_state": "AK",
     "physical_zip": "99748",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10154",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2766,7 +3402,10 @@
     "physical_city": "KIANA",
     "physical_state": "AK",
     "physical_zip": "99749",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10162",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2779,7 +3418,10 @@
     "physical_city": "KIVALINA",
     "physical_state": "AK",
     "physical_zip": "99750",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10167",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2792,7 +3434,10 @@
     "physical_city": "KOBUK",
     "physical_state": "AK",
     "physical_zip": "99751",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10170",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2805,7 +3450,10 @@
     "physical_city": "KOTZEBUE",
     "physical_state": "AK",
     "physical_zip": "99752",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10177",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2818,7 +3466,10 @@
     "physical_city": "KOYUK",
     "physical_state": "AK",
     "physical_zip": "99753",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10178",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2831,7 +3482,10 @@
     "physical_city": "KOYUKUK",
     "physical_state": "AK",
     "physical_zip": "99754",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10179",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2844,7 +3498,10 @@
     "physical_city": "DENALI NATIONAL PARK",
     "physical_state": "AK",
     "physical_zip": "99755",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10076",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2857,7 +3514,10 @@
     "physical_city": "MANLEY HOT SPRINGS",
     "physical_state": "AK",
     "physical_zip": "99756",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10190",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2870,7 +3530,10 @@
     "physical_city": "LAKE MINCHUMINA",
     "physical_state": "AK",
     "physical_zip": "99757",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10182",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2883,7 +3546,10 @@
     "physical_city": "MINTO",
     "physical_state": "AK",
     "physical_zip": "99758",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10203",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2896,7 +3562,10 @@
     "physical_city": "POINT LAY",
     "physical_state": "AK",
     "physical_zip": "99759",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10251",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2909,7 +3578,10 @@
     "physical_city": "NENANA",
     "physical_state": "AK",
     "physical_zip": "99760",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10214",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2922,7 +3594,10 @@
     "physical_city": "GOLOVIN",
     "physical_state": "AK",
     "physical_zip": "99762",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": "P",
+    "locale_key": "Z10127",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2935,7 +3610,10 @@
     "physical_city": "NOME",
     "physical_state": "AK",
     "physical_zip": "99762",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10225",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2948,7 +3626,10 @@
     "physical_city": "NOORVIK",
     "physical_state": "AK",
     "physical_zip": "99763",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10227",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2961,7 +3642,10 @@
     "physical_city": "NORTHWAY",
     "physical_state": "AK",
     "physical_zip": "99764",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10230",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2974,7 +3658,10 @@
     "physical_city": "NULATO",
     "physical_state": "AK",
     "physical_zip": "99765",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10232",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2987,7 +3674,10 @@
     "physical_city": "POINT HOPE",
     "physical_state": "AK",
     "physical_zip": "99766",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10250",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3000,7 +3690,10 @@
     "physical_city": "RAMPART",
     "physical_state": "AK",
     "physical_zip": "99767",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10261",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3013,7 +3706,10 @@
     "physical_city": "RUBY",
     "physical_state": "AK",
     "physical_zip": "99768",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3026,7 +3722,10 @@
     "physical_city": "SAVOONGA",
     "physical_state": "AK",
     "physical_zip": "99769",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10277",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3039,7 +3738,10 @@
     "physical_city": "SELAWIK",
     "physical_state": "AK",
     "physical_zip": "99770",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10279",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3052,7 +3754,10 @@
     "physical_city": "SHAKTOOLIK",
     "physical_state": "AK",
     "physical_zip": "99771",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10283",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3065,7 +3770,10 @@
     "physical_city": "SHISHMAREF",
     "physical_state": "AK",
     "physical_zip": "99772",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10286",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3078,7 +3786,10 @@
     "physical_city": "SHUNGNAK",
     "physical_state": "AK",
     "physical_zip": "99773",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10287",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3091,7 +3802,10 @@
     "physical_city": "TANACROSS",
     "physical_state": "AK",
     "physical_zip": "99776",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10318",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3104,7 +3818,10 @@
     "physical_city": "TANANA",
     "physical_state": "AK",
     "physical_zip": "99777",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10319",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3117,7 +3834,10 @@
     "physical_city": "TELLER",
     "physical_state": "AK",
     "physical_zip": "99778",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10321",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3130,7 +3850,10 @@
     "physical_city": "MENTASTA LAKE",
     "physical_state": "AK",
     "physical_zip": "99780",
-    "physical_zip4": "9803"
+    "physical_zip4": "9803",
+    "zip_class_code": null,
+    "locale_key": "Z10199",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3143,7 +3866,10 @@
     "physical_city": "TOK",
     "physical_state": "AK",
     "physical_zip": "99780",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10327",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3156,7 +3882,10 @@
     "physical_city": "VENETIE",
     "physical_state": "AK",
     "physical_zip": "99781",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10343",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3169,7 +3898,10 @@
     "physical_city": "WAINWRIGHT",
     "physical_state": "AK",
     "physical_zip": "99782",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10344",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3182,7 +3914,10 @@
     "physical_city": "WALES",
     "physical_state": "AK",
     "physical_zip": "99783",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10345",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3195,7 +3930,10 @@
     "physical_city": "WHITE MOUNTAIN",
     "physical_state": "AK",
     "physical_zip": "99784",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10349",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3208,7 +3946,10 @@
     "physical_city": "BREVIG MISSION",
     "physical_state": "AK",
     "physical_zip": "99785",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10037",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3221,7 +3962,10 @@
     "physical_city": "AMBLER",
     "physical_state": "AK",
     "physical_zip": "99786",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10008",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3234,7 +3978,10 @@
     "physical_city": "CHALKYITSIK",
     "physical_state": "AK",
     "physical_zip": "99788",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10042",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3247,7 +3994,10 @@
     "physical_city": "NUIQSUT",
     "physical_state": "AK",
     "physical_zip": "99789",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10231",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3260,7 +4010,10 @@
     "physical_city": "ATQASUK",
     "physical_state": "AK",
     "physical_zip": "99791",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10023",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3273,7 +4026,10 @@
     "physical_city": "JUNEAU",
     "physical_state": "AK",
     "physical_zip": "99801",
-    "physical_zip4": "1807"
+    "physical_zip4": "1807",
+    "zip_class_code": null,
+    "locale_key": "Z10110",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3286,7 +4042,10 @@
     "physical_city": "JUNEAU",
     "physical_state": "AK",
     "physical_zip": "99801",
-    "physical_zip4": "7111"
+    "physical_zip4": "7111",
+    "zip_class_code": null,
+    "locale_key": "Z10198",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3299,7 +4058,10 @@
     "physical_city": "JUNEAU",
     "physical_state": "AK",
     "physical_zip": "99801",
-    "physical_zip4": "1807"
+    "physical_zip4": "1807",
+    "zip_class_code": "P",
+    "locale_key": "Z10110",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3312,7 +4074,10 @@
     "physical_city": "JUNEAU",
     "physical_state": "AK",
     "physical_zip": "99801",
-    "physical_zip4": "7111"
+    "physical_zip4": "7111",
+    "zip_class_code": "P",
+    "locale_key": "Z10198",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3325,7 +4090,10 @@
     "physical_city": "ANGOON",
     "physical_state": "AK",
     "physical_zip": "99820",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10016",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3338,7 +4106,10 @@
     "physical_city": "JUNEAU",
     "physical_state": "AK",
     "physical_zip": "99801",
-    "physical_zip4": "8628"
+    "physical_zip4": "8628",
+    "zip_class_code": "P",
+    "locale_key": "Z10025",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -3351,7 +4122,10 @@
     "physical_city": "DOUGLAS",
     "physical_state": "AK",
     "physical_zip": "99824",
-    "physical_zip4": "5412"
+    "physical_zip4": "5412",
+    "zip_class_code": null,
+    "locale_key": "Z10081",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -3364,7 +4138,10 @@
     "physical_city": "JUNEAU",
     "physical_state": "AK",
     "physical_zip": "99801",
-    "physical_zip4": "1807"
+    "physical_zip4": "1807",
+    "zip_class_code": null,
+    "locale_key": "Z10110",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3377,7 +4154,10 @@
     "physical_city": "ELFIN COVE",
     "physical_state": "AK",
     "physical_zip": "99825",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10099",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3390,7 +4170,10 @@
     "physical_city": "GUSTAVUS",
     "physical_state": "AK",
     "physical_zip": "99826",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10131",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3403,7 +4186,10 @@
     "physical_city": "HAINES",
     "physical_state": "AK",
     "physical_zip": "99827",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "Z10132",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3416,7 +4202,10 @@
     "physical_city": "HOONAH",
     "physical_state": "AK",
     "physical_zip": "99829",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10137",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3429,7 +4218,10 @@
     "physical_city": "KAKE",
     "physical_state": "AK",
     "physical_zip": "99830",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10151",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3442,7 +4234,10 @@
     "physical_city": "PELICAN",
     "physical_state": "AK",
     "physical_zip": "99832",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10239",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3455,7 +4250,10 @@
     "physical_city": "PETERSBURG",
     "physical_state": "AK",
     "physical_zip": "99833",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10241",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3468,7 +4266,10 @@
     "physical_city": "SITKA",
     "physical_state": "AK",
     "physical_zip": "99835",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10288",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3481,7 +4282,10 @@
     "physical_city": "PORT ALEXANDER",
     "physical_state": "AK",
     "physical_zip": "99836",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10252",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3494,7 +4298,10 @@
     "physical_city": "SKAGWAY",
     "physical_state": "AK",
     "physical_zip": "99840",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10289",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3507,7 +4314,10 @@
     "physical_city": "TENAKEE SPRINGS",
     "physical_state": "AK",
     "physical_zip": "99841",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10323",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3520,7 +4330,10 @@
     "physical_city": "KETCHIKAN",
     "physical_state": "AK",
     "physical_zip": "99901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z10161",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3533,7 +4346,10 @@
     "physical_city": "COFFMAN COVE",
     "physical_state": "AK",
     "physical_zip": "99918",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10061",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -3546,7 +4362,10 @@
     "physical_city": "THORNE BAY",
     "physical_state": "AK",
     "physical_zip": "99919",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10325",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3559,7 +4378,10 @@
     "physical_city": "CRAIG",
     "physical_state": "AK",
     "physical_zip": "99921",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10070",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3572,7 +4394,10 @@
     "physical_city": "HYDABURG",
     "physical_state": "AK",
     "physical_zip": "99922",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10144",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3585,7 +4410,10 @@
     "physical_city": "HYDER",
     "physical_state": "AK",
     "physical_zip": "99923",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10145",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3598,7 +4426,10 @@
     "physical_city": "KLAWOCK",
     "physical_state": "AK",
     "physical_zip": "99925",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10168",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3611,7 +4442,10 @@
     "physical_city": "METLAKATLA",
     "physical_state": "AK",
     "physical_zip": "99926",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10200",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3624,7 +4458,10 @@
     "physical_city": "POINT BAKER",
     "physical_state": "AK",
     "physical_zip": "99927",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10249",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3637,7 +4474,10 @@
     "physical_city": "WARD COVE",
     "physical_state": "AK",
     "physical_zip": "99928",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10346",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3650,6 +4490,9 @@
     "physical_city": "WRANGELL",
     "physical_state": "AK",
     "physical_zip": "99929",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "Z10352",
+    "locale_type": "P"
   }
 ]

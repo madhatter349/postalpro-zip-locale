@@ -10,7 +10,10 @@
     "physical_city": "WAHPETON",
     "physical_state": "ND",
     "physical_zip": "58075",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19382",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -23,33 +26,10 @@
     "physical_city": "GRAND FORKS",
     "physical_state": "ND",
     "physical_zip": "58201",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57640",
-    "locale_name": "HETTINGER",
-    "physical_delivery_address": "502 ADAMS AVE",
-    "physical_city": "HETTINGER",
-    "physical_state": "ND",
-    "physical_zip": "58639",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "57650",
-    "locale_name": "REEDER",
-    "physical_delivery_address": "204 MAIN ST",
-    "physical_city": "REEDER",
-    "physical_state": "ND",
-    "physical_zip": "58649",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18967",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -62,7 +42,10 @@
     "physical_city": "ABERCROMBIE",
     "physical_state": "ND",
     "physical_zip": "58001",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W18705",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -75,33 +58,10 @@
     "physical_city": "HUNTER",
     "physical_state": "ND",
     "physical_zip": "58048",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58004",
-    "locale_name": "CASSELTON",
-    "physical_delivery_address": "840 FRONT ST",
-    "physical_city": "CASSELTON",
-    "physical_state": "ND",
-    "physical_zip": "58012",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58005",
-    "locale_name": "HARWOOD",
-    "physical_delivery_address": "521 DAKOTA AVE",
-    "physical_city": "HARWOOD",
-    "physical_state": "ND",
-    "physical_zip": "58042",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19025",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -114,7 +74,10 @@
     "physical_city": "ARTHUR",
     "physical_state": "ND",
     "physical_zip": "58006",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18730",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -127,33 +90,10 @@
     "physical_city": "HUNTER",
     "physical_state": "ND",
     "physical_zip": "58048",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58008",
-    "locale_name": "WYNDMERE",
-    "physical_delivery_address": "455 4TH ST",
-    "physical_city": "WYNDMERE",
-    "physical_state": "ND",
-    "physical_zip": "58081",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58009",
-    "locale_name": "HILLSBORO",
-    "physical_delivery_address": "16 1ST ST NW",
-    "physical_city": "HILLSBORO",
-    "physical_state": "ND",
-    "physical_zip": "58045",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19025",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -166,7 +106,10 @@
     "physical_city": "BUFFALO",
     "physical_state": "ND",
     "physical_zip": "58011",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18788",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -179,20 +122,10 @@
     "physical_city": "CASSELTON",
     "physical_state": "ND",
     "physical_zip": "58012",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58013",
-    "locale_name": "FORMAN",
-    "physical_delivery_address": "333 MAIN ST S",
-    "physical_city": "FORMAN",
-    "physical_state": "ND",
-    "physical_zip": "58032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18807",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -205,7 +138,10 @@
     "physical_city": "CHRISTINE",
     "physical_state": "ND",
     "physical_zip": "58015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18816",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -218,20 +154,10 @@
     "physical_city": "CLIFFORD",
     "physical_state": "ND",
     "physical_zip": "58016",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58016",
-    "locale_name": "HUNTER",
-    "physical_delivery_address": "107 MAIN ST",
-    "physical_city": "HUNTER",
-    "physical_state": "ND",
-    "physical_zip": "58048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18820",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -244,20 +170,10 @@
     "physical_city": "COGSWELL",
     "physical_state": "ND",
     "physical_zip": "58017",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58017",
-    "locale_name": "FORMAN",
-    "physical_delivery_address": "333 MAIN ST S",
-    "physical_city": "FORMAN",
-    "physical_state": "ND",
-    "physical_zip": "58032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18823",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -270,20 +186,10 @@
     "physical_city": "COLFAX",
     "physical_state": "ND",
     "physical_zip": "58018",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58018",
-    "locale_name": "WALCOTT",
-    "physical_delivery_address": "472 MAIN AVE",
-    "physical_city": "WALCOTT",
-    "physical_state": "ND",
-    "physical_zip": "58077",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18825",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -296,7 +202,10 @@
     "physical_city": "DAVENPORT",
     "physical_state": "ND",
     "physical_zip": "58021",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18846",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -309,7 +218,10 @@
     "physical_city": "ENDERLIN",
     "physical_state": "ND",
     "physical_zip": "58027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18891",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -322,7 +234,10 @@
     "physical_city": "ERIE",
     "physical_state": "ND",
     "physical_zip": "58029",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18894",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -335,7 +250,10 @@
     "physical_city": "HUNTER",
     "physical_state": "ND",
     "physical_zip": "58048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19025",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -348,7 +266,10 @@
     "physical_city": "FAIRMOUNT",
     "physical_state": "ND",
     "physical_zip": "58030",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18898",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -361,7 +282,10 @@
     "physical_city": "FINGAL",
     "physical_state": "ND",
     "physical_zip": "58031",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18907",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -374,7 +298,10 @@
     "physical_city": "FORMAN",
     "physical_state": "ND",
     "physical_zip": "58032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18918",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -387,20 +314,10 @@
     "physical_city": "FORT RANSOM",
     "physical_state": "ND",
     "physical_zip": "58033",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58033",
-    "locale_name": "LISBON",
-    "physical_delivery_address": "17 4TH AVE W",
-    "physical_city": "LISBON",
-    "physical_state": "ND",
-    "physical_zip": "58054",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18920",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -413,7 +330,10 @@
     "physical_city": "GALESBURG",
     "physical_state": "ND",
     "physical_zip": "58035",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18940",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -426,20 +346,10 @@
     "physical_city": "HUNTER",
     "physical_state": "ND",
     "physical_zip": "58048",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58036",
-    "locale_name": "GRANDIN",
-    "physical_delivery_address": "301 3RD ST",
-    "physical_city": "GRANDIN",
-    "physical_state": "ND",
-    "physical_zip": "58038",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19025",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -452,7 +362,10 @@
     "physical_city": "GRANDIN",
     "physical_state": "ND",
     "physical_zip": "58038",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18971",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -465,7 +378,10 @@
     "physical_city": "GWINNER",
     "physical_state": "ND",
     "physical_zip": "58040",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18981",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -478,7 +394,10 @@
     "physical_city": "HANKINSON",
     "physical_state": "ND",
     "physical_zip": "58041",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18991",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -491,20 +410,10 @@
     "physical_city": "HARWOOD",
     "physical_state": "ND",
     "physical_zip": "58042",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "IA-NE-SD",
-    "district_no": "500",
-    "delivery_zipcode": "58043",
-    "locale_name": "FORMAN",
-    "physical_delivery_address": "333 MAIN ST S",
-    "physical_city": "FORMAN",
-    "physical_state": "ND",
-    "physical_zip": "58032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19000",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -517,7 +426,10 @@
     "physical_city": "HAVANA",
     "physical_state": "ND",
     "physical_zip": "58043",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19003",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -530,7 +442,10 @@
     "physical_city": "HILLSBORO",
     "physical_state": "ND",
     "physical_zip": "58045",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19018",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -543,7 +458,10 @@
     "physical_city": "HOPE",
     "physical_state": "ND",
     "physical_zip": "58046",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19022",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -556,7 +474,10 @@
     "physical_city": "HORACE",
     "physical_state": "ND",
     "physical_zip": "58047",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19023",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -569,7 +490,10 @@
     "physical_city": "HUNTER",
     "physical_state": "ND",
     "physical_zip": "58048",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19025",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -582,7 +506,10 @@
     "physical_city": "KATHRYN",
     "physical_state": "ND",
     "physical_zip": "58049",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19042",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -595,7 +522,10 @@
     "physical_city": "KINDRED",
     "physical_state": "ND",
     "physical_zip": "58051",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19051",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -608,7 +538,10 @@
     "physical_city": "LEONARD",
     "physical_state": "ND",
     "physical_zip": "58052",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19080",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -621,7 +554,10 @@
     "physical_city": "LIDGERWOOD",
     "physical_state": "ND",
     "physical_zip": "58053",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19082",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -634,46 +570,10 @@
     "physical_city": "LISBON",
     "physical_state": "ND",
     "physical_zip": "58054",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58056",
-    "locale_name": "HOPE",
-    "physical_delivery_address": "206 STEELE AVE",
-    "physical_city": "HOPE",
-    "physical_state": "ND",
-    "physical_zip": "58046",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58057",
-    "locale_name": "MILNOR",
-    "physical_delivery_address": "420 MAIN ST",
-    "physical_city": "MILNOR",
-    "physical_state": "ND",
-    "physical_zip": "58060",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58058",
-    "locale_name": "HANKINSON",
-    "physical_delivery_address": "345 MAIN AVE S",
-    "physical_city": "HANKINSON",
-    "physical_state": "ND",
-    "physical_zip": "58041",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19087",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -686,7 +586,10 @@
     "physical_city": "MANTADOR",
     "physical_state": "ND",
     "physical_zip": "58058",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19109",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -699,7 +602,10 @@
     "physical_city": "MAPLETON",
     "physical_state": "ND",
     "physical_zip": "58059",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19113",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -712,7 +618,10 @@
     "physical_city": "MILNOR",
     "physical_state": "ND",
     "physical_zip": "58060",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19144",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -725,33 +634,10 @@
     "physical_city": "MOORETON",
     "physical_state": "ND",
     "physical_zip": "58061",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58061",
-    "locale_name": "WAHPETON",
-    "physical_delivery_address": "926 2ND AVE N",
-    "physical_city": "WAHPETON",
-    "physical_state": "ND",
-    "physical_zip": "58075",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58062",
-    "locale_name": "KATHRYN",
-    "physical_delivery_address": "307 1ST AVE",
-    "physical_city": "KATHRYN",
-    "physical_state": "ND",
-    "physical_zip": "58049",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19158",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -764,7 +650,10 @@
     "physical_city": "NOME",
     "physical_state": "ND",
     "physical_zip": "58062",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19183",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -777,20 +666,10 @@
     "physical_city": "ORISKA",
     "physical_state": "ND",
     "physical_zip": "58063",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58063",
-    "locale_name": "TOWER CITY",
-    "physical_delivery_address": "505 BROADWAY ST",
-    "physical_city": "TOWER CITY",
-    "physical_state": "ND",
-    "physical_zip": "58071",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19198",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -803,33 +682,10 @@
     "physical_city": "PAGE",
     "physical_state": "ND",
     "physical_zip": "58064",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58065",
-    "locale_name": "HOPE",
-    "physical_delivery_address": "206 STEELE AVE",
-    "physical_city": "HOPE",
-    "physical_state": "ND",
-    "physical_zip": "58046",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58067",
-    "locale_name": "FORMAN",
-    "physical_delivery_address": "333 MAIN ST S",
-    "physical_city": "FORMAN",
-    "physical_state": "ND",
-    "physical_zip": "58032",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19205",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -842,20 +698,10 @@
     "physical_city": "RUTLAND",
     "physical_state": "ND",
     "physical_zip": "58067",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58068",
-    "locale_name": "ENDERLIN",
-    "physical_delivery_address": "309 RAILWAY ST",
-    "physical_city": "ENDERLIN",
-    "physical_state": "ND",
-    "physical_zip": "58027",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19262",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -868,20 +714,10 @@
     "physical_city": "SHELDON",
     "physical_state": "ND",
     "physical_zip": "58068",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58069",
-    "locale_name": "GWINNER",
-    "physical_delivery_address": "21 S MAIN ST",
-    "physical_city": "GWINNER",
-    "physical_state": "ND",
-    "physical_zip": "58040",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19284",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -894,7 +730,10 @@
     "physical_city": "TOWER CITY",
     "physical_state": "ND",
     "physical_zip": "58071",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19362",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -907,7 +746,10 @@
     "physical_city": "VALLEY CITY",
     "physical_state": "ND",
     "physical_zip": "58072",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19375",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -920,7 +762,10 @@
     "physical_city": "WAHPETON",
     "physical_state": "ND",
     "physical_zip": "58075",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W19382",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -933,7 +778,10 @@
     "physical_city": "WAHPETON",
     "physical_state": "ND",
     "physical_zip": "58075",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19382",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -946,7 +794,10 @@
     "physical_city": "WALCOTT",
     "physical_state": "ND",
     "physical_zip": "58077",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19383",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -959,7 +810,10 @@
     "physical_city": "WEST FARGO",
     "physical_state": "ND",
     "physical_zip": "58078",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19398",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -972,7 +826,10 @@
     "physical_city": "CASSELTON",
     "physical_state": "ND",
     "physical_zip": "58012",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18807",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -985,7 +842,10 @@
     "physical_city": "WYNDMERE",
     "physical_state": "ND",
     "physical_zip": "58081",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19422",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -998,7 +858,10 @@
     "physical_city": "FARGO",
     "physical_state": "ND",
     "physical_zip": "58102",
-    "physical_zip4": "1490"
+    "physical_zip4": "1490",
+    "zip_class_code": null,
+    "locale_key": "W1C598",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -1011,7 +874,10 @@
     "physical_city": "FARGO",
     "physical_state": "ND",
     "physical_zip": "58103",
-    "physical_zip4": "3400"
+    "physical_zip4": "3400",
+    "zip_class_code": null,
+    "locale_key": "W19229",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -1024,7 +890,10 @@
     "physical_city": "FARGO",
     "physical_state": "ND",
     "physical_zip": "58103",
-    "physical_zip4": "3400"
+    "physical_zip4": "3400",
+    "zip_class_code": null,
+    "locale_key": "W19229",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -1037,7 +906,10 @@
     "physical_city": "FARGO",
     "physical_state": "ND",
     "physical_zip": "58102",
-    "physical_zip4": "9001"
+    "physical_zip4": "9001",
+    "zip_class_code": "P",
+    "locale_key": "W18903",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1050,7 +922,10 @@
     "physical_city": "FARGO",
     "physical_state": "ND",
     "physical_zip": "58103",
-    "physical_zip4": "3400"
+    "physical_zip4": "3400",
+    "zip_class_code": "P",
+    "locale_key": "W19229",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -1063,7 +938,10 @@
     "physical_city": "FARGO",
     "physical_state": "ND",
     "physical_zip": "58102",
-    "physical_zip4": "9001"
+    "physical_zip4": "9001",
+    "zip_class_code": "P",
+    "locale_key": "W18903",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1076,7 +954,10 @@
     "physical_city": "FARGO",
     "physical_state": "ND",
     "physical_zip": "58102",
-    "physical_zip4": "9001"
+    "physical_zip4": "9001",
+    "zip_class_code": "P",
+    "locale_key": "W18903",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1089,7 +970,10 @@
     "physical_city": "FARGO",
     "physical_state": "ND",
     "physical_zip": "58103",
-    "physical_zip4": "3400"
+    "physical_zip4": "3400",
+    "zip_class_code": "P",
+    "locale_key": "W19229",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -1102,7 +986,10 @@
     "physical_city": "GRAND FORKS",
     "physical_state": "ND",
     "physical_zip": "58201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18967",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1115,7 +1002,10 @@
     "physical_city": "GRAND FORKS",
     "physical_state": "ND",
     "physical_zip": "58201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18967",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1128,7 +1018,10 @@
     "physical_city": "GRAND FORKS AFB",
     "physical_state": "ND",
     "physical_zip": "58204",
-    "physical_zip4": "1000"
+    "physical_zip4": "1000",
+    "zip_class_code": null,
+    "locale_key": "W18968",
+    "locale_type": "B"
   },
   {
     "area_name": "CENTRAL",
@@ -1141,7 +1034,10 @@
     "physical_city": "GRAND FORKS",
     "physical_state": "ND",
     "physical_zip": "58201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W18967",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1154,7 +1050,10 @@
     "physical_city": "GRAND FORKS",
     "physical_state": "ND",
     "physical_zip": "58201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W18967",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1167,7 +1066,10 @@
     "physical_city": "ADAMS",
     "physical_state": "ND",
     "physical_zip": "58210",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18707",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1180,20 +1082,10 @@
     "physical_city": "ANETA",
     "physical_state": "ND",
     "physical_zip": "58212",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58212",
-    "locale_name": "NORTHWOOD",
-    "physical_delivery_address": "4 N RAYMOND ST",
-    "physical_city": "NORTHWOOD",
-    "physical_state": "ND",
-    "physical_zip": "58267",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18721",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1206,7 +1098,10 @@
     "physical_city": "ARVILLA",
     "physical_state": "ND",
     "physical_zip": "58214",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18731",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1219,7 +1114,10 @@
     "physical_city": "EMERADO",
     "physical_state": "ND",
     "physical_zip": "58228",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18888",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1232,7 +1130,10 @@
     "physical_city": "CAVALIER",
     "physical_state": "ND",
     "physical_zip": "58220",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18809",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1245,20 +1146,10 @@
     "physical_city": "BUXTON",
     "physical_state": "ND",
     "physical_zip": "58218",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58219",
-    "locale_name": "BUXTON",
-    "physical_delivery_address": "309 BROADWAY",
-    "physical_city": "BUXTON",
-    "physical_state": "ND",
-    "physical_zip": "58218",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18795",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1271,7 +1162,10 @@
     "physical_city": "CAVALIER",
     "physical_state": "ND",
     "physical_zip": "58220",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18809",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1284,46 +1178,10 @@
     "physical_city": "CRYSTAL",
     "physical_state": "ND",
     "physical_zip": "58222",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58222",
-    "locale_name": "HOOPLE",
-    "physical_delivery_address": "236 2ND ST",
-    "physical_city": "HOOPLE",
-    "physical_state": "ND",
-    "physical_zip": "58243",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58223",
-    "locale_name": "BUXTON",
-    "physical_delivery_address": "309 BROADWAY",
-    "physical_city": "BUXTON",
-    "physical_state": "ND",
-    "physical_zip": "58218",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58224",
-    "locale_name": "PETERSBURG",
-    "physical_delivery_address": "214 5TH ST",
-    "physical_city": "PETERSBURG",
-    "physical_state": "ND",
-    "physical_zip": "58272",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18841",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1336,7 +1194,10 @@
     "physical_city": "DRAYTON",
     "physical_state": "ND",
     "physical_zip": "58225",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18867",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1349,7 +1210,10 @@
     "physical_city": "EDINBURG",
     "physical_state": "ND",
     "physical_zip": "58227",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18879",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1362,7 +1226,10 @@
     "physical_city": "EMERADO",
     "physical_state": "ND",
     "physical_zip": "58228",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18888",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1375,7 +1242,10 @@
     "physical_city": "FAIRDALE",
     "physical_state": "ND",
     "physical_zip": "58229",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18896",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1388,7 +1258,10 @@
     "physical_city": "FINLEY",
     "physical_state": "ND",
     "physical_zip": "58230",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18908",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1401,7 +1274,10 @@
     "physical_city": "FORDVILLE",
     "physical_state": "ND",
     "physical_zip": "58231",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18916",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1414,20 +1290,10 @@
     "physical_city": "FOREST RIVER",
     "physical_state": "ND",
     "physical_zip": "58233",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58233",
-    "locale_name": "MINTO",
-    "physical_delivery_address": "221 HARVEY AVE",
-    "physical_city": "MINTO",
-    "physical_state": "ND",
-    "physical_zip": "58261",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18917",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1440,20 +1306,10 @@
     "physical_city": "GILBY",
     "physical_state": "ND",
     "physical_zip": "58235",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58236",
-    "locale_name": "CAVALIER",
-    "physical_delivery_address": "306 MAIN ST W",
-    "physical_city": "CAVALIER",
-    "physical_state": "ND",
-    "physical_zip": "58220",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18950",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1466,20 +1322,10 @@
     "physical_city": "GRAFTON",
     "physical_state": "ND",
     "physical_zip": "58237",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58238",
-    "locale_name": "CAVALIER",
-    "physical_delivery_address": "306 MAIN ST W",
-    "physical_city": "CAVALIER",
-    "physical_state": "ND",
-    "physical_zip": "58220",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18965",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1492,20 +1338,10 @@
     "physical_city": "HAMILTON",
     "physical_state": "ND",
     "physical_zip": "58238",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58239",
-    "locale_name": "LANGDON",
-    "physical_delivery_address": "323 8TH AVE",
-    "physical_city": "LANGDON",
-    "physical_state": "ND",
-    "physical_zip": "58249",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18988",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1518,7 +1354,10 @@
     "physical_city": "HATTON",
     "physical_state": "ND",
     "physical_zip": "58240",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19002",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1531,7 +1370,10 @@
     "physical_city": "CAVALIER",
     "physical_state": "ND",
     "physical_zip": "58220",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18809",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1544,20 +1386,10 @@
     "physical_city": "HOOPLE",
     "physical_state": "ND",
     "physical_zip": "58243",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58244",
-    "locale_name": "LARIMORE",
-    "physical_delivery_address": "208 E FRONT ST",
-    "physical_city": "LARIMORE",
-    "physical_state": "ND",
-    "physical_zip": "58251",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19021",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1570,7 +1402,10 @@
     "physical_city": "LANGDON",
     "physical_state": "ND",
     "physical_zip": "58249",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19067",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1583,20 +1418,10 @@
     "physical_city": "LANKIN",
     "physical_state": "ND",
     "physical_zip": "58250",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58250",
-    "locale_name": "PARK RIVER",
-    "physical_delivery_address": "309 BRIGGS AVE S",
-    "physical_city": "PARK RIVER",
-    "physical_state": "ND",
-    "physical_zip": "58270",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19068",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1609,7 +1434,10 @@
     "physical_city": "LARIMORE",
     "physical_state": "ND",
     "physical_zip": "58251",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19070",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1622,20 +1450,10 @@
     "physical_city": "MCVILLE",
     "physical_state": "ND",
     "physical_zip": "58254",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58255",
-    "locale_name": "LANGDON",
-    "physical_delivery_address": "323 8TH AVE",
-    "physical_city": "LANGDON",
-    "physical_state": "ND",
-    "physical_zip": "58249",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19133",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1648,7 +1466,10 @@
     "physical_city": "MANVEL",
     "physical_state": "ND",
     "physical_zip": "58256",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19110",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1661,20 +1482,10 @@
     "physical_city": "MAYVILLE",
     "physical_state": "ND",
     "physical_zip": "58257",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58258",
-    "locale_name": "MANVEL",
-    "physical_delivery_address": "502 OLDHAM AVE",
-    "physical_city": "MANVEL",
-    "physical_state": "ND",
-    "physical_zip": "58256",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19121",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1687,7 +1498,10 @@
     "physical_city": "MEKINOCK",
     "physical_state": "ND",
     "physical_zip": "58258",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19136",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1700,20 +1514,10 @@
     "physical_city": "MICHIGAN",
     "physical_state": "ND",
     "physical_zip": "58259",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58260",
-    "locale_name": "OSNABROCK",
-    "physical_delivery_address": "326 BROADWAY",
-    "physical_city": "OSNABROCK",
-    "physical_state": "ND",
-    "physical_zip": "58269",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19142",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1726,7 +1530,10 @@
     "physical_city": "MINTO",
     "physical_state": "ND",
     "physical_zip": "58261",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19153",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1739,7 +1546,10 @@
     "physical_city": "MOUNTAIN",
     "physical_state": "ND",
     "physical_zip": "58262",
-    "physical_zip4": "7718"
+    "physical_zip4": "7718",
+    "zip_class_code": null,
+    "locale_key": "W19161",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1752,7 +1562,10 @@
     "physical_city": "NECHE",
     "physical_state": "ND",
     "physical_zip": "58265",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19168",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1765,7 +1578,10 @@
     "physical_city": "NIAGARA",
     "physical_state": "ND",
     "physical_zip": "58266",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19181",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1778,7 +1594,10 @@
     "physical_city": "PETERSBURG",
     "physical_state": "ND",
     "physical_zip": "58272",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19213",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1791,7 +1610,10 @@
     "physical_city": "NORTHWOOD",
     "physical_state": "ND",
     "physical_zip": "58267",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19190",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1804,7 +1626,10 @@
     "physical_city": "OSNABROCK",
     "physical_state": "ND",
     "physical_zip": "58269",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19201",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1817,7 +1642,10 @@
     "physical_city": "PARK RIVER",
     "physical_state": "ND",
     "physical_zip": "58270",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19207",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1830,7 +1658,10 @@
     "physical_city": "PEMBINA",
     "physical_state": "ND",
     "physical_zip": "58271",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19210",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1843,20 +1674,10 @@
     "physical_city": "PETERSBURG",
     "physical_state": "ND",
     "physical_zip": "58272",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58273",
-    "locale_name": "FORDVILLE",
-    "physical_delivery_address": "104 MAIN ST N",
-    "physical_city": "FORDVILLE",
-    "physical_state": "ND",
-    "physical_zip": "58231",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19213",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1869,7 +1690,10 @@
     "physical_city": "PISEK",
     "physical_state": "ND",
     "physical_zip": "58273",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19219",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1882,7 +1706,10 @@
     "physical_city": "PORTLAND",
     "physical_state": "ND",
     "physical_zip": "58274",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19224",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1895,7 +1722,10 @@
     "physical_city": "REYNOLDS",
     "physical_state": "ND",
     "physical_zip": "58275",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19241",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1908,20 +1738,10 @@
     "physical_city": "SAINT THOMAS",
     "physical_state": "ND",
     "physical_zip": "58276",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58277",
-    "locale_name": "NORTHWOOD",
-    "physical_delivery_address": "4 N RAYMOND ST",
-    "physical_city": "NORTHWOOD",
-    "physical_state": "ND",
-    "physical_zip": "58267",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19268",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1934,7 +1754,10 @@
     "physical_city": "SHARON",
     "physical_state": "ND",
     "physical_zip": "58277",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19283",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1947,7 +1770,10 @@
     "physical_city": "THOMPSON",
     "physical_state": "ND",
     "physical_zip": "58278",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19355",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1960,7 +1786,10 @@
     "physical_city": "LANGDON",
     "physical_state": "ND",
     "physical_zip": "58249",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19067",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1973,7 +1802,10 @@
     "physical_city": "WALHALLA",
     "physical_state": "ND",
     "physical_zip": "58282",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19385",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -1986,46 +1818,10 @@
     "physical_city": "DEVILS LAKE",
     "physical_state": "ND",
     "physical_zip": "58301",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58310",
-    "locale_name": "BISBEE",
-    "physical_delivery_address": "206 MAIN ST",
-    "physical_city": "BISBEE",
-    "physical_state": "ND",
-    "physical_zip": "58317",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58311",
-    "locale_name": "MUNICH",
-    "physical_delivery_address": "410 MAIN ST",
-    "physical_city": "MUNICH",
-    "physical_state": "ND",
-    "physical_zip": "58352",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58313",
-    "locale_name": "RUGBY",
-    "physical_delivery_address": "205 2ND ST SE",
-    "physical_city": "RUGBY",
-    "physical_state": "ND",
-    "physical_zip": "58368",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18855",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2038,7 +1834,10 @@
     "physical_city": "BELCOURT",
     "physical_state": "ND",
     "physical_zip": "58316",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18749",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2051,7 +1850,10 @@
     "physical_city": "BISBEE",
     "physical_state": "ND",
     "physical_zip": "58317",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18761",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2064,7 +1866,10 @@
     "physical_city": "BOTTINEAU",
     "physical_state": "ND",
     "physical_zip": "58318",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18772",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2077,33 +1882,10 @@
     "physical_city": "BROCKET",
     "physical_state": "ND",
     "physical_zip": "58321",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58321",
-    "locale_name": "LAKOTA",
-    "physical_delivery_address": "209 MAIN ST N",
-    "physical_city": "LAKOTA",
-    "physical_state": "ND",
-    "physical_zip": "58344",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58323",
-    "locale_name": "MUNICH",
-    "physical_delivery_address": "410 MAIN ST",
-    "physical_city": "MUNICH",
-    "physical_state": "ND",
-    "physical_zip": "58352",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18785",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2116,7 +1898,10 @@
     "physical_city": "CANDO",
     "physical_state": "ND",
     "physical_zip": "58324",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18799",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2129,7 +1914,10 @@
     "physical_city": "DEVILS LAKE",
     "physical_state": "ND",
     "physical_zip": "58301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18855",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2142,7 +1930,10 @@
     "physical_city": "DEVILS LAKE",
     "physical_state": "ND",
     "physical_zip": "58301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18855",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2155,7 +1946,10 @@
     "physical_city": "DUNSEITH",
     "physical_state": "ND",
     "physical_zip": "58329",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18872",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2168,20 +1962,10 @@
     "physical_city": "EDMORE",
     "physical_state": "ND",
     "physical_zip": "58330",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58331",
-    "locale_name": "CANDO",
-    "physical_delivery_address": "403 5TH AVE",
-    "physical_city": "CANDO",
-    "physical_state": "ND",
-    "physical_zip": "58324",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18880",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2194,7 +1978,10 @@
     "physical_city": "ESMOND",
     "physical_state": "ND",
     "physical_zip": "58332",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18895",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2207,7 +1994,10 @@
     "physical_city": "MADDOCK",
     "physical_state": "ND",
     "physical_zip": "58348",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19099",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2220,20 +2010,10 @@
     "physical_city": "FORT TOTTEN",
     "physical_state": "ND",
     "physical_zip": "58335",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58338",
-    "locale_name": "EDMORE",
-    "physical_delivery_address": "315 S MAIN ST",
-    "physical_city": "EDMORE",
-    "physical_state": "ND",
-    "physical_zip": "58330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W18922",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2246,20 +2026,10 @@
     "physical_city": "HAMPDEN",
     "physical_state": "ND",
     "physical_zip": "58338",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58339",
-    "locale_name": "ROCKLAKE",
-    "physical_delivery_address": "44 MAIN ST",
-    "physical_city": "ROCKLAKE",
-    "physical_state": "ND",
-    "physical_zip": "58365",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18990",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2272,20 +2042,10 @@
     "physical_city": "HARVEY",
     "physical_state": "ND",
     "physical_zip": "58341",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58343",
-    "locale_name": "ROLETTE",
-    "physical_delivery_address": "201 MAIN ST",
-    "physical_city": "ROLETTE",
-    "physical_state": "ND",
-    "physical_zip": "58366",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18999",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2298,7 +2058,10 @@
     "physical_city": "LAKOTA",
     "physical_state": "ND",
     "physical_zip": "58344",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19064",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2311,7 +2074,10 @@
     "physical_city": "EDMORE",
     "physical_state": "ND",
     "physical_zip": "58330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18880",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2324,7 +2090,10 @@
     "physical_city": "LAWTON",
     "physical_state": "ND",
     "physical_zip": "58345",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19073",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2337,7 +2106,10 @@
     "physical_city": "LEEDS",
     "physical_state": "ND",
     "physical_zip": "58346",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19075",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2350,7 +2122,10 @@
     "physical_city": "MADDOCK",
     "physical_state": "ND",
     "physical_zip": "58348",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19099",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2363,7 +2138,10 @@
     "physical_city": "MINNEWAUKAN",
     "physical_state": "ND",
     "physical_zip": "58351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19146",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2376,7 +2154,10 @@
     "physical_city": "MUNICH",
     "physical_state": "ND",
     "physical_zip": "58352",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19162",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2389,20 +2170,10 @@
     "physical_city": "ROCKLAKE",
     "physical_state": "ND",
     "physical_zip": "58365",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58355",
-    "locale_name": "EDMORE",
-    "physical_delivery_address": "315 S MAIN ST",
-    "physical_city": "EDMORE",
-    "physical_state": "ND",
-    "physical_zip": "58330",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19249",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2415,7 +2186,10 @@
     "physical_city": "NEW ROCKFORD",
     "physical_state": "ND",
     "physical_zip": "58356",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19174",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2428,7 +2202,10 @@
     "physical_city": "MINNEWAUKAN",
     "physical_state": "ND",
     "physical_zip": "58351",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19146",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2441,7 +2218,10 @@
     "physical_city": "OBERON",
     "physical_state": "ND",
     "physical_zip": "58357",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19195",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2454,7 +2234,10 @@
     "physical_city": "PEKIN",
     "physical_state": "ND",
     "physical_zip": "58361",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19209",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2467,7 +2250,10 @@
     "physical_city": "TOLNA",
     "physical_state": "ND",
     "physical_zip": "58380",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19361",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2480,20 +2266,10 @@
     "physical_city": "DEVILS LAKE",
     "physical_state": "ND",
     "physical_zip": "58301",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58363",
-    "locale_name": "ROCKLAKE",
-    "physical_delivery_address": "44 MAIN ST",
-    "physical_city": "ROCKLAKE",
-    "physical_state": "ND",
-    "physical_zip": "58365",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18855",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2506,7 +2282,10 @@
     "physical_city": "ROCKLAKE",
     "physical_state": "ND",
     "physical_zip": "58365",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19249",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2519,7 +2298,10 @@
     "physical_city": "ROLETTE",
     "physical_state": "ND",
     "physical_zip": "58366",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19251",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2532,7 +2314,10 @@
     "physical_city": "ROLLA",
     "physical_state": "ND",
     "physical_zip": "58367",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19252",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2545,7 +2330,10 @@
     "physical_city": "RUGBY",
     "physical_state": "ND",
     "physical_zip": "58368",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19258",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2558,7 +2346,10 @@
     "physical_city": "ROLLA",
     "physical_state": "ND",
     "physical_zip": "58367",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19252",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2571,7 +2362,10 @@
     "physical_city": "SAINT JOHN",
     "physical_state": "ND",
     "physical_zip": "58369",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19266",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2584,20 +2378,10 @@
     "physical_city": "FORT TOTTEN",
     "physical_state": "ND",
     "physical_zip": "58335",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58370",
-    "locale_name": "SHEYENNE",
-    "physical_delivery_address": "106 RICHTER AVE",
-    "physical_city": "SHEYENNE",
-    "physical_state": "ND",
-    "physical_zip": "58374",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18922",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2610,7 +2394,10 @@
     "physical_city": "ROCKLAKE",
     "physical_state": "ND",
     "physical_zip": "58365",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19249",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2623,7 +2410,10 @@
     "physical_city": "SARLES",
     "physical_state": "ND",
     "physical_zip": "58372",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19273",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2636,7 +2426,10 @@
     "physical_city": "SHEYENNE",
     "physical_state": "ND",
     "physical_zip": "58374",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19287",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2649,7 +2442,10 @@
     "physical_city": "STARKWEATHER",
     "physical_state": "ND",
     "physical_zip": "58377",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19339",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2662,7 +2458,10 @@
     "physical_city": "TOKIO",
     "physical_state": "ND",
     "physical_zip": "58379",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W19359",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2675,7 +2474,10 @@
     "physical_city": "TOLNA",
     "physical_state": "ND",
     "physical_zip": "58380",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19361",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2688,20 +2490,10 @@
     "physical_city": "TOLNA",
     "physical_state": "ND",
     "physical_zip": "58380",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58382",
-    "locale_name": "DEVILS LAKE",
-    "physical_delivery_address": "502 3RD ST NE",
-    "physical_city": "DEVILS LAKE",
-    "physical_state": "ND",
-    "physical_zip": "58301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19361",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2714,7 +2506,10 @@
     "physical_city": "WILLOW CITY",
     "physical_state": "ND",
     "physical_zip": "58384",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19411",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2727,7 +2522,10 @@
     "physical_city": "ROLETTE",
     "physical_state": "ND",
     "physical_zip": "58366",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19251",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2740,20 +2538,10 @@
     "physical_city": "WOLFORD",
     "physical_state": "ND",
     "physical_zip": "58385",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58386",
-    "locale_name": "LEEDS",
-    "physical_delivery_address": "150 MAIN ST W",
-    "physical_city": "LEEDS",
-    "physical_state": "ND",
-    "physical_zip": "58346",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19417",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2766,7 +2554,10 @@
     "physical_city": "JAMESTOWN",
     "physical_state": "ND",
     "physical_zip": "58401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19029",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2779,7 +2570,10 @@
     "physical_city": "JAMESTOWN",
     "physical_state": "ND",
     "physical_zip": "58401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W19029",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2792,20 +2586,10 @@
     "physical_city": "ASHLEY",
     "physical_state": "ND",
     "physical_zip": "58413",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58415",
-    "locale_name": "LAMOURE",
-    "physical_delivery_address": "23 CENTER AVE E",
-    "physical_city": "LAMOURE",
-    "physical_state": "ND",
-    "physical_zip": "58458",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18732",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2818,7 +2602,10 @@
     "physical_city": "BINFORD",
     "physical_state": "ND",
     "physical_zip": "58416",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18759",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2831,7 +2618,10 @@
     "physical_city": "BOWDON",
     "physical_state": "ND",
     "physical_zip": "58418",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18774",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2844,20 +2634,10 @@
     "physical_city": "BUCHANAN",
     "physical_state": "ND",
     "physical_zip": "58420",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58420",
-    "locale_name": "JAMESTOWN",
-    "physical_delivery_address": "212 2ND ST SW",
-    "physical_city": "JAMESTOWN",
-    "physical_state": "ND",
-    "physical_zip": "58401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18786",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2870,7 +2650,10 @@
     "physical_city": "CARRINGTON",
     "physical_state": "ND",
     "physical_zip": "58421",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18804",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2883,20 +2666,10 @@
     "physical_city": "SYKESTON",
     "physical_state": "ND",
     "physical_zip": "58486",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58423",
-    "locale_name": "BOWDON",
-    "physical_delivery_address": "212 WARRINGTON AVE",
-    "physical_city": "BOWDON",
-    "physical_state": "ND",
-    "physical_zip": "58418",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19349",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2909,7 +2682,10 @@
     "physical_city": "CLEVELAND",
     "physical_state": "ND",
     "physical_zip": "58424",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18819",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2922,7 +2698,10 @@
     "physical_city": "MEDINA",
     "physical_state": "ND",
     "physical_zip": "58467",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19134",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2935,20 +2714,10 @@
     "physical_city": "COOPERSTOWN",
     "physical_state": "ND",
     "physical_zip": "58425",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58426",
-    "locale_name": "WIMBLEDON",
-    "physical_delivery_address": "118 3RD AVE",
-    "physical_city": "WIMBLEDON",
-    "physical_state": "ND",
-    "physical_zip": "58492",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18831",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2961,7 +2730,10 @@
     "physical_city": "DAWSON",
     "physical_state": "ND",
     "physical_zip": "58428",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18847",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -2974,46 +2746,10 @@
     "physical_city": "STEELE",
     "physical_state": "ND",
     "physical_zip": "58482",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58429",
-    "locale_name": "WIMBLEDON",
-    "physical_delivery_address": "118 3RD AVE",
-    "physical_city": "WIMBLEDON",
-    "physical_state": "ND",
-    "physical_zip": "58492",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58430",
-    "locale_name": "GOODRICH",
-    "physical_delivery_address": "204 CLARK AVE",
-    "physical_city": "GOODRICH",
-    "physical_state": "ND",
-    "physical_zip": "58444",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58431",
-    "locale_name": "LAMOURE",
-    "physical_delivery_address": "23 CENTER AVE E",
-    "physical_city": "LAMOURE",
-    "physical_state": "ND",
-    "physical_zip": "58458",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19340",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3026,7 +2762,10 @@
     "physical_city": "EDGELEY",
     "physical_state": "ND",
     "physical_zip": "58433",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18878",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3039,7 +2778,10 @@
     "physical_city": "ELLENDALE",
     "physical_state": "ND",
     "physical_zip": "58436",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18885",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3052,7 +2794,10 @@
     "physical_city": "FESSENDEN",
     "physical_state": "ND",
     "physical_zip": "58438",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18905",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3065,7 +2810,10 @@
     "physical_city": "ELLENDALE",
     "physical_state": "ND",
     "physical_zip": "58436",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18885",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3078,7 +2826,10 @@
     "physical_city": "FORBES",
     "physical_state": "ND",
     "physical_zip": "58439",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18915",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3091,7 +2842,10 @@
     "physical_city": "KULM",
     "physical_state": "ND",
     "physical_zip": "58456",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19058",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3104,20 +2858,10 @@
     "physical_city": "FULLERTON",
     "physical_state": "ND",
     "physical_zip": "58441",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58441",
-    "locale_name": "OAKES",
-    "physical_delivery_address": "611 MAIN AVE",
-    "physical_city": "OAKES",
-    "physical_state": "ND",
-    "physical_zip": "58474",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18937",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3130,7 +2874,10 @@
     "physical_city": "GACKLE",
     "physical_state": "ND",
     "physical_zip": "58442",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18938",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3143,7 +2890,10 @@
     "physical_city": "GLENFIELD",
     "physical_state": "ND",
     "physical_zip": "58443",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18955",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3156,20 +2906,10 @@
     "physical_city": "GOODRICH",
     "physical_state": "ND",
     "physical_zip": "58444",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58445",
-    "locale_name": "GLENFIELD",
-    "physical_delivery_address": "161 GLENFIELD ST",
-    "physical_city": "GLENFIELD",
-    "physical_state": "ND",
-    "physical_zip": "58443",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18961",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3182,7 +2922,10 @@
     "physical_city": "GRACE CITY",
     "physical_state": "ND",
     "physical_zip": "58445",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18963",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3195,7 +2938,10 @@
     "physical_city": "COOPERSTOWN",
     "physical_state": "ND",
     "physical_zip": "58425",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18831",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3208,20 +2954,10 @@
     "physical_city": "HANNAFORD",
     "physical_state": "ND",
     "physical_zip": "58448",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58451",
-    "locale_name": "BOWDON",
-    "physical_delivery_address": "212 WARRINGTON AVE",
-    "physical_city": "BOWDON",
-    "physical_state": "ND",
-    "physical_zip": "58418",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18993",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3234,20 +2970,10 @@
     "physical_city": "HURDSFIELD",
     "physical_state": "ND",
     "physical_zip": "58451",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58452",
-    "locale_name": "COOPERSTOWN",
-    "physical_delivery_address": "608 8TH ST NW",
-    "physical_city": "COOPERSTOWN",
-    "physical_state": "ND",
-    "physical_zip": "58425",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19026",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3260,20 +2986,10 @@
     "physical_city": "JUD",
     "physical_state": "ND",
     "physical_zip": "58454",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58455",
-    "locale_name": "GLENFIELD",
-    "physical_delivery_address": "161 GLENFIELD ST",
-    "physical_city": "GLENFIELD",
-    "physical_state": "ND",
-    "physical_zip": "58443",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19038",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3286,7 +3002,10 @@
     "physical_city": "KENSAL",
     "physical_state": "ND",
     "physical_zip": "58455",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19048",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3299,7 +3018,10 @@
     "physical_city": "KULM",
     "physical_state": "ND",
     "physical_zip": "58456",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19058",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3312,7 +3034,10 @@
     "physical_city": "LAMOURE",
     "physical_state": "ND",
     "physical_zip": "58458",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19065",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3325,20 +3050,10 @@
     "physical_city": "LEHR",
     "physical_state": "ND",
     "physical_zip": "58460",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58460",
-    "locale_name": "WISHEK",
-    "physical_delivery_address": "14 N 5TH ST",
-    "physical_city": "WISHEK",
-    "physical_state": "ND",
-    "physical_zip": "58495",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19078",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3351,7 +3066,10 @@
     "physical_city": "LITCHVILLE",
     "physical_state": "ND",
     "physical_zip": "58461",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19088",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3364,7 +3082,10 @@
     "physical_city": "MCCLUSKY",
     "physical_state": "ND",
     "physical_zip": "58463",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19128",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3377,7 +3098,10 @@
     "physical_city": "BINFORD",
     "physical_state": "ND",
     "physical_zip": "58416",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18759",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3390,7 +3114,10 @@
     "physical_city": "MCHENRY",
     "physical_state": "ND",
     "physical_zip": "58464",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19130",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3403,7 +3130,10 @@
     "physical_city": "MARION",
     "physical_state": "ND",
     "physical_zip": "58466",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19114",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3416,7 +3146,10 @@
     "physical_city": "MEDINA",
     "physical_state": "ND",
     "physical_zip": "58467",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19134",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3429,20 +3162,10 @@
     "physical_city": "MONTPELIER",
     "physical_state": "ND",
     "physical_zip": "58472",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58472",
-    "locale_name": "YPSILANTI",
-    "physical_delivery_address": "218 1ST ST",
-    "physical_city": "YPSILANTI",
-    "physical_state": "ND",
-    "physical_zip": "58497",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19157",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3455,7 +3178,10 @@
     "physical_city": "OAKES",
     "physical_state": "ND",
     "physical_zip": "58474",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19194",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3468,7 +3194,10 @@
     "physical_city": "PETTIBONE",
     "physical_state": "ND",
     "physical_zip": "58475",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19214",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3481,7 +3210,10 @@
     "physical_city": "JAMESTOWN",
     "physical_state": "ND",
     "physical_zip": "58401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19029",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3494,7 +3226,10 @@
     "physical_city": "WING",
     "physical_state": "ND",
     "physical_zip": "58494",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19415",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3507,7 +3242,10 @@
     "physical_city": "ROBINSON",
     "physical_state": "ND",
     "physical_zip": "58478",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19247",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3520,20 +3258,10 @@
     "physical_city": "ROGERS",
     "physical_state": "ND",
     "physical_zip": "58479",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58479",
-    "locale_name": "SANBORN",
-    "physical_delivery_address": "405 4TH ST",
-    "physical_city": "SANBORN",
-    "physical_state": "ND",
-    "physical_zip": "58480",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B702",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -3546,7 +3274,10 @@
     "physical_city": "SANBORN",
     "physical_state": "ND",
     "physical_zip": "58480",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19270",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3559,7 +3290,10 @@
     "physical_city": "JAMESTOWN",
     "physical_state": "ND",
     "physical_zip": "58401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19029",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3572,7 +3306,10 @@
     "physical_city": "SPIRITWOOD",
     "physical_state": "ND",
     "physical_zip": "58481",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19298",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3585,7 +3322,10 @@
     "physical_city": "STEELE",
     "physical_state": "ND",
     "physical_zip": "58482",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19340",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3598,20 +3338,10 @@
     "physical_city": "STREETER",
     "physical_state": "ND",
     "physical_zip": "58483",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58484",
-    "locale_name": "COOPERSTOWN",
-    "physical_delivery_address": "608 8TH ST NW",
-    "physical_city": "COOPERSTOWN",
-    "physical_state": "ND",
-    "physical_zip": "58425",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19345",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3624,7 +3354,10 @@
     "physical_city": "SYKESTON",
     "physical_state": "ND",
     "physical_zip": "58486",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19349",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3637,7 +3370,10 @@
     "physical_city": "TAPPEN",
     "physical_state": "ND",
     "physical_zip": "58487",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19351",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3650,33 +3386,10 @@
     "physical_city": "TUTTLE",
     "physical_state": "ND",
     "physical_zip": "58488",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58488",
-    "locale_name": "WING",
-    "physical_delivery_address": "208 MAIN ST",
-    "physical_city": "WING",
-    "physical_state": "ND",
-    "physical_zip": "58494",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58490",
-    "locale_name": "LAMOURE",
-    "physical_delivery_address": "23 CENTER AVE E",
-    "physical_city": "LAMOURE",
-    "physical_state": "ND",
-    "physical_zip": "58458",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19368",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3689,7 +3402,10 @@
     "physical_city": "VERONA",
     "physical_state": "ND",
     "physical_zip": "58490",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19378",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3702,7 +3418,10 @@
     "physical_city": "WIMBLEDON",
     "physical_state": "ND",
     "physical_zip": "58492",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19413",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3715,7 +3434,10 @@
     "physical_city": "WING",
     "physical_state": "ND",
     "physical_zip": "58494",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19415",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3728,7 +3450,10 @@
     "physical_city": "WISHEK",
     "physical_state": "ND",
     "physical_zip": "58495",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19416",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3741,7 +3466,10 @@
     "physical_city": "MEDINA",
     "physical_state": "ND",
     "physical_zip": "58467",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19134",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3754,7 +3482,10 @@
     "physical_city": "WOODWORTH",
     "physical_state": "ND",
     "physical_zip": "58496",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19421",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3767,7 +3498,10 @@
     "physical_city": "YPSILANTI",
     "physical_state": "ND",
     "physical_zip": "58497",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19424",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3780,7 +3514,10 @@
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "021486",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -3793,7 +3530,10 @@
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W18864",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -3806,7 +3546,10 @@
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "021486",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -3819,7 +3562,10 @@
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9702"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "021486",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -3832,7 +3578,10 @@
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W18864",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -3845,7 +3594,10 @@
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W18864",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -3858,7 +3610,10 @@
     "physical_city": "ALMONT",
     "physical_state": "ND",
     "physical_zip": "58520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18715",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3871,7 +3626,10 @@
     "physical_city": "NEW SALEM",
     "physical_state": "ND",
     "physical_zip": "58563",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19176",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3884,7 +3642,10 @@
     "physical_city": "BALDWIN",
     "physical_state": "ND",
     "physical_zip": "58521",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18738",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3897,20 +3658,10 @@
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9702"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58521",
-    "locale_name": "WILTON",
-    "physical_delivery_address": "25 DAKOTA AVE",
-    "physical_city": "WILTON",
-    "physical_state": "ND",
-    "physical_zip": "58579",
-    "physical_zip4": "9998"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "021486",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -3923,20 +3674,10 @@
     "physical_city": "BEULAH",
     "physical_state": "ND",
     "physical_zip": "58523",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58524",
-    "locale_name": "HAZELTON",
-    "physical_delivery_address": "345 MAIN ST",
-    "physical_city": "HAZELTON",
-    "physical_state": "ND",
-    "physical_zip": "58544",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18758",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3949,7 +3690,10 @@
     "physical_city": "CANNON BALL",
     "physical_state": "ND",
     "physical_zip": "58528",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18800",
+    "locale_type": "C"
   },
   {
     "area_name": "CENTRAL",
@@ -3962,7 +3706,10 @@
     "physical_city": "FORT YATES",
     "physical_state": "ND",
     "physical_zip": "58538",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18923",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3975,7 +3722,10 @@
     "physical_city": "CARSON",
     "physical_state": "ND",
     "physical_zip": "58529",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18805",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -3988,7 +3738,10 @@
     "physical_city": "CENTER",
     "physical_state": "ND",
     "physical_zip": "58530",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18811",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4001,7 +3754,10 @@
     "physical_city": "COLEHARBOR",
     "physical_state": "ND",
     "physical_zip": "58531",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18824",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4014,7 +3770,10 @@
     "physical_city": "UNDERWOOD",
     "physical_state": "ND",
     "physical_zip": "58576",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19370",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4027,7 +3786,10 @@
     "physical_city": "STERLING",
     "physical_state": "ND",
     "physical_zip": "58572",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19341",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4040,7 +3802,10 @@
     "physical_city": "ELGIN",
     "physical_state": "ND",
     "physical_zip": "58533",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18884",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4053,7 +3818,10 @@
     "physical_city": "FLASHER",
     "physical_state": "ND",
     "physical_zip": "58535",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18911",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4066,7 +3834,10 @@
     "physical_city": "FORT YATES",
     "physical_state": "ND",
     "physical_zip": "58538",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18923",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4079,7 +3850,10 @@
     "physical_city": "GARRISON",
     "physical_state": "ND",
     "physical_zip": "58540",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18944",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4092,7 +3866,10 @@
     "physical_city": "BEULAH",
     "physical_state": "ND",
     "physical_zip": "58523",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18758",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4105,7 +3882,10 @@
     "physical_city": "GOLDEN VALLEY",
     "physical_state": "ND",
     "physical_zip": "58541",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18957",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4118,20 +3898,10 @@
     "physical_city": "HAGUE",
     "physical_state": "ND",
     "physical_zip": "58542",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58542",
-    "locale_name": "ZEELAND",
-    "physical_delivery_address": "108 S MAIN",
-    "physical_city": "ZEELAND",
-    "physical_state": "ND",
-    "physical_zip": "58581",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18982",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4144,7 +3914,10 @@
     "physical_city": "HAZELTON",
     "physical_state": "ND",
     "physical_zip": "58544",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19007",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4157,7 +3930,10 @@
     "physical_city": "HAZEN",
     "physical_state": "ND",
     "physical_zip": "58545",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19008",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4170,7 +3946,10 @@
     "physical_city": "NAPOLEON",
     "physical_state": "ND",
     "physical_zip": "58561",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19166",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4183,7 +3962,10 @@
     "physical_city": "LINTON",
     "physical_state": "ND",
     "physical_zip": "58552",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19085",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4196,7 +3978,10 @@
     "physical_city": "MANDAN",
     "physical_state": "ND",
     "physical_zip": "58554",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19103",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4209,20 +3994,10 @@
     "physical_city": "BISMARCK",
     "physical_state": "ND",
     "physical_zip": "58504",
-    "physical_zip4": "9702"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58559",
-    "locale_name": "MCCLUSKY",
-    "physical_delivery_address": "220 MAIN ST S",
-    "physical_city": "MCCLUSKY",
-    "physical_state": "ND",
-    "physical_zip": "58463",
-    "physical_zip4": "9998"
+    "physical_zip4": "9702",
+    "zip_class_code": null,
+    "locale_key": "021486",
+    "locale_type": "4"
   },
   {
     "area_name": "CENTRAL",
@@ -4235,7 +4010,10 @@
     "physical_city": "MERCER",
     "physical_state": "ND",
     "physical_zip": "58559",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19139",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4248,7 +4026,10 @@
     "physical_city": "HAZELTON",
     "physical_state": "ND",
     "physical_zip": "58544",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19007",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4261,7 +4042,10 @@
     "physical_city": "MOFFIT",
     "physical_state": "ND",
     "physical_zip": "58560",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19154",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4274,7 +4058,10 @@
     "physical_city": "NAPOLEON",
     "physical_state": "ND",
     "physical_zip": "58561",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19166",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4287,7 +4074,10 @@
     "physical_city": "NEW LEIPZIG",
     "physical_state": "ND",
     "physical_zip": "58562",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19173",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4300,20 +4090,10 @@
     "physical_city": "NEW SALEM",
     "physical_state": "ND",
     "physical_zip": "58563",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58564",
-    "locale_name": "FLASHER",
-    "physical_delivery_address": "107 N MAIN ST",
-    "physical_city": "FLASHER",
-    "physical_state": "ND",
-    "physical_zip": "58535",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19176",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4326,46 +4106,10 @@
     "physical_city": "RIVERDALE",
     "physical_state": "ND",
     "physical_zip": "58565",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58565",
-    "locale_name": "UNDERWOOD",
-    "physical_delivery_address": "301 1ST ST",
-    "physical_city": "UNDERWOOD",
-    "physical_state": "ND",
-    "physical_zip": "58576",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58566",
-    "locale_name": "MANDAN",
-    "physical_delivery_address": "300 COLLINS AVE",
-    "physical_city": "MANDAN",
-    "physical_state": "ND",
-    "physical_zip": "58554",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58569",
-    "locale_name": "FLASHER",
-    "physical_delivery_address": "107 N MAIN ST",
-    "physical_city": "FLASHER",
-    "physical_state": "ND",
-    "physical_zip": "58535",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19245",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4378,7 +4122,10 @@
     "physical_city": "SOLEN",
     "physical_state": "ND",
     "physical_zip": "58570",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19292",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4391,7 +4138,10 @@
     "physical_city": "STANTON",
     "physical_state": "ND",
     "physical_zip": "58571",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19338",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4404,7 +4154,10 @@
     "physical_city": "STERLING",
     "physical_state": "ND",
     "physical_zip": "58572",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19341",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4417,7 +4170,10 @@
     "physical_city": "STRASBURG",
     "physical_state": "ND",
     "physical_zip": "58573",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19343",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4430,7 +4186,10 @@
     "physical_city": "TURTLE LAKE",
     "physical_state": "ND",
     "physical_zip": "58575",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19366",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4443,7 +4202,10 @@
     "physical_city": "UNDERWOOD",
     "physical_state": "ND",
     "physical_zip": "58576",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19370",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4456,7 +4218,10 @@
     "physical_city": "WASHBURN",
     "physical_state": "ND",
     "physical_zip": "58577",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19391",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4469,7 +4234,10 @@
     "physical_city": "WILTON",
     "physical_state": "ND",
     "physical_zip": "58579",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19412",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4482,7 +4250,10 @@
     "physical_city": "BEULAH",
     "physical_state": "ND",
     "physical_zip": "58523",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18758",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4495,7 +4266,10 @@
     "physical_city": "ZAP",
     "physical_state": "ND",
     "physical_zip": "58580",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19426",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4508,7 +4282,10 @@
     "physical_city": "ZEELAND",
     "physical_state": "ND",
     "physical_zip": "58581",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19427",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4521,7 +4298,10 @@
     "physical_city": "DICKINSON",
     "physical_state": "ND",
     "physical_zip": "58601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18859",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4534,20 +4314,10 @@
     "physical_city": "DICKINSON",
     "physical_state": "ND",
     "physical_zip": "58601",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58620",
-    "locale_name": "BOWMAN",
-    "physical_delivery_address": "17 1ST AVE SE",
-    "physical_city": "BOWMAN",
-    "physical_state": "ND",
-    "physical_zip": "58623",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W18859",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4560,7 +4330,10 @@
     "physical_city": "BEACH",
     "physical_state": "ND",
     "physical_zip": "58621",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18748",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4573,7 +4346,10 @@
     "physical_city": "BELFIELD",
     "physical_state": "ND",
     "physical_zip": "58622",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18751",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4586,7 +4362,10 @@
     "physical_city": "BOWMAN",
     "physical_state": "ND",
     "physical_zip": "58623",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18776",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4599,7 +4378,10 @@
     "physical_city": "HALLIDAY",
     "physical_state": "ND",
     "physical_zip": "58636",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18984",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4612,7 +4394,10 @@
     "physical_city": "KILLDEER",
     "physical_state": "ND",
     "physical_zip": "58640",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19050",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4625,7 +4410,10 @@
     "physical_city": "BELFIELD",
     "physical_state": "ND",
     "physical_zip": "58622",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18751",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4638,7 +4426,10 @@
     "physical_city": "GLADSTONE",
     "physical_state": "ND",
     "physical_zip": "58630",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18951",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4651,20 +4442,10 @@
     "physical_city": "GLEN ULLIN",
     "physical_state": "ND",
     "physical_zip": "58631",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58632",
-    "locale_name": "BEACH",
-    "physical_delivery_address": "177 S CENTRAL AVE",
-    "physical_city": "BEACH",
-    "physical_state": "ND",
-    "physical_zip": "58621",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18953",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4677,7 +4458,10 @@
     "physical_city": "GOLVA",
     "physical_state": "ND",
     "physical_zip": "58632",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18960",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4690,20 +4474,10 @@
     "physical_city": "GRASSY BUTTE",
     "physical_state": "ND",
     "physical_zip": "58634",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58634",
-    "locale_name": "KILLDEER",
-    "physical_delivery_address": "48 CENTRAL AVE S",
-    "physical_city": "KILLDEER",
-    "physical_state": "ND",
-    "physical_zip": "58640",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18974",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4716,7 +4490,10 @@
     "physical_city": "HALLIDAY",
     "physical_state": "ND",
     "physical_zip": "58636",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18984",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4729,7 +4506,10 @@
     "physical_city": "HEBRON",
     "physical_state": "ND",
     "physical_zip": "58638",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19010",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4742,7 +4522,10 @@
     "physical_city": "HETTINGER",
     "physical_state": "ND",
     "physical_zip": "58639",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19016",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4755,20 +4538,10 @@
     "physical_city": "KILLDEER",
     "physical_state": "ND",
     "physical_zip": "58640",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58641",
-    "locale_name": "GLADSTONE",
-    "physical_delivery_address": "114 5TH AVE",
-    "physical_city": "GLADSTONE",
-    "physical_state": "ND",
-    "physical_zip": "58630",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19050",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4781,33 +4554,10 @@
     "physical_city": "DICKINSON",
     "physical_state": "ND",
     "physical_zip": "58601",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58643",
-    "locale_name": "BOWMAN",
-    "physical_delivery_address": "17 1ST AVE SE",
-    "physical_city": "BOWMAN",
-    "physical_state": "ND",
-    "physical_zip": "58623",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58643",
-    "locale_name": "RHAME",
-    "physical_delivery_address": "53 MAIN ST",
-    "physical_city": "RHAME",
-    "physical_state": "ND",
-    "physical_zip": "58651",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18859",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4820,7 +4570,10 @@
     "physical_city": "RICHARDTON",
     "physical_state": "ND",
     "physical_zip": "58652",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19244",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4833,7 +4586,10 @@
     "physical_city": "MEDORA",
     "physical_state": "ND",
     "physical_zip": "58645",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19135",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4846,7 +4602,10 @@
     "physical_city": "MOTT",
     "physical_state": "ND",
     "physical_zip": "58646",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19160",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4859,7 +4618,10 @@
     "physical_city": "NEW ENGLAND",
     "physical_state": "ND",
     "physical_zip": "58647",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19171",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4872,7 +4634,10 @@
     "physical_city": "REEDER",
     "physical_state": "ND",
     "physical_zip": "58649",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19236",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4885,7 +4650,10 @@
     "physical_city": "REGENT",
     "physical_state": "ND",
     "physical_zip": "58650",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19238",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4898,7 +4666,10 @@
     "physical_city": "RHAME",
     "physical_state": "ND",
     "physical_zip": "58651",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19242",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4911,7 +4682,10 @@
     "physical_city": "RICHARDTON",
     "physical_state": "ND",
     "physical_zip": "58652",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19244",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4924,7 +4698,10 @@
     "physical_city": "SCRANTON",
     "physical_state": "ND",
     "physical_zip": "58653",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19277",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4937,7 +4714,10 @@
     "physical_city": "BEACH",
     "physical_state": "ND",
     "physical_zip": "58621",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18748",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4950,7 +4730,10 @@
     "physical_city": "SOUTH HEART",
     "physical_state": "ND",
     "physical_zip": "58655",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19294",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4963,7 +4746,10 @@
     "physical_city": "TAYLOR",
     "physical_state": "ND",
     "physical_zip": "58656",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19352",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4976,7 +4762,10 @@
     "physical_city": "MINOT",
     "physical_state": "ND",
     "physical_zip": "58701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19148",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -4989,7 +4778,10 @@
     "physical_city": "MINOT",
     "physical_state": "ND",
     "physical_zip": "58701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W19148",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5002,7 +4794,10 @@
     "physical_city": "MINOT",
     "physical_state": "ND",
     "physical_zip": "58701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19148",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5015,7 +4810,10 @@
     "physical_city": "MINOT AFB",
     "physical_state": "ND",
     "physical_zip": "58704",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19150",
+    "locale_type": "B"
   },
   {
     "area_name": "CENTRAL",
@@ -5028,7 +4826,10 @@
     "physical_city": "ANAMOOSE",
     "physical_state": "ND",
     "physical_zip": "58710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18720",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5041,20 +4842,10 @@
     "physical_city": "ANTLER",
     "physical_state": "ND",
     "physical_zip": "58711",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58711",
-    "locale_name": "WESTHOPE",
-    "physical_delivery_address": "180 MAIN ST",
-    "physical_city": "WESTHOPE",
-    "physical_state": "ND",
-    "physical_zip": "58793",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18722",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5067,20 +4858,10 @@
     "physical_city": "DRAKE",
     "physical_state": "ND",
     "physical_zip": "58736",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58713",
-    "locale_name": "TOWNER",
-    "physical_delivery_address": "205 MAIN ST S",
-    "physical_city": "TOWNER",
-    "physical_state": "ND",
-    "physical_zip": "58788",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18866",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5093,20 +4874,10 @@
     "physical_city": "BENEDICT",
     "physical_state": "ND",
     "physical_zip": "58716",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58716",
-    "locale_name": "VELVA",
-    "physical_delivery_address": "105 MAIN ST N",
-    "physical_city": "VELVA",
-    "physical_state": "ND",
-    "physical_zip": "58790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18752",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5119,7 +4890,10 @@
     "physical_city": "BERTHOLD",
     "physical_state": "ND",
     "physical_zip": "58718",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18756",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5132,7 +4906,10 @@
     "physical_city": "BOWBELLS",
     "physical_state": "ND",
     "physical_zip": "58721",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18773",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5145,7 +4922,10 @@
     "physical_city": "BURLINGTON",
     "physical_state": "ND",
     "physical_zip": "58722",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18791",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5158,7 +4938,10 @@
     "physical_city": "BUTTE",
     "physical_state": "ND",
     "physical_zip": "58723",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18794",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5171,7 +4954,10 @@
     "physical_city": "CARPIO",
     "physical_state": "ND",
     "physical_zip": "58725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18803",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5184,7 +4970,10 @@
     "physical_city": "COLUMBUS",
     "physical_state": "ND",
     "physical_zip": "58727",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18828",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5197,33 +4986,10 @@
     "physical_city": "CROSBY",
     "physical_state": "ND",
     "physical_zip": "58730",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58731",
-    "locale_name": "MINOT",
-    "physical_delivery_address": "117 5TH AVE SW",
-    "physical_city": "MINOT",
-    "physical_state": "ND",
-    "physical_zip": "58701",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58733",
-    "locale_name": "BURLINGTON",
-    "physical_delivery_address": "129 COLTON AVE",
-    "physical_city": "BURLINGTON",
-    "physical_state": "ND",
-    "physical_zip": "58722",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18840",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5236,7 +5002,10 @@
     "physical_city": "DES LACS",
     "physical_state": "ND",
     "physical_zip": "58733",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18853",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5249,7 +5018,10 @@
     "physical_city": "CARPIO",
     "physical_state": "ND",
     "physical_zip": "58725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18803",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5262,7 +5034,10 @@
     "physical_city": "MAX",
     "physical_state": "ND",
     "physical_zip": "58759",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19119",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5275,20 +5050,10 @@
     "physical_city": "DRAKE",
     "physical_state": "ND",
     "physical_zip": "58736",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58737",
-    "locale_name": "LIGNITE",
-    "physical_delivery_address": "202 MAIN ST",
-    "physical_city": "LIGNITE",
-    "physical_state": "ND",
-    "physical_zip": "58752",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18866",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5301,20 +5066,10 @@
     "physical_city": "GLENBURN",
     "physical_state": "ND",
     "physical_zip": "58740",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58740",
-    "locale_name": "MINOT",
-    "physical_delivery_address": "117 5TH AVE SW",
-    "physical_city": "MINOT",
-    "physical_state": "ND",
-    "physical_zip": "58701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18954",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5327,20 +5082,10 @@
     "physical_city": "GRANVILLE",
     "physical_state": "ND",
     "physical_zip": "58741",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58744",
-    "locale_name": "DRAKE",
-    "physical_delivery_address": "115 MAIN ST",
-    "physical_city": "DRAKE",
-    "physical_state": "ND",
-    "physical_zip": "58736",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18973",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5353,7 +5098,10 @@
     "physical_city": "KARLSRUHE",
     "physical_state": "ND",
     "physical_zip": "58744",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19040",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5366,7 +5114,10 @@
     "physical_city": "KENMARE",
     "physical_state": "ND",
     "physical_zip": "58746",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19047",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5379,20 +5130,10 @@
     "physical_city": "KRAMER",
     "physical_state": "ND",
     "physical_zip": "58748",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58748",
-    "locale_name": "NEWBURG",
-    "physical_delivery_address": "380 MAIN ST",
-    "physical_city": "NEWBURG",
-    "physical_state": "ND",
-    "physical_zip": "58762",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19057",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5405,7 +5146,10 @@
     "physical_city": "LANSFORD",
     "physical_state": "ND",
     "physical_zip": "58750",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19069",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5418,7 +5162,10 @@
     "physical_city": "LIGNITE",
     "physical_state": "ND",
     "physical_zip": "58752",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19083",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5431,7 +5178,10 @@
     "physical_city": "MCGREGOR",
     "physical_state": "ND",
     "physical_zip": "58755",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19129",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5444,7 +5194,10 @@
     "physical_city": "MAKOTI",
     "physical_state": "ND",
     "physical_zip": "58756",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19102",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5457,20 +5210,10 @@
     "physical_city": "MANDAREE",
     "physical_state": "ND",
     "physical_zip": "58757",
-    "physical_zip4": "8018"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58757",
-    "locale_name": "NEW TOWN",
-    "physical_delivery_address": "361 MAIN ST",
-    "physical_city": "NEW TOWN",
-    "physical_state": "ND",
-    "physical_zip": "58763",
-    "physical_zip4": "9998"
+    "physical_zip4": "8018",
+    "zip_class_code": null,
+    "locale_key": "W19104",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5483,7 +5226,10 @@
     "physical_city": "ANAMOOSE",
     "physical_state": "ND",
     "physical_zip": "58710",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18720",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5496,20 +5242,10 @@
     "physical_city": "MAX",
     "physical_state": "ND",
     "physical_zip": "58759",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58760",
-    "locale_name": "LANSFORD",
-    "physical_delivery_address": "706 MAIN ST",
-    "physical_city": "LANSFORD",
-    "physical_state": "ND",
-    "physical_zip": "58750",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19119",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5522,7 +5258,10 @@
     "physical_city": "MAXBASS",
     "physical_state": "ND",
     "physical_zip": "58760",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19120",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5535,7 +5274,10 @@
     "physical_city": "MOHALL",
     "physical_state": "ND",
     "physical_zip": "58761",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19155",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5548,7 +5290,10 @@
     "physical_city": "NEWBURG",
     "physical_state": "ND",
     "physical_zip": "58762",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19179",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5561,7 +5306,10 @@
     "physical_city": "NEW TOWN",
     "physical_state": "ND",
     "physical_zip": "58763",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19177",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5574,33 +5322,10 @@
     "physical_city": "NOONAN",
     "physical_state": "ND",
     "physical_zip": "58765",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58768",
-    "locale_name": "MINOT",
-    "physical_delivery_address": "117 5TH AVE SW",
-    "physical_city": "MINOT",
-    "physical_state": "ND",
-    "physical_zip": "58701",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58769",
-    "locale_name": "STANLEY",
-    "physical_delivery_address": "902 JARARD ST SE",
-    "physical_city": "STANLEY",
-    "physical_state": "ND",
-    "physical_zip": "58784",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19184",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5613,7 +5338,10 @@
     "physical_city": "PARSHALL",
     "physical_state": "ND",
     "physical_zip": "58770",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19208",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5626,7 +5354,10 @@
     "physical_city": "PLAZA",
     "physical_state": "ND",
     "physical_zip": "58771",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19220",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5639,7 +5370,10 @@
     "physical_city": "PORTAL",
     "physical_state": "ND",
     "physical_zip": "58772",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19223",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5652,7 +5386,10 @@
     "physical_city": "POWERS LAKE",
     "physical_state": "ND",
     "physical_zip": "58773",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19225",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5665,20 +5402,10 @@
     "physical_city": "ROSEGLEN",
     "physical_state": "ND",
     "physical_zip": "58775",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58775",
-    "locale_name": "RYDER",
-    "physical_delivery_address": "280 N MAIN ST",
-    "physical_city": "RYDER",
-    "physical_state": "ND",
-    "physical_zip": "58779",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19254",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5691,20 +5418,10 @@
     "physical_city": "ROSS",
     "physical_state": "ND",
     "physical_zip": "58776",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58776",
-    "locale_name": "STANLEY",
-    "physical_delivery_address": "902 JARARD ST SE",
-    "physical_city": "STANLEY",
-    "physical_state": "ND",
-    "physical_zip": "58784",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19255",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5717,7 +5434,10 @@
     "physical_city": "VELVA",
     "physical_state": "ND",
     "physical_zip": "58790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19376",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5730,7 +5450,10 @@
     "physical_city": "RYDER",
     "physical_state": "ND",
     "physical_zip": "58779",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19263",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5743,20 +5466,10 @@
     "physical_city": "SAWYER",
     "physical_state": "ND",
     "physical_zip": "58781",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58781",
-    "locale_name": "VELVA",
-    "physical_delivery_address": "105 MAIN ST N",
-    "physical_city": "VELVA",
-    "physical_state": "ND",
-    "physical_zip": "58790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19275",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5769,7 +5482,10 @@
     "physical_city": "SHERWOOD",
     "physical_state": "ND",
     "physical_zip": "58782",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19286",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5782,7 +5498,10 @@
     "physical_city": "SOURIS",
     "physical_state": "ND",
     "physical_zip": "58783",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19293",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5795,7 +5514,10 @@
     "physical_city": "STANLEY",
     "physical_state": "ND",
     "physical_zip": "58784",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19337",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5808,7 +5530,10 @@
     "physical_city": "MINOT",
     "physical_state": "ND",
     "physical_zip": "58701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19148",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5821,20 +5546,10 @@
     "physical_city": "SURREY",
     "physical_state": "ND",
     "physical_zip": "58785",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58787",
-    "locale_name": "MOHALL",
-    "physical_delivery_address": "107 MAIN ST E",
-    "physical_city": "MOHALL",
-    "physical_state": "ND",
-    "physical_zip": "58761",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19346",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5847,7 +5562,10 @@
     "physical_city": "TOLLEY",
     "physical_state": "ND",
     "physical_zip": "58787",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19360",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5860,7 +5578,10 @@
     "physical_city": "TOWNER",
     "physical_state": "ND",
     "physical_zip": "58788",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19363",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5873,7 +5594,10 @@
     "physical_city": "NEWBURG",
     "physical_state": "ND",
     "physical_zip": "58762",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19179",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5886,7 +5610,10 @@
     "physical_city": "VELVA",
     "physical_state": "ND",
     "physical_zip": "58790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19376",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5899,7 +5626,10 @@
     "physical_city": "VOLTAIRE",
     "physical_state": "ND",
     "physical_zip": "58792",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19379",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5912,7 +5642,10 @@
     "physical_city": "WESTHOPE",
     "physical_state": "ND",
     "physical_zip": "58793",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19401",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5925,7 +5658,10 @@
     "physical_city": "STANLEY",
     "physical_state": "ND",
     "physical_zip": "58784",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19337",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5938,7 +5674,10 @@
     "physical_city": "POWERS LAKE",
     "physical_state": "ND",
     "physical_zip": "58773",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19225",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5951,7 +5690,10 @@
     "physical_city": "WILDROSE",
     "physical_state": "ND",
     "physical_zip": "58795",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19408",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5964,7 +5706,10 @@
     "physical_city": "WILLISTON",
     "physical_state": "ND",
     "physical_zip": "58801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19410",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5977,7 +5722,10 @@
     "physical_city": "WILLISTON",
     "physical_state": "ND",
     "physical_zip": "58801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W19410",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -5990,7 +5738,10 @@
     "physical_city": "WILLISTON",
     "physical_state": "ND",
     "physical_zip": "58801",
-    "physical_zip4": "8003"
+    "physical_zip4": "8003",
+    "zip_class_code": "P",
+    "locale_key": "016601",
+    "locale_type": "S"
   },
   {
     "area_name": "CENTRAL",
@@ -6003,7 +5754,10 @@
     "physical_city": "ALAMO",
     "physical_state": "ND",
     "physical_zip": "58830",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18710",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6016,7 +5770,10 @@
     "physical_city": "ALEXANDER",
     "physical_state": "ND",
     "physical_zip": "58831",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18711",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6029,20 +5786,10 @@
     "physical_city": "AMBROSE",
     "physical_state": "ND",
     "physical_zip": "58833",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58833",
-    "locale_name": "CROSBY",
-    "physical_delivery_address": "202 N MAIN ST",
-    "physical_city": "CROSBY",
-    "physical_state": "ND",
-    "physical_zip": "58730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18717",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6055,20 +5802,10 @@
     "physical_city": "ARNEGARD",
     "physical_state": "ND",
     "physical_zip": "58835",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58835",
-    "locale_name": "WATFORD CITY",
-    "physical_delivery_address": "1204 4TH AVE NE",
-    "physical_city": "WATFORD CITY",
-    "physical_state": "ND",
-    "physical_zip": "58854",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18729",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -6081,7 +5818,10 @@
     "physical_city": "ALEXANDER",
     "physical_state": "ND",
     "physical_zip": "58831",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18711",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6094,20 +5834,10 @@
     "physical_city": "EPPING",
     "physical_state": "ND",
     "physical_zip": "58843",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58843",
-    "locale_name": "WILLISTON",
-    "physical_delivery_address": "120 E BROADWAY",
-    "physical_city": "WILLISTON",
-    "physical_state": "ND",
-    "physical_zip": "58801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18893",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6120,7 +5850,10 @@
     "physical_city": "CROSBY",
     "physical_state": "ND",
     "physical_zip": "58730",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18840",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6133,7 +5866,10 @@
     "physical_city": "FORTUNA",
     "physical_state": "ND",
     "physical_zip": "58844",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18924",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6146,20 +5882,10 @@
     "physical_city": "GRENORA",
     "physical_state": "ND",
     "physical_zip": "58845",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "CENTRAL",
-    "area_code": "4J",
-    "district_name": "MN-ND",
-    "district_no": "553",
-    "delivery_zipcode": "58847",
-    "locale_name": "WATFORD CITY",
-    "physical_delivery_address": "1204 4TH AVE NE",
-    "physical_city": "WATFORD CITY",
-    "physical_state": "ND",
-    "physical_zip": "58854",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18977",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6172,7 +5898,10 @@
     "physical_city": "RAY",
     "physical_state": "ND",
     "physical_zip": "58849",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19235",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6185,7 +5914,10 @@
     "physical_city": "TIOGA",
     "physical_state": "ND",
     "physical_zip": "58852",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19358",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6198,7 +5930,10 @@
     "physical_city": "TRENTON",
     "physical_state": "ND",
     "physical_zip": "58853",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W19364",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6211,7 +5946,10 @@
     "physical_city": "WATFORD CITY",
     "physical_state": "ND",
     "physical_zip": "58854",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W19392",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",
@@ -6224,6 +5962,9 @@
     "physical_city": "GRENORA",
     "physical_state": "ND",
     "physical_zip": "58845",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W18977",
+    "locale_type": "P"
   }
 ]

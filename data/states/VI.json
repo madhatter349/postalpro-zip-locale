@@ -5,12 +5,15 @@
     "district_name": "PUERTO RICO",
     "district_no": "006",
     "delivery_zipcode": "00801",
-    "locale_name": "CHARLOTTE AMALIE",
-    "physical_delivery_address": "9846 ESTATE THOMAS",
+    "locale_name": "HAVENSIGHT",
+    "physical_delivery_address": "9007 HAVENSIGHT SHOPP CTR STE D",
     "physical_city": "ST THOMAS",
     "physical_state": "VI",
     "physical_zip": "00802",
-    "physical_zip4": "9998"
+    "physical_zip4": "9994",
+    "zip_class_code": "P",
+    "locale_key": "V1A435",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -18,12 +21,15 @@
     "district_name": "PUERTO RICO",
     "district_no": "006",
     "delivery_zipcode": "00801",
-    "locale_name": "HAVENSIGHT",
-    "physical_delivery_address": "9007 HAVENSIGHT SHOPP CTR STE D",
+    "locale_name": "CHARLOTTE AMALIE",
+    "physical_delivery_address": "9846 ESTATE THOMAS",
     "physical_city": "ST THOMAS",
     "physical_state": "VI",
     "physical_zip": "00802",
-    "physical_zip4": "9994"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17301",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -36,7 +42,10 @@
     "physical_city": "ST THOMAS",
     "physical_state": "VI",
     "physical_zip": "00802",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17301",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -49,7 +58,10 @@
     "physical_city": "ST THOMAS",
     "physical_state": "VI",
     "physical_zip": "00802",
-    "physical_zip4": "9992"
+    "physical_zip4": "9992",
+    "zip_class_code": null,
+    "locale_key": "V17312",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -62,7 +74,10 @@
     "physical_city": "ST THOMAS",
     "physical_state": "VI",
     "physical_zip": "00802",
-    "physical_zip4": "9992"
+    "physical_zip4": "9992",
+    "zip_class_code": "P",
+    "locale_key": "V17312",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -75,7 +90,10 @@
     "physical_city": "ST THOMAS",
     "physical_state": "VI",
     "physical_zip": "00802",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "V19865",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -88,7 +106,10 @@
     "physical_city": "ST THOMAS",
     "physical_state": "VI",
     "physical_zip": "00802",
-    "physical_zip4": "9993"
+    "physical_zip4": "9993",
+    "zip_class_code": "P",
+    "locale_key": "V19866",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -101,7 +122,10 @@
     "physical_city": "CHRISTIANSTED",
     "physical_state": "VI",
     "physical_zip": "00820",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17302",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -114,7 +138,10 @@
     "physical_city": "CHRISTIANSTED",
     "physical_state": "VI",
     "physical_zip": "00820",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17302",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -127,7 +154,10 @@
     "physical_city": "CHRISTIANSTED",
     "physical_state": "VI",
     "physical_zip": "00820",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "V19862",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -140,7 +170,10 @@
     "physical_city": "CHRISTIANSTED",
     "physical_state": "VI",
     "physical_zip": "00820",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V19863",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -153,7 +186,10 @@
     "physical_city": "CHRISTIANSTED",
     "physical_state": "VI",
     "physical_zip": "00820",
-    "physical_zip4": "9995"
+    "physical_zip4": "9995",
+    "zip_class_code": "P",
+    "locale_key": "V19864",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -166,7 +202,10 @@
     "physical_city": "ST JOHN",
     "physical_state": "VI",
     "physical_zip": "00830",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17303",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -179,7 +218,10 @@
     "physical_city": "ST JOHN",
     "physical_state": "VI",
     "physical_zip": "00830",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17303",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -192,7 +234,10 @@
     "physical_city": "FREDERIKSTED",
     "physical_state": "VI",
     "physical_zip": "00840",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17305",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -205,7 +250,10 @@
     "physical_city": "FREDERIKSTED",
     "physical_state": "VI",
     "physical_zip": "00840",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17305",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -218,7 +266,10 @@
     "physical_city": "KINGSHILL",
     "physical_state": "VI",
     "physical_zip": "00850",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17306",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -231,6 +282,9 @@
     "physical_city": "KINGSHILL",
     "physical_state": "VI",
     "physical_zip": "00850",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17306",
+    "locale_type": "P"
   }
 ]

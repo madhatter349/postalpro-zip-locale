@@ -10,7 +10,10 @@
     "physical_city": "ADJUNTAS",
     "physical_state": "PR",
     "physical_zip": "00601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17135",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -23,7 +26,10 @@
     "physical_city": "AGUADA",
     "physical_state": "PR",
     "physical_zip": "00602",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17136",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -36,7 +42,10 @@
     "physical_city": "AGUADILLA",
     "physical_state": "PR",
     "physical_zip": "00603",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17137",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -49,7 +58,10 @@
     "physical_city": "AGUADILLA",
     "physical_state": "PR",
     "physical_zip": "00603",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "V17257",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -62,7 +74,10 @@
     "physical_city": "AGUADILLA",
     "physical_state": "PR",
     "physical_zip": "00603",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17137",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -75,7 +90,10 @@
     "physical_city": "AGUADILLA",
     "physical_state": "PR",
     "physical_zip": "00603",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V17294",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -88,7 +106,10 @@
     "physical_city": "MARICAO",
     "physical_state": "PR",
     "physical_zip": "00606",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17225",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -101,7 +122,10 @@
     "physical_city": "ANASCO",
     "physical_state": "PR",
     "physical_zip": "00610",
-    "physical_zip4": "2947"
+    "physical_zip4": "2947",
+    "zip_class_code": null,
+    "locale_key": "V17142",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -114,7 +138,10 @@
     "physical_city": "ANGELES",
     "physical_state": "PR",
     "physical_zip": "00611",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17143",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -127,7 +154,10 @@
     "physical_city": "ARECIBO",
     "physical_state": "PR",
     "physical_zip": "00612",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17144",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -140,7 +170,10 @@
     "physical_city": "ARECIBO",
     "physical_state": "PR",
     "physical_zip": "00612",
-    "physical_zip4": "1997"
+    "physical_zip4": "1997",
+    "zip_class_code": "P",
+    "locale_key": "V19847",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -153,7 +186,10 @@
     "physical_city": "ARECIBO",
     "physical_state": "PR",
     "physical_zip": "00612",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "V19848",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -166,7 +202,10 @@
     "physical_city": "ARECIBO",
     "physical_state": "PR",
     "physical_zip": "00612",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17144",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -179,7 +218,10 @@
     "physical_city": "BAJADERO",
     "physical_state": "PR",
     "physical_zip": "00616",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "V17147",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -192,7 +234,10 @@
     "physical_city": "BARCELONETA",
     "physical_state": "PR",
     "physical_zip": "00617",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17148",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -205,7 +250,10 @@
     "physical_city": "BOQUERON",
     "physical_state": "PR",
     "physical_zip": "00622",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V17154",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -218,7 +266,10 @@
     "physical_city": "CABO ROJO",
     "physical_state": "PR",
     "physical_zip": "00623",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17156",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -231,7 +282,10 @@
     "physical_city": "PENUELAS",
     "physical_state": "PR",
     "physical_zip": "00624",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17242",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -244,7 +298,10 @@
     "physical_city": "CAMUY",
     "physical_state": "PR",
     "physical_zip": "00627",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17158",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -257,7 +314,10 @@
     "physical_city": "CASTANER",
     "physical_state": "PR",
     "physical_zip": "00631",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V19850",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -270,7 +330,10 @@
     "physical_city": "SABANA GRANDE",
     "physical_state": "PR",
     "physical_zip": "00637",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17264",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -283,7 +346,10 @@
     "physical_city": "CIALES",
     "physical_state": "PR",
     "physical_zip": "00638",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17172",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -296,7 +362,10 @@
     "physical_city": "UTUADO",
     "physical_state": "PR",
     "physical_zip": "00641",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17290",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -309,7 +378,10 @@
     "physical_city": "DORADO",
     "physical_state": "PR",
     "physical_zip": "00646",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V17181",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -322,7 +394,10 @@
     "physical_city": "ENSENADA",
     "physical_state": "PR",
     "physical_zip": "00647",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17182",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -335,7 +410,10 @@
     "physical_city": "FLORIDA",
     "physical_state": "PR",
     "physical_zip": "00650",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17188",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -348,7 +426,10 @@
     "physical_city": "GARROCHALES",
     "physical_state": "PR",
     "physical_zip": "00652",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V17190",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -361,7 +442,10 @@
     "physical_city": "GUANICA",
     "physical_state": "PR",
     "physical_zip": "00653",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17192",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -374,7 +458,10 @@
     "physical_city": "GUAYANILLA",
     "physical_state": "PR",
     "physical_zip": "00656",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17194",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -387,7 +474,10 @@
     "physical_city": "HATILLO",
     "physical_state": "PR",
     "physical_zip": "00659",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17198",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -400,7 +490,10 @@
     "physical_city": "HORMIGUEROS",
     "physical_state": "PR",
     "physical_zip": "00660",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17202",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -413,7 +506,10 @@
     "physical_city": "ISABELA",
     "physical_state": "PR",
     "physical_zip": "00662",
-    "physical_zip4": "3669"
+    "physical_zip4": "3669",
+    "zip_class_code": null,
+    "locale_key": "V17204",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -426,7 +522,10 @@
     "physical_city": "JAYUYA",
     "physical_state": "PR",
     "physical_zip": "00664",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17206",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -439,7 +538,10 @@
     "physical_city": "LAJAS",
     "physical_state": "PR",
     "physical_zip": "00667",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17211",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -452,7 +554,10 @@
     "physical_city": "LARES",
     "physical_state": "PR",
     "physical_zip": "00669",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17212",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -465,7 +570,10 @@
     "physical_city": "LAS MARIAS",
     "physical_state": "PR",
     "physical_zip": "00670",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17213",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -478,20 +586,10 @@
     "physical_city": "MANATI",
     "physical_state": "PR",
     "physical_zip": "00674",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "PUERTO RICO",
-    "district_no": "006",
-    "delivery_zipcode": "00676",
-    "locale_name": "CPU VOLADORAS CONTRACT",
-    "physical_delivery_address": "13654 CARR 420",
-    "physical_city": "MOCA",
-    "physical_state": "PR",
-    "physical_zip": "00676",
-    "physical_zip4": "9842"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17224",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -504,7 +602,26 @@
     "physical_city": "MOCA",
     "physical_state": "PR",
     "physical_zip": "00676",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17232",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "PUERTO RICO",
+    "district_no": "006",
+    "delivery_zipcode": "00676",
+    "locale_name": "CPU VOLADORAS CONTRACT",
+    "physical_delivery_address": "13654 CARR 420",
+    "physical_city": "MOCA",
+    "physical_state": "PR",
+    "physical_zip": "00676",
+    "physical_zip4": "9842",
+    "zip_class_code": null,
+    "locale_key": "001927",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -517,7 +634,10 @@
     "physical_city": "RINCON",
     "physical_state": "PR",
     "physical_zip": "00677",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17258",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -530,20 +650,10 @@
     "physical_city": "QUEBRADILLAS",
     "physical_state": "PR",
     "physical_zip": "00678",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "PUERTO RICO",
-    "district_no": "006",
-    "delivery_zipcode": "00680",
-    "locale_name": "MARINA",
-    "physical_delivery_address": "270 CALLE DE LA CANDELARIA",
-    "physical_city": "MAYAGUEZ",
-    "physical_state": "PR",
-    "physical_zip": "00682",
-    "physical_zip4": "9996"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17255",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -556,20 +666,26 @@
     "physical_city": "MAYAGUEZ",
     "physical_state": "PR",
     "physical_zip": "00680",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17227",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
     "area_code": "4G",
     "district_name": "PUERTO RICO",
     "district_no": "006",
-    "delivery_zipcode": "00681",
+    "delivery_zipcode": "00680",
     "locale_name": "MARINA",
     "physical_delivery_address": "270 CALLE DE LA CANDELARIA",
     "physical_city": "MAYAGUEZ",
     "physical_state": "PR",
     "physical_zip": "00682",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "V19855",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -582,7 +698,26 @@
     "physical_city": "MAYAGUEZ",
     "physical_state": "PR",
     "physical_zip": "00680",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17227",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "PUERTO RICO",
+    "district_no": "006",
+    "delivery_zipcode": "00681",
+    "locale_name": "MARINA",
+    "physical_delivery_address": "270 CALLE DE LA CANDELARIA",
+    "physical_city": "MAYAGUEZ",
+    "physical_state": "PR",
+    "physical_zip": "00682",
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "V19855",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -595,7 +730,10 @@
     "physical_city": "MAYAGUEZ",
     "physical_state": "PR",
     "physical_zip": "00682",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "V19855",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -608,7 +746,10 @@
     "physical_city": "SAN GERMAN",
     "physical_state": "PR",
     "physical_zip": "00683",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17271",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -621,20 +762,10 @@
     "physical_city": "SAN SEBASTIAN",
     "physical_state": "PR",
     "physical_zip": "00685",
-    "physical_zip4": "9996"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "PUERTO RICO",
-    "district_no": "006",
-    "delivery_zipcode": "00685",
-    "locale_name": "CPU JUNCAL CONTRACT",
-    "physical_delivery_address": "2 CARR 111",
-    "physical_city": "SAN SEBASTIAN",
-    "physical_state": "PR",
-    "physical_zip": "00685",
-    "physical_zip4": "9994"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "V1A634",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -647,7 +778,26 @@
     "physical_city": "SAN SEBASTIAN",
     "physical_state": "PR",
     "physical_zip": "00685",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17277",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "PUERTO RICO",
+    "district_no": "006",
+    "delivery_zipcode": "00685",
+    "locale_name": "CPU JUNCAL CONTRACT",
+    "physical_delivery_address": "2 CARR 111",
+    "physical_city": "SAN SEBASTIAN",
+    "physical_state": "PR",
+    "physical_zip": "00685",
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "001926",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -660,7 +810,10 @@
     "physical_city": "MOROVIS",
     "physical_state": "PR",
     "physical_zip": "00687",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17234",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -673,7 +826,10 @@
     "physical_city": "SABANA HOYOS",
     "physical_state": "PR",
     "physical_zip": "00688",
-    "physical_zip4": "9591"
+    "physical_zip4": "9591",
+    "zip_class_code": null,
+    "locale_key": "V17265",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -686,20 +842,10 @@
     "physical_city": "SAN ANTONIO",
     "physical_state": "PR",
     "physical_zip": "00690",
-    "physical_zip4": "1216"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "PUERTO RICO",
-    "district_no": "006",
-    "delivery_zipcode": "00692",
-    "locale_name": "BO MARICAO",
-    "physical_delivery_address": "100 CARR 677 INT",
-    "physical_city": "VEGA ALTA",
-    "physical_state": "PR",
-    "physical_zip": "00692",
-    "physical_zip4": "9431"
+    "physical_zip4": "1216",
+    "zip_class_code": null,
+    "locale_key": "V17269",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -712,7 +858,26 @@
     "physical_city": "VEGA ALTA",
     "physical_state": "PR",
     "physical_zip": "00692",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17291",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "PUERTO RICO",
+    "district_no": "006",
+    "delivery_zipcode": "00692",
+    "locale_name": "BO MARICAO",
+    "physical_delivery_address": "100 CARR 677 INT",
+    "physical_city": "VEGA ALTA",
+    "physical_state": "PR",
+    "physical_zip": "00692",
+    "physical_zip4": "9431",
+    "zip_class_code": null,
+    "locale_key": "013495",
+    "locale_type": "6"
   },
   {
     "area_name": "SOUTHERN",
@@ -725,7 +890,10 @@
     "physical_city": "VEGA BAJA",
     "physical_state": "PR",
     "physical_zip": "00693",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17292",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -738,7 +906,10 @@
     "physical_city": "VEGA BAJA",
     "physical_state": "PR",
     "physical_zip": "00693",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17292",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -751,7 +922,10 @@
     "physical_city": "YAUCO",
     "physical_state": "PR",
     "physical_zip": "00698",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V17300",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -764,7 +938,10 @@
     "physical_city": "AGUAS BUENAS",
     "physical_state": "PR",
     "physical_zip": "00703",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17138",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -777,7 +954,10 @@
     "physical_city": "AGUIRRE",
     "physical_state": "PR",
     "physical_zip": "00704",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17139",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -790,7 +970,10 @@
     "physical_city": "AIBONITO",
     "physical_state": "PR",
     "physical_zip": "00705",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17140",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -803,7 +986,10 @@
     "physical_city": "MAUNABO",
     "physical_state": "PR",
     "physical_zip": "00707",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17226",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -816,7 +1002,10 @@
     "physical_city": "ARROYO",
     "physical_state": "PR",
     "physical_zip": "00714",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17145",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -829,7 +1018,10 @@
     "physical_city": "MERCEDITA",
     "physical_state": "PR",
     "physical_zip": "00715",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17228",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -842,7 +1034,10 @@
     "physical_city": "PONCE",
     "physical_state": "PR",
     "physical_zip": "00717",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -855,7 +1050,10 @@
     "physical_city": "PONCE",
     "physical_state": "PR",
     "physical_zip": "00717",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -868,7 +1066,10 @@
     "physical_city": "NAGUABO",
     "physical_state": "PR",
     "physical_zip": "00718",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17235",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -881,7 +1082,10 @@
     "physical_city": "NARANJITO",
     "physical_state": "PR",
     "physical_zip": "00719",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17236",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -894,7 +1098,10 @@
     "physical_city": "OROCOVIS",
     "physical_state": "PR",
     "physical_zip": "00720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17239",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -907,7 +1114,10 @@
     "physical_city": "PALMER",
     "physical_state": "PR",
     "physical_zip": "00721",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V17240",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -920,7 +1130,10 @@
     "physical_city": "PATILLAS",
     "physical_state": "PR",
     "physical_zip": "00723",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17241",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -933,7 +1146,10 @@
     "physical_city": "CAGUAS",
     "physical_state": "PR",
     "physical_zip": "00725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17157",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -946,7 +1162,10 @@
     "physical_city": "CAGUAS",
     "physical_state": "PR",
     "physical_zip": "00725",
-    "physical_zip4": "4361"
+    "physical_zip4": "4361",
+    "zip_class_code": null,
+    "locale_key": "V19853",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -959,7 +1178,10 @@
     "physical_city": "CAGUAS",
     "physical_state": "PR",
     "physical_zip": "00725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17157",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -972,7 +1194,10 @@
     "physical_city": "CAGUAS",
     "physical_state": "PR",
     "physical_zip": "00725",
-    "physical_zip4": "4361"
+    "physical_zip4": "4361",
+    "zip_class_code": "P",
+    "locale_key": "V19853",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -985,7 +1210,10 @@
     "physical_city": "CAGUAS",
     "physical_state": "PR",
     "physical_zip": "00725",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17157",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -998,7 +1226,10 @@
     "physical_city": "CAGUAS",
     "physical_state": "PR",
     "physical_zip": "00725",
-    "physical_zip4": "4361"
+    "physical_zip4": "4361",
+    "zip_class_code": null,
+    "locale_key": "V19853",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1011,7 +1242,10 @@
     "physical_city": "PONCE",
     "physical_state": "PR",
     "physical_zip": "00717",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1024,7 +1258,10 @@
     "physical_city": "CANOVANAS",
     "physical_state": "PR",
     "physical_zip": "00729",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17159",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1037,7 +1274,10 @@
     "physical_city": "PONCE",
     "physical_state": "PR",
     "physical_zip": "00717",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1050,20 +1290,10 @@
     "physical_city": "PONCE",
     "physical_state": "PR",
     "physical_zip": "00717",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "PUERTO RICO",
-    "district_no": "006",
-    "delivery_zipcode": "00732",
-    "locale_name": "CPU UNIVERSIDAD CATOLICA",
-    "physical_delivery_address": "2250 BLVD LUIS A FERRE",
-    "physical_city": "PONCE",
-    "physical_state": "PR",
-    "physical_zip": "00717",
-    "physical_zip4": "0656"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17246",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1076,7 +1306,26 @@
     "physical_city": "PONCE",
     "physical_state": "PR",
     "physical_zip": "00717",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17246",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "PUERTO RICO",
+    "district_no": "006",
+    "delivery_zipcode": "00732",
+    "locale_name": "CPU UNIVERSIDAD CATOLICA",
+    "physical_delivery_address": "2250 BLVD LUIS A FERRE",
+    "physical_city": "PONCE",
+    "physical_state": "PR",
+    "physical_zip": "00717",
+    "physical_zip4": "0656",
+    "zip_class_code": "P",
+    "locale_key": "V19845",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -1089,7 +1338,10 @@
     "physical_city": "PONCE",
     "physical_state": "PR",
     "physical_zip": "00730",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "019316",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1102,7 +1354,10 @@
     "physical_city": "CEIBA",
     "physical_state": "PR",
     "physical_zip": "00735",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17169",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1115,7 +1370,10 @@
     "physical_city": "CAYEY",
     "physical_state": "PR",
     "physical_zip": "00736",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17168",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1128,7 +1386,10 @@
     "physical_city": "CAYEY",
     "physical_state": "PR",
     "physical_zip": "00736",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17168",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1141,7 +1402,10 @@
     "physical_city": "FAJARDO",
     "physical_state": "PR",
     "physical_zip": "00738",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17184",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1154,7 +1418,10 @@
     "physical_city": "CIDRA",
     "physical_state": "PR",
     "physical_zip": "00739",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17173",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1167,7 +1434,10 @@
     "physical_city": "FAJARDO",
     "physical_state": "PR",
     "physical_zip": "00738",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17184",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1180,7 +1450,10 @@
     "physical_city": "PUERTO REAL",
     "physical_state": "PR",
     "physical_zip": "00740",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17252",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1193,7 +1466,10 @@
     "physical_city": "HUMACAO",
     "physical_state": "PR",
     "physical_zip": "00791",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17203",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1206,7 +1482,10 @@
     "physical_city": "PUNTA SANTIAGO",
     "physical_state": "PR",
     "physical_zip": "00741",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17253",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1219,7 +1498,10 @@
     "physical_city": "RIO BLANCO",
     "physical_state": "PR",
     "physical_zip": "00744",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V17259",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1232,20 +1514,10 @@
     "physical_city": "RIO GRANDE",
     "physical_state": "PR",
     "physical_zip": "00745",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "PUERTO RICO",
-    "district_no": "006",
-    "delivery_zipcode": "00751",
-    "locale_name": "ALBERGUE OLIMPICO",
-    "physical_delivery_address": "900 CARR 712",
-    "physical_city": "SALINAS",
-    "physical_state": "PR",
-    "physical_zip": "00751",
-    "physical_zip4": "9000"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17260",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1258,7 +1530,10 @@
     "physical_city": "SALINAS",
     "physical_state": "PR",
     "physical_zip": "00751",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17268",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1271,7 +1546,10 @@
     "physical_city": "SAN LORENZO",
     "physical_state": "PR",
     "physical_zip": "00754",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17276",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1284,7 +1562,10 @@
     "physical_city": "SANTA ISABEL",
     "physical_state": "PR",
     "physical_zip": "00757",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17278",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1297,7 +1578,10 @@
     "physical_city": "VIEQUES",
     "physical_state": "PR",
     "physical_zip": "00765",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V17296",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1310,7 +1594,10 @@
     "physical_city": "VILLALBA",
     "physical_state": "PR",
     "physical_zip": "00766",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17298",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1323,7 +1610,10 @@
     "physical_city": "YABUCOA",
     "physical_state": "PR",
     "physical_zip": "00767",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17299",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1336,7 +1626,10 @@
     "physical_city": "COAMO",
     "physical_state": "PR",
     "physical_zip": "00769",
-    "physical_zip4": "3419"
+    "physical_zip4": "3419",
+    "zip_class_code": null,
+    "locale_key": "V17174",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1349,7 +1642,10 @@
     "physical_city": "LAS PIEDRAS",
     "physical_state": "PR",
     "physical_zip": "00771",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17214",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1362,7 +1658,10 @@
     "physical_city": "LOIZA",
     "physical_state": "PR",
     "physical_zip": "00772",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17218",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1375,7 +1674,10 @@
     "physical_city": "LUQUILLO",
     "physical_state": "PR",
     "physical_zip": "00773",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17223",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1388,7 +1690,10 @@
     "physical_city": "CULEBRA",
     "physical_state": "PR",
     "physical_zip": "00775",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V17180",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1401,7 +1706,10 @@
     "physical_city": "JUNCOS",
     "physical_state": "PR",
     "physical_zip": "00777",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17208",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1414,7 +1722,10 @@
     "physical_city": "GURABO",
     "physical_state": "PR",
     "physical_zip": "00778",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17197",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1427,7 +1738,10 @@
     "physical_city": "COTO LAUREL",
     "physical_state": "PR",
     "physical_zip": "00780",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17179",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1440,7 +1754,10 @@
     "physical_city": "COMERIO",
     "physical_state": "PR",
     "physical_zip": "00782",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17176",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1453,7 +1770,10 @@
     "physical_city": "COROZAL",
     "physical_state": "PR",
     "physical_zip": "00783",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17178",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1466,7 +1786,10 @@
     "physical_city": "COROZAL",
     "physical_state": "PR",
     "physical_zip": "00783",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "001930",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -1479,7 +1802,10 @@
     "physical_city": "GUAYAMA",
     "physical_state": "PR",
     "physical_zip": "00784",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17193",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1492,7 +1818,10 @@
     "physical_city": "GUAYAMA",
     "physical_state": "PR",
     "physical_zip": "00784",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17193",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1505,7 +1834,10 @@
     "physical_city": "LA PLATA",
     "physical_state": "PR",
     "physical_zip": "00786",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V17210",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1518,7 +1850,10 @@
     "physical_city": "HUMACAO",
     "physical_state": "PR",
     "physical_zip": "00791",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17203",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1531,7 +1866,10 @@
     "physical_city": "HUMACAO",
     "physical_state": "PR",
     "physical_zip": "00791",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17203",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1544,7 +1882,10 @@
     "physical_city": "BARRANQUITAS",
     "physical_state": "PR",
     "physical_zip": "00794",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17149",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1557,7 +1898,10 @@
     "physical_city": "JUANA DIAZ",
     "physical_state": "PR",
     "physical_zip": "00795",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17207",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1570,7 +1914,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17238",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1583,7 +1930,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17238",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1596,7 +1946,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17222",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1609,7 +1962,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00907",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V1A439",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -1622,7 +1978,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00907",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17281",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1635,7 +1994,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17222",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1648,7 +2010,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00909",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17186",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1661,7 +2026,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17222",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1674,7 +2042,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17222",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1687,7 +2058,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17222",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1700,7 +2074,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17222",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1713,7 +2090,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17222",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1726,7 +2106,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00915",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V17150",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1739,7 +2122,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00918",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17200",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1752,7 +2138,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00918",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17200",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1765,7 +2154,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00918",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17200",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1778,7 +2170,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00918",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "018743",
+    "locale_type": "Z"
   },
   {
     "area_name": "SOUTHERN",
@@ -1791,7 +2186,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00918",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "018743",
+    "locale_type": "Z"
   },
   {
     "area_name": "SOUTHERN",
@@ -1804,7 +2202,10 @@
     "physical_city": "GUAYNABO",
     "physical_state": "PR",
     "physical_zip": "00968",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "020213",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -1817,7 +2218,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00924",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17283",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1830,7 +2234,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00924",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17283",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1843,7 +2250,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00924",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17283",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1856,7 +2266,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00926",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V18853",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1869,7 +2282,26 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00926",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V18853",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "PUERTO RICO",
+    "district_no": "006",
+    "delivery_zipcode": "00928",
+    "locale_name": "RIO PIEDRAS",
+    "physical_delivery_address": "112 CALLE ARZUAGA STE 1",
+    "physical_city": "SAN JUAN",
+    "physical_state": "PR",
+    "physical_zip": "00925",
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17262",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1882,20 +2314,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00927",
-    "physical_zip4": "5832"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "PUERTO RICO",
-    "district_no": "006",
-    "delivery_zipcode": "00928",
-    "locale_name": "RIO PIEDRAS",
-    "physical_delivery_address": "112 CALLE ARZUAGA STE 1",
-    "physical_city": "SAN JUAN",
-    "physical_state": "PR",
-    "physical_zip": "00925",
-    "physical_zip4": "9998"
+    "physical_zip4": "5832",
+    "zip_class_code": "P",
+    "locale_key": "V19859",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -1908,7 +2330,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00924",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17283",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1921,7 +2346,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00925",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17262",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -1934,7 +2362,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00921",
-    "physical_zip4": "3201"
+    "physical_zip4": "3201",
+    "zip_class_code": "P",
+    "locale_key": "V19745",
+    "locale_type": "6"
   },
   {
     "area_name": "SOUTHERN",
@@ -1947,7 +2378,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00918",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "018743",
+    "locale_type": "Z"
   },
   {
     "area_name": "SOUTHERN",
@@ -1960,7 +2394,10 @@
     "physical_city": "GUAYNABO",
     "physical_state": "PR",
     "physical_zip": "00968",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "020213",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -1973,7 +2410,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00936",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17274",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -1986,7 +2426,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00979",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "004780",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -1999,7 +2442,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00940",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V17230",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -2012,7 +2458,10 @@
     "physical_city": "TOA BAJA",
     "physical_state": "PR",
     "physical_zip": "00949",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17286",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2025,7 +2474,10 @@
     "physical_city": "TOA BAJA",
     "physical_state": "PR",
     "physical_zip": "00949",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17286",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2038,7 +2490,10 @@
     "physical_city": "TOA BAJA",
     "physical_state": "PR",
     "physical_zip": "00949",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "012075",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -2051,7 +2506,10 @@
     "physical_city": "SABANA SECA",
     "physical_state": "PR",
     "physical_zip": "00952",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V17266",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2064,7 +2522,10 @@
     "physical_city": "TOA ALTA",
     "physical_state": "PR",
     "physical_zip": "00953",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V17285",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2077,7 +2538,10 @@
     "physical_city": "TOA ALTA",
     "physical_state": "PR",
     "physical_zip": "00953",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V17285",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2090,7 +2554,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00936",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17274",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2103,7 +2570,10 @@
     "physical_city": "BAYAMON",
     "physical_state": "PR",
     "physical_zip": "00959",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17152",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2116,7 +2586,10 @@
     "physical_city": "BAYAMON",
     "physical_state": "PR",
     "physical_zip": "00957",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V18865",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2129,7 +2602,10 @@
     "physical_city": "BAYAMON",
     "physical_state": "PR",
     "physical_zip": "00957",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V18865",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2142,20 +2618,10 @@
     "physical_city": "BAYAMON",
     "physical_state": "PR",
     "physical_zip": "00959",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "SOUTHERN",
-    "area_code": "4G",
-    "district_name": "PUERTO RICO",
-    "district_no": "006",
-    "delivery_zipcode": "00960",
-    "locale_name": "BAYAMON",
-    "physical_delivery_address": "100 AVE RAMON L RODRIGUEZ",
-    "physical_city": "BAYAMON",
-    "physical_state": "PR",
-    "physical_zip": "00959",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17152",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2168,7 +2634,26 @@
     "physical_city": "BAYAMON",
     "physical_state": "PR",
     "physical_zip": "00961",
-    "physical_zip4": "6219"
+    "physical_zip4": "6219",
+    "zip_class_code": "P",
+    "locale_key": "V1A405",
+    "locale_type": "5"
+  },
+  {
+    "area_name": "SOUTHERN",
+    "area_code": "4G",
+    "district_name": "PUERTO RICO",
+    "district_no": "006",
+    "delivery_zipcode": "00960",
+    "locale_name": "BAYAMON",
+    "physical_delivery_address": "100 AVE RAMON L RODRIGUEZ",
+    "physical_city": "BAYAMON",
+    "physical_state": "PR",
+    "physical_zip": "00959",
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17152",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2181,7 +2666,10 @@
     "physical_city": "BAYAMON",
     "physical_state": "PR",
     "physical_zip": "00959",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17152",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2194,7 +2682,10 @@
     "physical_city": "CATANO",
     "physical_state": "PR",
     "physical_zip": "00962",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17167",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2207,7 +2698,10 @@
     "physical_city": "CATANO",
     "physical_state": "PR",
     "physical_zip": "00962",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17167",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2220,7 +2714,10 @@
     "physical_city": "CATANO",
     "physical_state": "PR",
     "physical_zip": "00962",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17167",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2233,7 +2730,10 @@
     "physical_city": "GUAYNABO",
     "physical_state": "PR",
     "physical_zip": "00969",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17195",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2246,7 +2746,10 @@
     "physical_city": "GUAYNABO",
     "physical_state": "PR",
     "physical_zip": "00969",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17195",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2259,7 +2762,10 @@
     "physical_city": "GUAYNABO",
     "physical_state": "PR",
     "physical_zip": "00969",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17195",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2272,7 +2778,10 @@
     "physical_city": "GUAYNABO",
     "physical_state": "PR",
     "physical_zip": "00969",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17195",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2285,7 +2794,10 @@
     "physical_city": "GUAYNABO",
     "physical_state": "PR",
     "physical_zip": "00969",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17195",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2298,7 +2810,10 @@
     "physical_city": "TRUJILLO ALTO",
     "physical_state": "PR",
     "physical_zip": "00976",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17287",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2311,7 +2826,10 @@
     "physical_city": "TRUJILLO ALTO",
     "physical_state": "PR",
     "physical_zip": "00976",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17287",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2324,7 +2842,10 @@
     "physical_city": "SAN JUAN",
     "physical_state": "PR",
     "physical_zip": "00926",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V18853",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -2337,7 +2858,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00983",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17165",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2350,7 +2874,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00979",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "004780",
+    "locale_type": "B"
   },
   {
     "area_name": "SOUTHERN",
@@ -2363,7 +2890,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00983",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17165",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2376,7 +2906,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00983",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17165",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2389,7 +2922,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00983",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V17165",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2402,7 +2938,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00979",
-    "physical_zip4": "7085"
+    "physical_zip4": "7085",
+    "zip_class_code": "P",
+    "locale_key": "004019",
+    "locale_type": "5"
   },
   {
     "area_name": "SOUTHERN",
@@ -2415,7 +2954,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00983",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17165",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2428,7 +2970,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00985",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V19861",
+    "locale_type": "S"
   },
   {
     "area_name": "SOUTHERN",
@@ -2441,7 +2986,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00983",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V17165",
+    "locale_type": "P"
   },
   {
     "area_name": "SOUTHERN",
@@ -2454,6 +3002,9 @@
     "physical_city": "CAROLINA",
     "physical_state": "PR",
     "physical_zip": "00983",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "V19860",
+    "locale_type": "S"
   }
 ]

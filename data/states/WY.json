@@ -10,7 +10,10 @@
     "physical_city": "CHEYENNE",
     "physical_state": "WY",
     "physical_zip": "82009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B337",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,20 +26,10 @@
     "physical_city": "CHEYENNE",
     "physical_state": "WY",
     "physical_zip": "82001",
-    "physical_zip4": "9981"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82003",
-    "locale_name": "CAPITOL STA",
-    "physical_delivery_address": "2120 CAPITOL AVE STE 1108",
-    "physical_city": "CHEYENNE",
-    "physical_state": "WY",
-    "physical_zip": "82001",
-    "physical_zip4": "9996"
+    "physical_zip4": "9981",
+    "zip_class_code": "P",
+    "locale_key": "W1B294",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +42,10 @@
     "physical_city": "CHEYENNE",
     "physical_state": "WY",
     "physical_zip": "82009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B337",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +58,26 @@
     "physical_city": "FE WARREN AFB",
     "physical_state": "WY",
     "physical_zip": "82001",
-    "physical_zip4": "9983"
+    "physical_zip4": "9983",
+    "zip_class_code": "P",
+    "locale_key": "W1B371",
+    "locale_type": "B"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "CO-WY",
+    "district_no": "800",
+    "delivery_zipcode": "82003",
+    "locale_name": "CAPITOL STA",
+    "physical_delivery_address": "2120 CAPITOL AVE STE 1108",
+    "physical_city": "CHEYENNE",
+    "physical_state": "WY",
+    "physical_zip": "82001",
+    "physical_zip4": "9996",
+    "zip_class_code": "P",
+    "locale_key": "W1B700",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -75,7 +90,10 @@
     "physical_city": "CHEYENNE",
     "physical_state": "WY",
     "physical_zip": "82009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B337",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -88,7 +106,10 @@
     "physical_city": "CHEYENNE",
     "physical_state": "WY",
     "physical_zip": "82009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B337",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -101,7 +122,10 @@
     "physical_city": "ALBIN",
     "physical_state": "WY",
     "physical_zip": "82050",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B296",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -114,20 +138,10 @@
     "physical_city": "LARAMIE",
     "physical_state": "WY",
     "physical_zip": "82070",
-    "physical_zip4": "9996"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82052",
-    "locale_name": "CHEYENNE",
-    "physical_delivery_address": "4800 CONVERSE AVE",
-    "physical_city": "CHEYENNE",
-    "physical_state": "WY",
-    "physical_zip": "82009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "001375",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +154,10 @@
     "physical_city": "BURNS",
     "physical_state": "WY",
     "physical_zip": "82053",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "W1B326",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +170,10 @@
     "physical_city": "BURNS",
     "physical_state": "WY",
     "physical_zip": "82053",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "W1B326",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +186,10 @@
     "physical_city": "CARPENTER",
     "physical_state": "WY",
     "physical_zip": "82054",
-    "physical_zip4": "9610"
+    "physical_zip4": "9610",
+    "zip_class_code": null,
+    "locale_key": "W1B332",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +202,10 @@
     "physical_city": "CENTENNIAL",
     "physical_state": "WY",
     "physical_zip": "82055",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B335",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -192,20 +218,10 @@
     "physical_city": "ROCK RIVER",
     "physical_state": "WY",
     "physical_zip": "82083",
-    "physical_zip4": "9900"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82059",
-    "locale_name": "CHEYENNE",
-    "physical_delivery_address": "4800 CONVERSE AVE",
-    "physical_city": "CHEYENNE",
-    "physical_state": "WY",
-    "physical_zip": "82009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B512",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -218,7 +234,10 @@
     "physical_city": "HILLSDALE",
     "physical_state": "WY",
     "physical_zip": "82060",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": "P",
+    "locale_key": "W1B408",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -231,7 +250,10 @@
     "physical_city": "LARAMIE",
     "physical_state": "WY",
     "physical_zip": "82070",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "001375",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -244,7 +266,10 @@
     "physical_city": "LARAMIE",
     "physical_state": "WY",
     "physical_zip": "82070",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "001375",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -257,7 +282,10 @@
     "physical_city": "LARAMIE",
     "physical_state": "WY",
     "physical_zip": "82070",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "001375",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -270,20 +298,10 @@
     "physical_city": "LARAMIE",
     "physical_state": "WY",
     "physical_zip": "82072",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82081",
-    "locale_name": "CHEYENNE",
-    "physical_delivery_address": "4800 CONVERSE AVE",
-    "physical_city": "CHEYENNE",
-    "physical_state": "WY",
-    "physical_zip": "82009",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B434",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -296,7 +314,10 @@
     "physical_city": "PINE BLUFFS",
     "physical_state": "WY",
     "physical_zip": "82082",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B491",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -309,20 +330,10 @@
     "physical_city": "ROCK RIVER",
     "physical_state": "WY",
     "physical_zip": "82083",
-    "physical_zip4": "9900"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82084",
-    "locale_name": "LARAMIE ANNEX",
-    "physical_delivery_address": "715 PLAZA LN",
-    "physical_city": "LARAMIE",
-    "physical_state": "WY",
-    "physical_zip": "82070",
-    "physical_zip4": "9996"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B512",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -335,7 +346,10 @@
     "physical_city": "YELLOWSTONE NATIONAL PARK",
     "physical_state": "WY",
     "physical_zip": "82190",
-    "physical_zip4": "9905"
+    "physical_zip4": "9905",
+    "zip_class_code": null,
+    "locale_key": "W1B330",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -348,7 +362,10 @@
     "physical_city": "YELLOWSTONE NATIONAL PARK",
     "physical_state": "WY",
     "physical_zip": "82190",
-    "physical_zip4": "9904"
+    "physical_zip4": "9904",
+    "zip_class_code": null,
+    "locale_key": "W1B393",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -361,7 +378,10 @@
     "physical_city": "YELLOWSTONE NATIONAL PARK",
     "physical_state": "WY",
     "physical_zip": "82190",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "W1B431",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -374,7 +394,10 @@
     "physical_city": "YELLOWSTONE NATIONAL PARK",
     "physical_state": "WY",
     "physical_zip": "82190",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B481",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -387,7 +410,10 @@
     "physical_city": "YELLOWSTONE NATIONAL PARK",
     "physical_state": "WY",
     "physical_zip": "82190",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B581",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -400,7 +426,10 @@
     "physical_city": "WHEATLAND",
     "physical_state": "WY",
     "physical_zip": "82201",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B570",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -413,7 +442,10 @@
     "physical_city": "CHUGWATER",
     "physical_state": "WY",
     "physical_zip": "82210",
-    "physical_zip4": "9624"
+    "physical_zip4": "9624",
+    "zip_class_code": null,
+    "locale_key": "W1B340",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -426,7 +458,10 @@
     "physical_city": "FORT LARAMIE",
     "physical_state": "WY",
     "physical_zip": "82212",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B376",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -439,7 +474,10 @@
     "physical_city": "GLENDO",
     "physical_state": "WY",
     "physical_zip": "82213",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B389",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -452,7 +490,10 @@
     "physical_city": "GUERNSEY",
     "physical_state": "WY",
     "physical_zip": "82214",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B399",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -465,7 +506,10 @@
     "physical_city": "HARTVILLE",
     "physical_state": "WY",
     "physical_zip": "82215",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B404",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -478,7 +522,10 @@
     "physical_city": "HAWK SPRINGS",
     "physical_state": "WY",
     "physical_zip": "82217",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B405",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -491,7 +538,10 @@
     "physical_city": "HUNTLEY",
     "physical_state": "WY",
     "physical_zip": "82218",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": "P",
+    "locale_key": "W1B413",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -504,7 +554,10 @@
     "physical_city": "JAY EM",
     "physical_state": "WY",
     "physical_zip": "82219",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B416",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -517,7 +570,10 @@
     "physical_city": "LAGRANGE",
     "physical_state": "WY",
     "physical_zip": "82221",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B429",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -530,7 +586,10 @@
     "physical_city": "LANCE CREEK",
     "physical_state": "WY",
     "physical_zip": "82222",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B432",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -543,7 +602,10 @@
     "physical_city": "LINGLE",
     "physical_state": "WY",
     "physical_zip": "82223",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B439",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -556,7 +618,10 @@
     "physical_city": "MANVILLE",
     "physical_state": "WY",
     "physical_zip": "82227",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B453",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -569,7 +634,10 @@
     "physical_city": "LUSK",
     "physical_state": "WY",
     "physical_zip": "82225",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "W1B447",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -582,20 +650,10 @@
     "physical_city": "MANVILLE",
     "physical_state": "WY",
     "physical_zip": "82227",
-    "physical_zip4": "9901"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82229",
-    "locale_name": "MANVILLE",
-    "physical_delivery_address": "225 9TH AVE",
-    "physical_city": "MANVILLE",
-    "physical_state": "WY",
-    "physical_zip": "82227",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B453",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -608,33 +666,10 @@
     "physical_city": "TORRINGTON",
     "physical_state": "WY",
     "physical_zip": "82240",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82242",
-    "locale_name": "LUSK",
-    "physical_delivery_address": "116 W 3RD ST",
-    "physical_city": "LUSK",
-    "physical_state": "WY",
-    "physical_zip": "82225",
-    "physical_zip4": "9903"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82243",
-    "locale_name": "LINGLE",
-    "physical_delivery_address": "209 MAIN ST",
-    "physical_city": "LINGLE",
-    "physical_state": "WY",
-    "physical_zip": "82223",
-    "physical_zip4": "9901"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B552",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -647,7 +682,10 @@
     "physical_city": "VETERAN",
     "physical_state": "WY",
     "physical_zip": "82243",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "W1B561",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -660,7 +698,10 @@
     "physical_city": "YODER",
     "physical_state": "WY",
     "physical_zip": "82244",
-    "physical_zip4": "8800"
+    "physical_zip4": "8800",
+    "zip_class_code": null,
+    "locale_key": "W1B582",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -673,20 +714,10 @@
     "physical_city": "RAWLINS",
     "physical_state": "WY",
     "physical_zip": "82301",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82310",
-    "locale_name": "RAWLINS",
-    "physical_delivery_address": "106 5TH ST",
-    "physical_city": "RAWLINS",
-    "physical_state": "WY",
-    "physical_zip": "82301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B502",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -699,7 +730,10 @@
     "physical_city": "BAGGS",
     "physical_state": "WY",
     "physical_zip": "82321",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B308",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -712,7 +746,10 @@
     "physical_city": "BAIROIL",
     "physical_state": "WY",
     "physical_zip": "82322",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B309",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -725,7 +762,10 @@
     "physical_city": "DIXON",
     "physical_state": "WY",
     "physical_zip": "82323",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B355",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -738,7 +778,10 @@
     "physical_city": "ELK MOUNTAIN",
     "physical_state": "WY",
     "physical_zip": "82324",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B361",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -751,7 +794,10 @@
     "physical_city": "ENCAMPMENT",
     "physical_state": "WY",
     "physical_zip": "82325",
-    "physical_zip4": "9904"
+    "physical_zip4": "9904",
+    "zip_class_code": null,
+    "locale_key": "W1B364",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -764,7 +810,10 @@
     "physical_city": "RAWLINS",
     "physical_state": "WY",
     "physical_zip": "82301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B502",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -777,7 +826,10 @@
     "physical_city": "HANNA",
     "physical_state": "WY",
     "physical_zip": "82327",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B402",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -790,7 +842,10 @@
     "physical_city": "MEDICINE BOW",
     "physical_state": "WY",
     "physical_zip": "82329",
-    "physical_zip4": "8117"
+    "physical_zip4": "8117",
+    "zip_class_code": null,
+    "locale_key": "W1B458",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -803,7 +858,10 @@
     "physical_city": "SARATOGA",
     "physical_state": "WY",
     "physical_zip": "82331",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "W1B521",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -816,7 +874,10 @@
     "physical_city": "SAVERY",
     "physical_state": "WY",
     "physical_zip": "82332",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "W1B522",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -829,7 +890,10 @@
     "physical_city": "RAWLINS",
     "physical_state": "WY",
     "physical_zip": "82301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B502",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -842,7 +906,10 @@
     "physical_city": "SINCLAIR",
     "physical_state": "WY",
     "physical_zip": "82334",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B529",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -855,7 +922,10 @@
     "physical_city": "RAWLINS",
     "physical_state": "WY",
     "physical_zip": "82301",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B502",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -868,7 +938,10 @@
     "physical_city": "WAMSUTTER",
     "physical_state": "WY",
     "physical_zip": "82336",
-    "physical_zip4": "9902"
+    "physical_zip4": "9902",
+    "zip_class_code": "P",
+    "locale_key": "W1B563",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -881,7 +954,10 @@
     "physical_city": "WORLAND",
     "physical_state": "WY",
     "physical_zip": "82401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B577",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -894,7 +970,10 @@
     "physical_city": "BASIN",
     "physical_state": "WY",
     "physical_zip": "82410",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B312",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -907,7 +986,10 @@
     "physical_city": "BURLINGTON",
     "physical_state": "WY",
     "physical_zip": "82411",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B325",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -920,7 +1002,10 @@
     "physical_city": "BYRON",
     "physical_state": "WY",
     "physical_zip": "82412",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B328",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -933,7 +1018,10 @@
     "physical_city": "CODY",
     "physical_state": "WY",
     "physical_zip": "82414",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B342",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -946,7 +1034,10 @@
     "physical_city": "COWLEY",
     "physical_state": "WY",
     "physical_zip": "82420",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B346",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -959,7 +1050,10 @@
     "physical_city": "DEAVER",
     "physical_state": "WY",
     "physical_zip": "82421",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B351",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -972,7 +1066,10 @@
     "physical_city": "EMBLEM",
     "physical_state": "WY",
     "physical_zip": "82422",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B363",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -985,7 +1082,10 @@
     "physical_city": "FRANNIE",
     "physical_state": "WY",
     "physical_zip": "82423",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B380",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -998,7 +1098,10 @@
     "physical_city": "GREYBULL",
     "physical_state": "WY",
     "physical_zip": "82426",
-    "physical_zip4": "2059"
+    "physical_zip4": "2059",
+    "zip_class_code": null,
+    "locale_key": "W1B397",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1011,20 +1114,10 @@
     "physical_city": "HYATTVILLE",
     "physical_state": "WY",
     "physical_zip": "82428",
-    "physical_zip4": "9900"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82430",
-    "locale_name": "THERMOPOLIS",
-    "physical_delivery_address": "440 ARAPAHOE ST",
-    "physical_city": "THERMOPOLIS",
-    "physical_state": "WY",
-    "physical_zip": "82443",
-    "physical_zip4": "9998"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B414",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1037,7 +1130,10 @@
     "physical_city": "LOVELL",
     "physical_state": "WY",
     "physical_zip": "82431",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B445",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1050,7 +1146,10 @@
     "physical_city": "MANDERSON",
     "physical_state": "WY",
     "physical_zip": "82432",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B451",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1063,7 +1162,10 @@
     "physical_city": "MEETEETSE",
     "physical_state": "WY",
     "physical_zip": "82433",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "W1B459",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1076,7 +1178,10 @@
     "physical_city": "BASIN",
     "physical_state": "WY",
     "physical_zip": "82410",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B312",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1089,7 +1194,10 @@
     "physical_city": "POWELL",
     "physical_state": "WY",
     "physical_zip": "82435",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B496",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1102,7 +1210,10 @@
     "physical_city": "RALSTON",
     "physical_state": "WY",
     "physical_zip": "82440",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B499",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1115,7 +1226,10 @@
     "physical_city": "SHELL",
     "physical_state": "WY",
     "physical_zip": "82441",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B524",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1128,7 +1242,10 @@
     "physical_city": "TEN SLEEP",
     "physical_state": "WY",
     "physical_zip": "82442",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B546",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1141,7 +1258,10 @@
     "physical_city": "THERMOPOLIS",
     "physical_state": "WY",
     "physical_zip": "82443",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B549",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1154,7 +1274,10 @@
     "physical_city": "WAPITI",
     "physical_state": "WY",
     "physical_zip": "82450",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B564",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1167,7 +1290,10 @@
     "physical_city": "RIVERTON",
     "physical_state": "WY",
     "physical_zip": "82501",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B510",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1180,20 +1306,10 @@
     "physical_city": "RIVERTON",
     "physical_state": "WY",
     "physical_zip": "82501",
-    "physical_zip4": "9997"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82510",
-    "locale_name": "RIVERTON ANNEX",
-    "physical_delivery_address": "1307 W MAIN ST",
-    "physical_city": "RIVERTON",
-    "physical_state": "WY",
-    "physical_zip": "82501",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "W1C509",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1206,7 +1322,10 @@
     "physical_city": "CROWHEART",
     "physical_state": "WY",
     "physical_zip": "82512",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B348",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1219,7 +1338,10 @@
     "physical_city": "DUBOIS",
     "physical_state": "WY",
     "physical_zip": "82513",
-    "physical_zip4": "9746"
+    "physical_zip4": "9746",
+    "zip_class_code": null,
+    "locale_key": "W1B357",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1232,7 +1354,10 @@
     "physical_city": "FORT WASHAKIE",
     "physical_state": "WY",
     "physical_zip": "82514",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B378",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1245,7 +1370,10 @@
     "physical_city": "HUDSON",
     "physical_state": "WY",
     "physical_zip": "82515",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B411",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1258,7 +1386,10 @@
     "physical_city": "KINNEAR",
     "physical_state": "WY",
     "physical_zip": "82516",
-    "physical_zip4": "8719"
+    "physical_zip4": "8719",
+    "zip_class_code": null,
+    "locale_key": "W1B424",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1271,7 +1402,10 @@
     "physical_city": "LANDER",
     "physical_state": "WY",
     "physical_zip": "82520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B433",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1284,7 +1418,10 @@
     "physical_city": "PAVILLION",
     "physical_state": "WY",
     "physical_zip": "82523",
-    "physical_zip4": "9001"
+    "physical_zip4": "9001",
+    "zip_class_code": null,
+    "locale_key": "W1B489",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1297,7 +1434,10 @@
     "physical_city": "SAINT STEPHENS",
     "physical_state": "WY",
     "physical_zip": "82524",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B519",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1310,7 +1450,10 @@
     "physical_city": "CASPER",
     "physical_state": "WY",
     "physical_zip": "82609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B334",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1323,7 +1466,10 @@
     "physical_city": "CASPER",
     "physical_state": "WY",
     "physical_zip": "82601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B666",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1336,7 +1482,10 @@
     "physical_city": "CASPER",
     "physical_state": "WY",
     "physical_zip": "82609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B334",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1349,7 +1498,10 @@
     "physical_city": "CASPER",
     "physical_state": "WY",
     "physical_zip": "82609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B334",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1362,20 +1514,10 @@
     "physical_city": "CASPER",
     "physical_state": "WY",
     "physical_zip": "82609",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82615",
-    "locale_name": "CASPER",
-    "physical_delivery_address": "411 N FOREST DR",
-    "physical_city": "CASPER",
-    "physical_state": "WY",
-    "physical_zip": "82609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B334",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1388,20 +1530,10 @@
     "physical_city": "ALCOVA",
     "physical_state": "WY",
     "physical_zip": "82620",
-    "physical_zip4": "9800"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82630",
-    "locale_name": "CASPER",
-    "physical_delivery_address": "411 N FOREST DR",
-    "physical_city": "CASPER",
-    "physical_state": "WY",
-    "physical_zip": "82609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "W1B297",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1414,7 +1546,10 @@
     "physical_city": "DOUGLAS",
     "physical_state": "WY",
     "physical_zip": "82633",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B356",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1427,7 +1562,10 @@
     "physical_city": "EDGERTON",
     "physical_state": "WY",
     "physical_zip": "82635",
-    "physical_zip4": "9000"
+    "physical_zip4": "9000",
+    "zip_class_code": "P",
+    "locale_key": "W1B359",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1440,7 +1578,10 @@
     "physical_city": "CASPER",
     "physical_state": "WY",
     "physical_zip": "82609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B334",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1453,7 +1594,10 @@
     "physical_city": "EVANSVILLE",
     "physical_state": "WY",
     "physical_zip": "82636",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "W1B368",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1466,20 +1610,10 @@
     "physical_city": "GLENROCK",
     "physical_state": "WY",
     "physical_zip": "82637",
-    "physical_zip4": "9990"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82638",
-    "locale_name": "CASPER",
-    "physical_delivery_address": "411 N FOREST DR",
-    "physical_city": "CASPER",
-    "physical_state": "WY",
-    "physical_zip": "82609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "W1B390",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1492,7 +1626,10 @@
     "physical_city": "KAYCEE",
     "physical_state": "WY",
     "physical_zip": "82639",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "W1B420",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1505,7 +1642,10 @@
     "physical_city": "LINCH",
     "physical_state": "WY",
     "physical_zip": "82640",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": "P",
+    "locale_key": "W1B437",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1518,7 +1658,10 @@
     "physical_city": "SHOSHONI",
     "physical_state": "WY",
     "physical_zip": "82649",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "W1B528",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1531,7 +1674,10 @@
     "physical_city": "MIDWEST",
     "physical_state": "WY",
     "physical_zip": "82643",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "W1B462",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1544,20 +1690,10 @@
     "physical_city": "MILLS",
     "physical_state": "WY",
     "physical_zip": "82644",
-    "physical_zip4": "9990"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82646",
-    "locale_name": "CASPER",
-    "physical_delivery_address": "411 N FOREST DR",
-    "physical_city": "CASPER",
-    "physical_state": "WY",
-    "physical_zip": "82609",
-    "physical_zip4": "9998"
+    "physical_zip4": "9990",
+    "zip_class_code": "P",
+    "locale_key": "W1B463",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1570,7 +1706,10 @@
     "physical_city": "POWDER RIVER",
     "physical_state": "WY",
     "physical_zip": "82648",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": "P",
+    "locale_key": "W1B495",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1583,7 +1722,10 @@
     "physical_city": "SHOSHONI",
     "physical_state": "WY",
     "physical_zip": "82649",
-    "physical_zip4": "9990"
+    "physical_zip4": "9990",
+    "zip_class_code": null,
+    "locale_key": "W1B528",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1596,7 +1738,10 @@
     "physical_city": "NEWCASTLE",
     "physical_state": "WY",
     "physical_zip": "82701",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B473",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1609,20 +1754,10 @@
     "physical_city": "HULETT",
     "physical_state": "WY",
     "physical_zip": "82720",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82711",
-    "locale_name": "HULETT",
-    "physical_delivery_address": "193 BIRCH ST",
-    "physical_city": "HULETT",
-    "physical_state": "WY",
-    "physical_zip": "82720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B412",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1635,7 +1770,10 @@
     "physical_city": "BEULAH",
     "physical_state": "WY",
     "physical_zip": "82712",
-    "physical_zip4": "8805"
+    "physical_zip4": "8805",
+    "zip_class_code": null,
+    "locale_key": "W1B314",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1648,33 +1786,10 @@
     "physical_city": "DEVILS TOWER",
     "physical_state": "WY",
     "physical_zip": "82714",
-    "physical_zip4": "9905"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82714",
-    "locale_name": "MOORCROFT",
-    "physical_delivery_address": "120 N BIG HORN AVE",
-    "physical_city": "MOORCROFT",
-    "physical_state": "WY",
-    "physical_zip": "82721",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82715",
-    "locale_name": "SUNDANCE",
-    "physical_delivery_address": "121 E MAIN ST",
-    "physical_city": "SUNDANCE",
-    "physical_state": "WY",
-    "physical_zip": "82729",
-    "physical_zip4": "9998"
+    "physical_zip4": "9905",
+    "zip_class_code": null,
+    "locale_key": "W1B352",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1687,7 +1802,10 @@
     "physical_city": "GILLETTE",
     "physical_state": "WY",
     "physical_zip": "82716",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B388",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1700,7 +1818,10 @@
     "physical_city": "GILLETTE",
     "physical_state": "WY",
     "physical_zip": "82716",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B388",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1713,7 +1834,10 @@
     "physical_city": "GILLETTE",
     "physical_state": "WY",
     "physical_zip": "82716",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B388",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1726,7 +1850,10 @@
     "physical_city": "HULETT",
     "physical_state": "WY",
     "physical_zip": "82720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B412",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1739,7 +1866,10 @@
     "physical_city": "MOORCROFT",
     "physical_state": "WY",
     "physical_zip": "82721",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B464",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1752,7 +1882,10 @@
     "physical_city": "OSAGE",
     "physical_state": "WY",
     "physical_zip": "82723",
-    "physical_zip4": "8804"
+    "physical_zip4": "8804",
+    "zip_class_code": null,
+    "locale_key": "W1B484",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1765,7 +1898,10 @@
     "physical_city": "RECLUSE",
     "physical_state": "WY",
     "physical_zip": "82725",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B504",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1778,7 +1914,10 @@
     "physical_city": "ROZET",
     "physical_state": "WY",
     "physical_zip": "82727",
-    "physical_zip4": "8825"
+    "physical_zip4": "8825",
+    "zip_class_code": null,
+    "locale_key": "W1B516",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1791,7 +1930,10 @@
     "physical_city": "SUNDANCE",
     "physical_state": "WY",
     "physical_zip": "82729",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B540",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1804,7 +1946,10 @@
     "physical_city": "UPTON",
     "physical_state": "WY",
     "physical_zip": "82730",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B557",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1817,7 +1962,10 @@
     "physical_city": "WRIGHT",
     "physical_state": "WY",
     "physical_zip": "82732",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B578",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1830,7 +1978,10 @@
     "physical_city": "SHERIDAN",
     "physical_state": "WY",
     "physical_zip": "82801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B526",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1843,7 +1994,10 @@
     "physical_city": "ARVADA",
     "physical_state": "WY",
     "physical_zip": "82831",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B304",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1856,7 +2010,10 @@
     "physical_city": "CLEARMONT",
     "physical_state": "WY",
     "physical_zip": "82835",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B341",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1869,7 +2026,10 @@
     "physical_city": "STORY",
     "physical_state": "WY",
     "physical_zip": "82842",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B539",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1882,7 +2042,10 @@
     "physical_city": "BIG HORN",
     "physical_state": "WY",
     "physical_zip": "82833",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B315",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1895,7 +2058,10 @@
     "physical_city": "BUFFALO",
     "physical_state": "WY",
     "physical_zip": "82834",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B323",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1908,7 +2074,10 @@
     "physical_city": "CLEARMONT",
     "physical_state": "WY",
     "physical_zip": "82835",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B341",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1921,7 +2090,10 @@
     "physical_city": "DAYTON",
     "physical_state": "WY",
     "physical_zip": "82836",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B350",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1934,7 +2106,10 @@
     "physical_city": "LEITER",
     "physical_state": "WY",
     "physical_zip": "82837",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B435",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1947,20 +2122,10 @@
     "physical_city": "PARKMAN",
     "physical_state": "WY",
     "physical_zip": "82838",
-    "physical_zip4": "9901"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82838",
-    "locale_name": "RANCHESTER",
-    "physical_delivery_address": "551 US HIGHWAY 14",
-    "physical_city": "RANCHESTER",
-    "physical_state": "WY",
-    "physical_zip": "82839",
-    "physical_zip4": "9903"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B488",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1973,7 +2138,10 @@
     "physical_city": "RANCHESTER",
     "physical_state": "WY",
     "physical_zip": "82839",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "W1B500",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1986,33 +2154,10 @@
     "physical_city": "STORY",
     "physical_state": "WY",
     "physical_zip": "82842",
-    "physical_zip4": "9900"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82844",
-    "locale_name": "RANCHESTER",
-    "physical_delivery_address": "551 US HIGHWAY 14",
-    "physical_city": "RANCHESTER",
-    "physical_state": "WY",
-    "physical_zip": "82839",
-    "physical_zip4": "9903"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82845",
-    "locale_name": "SHERIDAN",
-    "physical_delivery_address": "101 E LOUCKS ST",
-    "physical_city": "SHERIDAN",
-    "physical_state": "WY",
-    "physical_zip": "82801",
-    "physical_zip4": "9998"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B539",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2025,7 +2170,10 @@
     "physical_city": "ROCK SPRINGS",
     "physical_state": "WY",
     "physical_zip": "82901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B514",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2038,7 +2186,10 @@
     "physical_city": "ROCK SPRINGS",
     "physical_state": "WY",
     "physical_zip": "82901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B514",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2051,7 +2202,10 @@
     "physical_city": "BONDURANT",
     "physical_state": "WY",
     "physical_zip": "82922",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "W1B319",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2064,7 +2218,10 @@
     "physical_city": "BOULDER",
     "physical_state": "WY",
     "physical_zip": "82923",
-    "physical_zip4": "9624"
+    "physical_zip4": "9624",
+    "zip_class_code": null,
+    "locale_key": "W1B322",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2077,7 +2234,10 @@
     "physical_city": "CORA",
     "physical_state": "WY",
     "physical_zip": "82925",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "W1B345",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2090,7 +2250,10 @@
     "physical_city": "EVANSTON",
     "physical_state": "WY",
     "physical_zip": "82930",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B367",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2103,7 +2266,10 @@
     "physical_city": "EVANSTON",
     "physical_state": "WY",
     "physical_zip": "82930",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B367",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2116,7 +2282,10 @@
     "physical_city": "FARSON",
     "physical_state": "WY",
     "physical_zip": "82932",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "W1B370",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2129,7 +2298,10 @@
     "physical_city": "FORT BRIDGER",
     "physical_state": "WY",
     "physical_zip": "82933",
-    "physical_zip4": "8850"
+    "physical_zip4": "8850",
+    "zip_class_code": null,
+    "locale_key": "W1B375",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2142,7 +2314,10 @@
     "physical_city": "GRANGER",
     "physical_state": "WY",
     "physical_zip": "82934",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "W1B391",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2155,7 +2330,10 @@
     "physical_city": "GREEN RIVER",
     "physical_state": "WY",
     "physical_zip": "82935",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B396",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2168,7 +2346,10 @@
     "physical_city": "MOUNTAIN VIEW",
     "physical_state": "WY",
     "physical_zip": "82939",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B469",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2181,7 +2362,10 @@
     "physical_city": "LYMAN",
     "physical_state": "WY",
     "physical_zip": "82937",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "W1B448",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2194,7 +2378,10 @@
     "physical_city": "MOUNTAIN VIEW",
     "physical_state": "WY",
     "physical_zip": "82939",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B469",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2207,7 +2394,10 @@
     "physical_city": "PINEDALE",
     "physical_state": "WY",
     "physical_zip": "82941",
-    "physical_zip4": "9050"
+    "physical_zip4": "9050",
+    "zip_class_code": null,
+    "locale_key": "W1B493",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2220,20 +2410,10 @@
     "physical_city": "POINT OF ROCKS",
     "physical_state": "WY",
     "physical_zip": "82942",
-    "physical_zip4": "9900"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "82943",
-    "locale_name": "ROCK SPRINGS",
-    "physical_delivery_address": "2829 COMMERCIAL WAY",
-    "physical_city": "ROCK SPRINGS",
-    "physical_state": "WY",
-    "physical_zip": "82901",
-    "physical_zip4": "9998"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B494",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2246,7 +2426,10 @@
     "physical_city": "ROBERTSON",
     "physical_state": "WY",
     "physical_zip": "82944",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "W1B511",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2259,7 +2442,26 @@
     "physical_city": "SUPERIOR",
     "physical_state": "WY",
     "physical_zip": "82945",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "W1B543",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "CO-WY",
+    "district_no": "800",
+    "delivery_zipcode": "83001",
+    "locale_name": "JACKSON",
+    "physical_delivery_address": "1070 MAPLE WAY",
+    "physical_city": "JACKSON",
+    "physical_state": "WY",
+    "physical_zip": "83002",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B415",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2272,20 +2474,10 @@
     "physical_city": "JACKSON",
     "physical_state": "WY",
     "physical_zip": "83001",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "83001",
-    "locale_name": "JACKSON",
-    "physical_delivery_address": "1070 MAPLE WAY",
-    "physical_city": "JACKSON",
-    "physical_state": "WY",
-    "physical_zip": "83002",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B568",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2298,7 +2490,10 @@
     "physical_city": "JACKSON",
     "physical_state": "WY",
     "physical_zip": "83002",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "W1B415",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2311,20 +2506,10 @@
     "physical_city": "KELLY",
     "physical_state": "WY",
     "physical_zip": "83011",
-    "physical_zip4": "9902"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "83012",
-    "locale_name": "JACKSON",
-    "physical_delivery_address": "1070 MAPLE WAY",
-    "physical_city": "JACKSON",
-    "physical_state": "WY",
-    "physical_zip": "83002",
-    "physical_zip4": "9998"
+    "physical_zip4": "9902",
+    "zip_class_code": null,
+    "locale_key": "W1B422",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2337,7 +2522,10 @@
     "physical_city": "MOOSE",
     "physical_state": "WY",
     "physical_zip": "83012",
-    "physical_zip4": "9903"
+    "physical_zip4": "9903",
+    "zip_class_code": null,
+    "locale_key": "W1B465",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2350,7 +2538,10 @@
     "physical_city": "MORAN",
     "physical_state": "WY",
     "physical_zip": "83013",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B466",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2363,7 +2554,10 @@
     "physical_city": "WILSON",
     "physical_state": "WY",
     "physical_zip": "83014",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B572",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2376,7 +2570,10 @@
     "physical_city": "TETON VILLAGE",
     "physical_state": "WY",
     "physical_zip": "83025",
-    "physical_zip4": "9905"
+    "physical_zip4": "9905",
+    "zip_class_code": null,
+    "locale_key": "W1B547",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2389,7 +2586,10 @@
     "physical_city": "KEMMERER",
     "physical_state": "WY",
     "physical_zip": "83101",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B423",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2402,7 +2602,10 @@
     "physical_city": "AFTON",
     "physical_state": "WY",
     "physical_zip": "83110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B293",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2415,7 +2618,10 @@
     "physical_city": "AUBURN",
     "physical_state": "WY",
     "physical_zip": "83111",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B307",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2428,7 +2634,10 @@
     "physical_city": "AFTON",
     "physical_state": "WY",
     "physical_zip": "83110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B293",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2441,7 +2650,10 @@
     "physical_city": "ALPINE",
     "physical_state": "WY",
     "physical_zip": "83128",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B299",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2454,7 +2666,10 @@
     "physical_city": "BIG PINEY",
     "physical_state": "WY",
     "physical_zip": "83113",
-    "physical_zip4": "9904"
+    "physical_zip4": "9904",
+    "zip_class_code": null,
+    "locale_key": "W1B316",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2467,7 +2682,10 @@
     "physical_city": "COKEVILLE",
     "physical_state": "WY",
     "physical_zip": "83114",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B343",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2480,7 +2698,10 @@
     "physical_city": "DANIEL",
     "physical_state": "WY",
     "physical_zip": "83115",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B349",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2493,7 +2714,10 @@
     "physical_city": "DIAMONDVILLE",
     "physical_state": "WY",
     "physical_zip": "83116",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B354",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2506,7 +2730,10 @@
     "physical_city": "AFTON",
     "physical_state": "WY",
     "physical_zip": "83110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "W1B293",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2519,7 +2746,10 @@
     "physical_city": "ETNA",
     "physical_state": "WY",
     "physical_zip": "83118",
-    "physical_zip4": "9700"
+    "physical_zip4": "9700",
+    "zip_class_code": null,
+    "locale_key": "W1B366",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2532,7 +2762,10 @@
     "physical_city": "FAIRVIEW",
     "physical_state": "WY",
     "physical_zip": "83119",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B369",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2545,7 +2778,10 @@
     "physical_city": "FREEDOM",
     "physical_state": "WY",
     "physical_zip": "83120",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B381",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2558,7 +2794,10 @@
     "physical_city": "LA BARGE",
     "physical_state": "WY",
     "physical_zip": "83123",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B428",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2571,7 +2810,10 @@
     "physical_city": "OPAL",
     "physical_state": "WY",
     "physical_zip": "83124",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "W1B482",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2584,7 +2826,10 @@
     "physical_city": "SMOOT",
     "physical_state": "WY",
     "physical_zip": "83126",
-    "physical_zip4": "9901"
+    "physical_zip4": "9901",
+    "zip_class_code": null,
+    "locale_key": "W1B531",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2597,20 +2842,10 @@
     "physical_city": "THAYNE",
     "physical_state": "WY",
     "physical_zip": "83127",
-    "physical_zip4": "9902"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "83128",
-    "locale_name": "AFTON",
-    "physical_delivery_address": "31 W 4TH AVE",
-    "physical_city": "AFTON",
-    "physical_state": "WY",
-    "physical_zip": "83110",
-    "physical_zip4": "9998"
+    "physical_zip4": "9902",
+    "zip_class_code": null,
+    "locale_key": "W1B548",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2623,6 +2858,9 @@
     "physical_city": "ALPINE",
     "physical_state": "WY",
     "physical_zip": "83128",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": null,
+    "locale_key": "W1B299",
+    "locale_type": "C"
   }
 ]

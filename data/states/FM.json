@@ -10,7 +10,10 @@
     "physical_city": "POHNPEI",
     "physical_state": "FM",
     "physical_zip": "96941",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12063",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,7 +26,10 @@
     "physical_city": "CHUUK",
     "physical_state": "FM",
     "physical_zip": "96942",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12058",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +42,10 @@
     "physical_city": "YAP",
     "physical_state": "FM",
     "physical_zip": "96943",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12067",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -49,6 +58,9 @@
     "physical_city": "KOSRAE",
     "physical_state": "FM",
     "physical_zip": "96944",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12061",
+    "locale_type": "P"
   }
 ]

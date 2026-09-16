@@ -10,6 +10,9 @@
     "physical_city": "KOROR",
     "physical_state": "PW",
     "physical_zip": "96940",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z15777",
+    "locale_type": "P"
   }
 ]

@@ -10,7 +10,10 @@
     "physical_city": "ADAMSVILLE",
     "physical_state": "RI",
     "physical_zip": "02801",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V25833",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -23,7 +26,10 @@
     "physical_city": "ALBION",
     "physical_state": "RI",
     "physical_zip": "02802",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V25834",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -36,7 +42,10 @@
     "physical_city": "ASHAWAY",
     "physical_state": "RI",
     "physical_zip": "02804",
-    "physical_zip4": "2249"
+    "physical_zip4": "2249",
+    "zip_class_code": null,
+    "locale_key": "V25836",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -49,7 +58,10 @@
     "physical_city": "BARRINGTON",
     "physical_state": "RI",
     "physical_zip": "02806",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25837",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -62,7 +74,10 @@
     "physical_city": "BLOCK ISLAND",
     "physical_state": "RI",
     "physical_zip": "02807",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V25838",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -75,7 +90,10 @@
     "physical_city": "BRADFORD",
     "physical_state": "RI",
     "physical_zip": "02808",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25841",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -88,7 +106,10 @@
     "physical_city": "BRISTOL",
     "physical_state": "RI",
     "physical_zip": "02809",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25844",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -101,7 +122,10 @@
     "physical_city": "CAROLINA",
     "physical_state": "RI",
     "physical_zip": "02812",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "V25849",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -114,7 +138,10 @@
     "physical_city": "CHARLESTOWN",
     "physical_state": "RI",
     "physical_zip": "02813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25854",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -127,7 +154,10 @@
     "physical_city": "CHARLESTOWN",
     "physical_state": "RI",
     "physical_zip": "02813",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25854",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -140,7 +170,10 @@
     "physical_city": "CHEPACHET",
     "physical_state": "RI",
     "physical_zip": "02814",
-    "physical_zip4": "1960"
+    "physical_zip4": "1960",
+    "zip_class_code": null,
+    "locale_key": "V25855",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -153,7 +186,10 @@
     "physical_city": "COVENTRY",
     "physical_state": "RI",
     "physical_zip": "02816",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25859",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -166,7 +202,10 @@
     "physical_city": "COVENTRY",
     "physical_state": "RI",
     "physical_zip": "02816",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25859",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -179,7 +218,10 @@
     "physical_city": "EAST GREENWICH",
     "physical_state": "RI",
     "physical_zip": "02818",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25867",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -192,7 +234,10 @@
     "physical_city": "NORTH KINGSTOWN",
     "physical_state": "RI",
     "physical_zip": "02852",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25921",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -205,7 +250,10 @@
     "physical_city": "EXETER",
     "physical_state": "RI",
     "physical_zip": "02822",
-    "physical_zip4": "3500"
+    "physical_zip4": "3500",
+    "zip_class_code": null,
+    "locale_key": "V25877",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -218,7 +266,10 @@
     "physical_city": "FISKEVILLE",
     "physical_state": "RI",
     "physical_zip": "02823",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V25879",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -231,7 +282,10 @@
     "physical_city": "FORESTDALE",
     "physical_state": "RI",
     "physical_zip": "02824",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V25880",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -244,7 +298,10 @@
     "physical_city": "FOSTER",
     "physical_state": "RI",
     "physical_zip": "02825",
-    "physical_zip4": "1326"
+    "physical_zip4": "1326",
+    "zip_class_code": null,
+    "locale_key": "V25881",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -257,7 +314,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "RI",
     "physical_zip": "02826",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V25885",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -270,7 +330,10 @@
     "physical_city": "COVENTRY",
     "physical_state": "RI",
     "physical_zip": "02816",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25859",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -283,7 +346,10 @@
     "physical_city": "GREENVILLE",
     "physical_state": "RI",
     "physical_zip": "02828",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25889",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -296,7 +362,10 @@
     "physical_city": "HARMONY",
     "physical_state": "RI",
     "physical_zip": "02829",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "V25890",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -309,7 +378,10 @@
     "physical_city": "HARRISVILLE",
     "physical_state": "RI",
     "physical_zip": "02830",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25891",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -322,7 +394,10 @@
     "physical_city": "HOPE",
     "physical_state": "RI",
     "physical_zip": "02831",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25893",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -335,7 +410,10 @@
     "physical_city": "HOPE VALLEY",
     "physical_state": "RI",
     "physical_zip": "02832",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25894",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -348,7 +426,10 @@
     "physical_city": "HOPKINTON",
     "physical_state": "RI",
     "physical_zip": "02833",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "V25897",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -361,7 +442,10 @@
     "physical_city": "JAMESTOWN",
     "physical_state": "RI",
     "physical_zip": "02835",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25899",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -374,7 +458,10 @@
     "physical_city": "LITTLE COMPTON",
     "physical_state": "RI",
     "physical_zip": "02837",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25906",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -387,7 +474,10 @@
     "physical_city": "MANVILLE",
     "physical_state": "RI",
     "physical_zip": "02838",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25908",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -400,7 +490,10 @@
     "physical_city": "HARRISVILLE",
     "physical_state": "RI",
     "physical_zip": "02830",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25891",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -413,7 +506,10 @@
     "physical_city": "MAPLEVILLE",
     "physical_state": "RI",
     "physical_zip": "02839",
-    "physical_zip4": "1180"
+    "physical_zip4": "1180",
+    "zip_class_code": null,
+    "locale_key": "V25909",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -426,7 +522,10 @@
     "physical_city": "NEWPORT",
     "physical_state": "RI",
     "physical_zip": "02840",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "V25845",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -439,7 +538,10 @@
     "physical_city": "NEWPORT",
     "physical_state": "RI",
     "physical_zip": "02840",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25919",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -452,7 +554,10 @@
     "physical_city": "NEWPORT",
     "physical_state": "RI",
     "physical_zip": "02841",
-    "physical_zip4": "1644"
+    "physical_zip4": "1644",
+    "zip_class_code": null,
+    "locale_key": "002046",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -465,7 +570,10 @@
     "physical_city": "MIDDLETOWN",
     "physical_state": "RI",
     "physical_zip": "02842",
-    "physical_zip4": "6290"
+    "physical_zip4": "6290",
+    "zip_class_code": null,
+    "locale_key": "V25911",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -478,7 +586,10 @@
     "physical_city": "NORTH KINGSTOWN",
     "physical_state": "RI",
     "physical_zip": "02852",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25921",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -491,7 +602,10 @@
     "physical_city": "NORTH SCITUATE",
     "physical_state": "RI",
     "physical_zip": "02857",
-    "physical_zip4": "1961"
+    "physical_zip4": "1961",
+    "zip_class_code": null,
+    "locale_key": "V25924",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -504,7 +618,10 @@
     "physical_city": "PASCOAG",
     "physical_state": "RI",
     "physical_zip": "02859",
-    "physical_zip4": "3132"
+    "physical_zip4": "3132",
+    "zip_class_code": null,
+    "locale_key": "V25928",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -517,7 +634,10 @@
     "physical_city": "PAWTUCKET",
     "physical_state": "RI",
     "physical_zip": "02860",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25929",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -530,7 +650,10 @@
     "physical_city": "PAWTUCKET",
     "physical_state": "RI",
     "physical_zip": "02861",
-    "physical_zip4": "3810"
+    "physical_zip4": "3810",
+    "zip_class_code": null,
+    "locale_key": "V25864",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -543,7 +666,10 @@
     "physical_city": "PAWTUCKET",
     "physical_state": "RI",
     "physical_zip": "02860",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "V25929",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -556,7 +682,10 @@
     "physical_city": "CENTRAL FALLS",
     "physical_state": "RI",
     "physical_zip": "02863",
-    "physical_zip4": "2603"
+    "physical_zip4": "2603",
+    "zip_class_code": null,
+    "locale_key": "V25851",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -569,7 +698,10 @@
     "physical_city": "PAWTUCKET",
     "physical_state": "RI",
     "physical_zip": "02860",
-    "physical_zip4": "2020"
+    "physical_zip4": "2020",
+    "zip_class_code": null,
+    "locale_key": "020157",
+    "locale_type": "Z"
   },
   {
     "area_name": "ATLANTIC",
@@ -582,7 +714,10 @@
     "physical_city": "CUMBERLAND",
     "physical_state": "RI",
     "physical_zip": "02864",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25862",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -595,7 +730,10 @@
     "physical_city": "CUMBERLAND",
     "physical_state": "RI",
     "physical_zip": "02864",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25862",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -608,7 +746,10 @@
     "physical_city": "LINCOLN",
     "physical_state": "RI",
     "physical_zip": "02865",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25905",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -621,7 +762,10 @@
     "physical_city": "PORTSMOUTH",
     "physical_state": "RI",
     "physical_zip": "02871",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25933",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -634,7 +778,10 @@
     "physical_city": "PRUDENCE ISLAND",
     "physical_state": "RI",
     "physical_zip": "02872",
-    "physical_zip4": "9900"
+    "physical_zip4": "9900",
+    "zip_class_code": "P",
+    "locale_key": "V25938",
+    "locale_type": "C"
   },
   {
     "area_name": "ATLANTIC",
@@ -647,7 +794,10 @@
     "physical_city": "ROCKVILLE",
     "physical_state": "RI",
     "physical_zip": "02873",
-    "physical_zip4": "1015"
+    "physical_zip4": "1015",
+    "zip_class_code": "P",
+    "locale_key": "V25947",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -660,7 +810,10 @@
     "physical_city": "NORTH KINGSTOWN",
     "physical_state": "RI",
     "physical_zip": "02852",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25921",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -673,7 +826,10 @@
     "physical_city": "SAUNDERSTOWN",
     "physical_state": "RI",
     "physical_zip": "02874",
-    "physical_zip4": "3818"
+    "physical_zip4": "3818",
+    "zip_class_code": null,
+    "locale_key": "V25949",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -686,7 +842,10 @@
     "physical_city": "SHANNOCK",
     "physical_state": "RI",
     "physical_zip": "02875",
-    "physical_zip4": "1001"
+    "physical_zip4": "1001",
+    "zip_class_code": null,
+    "locale_key": "V25951",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -699,7 +858,10 @@
     "physical_city": "SLATERSVILLE",
     "physical_state": "RI",
     "physical_zip": "02876",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "V25952",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -712,7 +874,10 @@
     "physical_city": "EXETER",
     "physical_state": "RI",
     "physical_zip": "02822",
-    "physical_zip4": "3500"
+    "physical_zip4": "3500",
+    "zip_class_code": null,
+    "locale_key": "V25877",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -725,7 +890,10 @@
     "physical_city": "TIVERTON",
     "physical_state": "RI",
     "physical_zip": "02878",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25965",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -738,7 +906,10 @@
     "physical_city": "WAKEFIELD",
     "physical_state": "RI",
     "physical_zip": "02879",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "V25967",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -751,7 +922,10 @@
     "physical_city": "WAKEFIELD",
     "physical_state": "RI",
     "physical_zip": "02879",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": "P",
+    "locale_key": "V25967",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -764,7 +938,10 @@
     "physical_city": "KINGSTON",
     "physical_state": "RI",
     "physical_zip": "02881",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25903",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -777,7 +954,10 @@
     "physical_city": "WAKEFIELD",
     "physical_state": "RI",
     "physical_zip": "02879",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "V25967",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -790,7 +970,10 @@
     "physical_city": "NARRAGANSETT",
     "physical_state": "RI",
     "physical_zip": "02882",
-    "physical_zip4": "3391"
+    "physical_zip4": "3391",
+    "zip_class_code": null,
+    "locale_key": "V25916",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -803,7 +986,10 @@
     "physical_city": "WAKEFIELD",
     "physical_state": "RI",
     "physical_zip": "02879",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": null,
+    "locale_key": "V25967",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -816,7 +1002,10 @@
     "physical_city": "WAKEFIELD",
     "physical_state": "RI",
     "physical_zip": "02879",
-    "physical_zip4": "9994"
+    "physical_zip4": "9994",
+    "zip_class_code": "P",
+    "locale_key": "V25967",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -829,7 +1018,10 @@
     "physical_city": "WARREN",
     "physical_state": "RI",
     "physical_zip": "02885",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25968",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -842,7 +1034,10 @@
     "physical_city": "WARWICK",
     "physical_state": "RI",
     "physical_zip": "02886",
-    "physical_zip4": "9946"
+    "physical_zip4": "9946",
+    "zip_class_code": null,
+    "locale_key": "021552",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -855,7 +1050,10 @@
     "physical_city": "WARWICK",
     "physical_state": "RI",
     "physical_zip": "02886",
-    "physical_zip4": "7157"
+    "physical_zip4": "7157",
+    "zip_class_code": "P",
+    "locale_key": "V27496",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -868,7 +1066,10 @@
     "physical_city": "WARWICK",
     "physical_state": "RI",
     "physical_zip": "02886",
-    "physical_zip4": "9946"
+    "physical_zip4": "9946",
+    "zip_class_code": "P",
+    "locale_key": "021552",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -881,7 +1082,10 @@
     "physical_city": "WARWICK",
     "physical_state": "RI",
     "physical_zip": "02888",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V25931",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -894,7 +1098,10 @@
     "physical_city": "WARWICK",
     "physical_state": "RI",
     "physical_zip": "02886",
-    "physical_zip4": "9946"
+    "physical_zip4": "9946",
+    "zip_class_code": null,
+    "locale_key": "021552",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -907,7 +1114,10 @@
     "physical_city": "WARWICK",
     "physical_state": "RI",
     "physical_zip": "02889",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "V28279",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -920,7 +1130,10 @@
     "physical_city": "WARWICK",
     "physical_state": "RI",
     "physical_zip": "02886",
-    "physical_zip4": "9946"
+    "physical_zip4": "9946",
+    "zip_class_code": null,
+    "locale_key": "021552",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -933,7 +1146,10 @@
     "physical_city": "WESTERLY",
     "physical_state": "RI",
     "physical_zip": "02891",
-    "physical_zip4": "1878"
+    "physical_zip4": "1878",
+    "zip_class_code": null,
+    "locale_key": "V25892",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -946,7 +1162,10 @@
     "physical_city": "WESTERLY",
     "physical_state": "RI",
     "physical_zip": "02891",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25978",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -959,7 +1178,10 @@
     "physical_city": "WEST KINGSTON",
     "physical_state": "RI",
     "physical_zip": "02892",
-    "physical_zip4": "1408"
+    "physical_zip4": "1408",
+    "zip_class_code": null,
+    "locale_key": "V25976",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -972,7 +1194,10 @@
     "physical_city": "WEST WARWICK",
     "physical_state": "RI",
     "physical_zip": "02893",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25977",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -985,7 +1210,10 @@
     "physical_city": "HOPE VALLEY",
     "physical_state": "RI",
     "physical_zip": "02832",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25894",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -998,7 +1226,26 @@
     "physical_city": "WOOD RIVER JUNCTION",
     "physical_state": "RI",
     "physical_zip": "02894",
-    "physical_zip4": "1206"
+    "physical_zip4": "1206",
+    "zip_class_code": null,
+    "locale_key": "V25982",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MA-RI",
+    "district_no": "020",
+    "delivery_zipcode": "02895",
+    "locale_name": "WOONSOCKET",
+    "physical_delivery_address": "127 SOCIAL ST STE 1",
+    "physical_city": "WOONSOCKET",
+    "physical_state": "RI",
+    "physical_zip": "02895",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25983",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1011,20 +1258,10 @@
     "physical_city": "WOONSOCKET",
     "physical_state": "RI",
     "physical_zip": "02895",
-    "physical_zip4": "1537"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "MA-RI",
-    "district_no": "020",
-    "delivery_zipcode": "02895",
-    "locale_name": "WOONSOCKET",
-    "physical_delivery_address": "127 SOCIAL ST STE 1",
-    "physical_city": "WOONSOCKET",
-    "physical_state": "RI",
-    "physical_zip": "02895",
-    "physical_zip4": "9998"
+    "physical_zip4": "1537",
+    "zip_class_code": null,
+    "locale_key": "V27497",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1037,7 +1274,10 @@
     "physical_city": "WOONSOCKET",
     "physical_state": "RI",
     "physical_zip": "02895",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25983",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1050,7 +1290,10 @@
     "physical_city": "WYOMING",
     "physical_state": "RI",
     "physical_zip": "02898",
-    "physical_zip4": "1074"
+    "physical_zip4": "1074",
+    "zip_class_code": null,
+    "locale_key": "V25984",
+    "locale_type": "P"
   },
   {
     "area_name": "ATLANTIC",
@@ -1063,7 +1306,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02903",
-    "physical_zip4": "1701"
+    "physical_zip4": "1701",
+    "zip_class_code": "P",
+    "locale_key": "V25835",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1076,7 +1322,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02904",
-    "physical_zip4": "9712"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "V25907",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1089,7 +1338,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02903",
-    "physical_zip4": "4102"
+    "physical_zip4": "4102",
+    "zip_class_code": null,
+    "locale_key": "V25979",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1102,20 +1354,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02904",
-    "physical_zip4": "9712"
-  },
-  {
-    "area_name": "ATLANTIC",
-    "area_code": "4B",
-    "district_name": "MA-RI",
-    "district_no": "020",
-    "delivery_zipcode": "02905",
-    "locale_name": "ELMWOOD",
-    "physical_delivery_address": "820 ELMWOOD AVE",
-    "physical_city": "PROVIDENCE",
-    "physical_state": "RI",
-    "physical_zip": "02907",
-    "physical_zip4": "9998"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "V25907",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1128,7 +1370,26 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02905",
-    "physical_zip4": "2999"
+    "physical_zip4": "2999",
+    "zip_class_code": null,
+    "locale_key": "V25872",
+    "locale_type": "S"
+  },
+  {
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "MA-RI",
+    "district_no": "020",
+    "delivery_zipcode": "02905",
+    "locale_name": "ELMWOOD",
+    "physical_delivery_address": "820 ELMWOOD AVE",
+    "physical_city": "PROVIDENCE",
+    "physical_state": "RI",
+    "physical_zip": "02907",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25873",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1141,7 +1402,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02904",
-    "physical_zip4": "9712"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "V25907",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1154,7 +1418,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02906",
-    "physical_zip4": "1590"
+    "physical_zip4": "1590",
+    "zip_class_code": null,
+    "locale_key": "V27457",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1167,7 +1434,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02907",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25873",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1180,7 +1450,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02904",
-    "physical_zip4": "9712"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "V25907",
+    "locale_type": "4"
   },
   {
     "area_name": "ATLANTIC",
@@ -1193,7 +1466,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02908",
-    "physical_zip4": "3700"
+    "physical_zip4": "3700",
+    "zip_class_code": null,
+    "locale_key": "V27458",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1206,7 +1482,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02909",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25927",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1219,7 +1498,10 @@
     "physical_city": "CRANSTON",
     "physical_state": "RI",
     "physical_zip": "02910",
-    "physical_zip4": "3499"
+    "physical_zip4": "3499",
+    "zip_class_code": null,
+    "locale_key": "V25860",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1232,7 +1514,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02907",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25873",
+    "locale_type": "S"
   },
   {
     "area_name": "ATLANTIC",
@@ -1245,7 +1530,10 @@
     "physical_city": "NORTH PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02911",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25852",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1258,7 +1546,10 @@
     "physical_city": "JOHNSTON",
     "physical_state": "RI",
     "physical_zip": "02919",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25901",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1271,7 +1562,10 @@
     "physical_city": "EAST PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02914",
-    "physical_zip4": "4506"
+    "physical_zip4": "4506",
+    "zip_class_code": null,
+    "locale_key": "V27459",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1284,7 +1578,10 @@
     "physical_city": "RIVERSIDE",
     "physical_state": "RI",
     "physical_zip": "02915",
-    "physical_zip4": "9991"
+    "physical_zip4": "9991",
+    "zip_class_code": null,
+    "locale_key": "V25946",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1297,7 +1594,10 @@
     "physical_city": "RUMFORD",
     "physical_state": "RI",
     "physical_zip": "02916",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25948",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1310,7 +1610,10 @@
     "physical_city": "SMITHFIELD",
     "physical_state": "RI",
     "physical_zip": "02917",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25955",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1323,7 +1626,10 @@
     "physical_city": "JOHNSTON",
     "physical_state": "RI",
     "physical_zip": "02919",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25901",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1336,7 +1642,10 @@
     "physical_city": "CRANSTON",
     "physical_state": "RI",
     "physical_zip": "02920",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25884",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1349,7 +1658,10 @@
     "physical_city": "JOHNSTON",
     "physical_state": "RI",
     "physical_zip": "02919",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "V25901",
+    "locale_type": "B"
   },
   {
     "area_name": "ATLANTIC",
@@ -1362,6 +1674,9 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "RI",
     "physical_zip": "02904",
-    "physical_zip4": "2477"
+    "physical_zip4": "2477",
+    "zip_class_code": "P",
+    "locale_key": "V25936",
+    "locale_type": "P"
   }
 ]

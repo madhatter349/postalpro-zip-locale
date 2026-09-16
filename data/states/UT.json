@@ -10,7 +10,10 @@
     "physical_city": "ALTAMONT",
     "physical_state": "UT",
     "physical_zip": "84001",
-    "physical_zip4": "8000"
+    "physical_zip4": "8000",
+    "zip_class_code": null,
+    "locale_key": "Z15783",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,7 +26,10 @@
     "physical_city": "ALTAMONT",
     "physical_state": "UT",
     "physical_zip": "84001",
-    "physical_zip4": "8000"
+    "physical_zip4": "8000",
+    "zip_class_code": null,
+    "locale_key": "Z15783",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -36,7 +42,10 @@
     "physical_city": "AMERICAN FORK",
     "physical_state": "UT",
     "physical_zip": "84003",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15789",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -49,7 +58,10 @@
     "physical_city": "AMERICAN FORK",
     "physical_state": "UT",
     "physical_zip": "84003",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15789",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -62,7 +74,10 @@
     "physical_city": "LEHI",
     "physical_state": "UT",
     "physical_zip": "84043",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16108",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -75,20 +90,10 @@
     "physical_city": "BINGHAM CANYON",
     "physical_state": "UT",
     "physical_zip": "84006",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84006",
-    "locale_name": "WEST JORDAN",
-    "physical_delivery_address": "7901 S 3200 W",
-    "physical_city": "WEST JORDAN",
-    "physical_state": "UT",
-    "physical_zip": "84088",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15820",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -101,7 +106,10 @@
     "physical_city": "BLUEBELL",
     "physical_state": "UT",
     "physical_zip": "84007",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15827",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -114,7 +122,10 @@
     "physical_city": "SOUTH JORDAN",
     "physical_state": "UT",
     "physical_zip": "84095",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18331",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -127,7 +138,10 @@
     "physical_city": "BOUNTIFUL",
     "physical_state": "UT",
     "physical_zip": "84010",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15836",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -140,7 +154,10 @@
     "physical_city": "BOUNTIFUL",
     "physical_state": "UT",
     "physical_zip": "84010",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z15836",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -153,7 +170,10 @@
     "physical_city": "CEDAR VALLEY",
     "physical_state": "UT",
     "physical_zip": "84013",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "Z15870",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -166,7 +186,10 @@
     "physical_city": "CENTERVILLE",
     "physical_state": "UT",
     "physical_zip": "84014",
-    "physical_zip4": "1805"
+    "physical_zip4": "1805",
+    "zip_class_code": null,
+    "locale_key": "Z15874",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -179,7 +202,10 @@
     "physical_city": "CLEARFIELD",
     "physical_state": "UT",
     "physical_zip": "84015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15884",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -192,7 +218,10 @@
     "physical_city": "CLEARFIELD",
     "physical_state": "UT",
     "physical_zip": "84015",
-    "physical_zip4": "2300"
+    "physical_zip4": "2300",
+    "zip_class_code": "P",
+    "locale_key": "Z16001",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -205,20 +234,10 @@
     "physical_city": "COALVILLE",
     "physical_state": "UT",
     "physical_zip": "84017",
-    "physical_zip4": "8001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84018",
-    "locale_name": "MORGAN",
-    "physical_delivery_address": "188 N STATE ST",
-    "physical_city": "MORGAN",
-    "physical_state": "UT",
-    "physical_zip": "84050",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15889",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -231,7 +250,10 @@
     "physical_city": "DRAPER",
     "physical_state": "UT",
     "physical_zip": "84020",
-    "physical_zip4": "2099"
+    "physical_zip4": "2099",
+    "zip_class_code": null,
+    "locale_key": "Z15950",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -244,7 +266,10 @@
     "physical_city": "DUCHESNE",
     "physical_state": "UT",
     "physical_zip": "84021",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15952",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -257,7 +282,10 @@
     "physical_city": "DUGWAY",
     "physical_state": "UT",
     "physical_zip": "84022",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15954",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -270,7 +298,10 @@
     "physical_city": "DUTCH JOHN",
     "physical_state": "UT",
     "physical_zip": "84023",
-    "physical_zip4": "8002"
+    "physical_zip4": "8002",
+    "zip_class_code": null,
+    "locale_key": "Z15955",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -283,7 +314,10 @@
     "physical_city": "ECHO",
     "physical_state": "UT",
     "physical_zip": "84024",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "004491",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -296,7 +330,10 @@
     "physical_city": "FARMINGTON",
     "physical_state": "UT",
     "physical_zip": "84025",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15983",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -309,7 +346,10 @@
     "physical_city": "FORT DUCHESNE",
     "physical_state": "UT",
     "physical_zip": "84026",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15996",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -322,7 +362,10 @@
     "physical_city": "DUCHESNE",
     "physical_state": "UT",
     "physical_zip": "84021",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15952",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -335,7 +378,10 @@
     "physical_city": "GARDEN CITY",
     "physical_state": "UT",
     "physical_zip": "84028",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16008",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -348,7 +394,10 @@
     "physical_city": "GRANTSVILLE",
     "physical_state": "UT",
     "physical_zip": "84029",
-    "physical_zip4": "6001"
+    "physical_zip4": "6001",
+    "zip_class_code": null,
+    "locale_key": "Z16020",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -361,7 +410,10 @@
     "physical_city": "TABIONA",
     "physical_state": "UT",
     "physical_zip": "84072",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16312",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -374,7 +426,10 @@
     "physical_city": "HEBER CITY",
     "physical_state": "UT",
     "physical_zip": "84032",
-    "physical_zip4": "3200"
+    "physical_zip4": "3200",
+    "zip_class_code": null,
+    "locale_key": "Z16041",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -387,7 +442,10 @@
     "physical_city": "HENEFER",
     "physical_state": "UT",
     "physical_zip": "84033",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16043",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -400,7 +458,10 @@
     "physical_city": "WENDOVER",
     "physical_state": "UT",
     "physical_zip": "84083",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16376",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -413,7 +474,10 @@
     "physical_city": "JENSEN",
     "physical_state": "UT",
     "physical_zip": "84035",
-    "physical_zip4": "9712"
+    "physical_zip4": "9712",
+    "zip_class_code": null,
+    "locale_key": "Z16071",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -426,7 +490,10 @@
     "physical_city": "KAMAS",
     "physical_state": "UT",
     "physical_zip": "84036",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16074",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -439,7 +506,10 @@
     "physical_city": "KAYSVILLE",
     "physical_state": "UT",
     "physical_zip": "84037",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16079",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -452,7 +522,10 @@
     "physical_city": "LAKETOWN",
     "physical_state": "UT",
     "physical_zip": "84038",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16096",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -465,7 +538,10 @@
     "physical_city": "LAPOINT",
     "physical_state": "UT",
     "physical_zip": "84039",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16098",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -478,7 +554,10 @@
     "physical_city": "LAYTON",
     "physical_state": "UT",
     "physical_zip": "84041",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16101",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -491,7 +570,10 @@
     "physical_city": "LAYTON",
     "physical_state": "UT",
     "physical_zip": "84041",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16101",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -504,7 +586,10 @@
     "physical_city": "PLEASANT GROVE",
     "physical_state": "UT",
     "physical_zip": "84062",
-    "physical_zip4": "6200"
+    "physical_zip4": "6200",
+    "zip_class_code": null,
+    "locale_key": "Z16224",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -517,7 +602,10 @@
     "physical_city": "LEHI",
     "physical_state": "UT",
     "physical_zip": "84043",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16108",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -530,7 +618,10 @@
     "physical_city": "MAGNA",
     "physical_state": "UT",
     "physical_zip": "84044",
-    "physical_zip4": "4450"
+    "physical_zip4": "4450",
+    "zip_class_code": null,
+    "locale_key": "Z16122",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -543,7 +634,10 @@
     "physical_city": "LEHI",
     "physical_state": "UT",
     "physical_zip": "84043",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16108",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -556,7 +650,10 @@
     "physical_city": "MANILA",
     "physical_state": "UT",
     "physical_zip": "84046",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16126",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -569,7 +666,10 @@
     "physical_city": "MIDVALE",
     "physical_state": "UT",
     "physical_zip": "84047",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16139",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -582,7 +682,10 @@
     "physical_city": "LEHI",
     "physical_state": "UT",
     "physical_zip": "84043",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16108",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -595,7 +698,10 @@
     "physical_city": "MIDWAY",
     "physical_state": "UT",
     "physical_zip": "84049",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16140",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -608,7 +714,10 @@
     "physical_city": "MORGAN",
     "physical_state": "UT",
     "physical_zip": "84050",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16157",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -621,7 +730,10 @@
     "physical_city": "DUCHESNE",
     "physical_state": "UT",
     "physical_zip": "84021",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15952",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -634,7 +746,10 @@
     "physical_city": "MYTON",
     "physical_state": "UT",
     "physical_zip": "84052",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16170",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -647,7 +762,10 @@
     "physical_city": "NEOLA",
     "physical_state": "UT",
     "physical_zip": "84053",
-    "physical_zip4": "8000"
+    "physical_zip4": "8000",
+    "zip_class_code": null,
+    "locale_key": "Z16176",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -660,7 +778,10 @@
     "physical_city": "BOUNTIFUL",
     "physical_state": "UT",
     "physical_zip": "84010",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15836",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -673,7 +794,10 @@
     "physical_city": "NORTH SALT LAKE",
     "physical_state": "UT",
     "physical_zip": "84054",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16186",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -686,7 +810,10 @@
     "physical_city": "OAKLEY",
     "physical_state": "UT",
     "physical_zip": "84055",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16191",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -699,7 +826,10 @@
     "physical_city": "CLEARFIELD",
     "physical_state": "UT",
     "physical_zip": "84015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15884",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -712,7 +842,10 @@
     "physical_city": "HILL AIR FORCE BASE",
     "physical_state": "UT",
     "physical_zip": "84056",
-    "physical_zip4": "5001"
+    "physical_zip4": "5001",
+    "zip_class_code": null,
+    "locale_key": "Z16050",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -725,7 +858,10 @@
     "physical_city": "OREM",
     "physical_state": "UT",
     "physical_zip": "84057",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16197",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -738,7 +874,10 @@
     "physical_city": "OREM",
     "physical_state": "UT",
     "physical_zip": "84097",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18363",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -751,7 +890,26 @@
     "physical_city": "OREM",
     "physical_state": "UT",
     "physical_zip": "84057",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16197",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "NV-UT",
+    "district_no": "890",
+    "delivery_zipcode": "84060",
+    "locale_name": "PARK CITY",
+    "physical_delivery_address": "2100 PARK AVE",
+    "physical_city": "PARK CITY",
+    "physical_state": "UT",
+    "physical_zip": "84060",
+    "physical_zip4": "8100",
+    "zip_class_code": null,
+    "locale_key": "Z16204",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -764,33 +922,10 @@
     "physical_city": "PARK CITY",
     "physical_state": "UT",
     "physical_zip": "84060",
-    "physical_zip4": "9501"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84060",
-    "locale_name": "PARK CITY",
-    "physical_delivery_address": "2100 PARK AVE",
-    "physical_city": "PARK CITY",
-    "physical_state": "UT",
-    "physical_zip": "84060",
-    "physical_zip4": "8100"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84061",
-    "locale_name": "KAMAS",
-    "physical_delivery_address": "55 W 100 N",
-    "physical_city": "KAMAS",
-    "physical_state": "UT",
-    "physical_zip": "84036",
-    "physical_zip4": "8001"
+    "physical_zip4": "9501",
+    "zip_class_code": null,
+    "locale_key": "001682",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -803,7 +938,10 @@
     "physical_city": "PLEASANT GROVE",
     "physical_state": "UT",
     "physical_zip": "84062",
-    "physical_zip4": "6200"
+    "physical_zip4": "6200",
+    "zip_class_code": null,
+    "locale_key": "Z16224",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -816,7 +954,10 @@
     "physical_city": "FORT DUCHESNE",
     "physical_state": "UT",
     "physical_zip": "84026",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15996",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -829,7 +970,10 @@
     "physical_city": "RANDOLPH",
     "physical_state": "UT",
     "physical_zip": "84064",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16234",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -842,7 +986,10 @@
     "physical_city": "RIVERTON",
     "physical_state": "UT",
     "physical_zip": "84065",
-    "physical_zip4": "6599"
+    "physical_zip4": "6599",
+    "zip_class_code": null,
+    "locale_key": "Z16242",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -855,7 +1002,10 @@
     "physical_city": "ROOSEVELT",
     "physical_state": "UT",
     "physical_zip": "84066",
-    "physical_zip4": "6600"
+    "physical_zip4": "6600",
+    "zip_class_code": null,
+    "locale_key": "Z16244",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -868,7 +1018,10 @@
     "physical_city": "ROY",
     "physical_state": "UT",
     "physical_zip": "84067",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16247",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -881,7 +1034,10 @@
     "physical_city": "PARK CITY",
     "physical_state": "UT",
     "physical_zip": "84060",
-    "physical_zip4": "8100"
+    "physical_zip4": "8100",
+    "zip_class_code": "P",
+    "locale_key": "Z16204",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -894,7 +1050,10 @@
     "physical_city": "RUSH VALLEY",
     "physical_state": "UT",
     "physical_zip": "84069",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16249",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -907,7 +1066,10 @@
     "physical_city": "SANDY",
     "physical_state": "UT",
     "physical_zip": "84070",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16262",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -920,7 +1082,10 @@
     "physical_city": "SANDY",
     "physical_state": "UT",
     "physical_zip": "84070",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": null,
+    "locale_key": "001980",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -933,7 +1098,10 @@
     "physical_city": "STOCKTON",
     "physical_state": "UT",
     "physical_zip": "84071",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16300",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -946,7 +1114,10 @@
     "physical_city": "TABIONA",
     "physical_state": "UT",
     "physical_zip": "84072",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16312",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -959,7 +1130,10 @@
     "physical_city": "DUCHESNE",
     "physical_state": "UT",
     "physical_zip": "84021",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15952",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -972,7 +1146,10 @@
     "physical_city": "TOOELE",
     "physical_state": "UT",
     "physical_zip": "84074",
-    "physical_zip4": "2184"
+    "physical_zip4": "2184",
+    "zip_class_code": null,
+    "locale_key": "Z16323",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -985,7 +1162,10 @@
     "physical_city": "TOOELE",
     "physical_state": "UT",
     "physical_zip": "84074",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": null,
+    "locale_key": "020832",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -998,7 +1178,10 @@
     "physical_city": "CLEARFIELD",
     "physical_state": "UT",
     "physical_zip": "84015",
-    "physical_zip4": "2300"
+    "physical_zip4": "2300",
+    "zip_class_code": null,
+    "locale_key": "Z16001",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1011,7 +1194,10 @@
     "physical_city": "FORT DUCHESNE",
     "physical_state": "UT",
     "physical_zip": "84026",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15996",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1024,7 +1210,10 @@
     "physical_city": "TRIDELL",
     "physical_state": "UT",
     "physical_zip": "84076",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16330",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1037,7 +1226,10 @@
     "physical_city": "VERNAL",
     "physical_state": "UT",
     "physical_zip": "84078",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16353",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1050,7 +1242,10 @@
     "physical_city": "VERNAL",
     "physical_state": "UT",
     "physical_zip": "84078",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16353",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1063,7 +1258,10 @@
     "physical_city": "VERNON",
     "physical_state": "UT",
     "physical_zip": "84080",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16354",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1076,7 +1274,10 @@
     "physical_city": "WEST JORDAN",
     "physical_state": "UT",
     "physical_zip": "84088",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16379",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1089,7 +1290,10 @@
     "physical_city": "WALLSBURG",
     "physical_state": "UT",
     "physical_zip": "84082",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16366",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1102,7 +1306,10 @@
     "physical_city": "WENDOVER",
     "physical_state": "UT",
     "physical_zip": "84083",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16376",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1115,7 +1322,10 @@
     "physical_city": "WEST JORDAN",
     "physical_state": "UT",
     "physical_zip": "84088",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16379",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1128,7 +1338,10 @@
     "physical_city": "WHITEROCKS",
     "physical_state": "UT",
     "physical_zip": "84085",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16391",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1141,7 +1354,10 @@
     "physical_city": "WOODRUFF",
     "physical_state": "UT",
     "physical_zip": "84086",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16398",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1154,7 +1370,10 @@
     "physical_city": "BOUNTIFUL",
     "physical_state": "UT",
     "physical_zip": "84010",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15836",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1167,7 +1386,10 @@
     "physical_city": "WEST JORDAN",
     "physical_state": "UT",
     "physical_zip": "84088",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16379",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1180,7 +1402,10 @@
     "physical_city": "CLEARFIELD",
     "physical_state": "UT",
     "physical_zip": "84015",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z15884",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1193,7 +1418,10 @@
     "physical_city": "SANDY",
     "physical_state": "UT",
     "physical_zip": "84093",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18008",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1206,7 +1434,10 @@
     "physical_city": "SANDY",
     "physical_state": "UT",
     "physical_zip": "84070",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16262",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1219,20 +1450,10 @@
     "physical_city": "ALTA",
     "physical_state": "UT",
     "physical_zip": "84092",
-    "physical_zip4": "9501"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84092",
-    "locale_name": "ALTA CANYON",
-    "physical_delivery_address": "9265 S HIGHLAND DR",
-    "physical_city": "SANDY",
-    "physical_state": "UT",
-    "physical_zip": "84093",
-    "physical_zip4": "9998"
+    "physical_zip4": "9501",
+    "zip_class_code": null,
+    "locale_key": "Z15782",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -1245,7 +1466,26 @@
     "physical_city": "SNOWBIRD",
     "physical_state": "UT",
     "physical_zip": "84092",
-    "physical_zip4": "9500"
+    "physical_zip4": "9500",
+    "zip_class_code": null,
+    "locale_key": "Z16274",
+    "locale_type": "C"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "NV-UT",
+    "district_no": "890",
+    "delivery_zipcode": "84092",
+    "locale_name": "ALTA CANYON",
+    "physical_delivery_address": "9265 S HIGHLAND DR",
+    "physical_city": "SANDY",
+    "physical_state": "UT",
+    "physical_zip": "84093",
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18008",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1258,7 +1498,10 @@
     "physical_city": "SANDY",
     "physical_state": "UT",
     "physical_zip": "84093",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18008",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1271,7 +1514,10 @@
     "physical_city": "SANDY",
     "physical_state": "UT",
     "physical_zip": "84070",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16262",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1284,7 +1530,10 @@
     "physical_city": "SOUTH JORDAN",
     "physical_state": "UT",
     "physical_zip": "84095",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18331",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1297,7 +1546,10 @@
     "physical_city": "RIVERTON",
     "physical_state": "UT",
     "physical_zip": "84065",
-    "physical_zip4": "6599"
+    "physical_zip4": "6599",
+    "zip_class_code": null,
+    "locale_key": "Z16242",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1310,7 +1562,10 @@
     "physical_city": "OREM",
     "physical_state": "UT",
     "physical_zip": "84097",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18363",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1323,7 +1578,10 @@
     "physical_city": "PARK CITY",
     "physical_state": "UT",
     "physical_zip": "84060",
-    "physical_zip4": "8100"
+    "physical_zip4": "8100",
+    "zip_class_code": null,
+    "locale_key": "Z16204",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1336,7 +1594,10 @@
     "physical_city": "PARK CITY",
     "physical_state": "UT",
     "physical_zip": "84098",
-    "physical_zip4": "7698"
+    "physical_zip4": "7698",
+    "zip_class_code": null,
+    "locale_key": "Z18083",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1349,7 +1610,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "019741",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1362,7 +1626,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15994",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1375,7 +1642,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9802"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "019741",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1388,7 +1658,26 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "0003"
+    "physical_zip4": "0003",
+    "zip_class_code": null,
+    "locale_key": "021531",
+    "locale_type": "Z"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "NV-UT",
+    "district_no": "890",
+    "delivery_zipcode": "84104",
+    "locale_name": "SALT LAKE CITY UT WEST SDC",
+    "physical_delivery_address": "1095 S 4800 W",
+    "physical_city": "SALT LAKE CITY",
+    "physical_state": "UT",
+    "physical_zip": "84104",
+    "physical_zip4": "9600",
+    "zip_class_code": null,
+    "locale_key": "021674",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1401,7 +1690,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84106",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16302",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1414,7 +1706,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84106",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16302",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1427,7 +1722,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84107",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16168",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1440,7 +1738,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15994",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1453,7 +1754,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84109",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16143",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1466,7 +1770,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84101",
-    "physical_zip4": "2893"
+    "physical_zip4": "2893",
+    "zip_class_code": "P",
+    "locale_key": "020918",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1479,20 +1786,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9802"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84112",
-    "locale_name": "FOOTHILL",
-    "physical_delivery_address": "2255 E SUNNYSIDE AVE",
-    "physical_city": "SALT LAKE CITY",
-    "physical_state": "UT",
-    "physical_zip": "84108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9802",
+    "zip_class_code": null,
+    "locale_key": "019741",
+    "locale_type": "4"
   },
   {
     "area_name": "WESTPAC",
@@ -1505,7 +1802,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15994",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1518,7 +1818,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1531,7 +1834,10 @@
     "physical_city": "SOUTH SALT LAKE",
     "physical_state": "UT",
     "physical_zip": "84115",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16279",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1544,7 +1850,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84116",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16187",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1557,7 +1866,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84117",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16055",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1570,7 +1882,10 @@
     "physical_city": "TAYLORSVILLE",
     "physical_state": "UT",
     "physical_zip": "84129",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16080",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1583,7 +1898,10 @@
     "physical_city": "WEST VALLEY CITY",
     "physical_state": "UT",
     "physical_zip": "84120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16384",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1596,7 +1914,10 @@
     "physical_city": "WEST VALLEY CITY",
     "physical_state": "UT",
     "physical_zip": "84120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16384",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1609,7 +1930,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84121",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15897",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1622,7 +1946,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1635,7 +1962,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84107",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16168",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1648,7 +1978,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84117",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16055",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1661,7 +1994,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1674,7 +2010,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1687,7 +2026,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1700,7 +2042,10 @@
     "physical_city": "WEST VALLEY CITY",
     "physical_state": "UT",
     "physical_zip": "84120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16384",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1713,7 +2058,10 @@
     "physical_city": "TAYLORSVILLE",
     "physical_state": "UT",
     "physical_zip": "84129",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16080",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1726,7 +2074,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1739,33 +2090,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84199",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84133",
-    "locale_name": "SALT LAKE DOWNTOWN ANNEX",
-    "physical_delivery_address": "1795 W 2100 S",
-    "physical_city": "SALT LAKE CITY",
-    "physical_state": "UT",
-    "physical_zip": "84199",
-    "physical_zip4": "9802"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84138",
-    "locale_name": "SALT LAKE DOWNTOWN ANNEX",
-    "physical_delivery_address": "1795 W 2100 S",
-    "physical_city": "SALT LAKE CITY",
-    "physical_state": "UT",
-    "physical_zip": "84199",
-    "physical_zip4": "9802"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16259",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1778,7 +2106,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84101",
-    "physical_zip4": "2893"
+    "physical_zip4": "2893",
+    "zip_class_code": "P",
+    "locale_key": "020918",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1791,7 +2122,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84101",
-    "physical_zip4": "2893"
+    "physical_zip4": "2893",
+    "zip_class_code": "P",
+    "locale_key": "020918",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1804,7 +2138,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84101",
-    "physical_zip4": "2893"
+    "physical_zip4": "2893",
+    "zip_class_code": "P",
+    "locale_key": "020918",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1817,7 +2154,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84106",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16302",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1830,7 +2170,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84107",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16168",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1843,7 +2186,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84108",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z15994",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -1856,7 +2202,10 @@
     "physical_city": "SOUTH SALT LAKE",
     "physical_state": "UT",
     "physical_zip": "84115",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16279",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1869,7 +2218,10 @@
     "physical_city": "WEST VALLEY CITY",
     "physical_state": "UT",
     "physical_zip": "84120",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16384",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1882,20 +2234,10 @@
     "physical_city": "SALT LAKE CITY",
     "physical_state": "UT",
     "physical_zip": "84121",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84180",
-    "locale_name": "SALT LAKE DOWNTOWN ANNEX",
-    "physical_delivery_address": "1795 W 2100 S",
-    "physical_city": "SALT LAKE CITY",
-    "physical_state": "UT",
-    "physical_zip": "84199",
-    "physical_zip4": "9802"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z15897",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -1908,7 +2250,10 @@
     "physical_city": "BEAR RIVER CITY",
     "physical_state": "UT",
     "physical_zip": "84301",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15804",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1921,7 +2266,10 @@
     "physical_city": "BRIGHAM CITY",
     "physical_state": "UT",
     "physical_zip": "84302",
-    "physical_zip4": "5100"
+    "physical_zip4": "5100",
+    "zip_class_code": null,
+    "locale_key": "Z15842",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1934,7 +2282,10 @@
     "physical_city": "BRIGHAM CITY",
     "physical_state": "UT",
     "physical_zip": "84302",
-    "physical_zip4": "5100"
+    "physical_zip4": "5100",
+    "zip_class_code": null,
+    "locale_key": "Z15842",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1947,20 +2298,10 @@
     "physical_city": "CLARKSTON",
     "physical_state": "UT",
     "physical_zip": "84305",
-    "physical_zip4": "8001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84306",
-    "locale_name": "GARLAND",
-    "physical_delivery_address": "11 N MAIN ST",
-    "physical_city": "GARLAND",
-    "physical_state": "UT",
-    "physical_zip": "84312",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15882",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -1973,33 +2314,10 @@
     "physical_city": "CORINNE",
     "physical_state": "UT",
     "physical_zip": "84307",
-    "physical_zip4": "8001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84308",
-    "locale_name": "LEWISTON",
-    "physical_delivery_address": "61 S MAIN ST",
-    "physical_city": "LEWISTON",
-    "physical_state": "UT",
-    "physical_zip": "84320",
-    "physical_zip4": "8001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84309",
-    "locale_name": "BRIGHAM CITY",
-    "physical_delivery_address": "16 S 100 W",
-    "physical_city": "BRIGHAM CITY",
-    "physical_state": "UT",
-    "physical_zip": "84302",
-    "physical_zip4": "5100"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15895",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2012,7 +2330,10 @@
     "physical_city": "EDEN",
     "physical_state": "UT",
     "physical_zip": "84310",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15963",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2025,7 +2346,10 @@
     "physical_city": "FIELDING",
     "physical_state": "UT",
     "physical_zip": "84311",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15988",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2038,7 +2362,26 @@
     "physical_city": "GARLAND",
     "physical_state": "UT",
     "physical_zip": "84312",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16009",
+    "locale_type": "P"
+  },
+  {
+    "area_name": "WESTPAC",
+    "area_code": "4E",
+    "district_name": "NV-UT",
+    "district_no": "890",
+    "delivery_zipcode": "84313",
+    "locale_name": "SNOWVILLE",
+    "physical_delivery_address": "115 W MAIN ST",
+    "physical_city": "SNOWVILLE",
+    "physical_state": "UT",
+    "physical_zip": "84336",
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16275",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2051,20 +2394,10 @@
     "physical_city": "GROUSE CREEK",
     "physical_state": "UT",
     "physical_zip": "84313",
-    "physical_zip4": "8001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84313",
-    "locale_name": "SNOWVILLE",
-    "physical_delivery_address": "115 W MAIN ST",
-    "physical_city": "SNOWVILLE",
-    "physical_state": "UT",
-    "physical_zip": "84336",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z17939",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2077,7 +2410,10 @@
     "physical_city": "HONEYVILLE",
     "physical_state": "UT",
     "physical_zip": "84314",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16056",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2090,7 +2426,10 @@
     "physical_city": "HOOPER",
     "physical_state": "UT",
     "physical_zip": "84315",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16057",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2103,7 +2442,10 @@
     "physical_city": "HOWELL",
     "physical_state": "UT",
     "physical_zip": "84316",
-    "physical_zip4": "8002"
+    "physical_zip4": "8002",
+    "zip_class_code": "P",
+    "locale_key": "011719",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2116,7 +2458,10 @@
     "physical_city": "HUNTSVILLE",
     "physical_state": "UT",
     "physical_zip": "84317",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16062",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2129,7 +2474,10 @@
     "physical_city": "HYDE PARK",
     "physical_state": "UT",
     "physical_zip": "84318",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16064",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2142,7 +2490,10 @@
     "physical_city": "HYRUM",
     "physical_state": "UT",
     "physical_zip": "84319",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16065",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2155,7 +2506,10 @@
     "physical_city": "LEWISTON",
     "physical_state": "UT",
     "physical_zip": "84320",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16111",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2168,7 +2522,10 @@
     "physical_city": "LOGAN",
     "physical_state": "UT",
     "physical_zip": "84321",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16117",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2181,20 +2538,10 @@
     "physical_city": "LOGAN",
     "physical_state": "UT",
     "physical_zip": "84321",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84324",
-    "locale_name": "BRIGHAM CITY",
-    "physical_delivery_address": "16 S 100 W",
-    "physical_city": "BRIGHAM CITY",
-    "physical_state": "UT",
-    "physical_zip": "84302",
-    "physical_zip4": "5100"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16117",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2207,7 +2554,10 @@
     "physical_city": "MENDON",
     "physical_state": "UT",
     "physical_zip": "84325",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16136",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2220,7 +2570,10 @@
     "physical_city": "MILLVILLE",
     "physical_state": "UT",
     "physical_zip": "84326",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16144",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2233,7 +2586,10 @@
     "physical_city": "NEWTON",
     "physical_state": "UT",
     "physical_zip": "84327",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16180",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2246,7 +2602,10 @@
     "physical_city": "PARADISE",
     "physical_state": "UT",
     "physical_zip": "84328",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16202",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2259,7 +2618,10 @@
     "physical_city": "PARK VALLEY",
     "physical_state": "UT",
     "physical_zip": "84329",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16205",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2272,7 +2634,10 @@
     "physical_city": "PLYMOUTH",
     "physical_state": "UT",
     "physical_zip": "84330",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16226",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2285,7 +2650,10 @@
     "physical_city": "GARLAND",
     "physical_state": "UT",
     "physical_zip": "84312",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16009",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2298,7 +2666,10 @@
     "physical_city": "PROVIDENCE",
     "physical_state": "UT",
     "physical_zip": "84332",
-    "physical_zip4": "3200"
+    "physical_zip4": "3200",
+    "zip_class_code": null,
+    "locale_key": "Z16231",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2311,7 +2682,10 @@
     "physical_city": "RICHMOND",
     "physical_state": "UT",
     "physical_zip": "84333",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16237",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2324,7 +2698,10 @@
     "physical_city": "RIVERSIDE",
     "physical_state": "UT",
     "physical_zip": "84334",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16241",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2337,7 +2714,10 @@
     "physical_city": "SMITHFIELD",
     "physical_state": "UT",
     "physical_zip": "84335",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16273",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2350,7 +2730,10 @@
     "physical_city": "SNOWVILLE",
     "physical_state": "UT",
     "physical_zip": "84336",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16275",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2363,7 +2746,10 @@
     "physical_city": "TREMONTON",
     "physical_state": "UT",
     "physical_zip": "84337",
-    "physical_zip4": "3700"
+    "physical_zip4": "3700",
+    "zip_class_code": null,
+    "locale_key": "Z16328",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2376,7 +2762,10 @@
     "physical_city": "TRENTON",
     "physical_state": "UT",
     "physical_zip": "84338",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16329",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2389,7 +2778,10 @@
     "physical_city": "WELLSVILLE",
     "physical_state": "UT",
     "physical_zip": "84339",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16375",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2402,7 +2794,10 @@
     "physical_city": "WILLARD",
     "physical_state": "UT",
     "physical_zip": "84340",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16392",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2415,7 +2810,10 @@
     "physical_city": "LOGAN",
     "physical_state": "UT",
     "physical_zip": "84341",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18079",
+    "locale_type": "B"
   },
   {
     "area_name": "WESTPAC",
@@ -2428,7 +2826,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16193",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2441,7 +2842,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84401",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16327",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2454,7 +2858,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84403",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z18880",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2467,7 +2874,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84404",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15809",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2480,7 +2890,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16193",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2493,7 +2906,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84401",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16193",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2506,7 +2922,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84404",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z15809",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2519,7 +2938,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84404",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15809",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2532,7 +2954,10 @@
     "physical_city": "OGDEN",
     "physical_state": "UT",
     "physical_zip": "84403",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z18880",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2545,7 +2970,10 @@
     "physical_city": "PRICE",
     "physical_state": "UT",
     "physical_zip": "84501",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z16229",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2558,7 +2986,10 @@
     "physical_city": "ANETH",
     "physical_state": "UT",
     "physical_zip": "84510",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15791",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2571,7 +3002,10 @@
     "physical_city": "BLANDING",
     "physical_state": "UT",
     "physical_zip": "84511",
-    "physical_zip4": "5100"
+    "physical_zip4": "5100",
+    "zip_class_code": null,
+    "locale_key": "Z15824",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2584,7 +3018,10 @@
     "physical_city": "BLUFF",
     "physical_state": "UT",
     "physical_zip": "84512",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15828",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2597,7 +3034,10 @@
     "physical_city": "CASTLE DALE",
     "physical_state": "UT",
     "physical_zip": "84513",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15864",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2610,7 +3050,10 @@
     "physical_city": "GREEN RIVER",
     "physical_state": "UT",
     "physical_zip": "84525",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Z16022",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2623,7 +3066,10 @@
     "physical_city": "FERRON",
     "physical_state": "UT",
     "physical_zip": "84523",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15987",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2636,7 +3082,10 @@
     "physical_city": "CLEVELAND",
     "physical_state": "UT",
     "physical_zip": "84518",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15885",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2649,7 +3098,10 @@
     "physical_city": "EAST CARBON",
     "physical_state": "UT",
     "physical_zip": "84520",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15959",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2662,7 +3114,10 @@
     "physical_city": "ELMO",
     "physical_state": "UT",
     "physical_zip": "84521",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15966",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2675,7 +3130,10 @@
     "physical_city": "EMERY",
     "physical_state": "UT",
     "physical_zip": "84522",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15969",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2688,7 +3146,10 @@
     "physical_city": "FERRON",
     "physical_state": "UT",
     "physical_zip": "84523",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15987",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2701,7 +3162,10 @@
     "physical_city": "GREEN RIVER",
     "physical_state": "UT",
     "physical_zip": "84525",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Z16022",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2714,7 +3178,10 @@
     "physical_city": "HELPER",
     "physical_state": "UT",
     "physical_zip": "84526",
-    "physical_zip4": "2600"
+    "physical_zip4": "2600",
+    "zip_class_code": null,
+    "locale_key": "Z16042",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2727,7 +3194,10 @@
     "physical_city": "PRICE",
     "physical_state": "UT",
     "physical_zip": "84501",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z16229",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2740,7 +3210,10 @@
     "physical_city": "HUNTINGTON",
     "physical_state": "UT",
     "physical_zip": "84528",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16061",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2753,7 +3226,10 @@
     "physical_city": "HELPER",
     "physical_state": "UT",
     "physical_zip": "84526",
-    "physical_zip4": "2600"
+    "physical_zip4": "2600",
+    "zip_class_code": null,
+    "locale_key": "Z16042",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2766,7 +3242,10 @@
     "physical_city": "LA SAL",
     "physical_state": "UT",
     "physical_zip": "84530",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16090",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2779,7 +3258,10 @@
     "physical_city": "MEXICAN HAT",
     "physical_state": "UT",
     "physical_zip": "84531",
-    "physical_zip4": "7707"
+    "physical_zip4": "7707",
+    "zip_class_code": "P",
+    "locale_key": "Z16137",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2792,7 +3274,10 @@
     "physical_city": "MOAB",
     "physical_state": "UT",
     "physical_zip": "84532",
-    "physical_zip4": "4500"
+    "physical_zip4": "4500",
+    "zip_class_code": null,
+    "locale_key": "Z16147",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2805,7 +3290,10 @@
     "physical_city": "BLANDING",
     "physical_state": "UT",
     "physical_zip": "84511",
-    "physical_zip4": "5100"
+    "physical_zip4": "5100",
+    "zip_class_code": null,
+    "locale_key": "Z15824",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2818,7 +3306,10 @@
     "physical_city": "LAKE POWELL",
     "physical_state": "UT",
     "physical_zip": "84533",
-    "physical_zip4": "8002"
+    "physical_zip4": "8002",
+    "zip_class_code": null,
+    "locale_key": "Z15849",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2831,7 +3322,10 @@
     "physical_city": "MONTEZUMA CREEK",
     "physical_state": "UT",
     "physical_zip": "84534",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16152",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2844,7 +3338,10 @@
     "physical_city": "MONTICELLO",
     "physical_state": "UT",
     "physical_zip": "84535",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16154",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2857,7 +3354,10 @@
     "physical_city": "MONUMENT VALLEY",
     "physical_state": "UT",
     "physical_zip": "84536",
-    "physical_zip4": "9800"
+    "physical_zip4": "9800",
+    "zip_class_code": "P",
+    "locale_key": "020089",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -2870,7 +3370,10 @@
     "physical_city": "ORANGEVILLE",
     "physical_state": "UT",
     "physical_zip": "84537",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16195",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2883,7 +3386,10 @@
     "physical_city": "SUNNYSIDE",
     "physical_state": "UT",
     "physical_zip": "84539",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16307",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2896,7 +3402,10 @@
     "physical_city": "GREEN RIVER",
     "physical_state": "UT",
     "physical_zip": "84525",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Z16022",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2909,7 +3418,10 @@
     "physical_city": "PRICE",
     "physical_state": "UT",
     "physical_zip": "84501",
-    "physical_zip4": "5000"
+    "physical_zip4": "5000",
+    "zip_class_code": null,
+    "locale_key": "Z16229",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2922,7 +3434,10 @@
     "physical_city": "WELLINGTON",
     "physical_state": "UT",
     "physical_zip": "84542",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16374",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2935,7 +3450,10 @@
     "physical_city": "PROVO",
     "physical_state": "UT",
     "physical_zip": "84601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16232",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2948,7 +3466,10 @@
     "physical_city": "PROVO",
     "physical_state": "UT",
     "physical_zip": "84601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16232",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2961,7 +3482,10 @@
     "physical_city": "PROVO",
     "physical_state": "UT",
     "physical_zip": "84601",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16232",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -2974,7 +3498,10 @@
     "physical_city": "PROVO",
     "physical_state": "UT",
     "physical_zip": "84606",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z15958",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -2987,7 +3514,10 @@
     "physical_city": "PROVO",
     "physical_state": "UT",
     "physical_zip": "84606",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15958",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -3000,7 +3530,10 @@
     "physical_city": "AURORA",
     "physical_state": "UT",
     "physical_zip": "84620",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15799",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3013,7 +3546,10 @@
     "physical_city": "GUNNISON",
     "physical_state": "UT",
     "physical_zip": "84634",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16030",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3026,7 +3562,10 @@
     "physical_city": "GUNNISON",
     "physical_state": "UT",
     "physical_zip": "84634",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16030",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3039,7 +3578,10 @@
     "physical_city": "MORONI",
     "physical_state": "UT",
     "physical_zip": "84646",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16158",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3052,7 +3594,10 @@
     "physical_city": "DELTA",
     "physical_state": "UT",
     "physical_zip": "84624",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15944",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3065,7 +3610,10 @@
     "physical_city": "ELBERTA",
     "physical_state": "UT",
     "physical_zip": "84626",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15964",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3078,7 +3626,10 @@
     "physical_city": "EPHRAIM",
     "physical_state": "UT",
     "physical_zip": "84627",
-    "physical_zip4": "2760"
+    "physical_zip4": "2760",
+    "zip_class_code": null,
+    "locale_key": "Z15975",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3091,7 +3642,10 @@
     "physical_city": "EUREKA",
     "physical_state": "UT",
     "physical_zip": "84628",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15980",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3104,7 +3658,10 @@
     "physical_city": "FAIRVIEW",
     "physical_state": "UT",
     "physical_zip": "84629",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "Z15982",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3117,7 +3674,10 @@
     "physical_city": "MOUNT PLEASANT",
     "physical_state": "UT",
     "physical_zip": "84647",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16160",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3130,7 +3690,10 @@
     "physical_city": "GUNNISON",
     "physical_state": "UT",
     "physical_zip": "84634",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16030",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3143,7 +3706,10 @@
     "physical_city": "FILLMORE",
     "physical_state": "UT",
     "physical_zip": "84631",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15989",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3156,7 +3722,10 @@
     "physical_city": "FOUNTAIN GREEN",
     "physical_state": "UT",
     "physical_zip": "84632",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15997",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3169,7 +3738,10 @@
     "physical_city": "GOSHEN",
     "physical_state": "UT",
     "physical_zip": "84633",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16016",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3182,7 +3754,10 @@
     "physical_city": "GUNNISON",
     "physical_state": "UT",
     "physical_zip": "84634",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16030",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3195,7 +3770,10 @@
     "physical_city": "HINCKLEY",
     "physical_state": "UT",
     "physical_zip": "84635",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16052",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3208,7 +3786,10 @@
     "physical_city": "HOLDEN",
     "physical_state": "UT",
     "physical_zip": "84636",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "006223",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3221,7 +3802,10 @@
     "physical_city": "KANOSH",
     "physical_state": "UT",
     "physical_zip": "84637",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16078",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3234,7 +3818,10 @@
     "physical_city": "LEAMINGTON",
     "physical_state": "UT",
     "physical_zip": "84638",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16105",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3247,7 +3834,10 @@
     "physical_city": "LEVAN",
     "physical_state": "UT",
     "physical_zip": "84639",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16110",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3260,7 +3850,10 @@
     "physical_city": "LYNNDYL",
     "physical_state": "UT",
     "physical_zip": "84640",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z17938",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3273,7 +3866,10 @@
     "physical_city": "MANTI",
     "physical_state": "UT",
     "physical_zip": "84642",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16127",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3286,7 +3882,10 @@
     "physical_city": "MAYFIELD",
     "physical_state": "UT",
     "physical_zip": "84643",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16133",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3299,7 +3898,10 @@
     "physical_city": "MEADOW",
     "physical_state": "UT",
     "physical_zip": "84644",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16134",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3312,7 +3914,10 @@
     "physical_city": "MONA",
     "physical_state": "UT",
     "physical_zip": "84645",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16149",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3325,7 +3930,10 @@
     "physical_city": "MORONI",
     "physical_state": "UT",
     "physical_zip": "84646",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16158",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3338,7 +3946,10 @@
     "physical_city": "MOUNT PLEASANT",
     "physical_state": "UT",
     "physical_zip": "84647",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16160",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3351,7 +3962,10 @@
     "physical_city": "NEPHI",
     "physical_state": "UT",
     "physical_zip": "84648",
-    "physical_zip4": "4800"
+    "physical_zip4": "4800",
+    "zip_class_code": null,
+    "locale_key": "Z16177",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3364,7 +3978,10 @@
     "physical_city": "OAK CITY",
     "physical_state": "UT",
     "physical_zip": "84649",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16189",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3377,7 +3994,10 @@
     "physical_city": "PAYSON",
     "physical_state": "UT",
     "physical_zip": "84651",
-    "physical_zip4": "5110"
+    "physical_zip4": "5110",
+    "zip_class_code": null,
+    "locale_key": "Z16208",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3390,7 +4010,10 @@
     "physical_city": "REDMOND",
     "physical_state": "UT",
     "physical_zip": "84652",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16235",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3403,7 +4026,10 @@
     "physical_city": "SALEM",
     "physical_state": "UT",
     "physical_zip": "84653",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16254",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3416,7 +4042,10 @@
     "physical_city": "SALINA",
     "physical_state": "UT",
     "physical_zip": "84654",
-    "physical_zip4": "9000"
+    "physical_zip4": "9000",
+    "zip_class_code": null,
+    "locale_key": "Z16255",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3429,7 +4058,10 @@
     "physical_city": "SANTAQUIN",
     "physical_state": "UT",
     "physical_zip": "84655",
-    "physical_zip4": "7005"
+    "physical_zip4": "7005",
+    "zip_class_code": null,
+    "locale_key": "Z16264",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3442,7 +4074,10 @@
     "physical_city": "SCIPIO",
     "physical_state": "UT",
     "physical_zip": "84656",
-    "physical_zip4": "9989"
+    "physical_zip4": "9989",
+    "zip_class_code": "P",
+    "locale_key": "Z16266",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3455,7 +4090,10 @@
     "physical_city": "RICHFIELD",
     "physical_state": "UT",
     "physical_zip": "84701",
-    "physical_zip4": "7100"
+    "physical_zip4": "7100",
+    "zip_class_code": "P",
+    "locale_key": "Z16236",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3468,7 +4106,10 @@
     "physical_city": "SPANISH FORK",
     "physical_state": "UT",
     "physical_zip": "84660",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16281",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3481,7 +4122,10 @@
     "physical_city": "SPRING CITY",
     "physical_state": "UT",
     "physical_zip": "84662",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16282",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3494,7 +4138,10 @@
     "physical_city": "SPRINGVILLE",
     "physical_state": "UT",
     "physical_zip": "84663",
-    "physical_zip4": "6300"
+    "physical_zip4": "6300",
+    "zip_class_code": null,
+    "locale_key": "Z16286",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3507,7 +4154,10 @@
     "physical_city": "SPRINGVILLE",
     "physical_state": "UT",
     "physical_zip": "84663",
-    "physical_zip4": "6300"
+    "physical_zip4": "6300",
+    "zip_class_code": null,
+    "locale_key": "Z16286",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3520,7 +4170,10 @@
     "physical_city": "STERLING",
     "physical_state": "UT",
     "physical_zip": "84665",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16299",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3533,7 +4186,10 @@
     "physical_city": "MORONI",
     "physical_state": "UT",
     "physical_zip": "84646",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16158",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3546,7 +4202,10 @@
     "physical_city": "RICHFIELD",
     "physical_state": "UT",
     "physical_zip": "84701",
-    "physical_zip4": "7100"
+    "physical_zip4": "7100",
+    "zip_class_code": null,
+    "locale_key": "Z16236",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3559,7 +4218,10 @@
     "physical_city": "ALTON",
     "physical_state": "UT",
     "physical_zip": "84710",
-    "physical_zip4": "8000"
+    "physical_zip4": "8000",
+    "zip_class_code": "P",
+    "locale_key": "Z15784",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3572,7 +4234,10 @@
     "physical_city": "ANNABELLA",
     "physical_state": "UT",
     "physical_zip": "84711",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15793",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3585,7 +4250,10 @@
     "physical_city": "ANTIMONY",
     "physical_state": "UT",
     "physical_zip": "84712",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15794",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3598,7 +4266,10 @@
     "physical_city": "JUNCTION",
     "physical_state": "UT",
     "physical_zip": "84740",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16073",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3611,7 +4282,10 @@
     "physical_city": "BEAVER",
     "physical_state": "UT",
     "physical_zip": "84713",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15805",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3624,7 +4298,10 @@
     "physical_city": "NEWCASTLE",
     "physical_state": "UT",
     "physical_zip": "84756",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16179",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3637,7 +4314,10 @@
     "physical_city": "BICKNELL",
     "physical_state": "UT",
     "physical_zip": "84715",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15817",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3650,7 +4330,10 @@
     "physical_city": "BOULDER",
     "physical_state": "UT",
     "physical_zip": "84716",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15835",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3663,7 +4346,10 @@
     "physical_city": "CANNONVILLE",
     "physical_state": "UT",
     "physical_zip": "84718",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15860",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3676,7 +4362,10 @@
     "physical_city": "BRIAN HEAD",
     "physical_state": "UT",
     "physical_zip": "84719",
-    "physical_zip4": "8002"
+    "physical_zip4": "8002",
+    "zip_class_code": "P",
+    "locale_key": "Z15839",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3689,7 +4378,10 @@
     "physical_city": "CEDAR CITY",
     "physical_state": "UT",
     "physical_zip": "84720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15867",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3702,20 +4394,10 @@
     "physical_city": "CEDAR CITY",
     "physical_state": "UT",
     "physical_zip": "84720",
-    "physical_zip4": "9998"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84722",
-    "locale_name": "CEDAR CITY",
-    "physical_delivery_address": "333 N MAIN ST",
-    "physical_city": "CEDAR CITY",
-    "physical_state": "UT",
-    "physical_zip": "84720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15867",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3728,7 +4410,10 @@
     "physical_city": "CIRCLEVILLE",
     "physical_state": "UT",
     "physical_zip": "84723",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15880",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3741,7 +4426,10 @@
     "physical_city": "ELSINORE",
     "physical_state": "UT",
     "physical_zip": "84724",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15967",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3754,7 +4442,10 @@
     "physical_city": "ENTERPRISE",
     "physical_state": "UT",
     "physical_zip": "84725",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15973",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3767,7 +4458,10 @@
     "physical_city": "ESCALANTE",
     "physical_state": "UT",
     "physical_zip": "84726",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z15977",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3780,7 +4474,10 @@
     "physical_city": "GARRISON",
     "physical_state": "UT",
     "physical_zip": "84728",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16010",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3793,7 +4490,10 @@
     "physical_city": "GLENDALE",
     "physical_state": "UT",
     "physical_zip": "84729",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16013",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3806,7 +4506,10 @@
     "physical_city": "GLENWOOD",
     "physical_state": "UT",
     "physical_zip": "84730",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16014",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3819,7 +4522,10 @@
     "physical_city": "BEAVER",
     "physical_state": "UT",
     "physical_zip": "84713",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15805",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3832,7 +4538,10 @@
     "physical_city": "RICHFIELD",
     "physical_state": "UT",
     "physical_zip": "84701",
-    "physical_zip4": "7100"
+    "physical_zip4": "7100",
+    "zip_class_code": null,
+    "locale_key": "Z16236",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3845,7 +4554,10 @@
     "physical_city": "SANTA CLARA",
     "physical_state": "UT",
     "physical_zip": "84765",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3858,7 +4570,10 @@
     "physical_city": "HANKSVILLE",
     "physical_state": "UT",
     "physical_zip": "84734",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16034",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3871,7 +4586,10 @@
     "physical_city": "HATCH",
     "physical_state": "UT",
     "physical_zip": "84735",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16039",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3884,7 +4602,10 @@
     "physical_city": "HENRIEVILLE",
     "physical_state": "UT",
     "physical_zip": "84736",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16044",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3897,7 +4618,10 @@
     "physical_city": "HURRICANE",
     "physical_state": "UT",
     "physical_zip": "84737",
-    "physical_zip4": "3700"
+    "physical_zip4": "3700",
+    "zip_class_code": null,
+    "locale_key": "Z16063",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3910,7 +4634,10 @@
     "physical_city": "IVINS",
     "physical_state": "UT",
     "physical_zip": "84738",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16070",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3923,20 +4650,10 @@
     "physical_city": "SANTA CLARA",
     "physical_state": "UT",
     "physical_zip": "84765",
-    "physical_zip4": "8001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84739",
-    "locale_name": "MONROE",
-    "physical_delivery_address": "485 N MAIN ST",
-    "physical_city": "MONROE",
-    "physical_state": "UT",
-    "physical_zip": "84754",
-    "physical_zip4": "9998"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3949,7 +4666,10 @@
     "physical_city": "JUNCTION",
     "physical_state": "UT",
     "physical_zip": "84740",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16073",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -3962,7 +4682,10 @@
     "physical_city": "BIG WATER",
     "physical_state": "UT",
     "physical_zip": "84741",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15818",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -3975,20 +4698,10 @@
     "physical_city": "KANAB",
     "physical_state": "UT",
     "physical_zip": "84741",
-    "physical_zip4": "4300"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84742",
-    "locale_name": "CEDAR CITY",
-    "physical_delivery_address": "333 N MAIN ST",
-    "physical_city": "CEDAR CITY",
-    "physical_state": "UT",
-    "physical_zip": "84720",
-    "physical_zip4": "9998"
+    "physical_zip4": "4300",
+    "zip_class_code": null,
+    "locale_key": "Z16075",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4001,7 +4714,10 @@
     "physical_city": "JUNCTION",
     "physical_state": "UT",
     "physical_zip": "84740",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16073",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4014,7 +4730,10 @@
     "physical_city": "KOOSHAREM",
     "physical_state": "UT",
     "physical_zip": "84744",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16087",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4027,7 +4746,10 @@
     "physical_city": "RICHFIELD",
     "physical_state": "UT",
     "physical_zip": "84701",
-    "physical_zip4": "7100"
+    "physical_zip4": "7100",
+    "zip_class_code": null,
+    "locale_key": "Z16236",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4040,7 +4762,10 @@
     "physical_city": "HURRICANE",
     "physical_state": "UT",
     "physical_zip": "84737",
-    "physical_zip4": "3700"
+    "physical_zip4": "3700",
+    "zip_class_code": null,
+    "locale_key": "Z16063",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4053,7 +4778,10 @@
     "physical_city": "LA VERKIN",
     "physical_state": "UT",
     "physical_zip": "84745",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16091",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4066,7 +4794,10 @@
     "physical_city": "LEEDS",
     "physical_state": "UT",
     "physical_zip": "84746",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16106",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4079,7 +4810,10 @@
     "physical_city": "LOA",
     "physical_state": "UT",
     "physical_zip": "84747",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16116",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4092,7 +4826,10 @@
     "physical_city": "LYMAN",
     "physical_state": "UT",
     "physical_zip": "84749",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16118",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4105,7 +4842,10 @@
     "physical_city": "MARYSVALE",
     "physical_state": "UT",
     "physical_zip": "84750",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16132",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4118,7 +4858,10 @@
     "physical_city": "MILFORD",
     "physical_state": "UT",
     "physical_zip": "84751",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16142",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4131,7 +4874,10 @@
     "physical_city": "MINERSVILLE",
     "physical_state": "UT",
     "physical_zip": "84752",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16146",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4144,7 +4890,10 @@
     "physical_city": "NEWCASTLE",
     "physical_state": "UT",
     "physical_zip": "84756",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16179",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4157,7 +4906,10 @@
     "physical_city": "MONROE",
     "physical_state": "UT",
     "physical_zip": "84754",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16151",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4170,7 +4922,10 @@
     "physical_city": "ORDERVILLE",
     "physical_state": "UT",
     "physical_zip": "84758",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16196",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4183,20 +4938,10 @@
     "physical_city": "NEWCASTLE",
     "physical_state": "UT",
     "physical_zip": "84756",
-    "physical_zip4": "8001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84757",
-    "locale_name": "CEDAR CITY",
-    "physical_delivery_address": "333 N MAIN ST",
-    "physical_city": "CEDAR CITY",
-    "physical_state": "UT",
-    "physical_zip": "84720",
-    "physical_zip4": "9998"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16179",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4209,7 +4954,10 @@
     "physical_city": "NEW HARMONY",
     "physical_state": "UT",
     "physical_zip": "84757",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16178",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4222,7 +4970,10 @@
     "physical_city": "ORDERVILLE",
     "physical_state": "UT",
     "physical_zip": "84758",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16196",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4235,7 +4986,10 @@
     "physical_city": "PANGUITCH",
     "physical_state": "UT",
     "physical_zip": "84759",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16200",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4248,7 +5002,10 @@
     "physical_city": "PARAGONAH",
     "physical_state": "UT",
     "physical_zip": "84760",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16203",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4261,7 +5018,10 @@
     "physical_city": "PAROWAN",
     "physical_state": "UT",
     "physical_zip": "84761",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16206",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4274,7 +5034,10 @@
     "physical_city": "CEDAR CITY",
     "physical_state": "UT",
     "physical_zip": "84720",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z15867",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4287,7 +5050,10 @@
     "physical_city": "ROCKVILLE",
     "physical_state": "UT",
     "physical_zip": "84763",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16243",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4300,7 +5066,10 @@
     "physical_city": "BRYCE CANYON CITY",
     "physical_state": "UT",
     "physical_zip": "84764",
-    "physical_zip4": "8002"
+    "physical_zip4": "8002",
+    "zip_class_code": "P",
+    "locale_key": "016670",
+    "locale_type": "5"
   },
   {
     "area_name": "WESTPAC",
@@ -4313,20 +5082,10 @@
     "physical_city": "SANTA CLARA",
     "physical_state": "UT",
     "physical_zip": "84765",
-    "physical_zip4": "8001"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84766",
-    "locale_name": "MONROE",
-    "physical_delivery_address": "485 N MAIN ST",
-    "physical_city": "MONROE",
-    "physical_state": "UT",
-    "physical_zip": "84754",
-    "physical_zip4": "9998"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4339,7 +5098,10 @@
     "physical_city": "SPRINGDALE",
     "physical_state": "UT",
     "physical_zip": "84767",
-    "physical_zip4": "9400"
+    "physical_zip4": "9400",
+    "zip_class_code": "P",
+    "locale_key": "Z16285",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4352,7 +5114,10 @@
     "physical_city": "SAINT GEORGE",
     "physical_state": "UT",
     "physical_zip": "84770",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "000310",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4365,7 +5130,10 @@
     "physical_city": "SAINT GEORGE",
     "physical_state": "UT",
     "physical_zip": "84770",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "000310",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",
@@ -4378,7 +5146,10 @@
     "physical_city": "SUMMIT",
     "physical_state": "UT",
     "physical_zip": "84772",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16304",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4391,7 +5162,10 @@
     "physical_city": "TEASDALE",
     "physical_state": "UT",
     "physical_zip": "84773",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16316",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4404,7 +5178,10 @@
     "physical_city": "TOQUERVILLE",
     "physical_state": "UT",
     "physical_zip": "84774",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16325",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4417,7 +5194,10 @@
     "physical_city": "BICKNELL",
     "physical_state": "UT",
     "physical_zip": "84715",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z15817",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4430,7 +5210,10 @@
     "physical_city": "TROPIC",
     "physical_state": "UT",
     "physical_zip": "84776",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": "P",
+    "locale_key": "Z16331",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4443,7 +5226,10 @@
     "physical_city": "LA VERKIN",
     "physical_state": "UT",
     "physical_zip": "84745",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16091",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4456,7 +5242,10 @@
     "physical_city": "SAINT GEORGE",
     "physical_state": "UT",
     "physical_zip": "84790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16289",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4469,20 +5258,10 @@
     "physical_city": "WASHINGTON",
     "physical_state": "UT",
     "physical_zip": "84780",
-    "physical_zip4": "8010"
-  },
-  {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "NV-UT",
-    "district_no": "890",
-    "delivery_zipcode": "84781",
-    "locale_name": "CEDAR CITY",
-    "physical_delivery_address": "333 N MAIN ST",
-    "physical_city": "CEDAR CITY",
-    "physical_state": "UT",
-    "physical_zip": "84720",
-    "physical_zip4": "9998"
+    "physical_zip4": "8010",
+    "zip_class_code": null,
+    "locale_key": "Z16370",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4495,7 +5274,10 @@
     "physical_city": "SANTA CLARA",
     "physical_state": "UT",
     "physical_zip": "84765",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4508,7 +5290,10 @@
     "physical_city": "VEYO",
     "physical_state": "UT",
     "physical_zip": "84782",
-    "physical_zip4": "4079"
+    "physical_zip4": "4079",
+    "zip_class_code": null,
+    "locale_key": "Z18785",
+    "locale_type": "C"
   },
   {
     "area_name": "WESTPAC",
@@ -4521,7 +5306,10 @@
     "physical_city": "SANTA CLARA",
     "physical_state": "UT",
     "physical_zip": "84765",
-    "physical_zip4": "8001"
+    "physical_zip4": "8001",
+    "zip_class_code": null,
+    "locale_key": "Z16263",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4534,7 +5322,10 @@
     "physical_city": "SAINT GEORGE",
     "physical_state": "UT",
     "physical_zip": "84790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": null,
+    "locale_key": "Z16289",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4547,7 +5338,10 @@
     "physical_city": "SAINT GEORGE",
     "physical_state": "UT",
     "physical_zip": "84790",
-    "physical_zip4": "9998"
+    "physical_zip4": "9998",
+    "zip_class_code": "P",
+    "locale_key": "Z16289",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -4560,6 +5354,9 @@
     "physical_city": "NAVAJO MOUNTAIN",
     "physical_state": "UT",
     "physical_zip": "86044",
-    "physical_zip4": "9996"
+    "physical_zip4": "9996",
+    "zip_class_code": null,
+    "locale_key": "004953",
+    "locale_type": "5"
   }
 ]

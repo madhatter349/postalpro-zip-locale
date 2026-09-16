@@ -10,7 +10,10 @@
     "physical_city": "MAJURO",
     "physical_state": "MH",
     "physical_zip": "96960",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12994",
+    "locale_type": "P"
   },
   {
     "area_name": "WESTPAC",
@@ -23,6 +26,9 @@
     "physical_city": "EBEYE",
     "physical_state": "MH",
     "physical_zip": "96970",
-    "physical_zip4": "9997"
+    "physical_zip4": "9997",
+    "zip_class_code": "P",
+    "locale_key": "Z12992",
+    "locale_type": "P"
   }
 ]
