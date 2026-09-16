@@ -122,6 +122,22 @@ test("health, changes, and history are consistent", () => {
   assert.equal(last.total_records, records.length);
 });
 
+test("ZIP index covers every delivery ZIP", () => {
+  const zipIndex = readJson(path.join(DATA, "zip_index.json"));
+  const zips = new Set(records.map(r => r.delivery_zipcode));
+  assert.equal(Object.keys(zipIndex).length, zips.size);
+  for (const [zip, states] of Object.entries(zipIndex)) {
+    assert.match(zip, /^\d{5}$/);
+    if (Array.isArray(states)) {
+      assert.ok(states.length > 1);
+      for (const s of states) assert.match(s, /^[A-Z]{2}$/);
+    } else if (states !== null) {
+      assert.match(states, /^[A-Z]{2}$/);
+    }
+  }
+  assert.equal(index.files.zip_index, "data/zip_index.json");
+});
+
 test("machine-readable specs are valid JSON", () => {
   const schema = readJson(path.join(DATA, "schema.json"));
   assert.ok(schema.$defs.record);

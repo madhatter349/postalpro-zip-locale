@@ -10,7 +10,7 @@
   "scripts": {
     "update": "node scripts/update.js",
     "test": "node --test test/*.test.js",
-    "check": "node --check scripts/update.js && node --check scripts/record-failure.js && node --check assets/js/utils.js && node --check assets/js/explorer.js && node --check assets/js/main.js"
+    "check": "node --check scripts/update.js && node --check scripts/record-failure.js && node --check assets/js/utils.js && node --check assets/js/ui.js && node --check assets/js/theme.js && node --check assets/js/live.js && node --check assets/js/palette.js && node --check assets/js/explorer.js && node --check assets/js/main.js"
   },
   "dependencies": {
     "better-sqlite3": "13.0.3",

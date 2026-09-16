@@ -1,217 +1,179 @@
 /**
- * Main site behaviour — nav/burger, hero manifest card,
- * endpoint accordions, copy buttons, coverage grid.
- * Explorer lives in explorer.js.
+ * Site boot: theme, header, live stats, coverage grid, copy buttons,
+ * playground, palette, and the explorer.
  */
 import { ZLP_UTILS } from "./utils.js";
+import { copyText } from "./ui.js";
+import { initTheme } from "./theme.js";
+import { initZipLookup, initPlayground } from "./live.js";
+import { initPalette } from "./palette.js";
 import { ZLP_EXPLORER } from "./explorer.js";
 
-const ZLP_MAIN = (() => {
-  const { fmt } = ZLP_UTILS;
+const { fmt, timeAgo, esc } = ZLP_UTILS;
 
-  /* ------------------------------------------------------------------ */
-  /* hero manifest card + coverage grid                                 */
-  /* ------------------------------------------------------------------ */
+let lastCheckedIso = null;
 
-  async function loadMeta() {
-    try {
-      const [idxRes, healthRes] = await Promise.all([
-        fetch(`${BASE}/data/index.json`),
-        fetch(`${BASE}/data/health.json`).catch(() => null),
-      ]);
-      const idx = await idxRes.json();
-      const health = healthRes && healthRes.ok ? await healthRes.json() : null;
+/* ------------------------------------------------------------------ */
+/* stats + status                                                     */
+/* ------------------------------------------------------------------ */
 
-      setStat("verdictRecords", fmt(idx.total_records));
-      setStat("factUpdated", idx.last_updated || "—");
-      setStat("factChecked", prettyTime(idx.last_checked));
+function setText(id, text) {
+  const el = document.getElementById(id);
+  if (el) el.textContent = text;
+}
 
-      const b = idx.state_breakdown || {};
-      const coverage = [
-        b.states ? `${b.states} states` : "50 states",
-        b.district ? `+ ${b.district} district` : "+ DC",
-        b.territories ? `+ ${b.territories} territories` : "+ territories",
-      ].join(" ");
-      setStat("factCoverage", coverage);
+async function loadMeta() {
+  try {
+    const [idxRes, healthRes] = await Promise.all([
+      fetch(`${BASE}/data/index.json`),
+      fetch(`${BASE}/data/health.json`).catch(() => null),
+    ]);
+    const idx = await idxRes.json();
+    const health = healthRes && healthRes.ok ? await healthRes.json() : null;
 
-      const recordLabel = `${fmt(idx.total_records)} records`;
-      setStat("tickerRecords", recordLabel);
-      setStat("tickerRecordsDup", recordLabel);
-      if (idx.unique_zipcodes) setStat("tickerZips", `${fmt(idx.unique_zipcodes)} unique ZIPs`);
-      if (idx.unique_zipcodes) setStat("factZips", fmt(idx.unique_zipcodes));
-      if (idx.source?.sha256) setStat("factSource", idx.source.sha256.slice(0, 12));
+    setText("statRecords", fmt(idx.total_records));
+    setText("statZips", fmt(idx.unique_zipcodes));
+    setText("statPublished", idx.last_updated || "—");
+    setText(
+      "statSource",
+      idx.source?.sha256 ? `sha256 ${idx.source.sha256.slice(0, 12)}…` : "source —"
+    );
 
-      renderStatus(health);
-      renderCoverage(idx.states);
-    } catch {
-      setStat("verdictRecords", "—");
-      setStat("factUpdated", "—");
-      setStat("factChecked", "—");
-      renderStatus(null);
-    }
+    lastCheckedIso = idx.last_checked || health?.last_checked || null;
+    setText("statChecked", timeAgo(lastCheckedIso));
+
+    renderStatus(health);
+    renderCoverage(idx.states);
+  } catch {
+    setText("statRecords", "—");
+    renderStatus(null);
+  }
+}
+
+function renderStatus(health) {
+  const footer = document.getElementById("apiStatus");
+  const manifest = document.getElementById("manifestState");
+  const ok = health ? health.status === "ok" : false;
+
+  if (footer) {
+    footer.classList.toggle("status-error", Boolean(health) && !ok);
+    footer.innerHTML =
+      `<span class="pulse-dot" aria-hidden="true"></span> ` +
+      (ok
+        ? "API operational"
+        : health
+          ? "Update failed — serving last good data"
+          : "Status unavailable");
   }
 
-  function renderStatus(health) {
-    const el = document.getElementById("apiStatus");
-    if (!el) return;
-    const ok = health && health.status === "ok";
-    el.textContent = ok
-      ? "API operational"
-      : health
-        ? "Upstream update failed — serving last good data"
-        : "Status unavailable";
-    el.classList.toggle("status-error", !ok && Boolean(health));
+  if (manifest) {
+    manifest.classList.toggle("bad", Boolean(health) && !ok);
+    manifest.innerHTML = `<span class="pulse-dot" aria-hidden="true"></span> ` + (ok ? "live" : "stale");
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* coverage                                                           */
+/* ------------------------------------------------------------------ */
+
+const GROUP_LABELS = {
+  state: "50 states",
+  district: "Federal district",
+  territory: "Territories",
+  federated: "Freely associated states",
+  other: "Other",
+};
+
+function renderCoverage(states) {
+  const root = document.getElementById("statesGroups");
+  if (!root || !states) return;
+
+  const groups = { state: [], district: [], territory: [], federated: [], other: [] };
+  for (const s of states) {
+    const k = s.kind || "other";
+    if (!groups[k]) groups[k] = [];
+    groups[k].push(s);
   }
 
-  function setStat(id, text) {
-    const el = document.getElementById(id);
-    if (el) el.textContent = text;
-  }
+  root.innerHTML = Object.entries(groups)
+    .filter(([, list]) => list.length)
+    .map(
+      ([kind, list]) =>
+        `<div class="state-group">` +
+        `<h3>${GROUP_LABELS[kind] || kind} <span>(${list.length})</span></h3>` +
+        `<div class="states-grid">` +
+        list
+          .map(
+            s =>
+              `<a class="state-chip" href="${BASE}/data/states/${s.state}.json" target="_blank" rel="noopener" title="Open ${s.state}.json">` +
+              `<strong>${esc(s.state)}</strong><span class="st-count">${fmt(s.count)}</span>` +
+              `</a>`
+          )
+          .join("") +
+        `</div></div>`
+    )
+    .join("");
+}
 
-  function prettyTime(iso) {
-    if (!iso) return "—";
-    const d = new Date(iso);
-    const diff = Math.max(0, Math.floor((Date.now() - d.getTime()) / 1000));
-    if (diff < 3600) return `${Math.max(1, Math.floor(diff / 60))}m ago`;
-    if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
-    return `${Math.floor(diff / 86400)}d ago`;
-  }
+/* ------------------------------------------------------------------ */
+/* chrome                                                             */
+/* ------------------------------------------------------------------ */
 
-  const GROUP_LABELS = {
-    state: "50 states",
-    district: "Federal district",
-    territory: "Territories",
-    federated: "Freely associated states",
-    other: "Other",
-  };
-
-  function renderCoverage(states) {
-    const root = document.getElementById("statesGroups");
-    if (!root) return;
-
-    const groups = { state: [], district: [], territory: [], federated: [], other: [] };
-    for (const s of states) {
-      const k = s.kind || "other";
-      if (!groups[k]) groups[k] = [];
-      groups[k].push(s);
-    }
-
-    const html = Object.entries(groups)
-      .filter(([, list]) => list.length)
-      .map(
-        ([kind, list]) =>
-          `<div class="state-group">` +
-          `<h3>${GROUP_LABELS[kind] || kind} <span class="grp-count">(${list.length})</span></h3>` +
-          `<div class="states-grid">` +
-          list
-            .map(
-              s =>
-                `<a class="state-chip" href="${BASE}/data/states/${s.state}.json" target="_blank" rel="noopener">` +
-                `${s.state}<span class="st-count">${fmt(s.count)}</span></a>`
-            )
-            .join("") +
-          `</div></div>`
-      )
-      .join("");
-
-    root.innerHTML = html;
-  }
-
-  /* ------------------------------------------------------------------ */
-  /* endpoint accordions                                                */
-  /* ------------------------------------------------------------------ */
-
-  function bindEndpoints() {
-    document.querySelectorAll(".endpoint").forEach(el => {
-      el.addEventListener("click", () => el.classList.toggle("open"));
-    });
-  }
-
-  /* ------------------------------------------------------------------ */
-  /* copy buttons                                                       */
-  /* ------------------------------------------------------------------ */
-
-  function bindCopy() {
-    document.querySelectorAll("[data-copy]").forEach(btn => {
-      btn.addEventListener("click", async e => {
-        e.stopPropagation();
-        const text = btn.dataset.copy;
-        try {
-          await navigator.clipboard.writeText(text);
-          btn.textContent = "Copied!";
-          btn.classList.add("copied");
-          setTimeout(() => {
-            btn.textContent = btn.dataset.label || "Copy";
-            btn.classList.remove("copied");
-          }, 1500);
-        } catch {
-          btn.textContent = "Error";
-        }
-      });
-    });
-  }
-
-  /* ------------------------------------------------------------------ */
-  /* burger menu (mobile)                                               */
-  /* ------------------------------------------------------------------ */
-
-  function bindBurger() {
-    const burger = document.getElementById("burger");
-    const menu = document.getElementById("mobileMenu");
-    if (!burger || !menu) return;
-    burger.addEventListener("click", () => {
-      const open = menu.classList.toggle("open");
-      burger.setAttribute("aria-expanded", String(open));
-    });
-    menu.querySelectorAll("a").forEach(a => {
-      a.addEventListener("click", () => {
-        menu.classList.remove("open");
-        burger.setAttribute("aria-expanded", "false");
-      });
-    });
-  }
-
-  /* ------------------------------------------------------------------ */
-  /* smooth scroll for anchor links                                     */
-  /* ------------------------------------------------------------------ */
-
-  function bindSmoothScroll() {
-    document.querySelectorAll('a[href^="#"]').forEach(a => {
-      a.addEventListener("click", e => {
-        const target = document.querySelector(a.getAttribute("href"));
-        if (target) {
-          e.preventDefault();
-          target.scrollIntoView({ behavior: "smooth", block: "start" });
-        }
-      });
-    });
-  }
-
-  /* ------------------------------------------------------------------ */
-  /* footer year                                                        */
-  /* ------------------------------------------------------------------ */
-
-  function setYear() {
-    document.querySelectorAll("[data-year]").forEach(el => {
-      el.textContent = new Date().getFullYear();
-    });
-  }
-
-  /* ------------------------------------------------------------------ */
-  /* boot                                                               */
-  /* ------------------------------------------------------------------ */
-
-  document.addEventListener("DOMContentLoaded", () => {
-    loadMeta();
-    bindEndpoints();
-    bindCopy();
-    bindBurger();
-    bindSmoothScroll();
-    setYear();
-    if (typeof ZLP_EXPLORER !== "undefined") {
-      ZLP_EXPLORER.init("explorer");
-    }
+function bindCopyButtons() {
+  document.addEventListener("click", e => {
+    const btn = e.target.closest("[data-copy]");
+    if (!btn) return;
+    copyText(btn.dataset.copy, "URL copied to clipboard");
   });
-})();
+}
 
-export { ZLP_MAIN };
+function bindMenu() {
+  const btn = document.getElementById("menuBtn");
+  const menu = document.getElementById("mobileNav");
+  if (!btn || !menu) return;
+
+  btn.addEventListener("click", () => {
+    const open = menu.classList.toggle("open");
+    btn.setAttribute("aria-expanded", String(open));
+  });
+
+  menu.querySelectorAll("a").forEach(a =>
+    a.addEventListener("click", () => {
+      menu.classList.remove("open");
+      btn.setAttribute("aria-expanded", "false");
+    })
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/* boot                                                               */
+/* ------------------------------------------------------------------ */
+
+function boot() {
+  initTheme();
+  bindCopyButtons();
+  bindMenu();
+  loadMeta();
+
+  initZipLookup();
+  initPlayground();
+  initPalette();
+  ZLP_EXPLORER.init("zlpExplorer");
+
+  document.querySelectorAll("[data-year]").forEach(el => {
+    el.textContent = new Date().getFullYear();
+  });
+
+  // Keep "last verified" relative time fresh without re-fetching.
+  setInterval(() => {
+    if (lastCheckedIso) setText("statChecked", timeAgo(lastCheckedIso));
+  }, 60_000);
+
+  document.body.dataset.app = "ready";
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", boot);
+} else {
+  boot();
+}

@@ -30,7 +30,8 @@
     "health": "data/health.json",
     "changes": "data/changes.json",
     "history": "data/history.json",
-    "openapi": "openapi.json"
+    "openapi": "openapi.json",
+    "zip_index": "data/zip_index.json"
   },
   "states": [
     {

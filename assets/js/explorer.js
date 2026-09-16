@@ -3,10 +3,10 @@
  *
  * Loading strategy: nothing is fetched until it is needed. Choosing a state
  * loads just that file; searching or choosing "All areas" streams the state
- * files in small batches. Everything loaded is cached per dataset generation,
- * so switching back and forth is instant.
+ * files in small batches. Everything loaded is cached per dataset generation.
  */
 import { ZLP_UTILS } from "./utils.js";
+import { copyText } from "./ui.js";
 
 const ZLP_EXPLORER = (() => {
   const { normalizeQuery, matchRecord, sortRecords, paginate, fmt, pageWindow, debounce, esc, toCsv } = ZLP_UTILS;
@@ -26,10 +26,27 @@ const ZLP_EXPLORER = (() => {
     { key: "district_name", label: "District" },
     { key: "area_name", label: "Area" },
   ];
+  const RECORD_FIELDS = [
+    ["delivery_zipcode", "Delivery ZIP"],
+    ["locale_name", "Locale"],
+    ["physical_city", "City"],
+    ["physical_state", "State"],
+    ["physical_delivery_address", "Address"],
+    ["physical_zip", "Physical ZIP"],
+    ["physical_zip4", "ZIP+4"],
+    ["district_name", "District"],
+    ["district_no", "District no."],
+    ["area_name", "Area"],
+    ["area_code", "Area code"],
+    ["locale_key", "Locale key"],
+    ["locale_type", "Locale type"],
+    ["zip_class_code", "ZIP class"],
+  ];
 
   const state = {
     all: [],
     filtered: [],
+    pageItems: [],
     sortKey: "delivery_zipcode",
     sortDir: "asc",
     page: 1,
@@ -41,9 +58,10 @@ const ZLP_EXPLORER = (() => {
     codes: [],
     totalRecords: 0,
     generation: null,
+    selectedKey: null,
   };
 
-  const cache = new Map(); // area code -> records
+  const cache = new Map();
   let abortController = null;
   let loadToken = 0;
   let els = null;
@@ -68,8 +86,11 @@ const ZLP_EXPLORER = (() => {
       progressFill: root.querySelector("#zlpProgressFill"),
       progressText: root.querySelector("#zlpProgressText"),
       tableWrap: root.querySelector(".table-wrap"),
+      table: root.querySelector("#zlpTable"),
+      tableState: root.querySelector("#zlpState"),
       thead: root.querySelector("#zlpThead"),
       tbody: root.querySelector("#zlpTbody"),
+      detail: root.querySelector("#zlpDetail"),
       pagination: root.querySelector("#zlpPagination"),
       pageInfo: root.querySelector("#zlpPageInfo"),
       pageBtns: root.querySelector("#zlpPageBtns"),
@@ -87,7 +108,7 @@ const ZLP_EXPLORER = (() => {
         state.query = normalizeQuery(els.search.value);
         state.page = 1;
         if (!state.all.length && !state.streaming && state.query) {
-          streamAll(); // first search loads the dataset
+          streamAll();
         } else {
           applyFilter();
         }
@@ -97,11 +118,8 @@ const ZLP_EXPLORER = (() => {
 
     els.stateFilter.addEventListener("change", () => {
       const val = els.stateFilter.value;
-      if (val === "ALL") {
-        streamAll();
-      } else {
-        loadState(val);
-      }
+      if (val === "ALL") streamAll();
+      else loadState(val);
       syncUrl();
     });
 
@@ -139,6 +157,36 @@ const ZLP_EXPLORER = (() => {
       state.page = Number(btn.dataset.page);
       applySortAndPage();
       els.tableWrap.scrollTop = 0;
+    });
+
+    els.tbody.addEventListener("click", e => {
+      const tr = e.target.closest("tr[data-idx]");
+      if (!tr) return;
+      const record = state.pageItems[Number(tr.dataset.idx)];
+      if (!record) return;
+      if (state.selectedKey === identityOf(record)) closeDetail();
+      else openDetail(record, tr);
+    });
+
+    els.detail.addEventListener("click", e => {
+      if (e.target.closest("[data-detail-close]")) closeDetail();
+      const copy = e.target.closest("[data-detail-copy]");
+      if (copy) {
+        const record = state.pageItems.find(r => identityOf(r) === state.selectedKey);
+        if (record) copyText(JSON.stringify(record, null, 2), "Record JSON copied");
+      }
+    });
+
+    document.addEventListener("keydown", e => {
+      if (e.key === "Escape" && !els.detail.hidden) closeDetail();
+    });
+
+    document.addEventListener("zlp:open-state", e => {
+      const code = e.detail;
+      if (!state.codes.includes(code)) return;
+      els.stateFilter.value = code;
+      loadState(code);
+      syncUrl();
     });
   }
 
@@ -196,6 +244,7 @@ const ZLP_EXPLORER = (() => {
   function beginLoad() {
     abortController?.abort();
     abortController = new AbortController();
+    closeDetail();
     return ++loadToken;
   }
 
@@ -226,7 +275,6 @@ const ZLP_EXPLORER = (() => {
     }
   }
 
-  /** Stream all area files in batches, merging as they arrive. */
   async function streamAll() {
     const token = beginLoad();
     state.sourceState = "ALL";
@@ -278,11 +326,8 @@ const ZLP_EXPLORER = (() => {
       if (token === loadToken) {
         state.streaming = false;
         hideProgress();
-        if (state.all.length) {
-          applyFilter();
-        } else {
-          setEmpty("Could not stream the dataset.");
-        }
+        if (state.all.length) applyFilter();
+        else setEmpty("Could not stream the dataset.");
       }
     }
   }
@@ -315,9 +360,7 @@ const ZLP_EXPLORER = (() => {
     } else if (query) {
       streamAll();
     } else {
-      setEmpty(
-        `Browse by area or start typing to search all ${fmt(state.totalRecords)} records.`
-      );
+      setEmpty(`Browse by area or start typing to search all ${fmt(state.totalRecords)} records.`);
     }
   }
 
@@ -338,17 +381,25 @@ const ZLP_EXPLORER = (() => {
   }
 
   function showLoading() {
-    els.tbody.innerHTML = `<tr class="loading-row"><td colspan="${COLUMNS.length}"><div class="shimmer"></div><div class="shimmer" style="width:60%"></div><div class="shimmer" style="width:80%"></div></td></tr>`;
+    els.table.hidden = true;
+    els.tableState.hidden = false;
+    els.tableState.innerHTML = `<div class="shimmer"></div><div class="shimmer"></div><div class="shimmer"></div>`;
   }
 
   function setEmpty(msg) {
-    els.tbody.innerHTML = `<tr><td colspan="${COLUMNS.length}"><div class="empty-state"><div class="icon">🗂️</div><div>${esc(msg)}</div></div></td></tr>`;
-    els.pagination.style.display = "none";
-    els.meta.style.display = "none";
+    els.table.hidden = true;
+    els.tableState.hidden = false;
+    els.tableState.innerHTML =
+      `<div class="empty-state">` +
+      `<span class="icon" aria-hidden="true"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg></span>` +
+      `<div>${esc(msg)}</div>` +
+      `</div>`;
+    els.pagination.hidden = true;
+    els.meta.hidden = true;
   }
 
   function showProgress(pct) {
-    els.progress.style.display = "flex";
+    els.progress.hidden = false;
     updateProgress(pct);
   }
 
@@ -358,16 +409,16 @@ const ZLP_EXPLORER = (() => {
   }
 
   function hideProgress() {
-    els.progress.style.display = "none";
+    els.progress.hidden = true;
   }
 
   /* ------------------------------------------------------------------ */
   /* filtering / sorting / pagination                                   */
   /* ------------------------------------------------------------------ */
 
-  function applyFilter(opts = {}) {
+  function applyFilter() {
     state.filtered = state.all.filter(r => matchRecord(r, state.query));
-    applySortAndPage(opts);
+    applySortAndPage();
   }
 
   function applySortAndPage() {
@@ -381,18 +432,22 @@ const ZLP_EXPLORER = (() => {
   }
 
   function renderTable(items) {
+    state.pageItems = items;
     if (!items.length) {
       setEmpty("No records match your search.");
       return;
     }
+    els.table.hidden = false;
+    els.tableState.hidden = true;
     els.tbody.innerHTML = items
-      .map(rec => {
+      .map((rec, idx) => {
         const zip = rec.delivery_zipcode || "";
         const stateBadge = rec.physical_state
           ? `<span class="state-badge">${esc(rec.physical_state)}</span>`
           : `<span class="null">—</span>`;
+        const selected = state.selectedKey && identityOf(rec) === state.selectedKey;
         return (
-          `<tr>` +
+          `<tr data-idx="${idx}"${selected ? ' class="selected"' : ""}>` +
           `<td class="zip">${esc(zip)}</td>` +
           `<td class="locale">${esc(rec.locale_name)}</td>` +
           `<td>${esc(rec.physical_city)}</td>` +
@@ -406,15 +461,15 @@ const ZLP_EXPLORER = (() => {
   }
 
   function renderMeta() {
-    els.meta.style.display = "flex";
+    els.meta.hidden = false;
     const source = state.sourceState === "ALL" ? "All areas" : state.sourceState;
     els.meta.innerHTML =
       `<span><span class="count">${fmt(state.filtered.length)}</span> of ${fmt(state.all.length)} loaded records · ${esc(source)}</span>` +
-      `<span class="hint">Search ZIP, city, locale — click column to sort</span>`;
+      `<span class="hint">Click a row for full details — click a column to sort</span>`;
   }
 
   function renderPagination(p) {
-    els.pagination.style.display = "flex";
+    els.pagination.hidden = false;
     const per = state.perPage;
     const start = (p.page - 1) * per + 1;
     const end = Math.min(p.page * per, p.total);
@@ -423,9 +478,7 @@ const ZLP_EXPLORER = (() => {
     const pages = pageWindow(p.page, p.totalPages);
     const btns = [];
 
-    if (p.page > 1) {
-      btns.push(`<button class="page-btn" data-page="${p.page - 1}" aria-label="Previous page">‹</button>`);
-    }
+    if (p.page > 1) btns.push(`<button class="page-btn" data-page="${p.page - 1}" aria-label="Previous page">‹</button>`);
     if (!pages.includes(1)) {
       btns.push(`<button class="page-btn" data-page="1">1</button>`);
       if (!pages.includes(2)) btns.push(`<span class="page-info" style="padding:0 4px">…</span>`);
@@ -439,11 +492,46 @@ const ZLP_EXPLORER = (() => {
       if (!pages.includes(p.totalPages - 1)) btns.push(`<span class="page-info" style="padding:0 4px">…</span>`);
       btns.push(`<button class="page-btn" data-page="${p.totalPages}">${p.totalPages}</button>`);
     }
-    if (p.page < p.totalPages) {
-      btns.push(`<button class="page-btn" data-page="${p.page + 1}" aria-label="Next page">›</button>`);
-    }
+    if (p.page < p.totalPages) btns.push(`<button class="page-btn" data-page="${p.page + 1}" aria-label="Next page">›</button>`);
 
     els.pageBtns.innerHTML = btns.join("");
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* detail drawer                                                      */
+  /* ------------------------------------------------------------------ */
+
+  function identityOf(record) {
+    return [record.delivery_zipcode, record.locale_name, record.physical_zip4 ?? "", record.physical_state ?? ""].join("|");
+  }
+
+  function openDetail(record, tr) {
+    state.selectedKey = identityOf(record);
+    els.tbody.querySelectorAll("tr.selected").forEach(row => row.classList.remove("selected"));
+    tr?.classList.add("selected");
+
+    const fields = RECORD_FIELDS.filter(([key]) => record[key] != null && record[key] !== "");
+    els.detail.hidden = false;
+    els.detail.innerHTML =
+      `<div class="detail-head">` +
+      `<div class="detail-title"><span class="state-badge">${esc(record.physical_state || "—")}</span>${esc(record.locale_name || "Record")} · <span class="mono">${esc(record.delivery_zipcode || "")}</span></div>` +
+      `<div class="detail-actions">` +
+      `<button class="btn btn-quiet" type="button" data-detail-copy>Copy JSON</button>` +
+      `<button class="btn btn-quiet" type="button" data-detail-close>Close</button>` +
+      `</div></div>` +
+      `<dl class="detail-grid">` +
+      fields
+        .map(([key, label]) => `<div class="detail-field"><dt>${esc(label)}</dt><dd>${esc(record[key])}</dd></div>`)
+        .join("") +
+      `</dl>`;
+  }
+
+  function closeDetail() {
+    state.selectedKey = null;
+    if (!els?.detail) return;
+    els.detail.hidden = true;
+    els.detail.innerHTML = "";
+    els.tbody.querySelectorAll("tr.selected").forEach(row => row.classList.remove("selected"));
   }
 
   /* ------------------------------------------------------------------ */

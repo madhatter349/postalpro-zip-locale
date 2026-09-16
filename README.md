@@ -31,6 +31,7 @@ Auto-updated **JSON / CSV / SQLite** mirror of the [USPS PostalPro ZIP Locale De
 | `/data/changes.json` | Added / removed / changed records since the previous publish |
 | `/data/history.json` | One entry per data-updating run (up to 400) |
 | `/data/source.json` | Upstream URL, SHA-256, size, `Last-Modified`, publish date |
+| `/data/zip_index.json` | 37k-entry ZIP → state lookup map (values are a code, or an array when a ZIP spans states) |
 | `/data/schema.json` | JSON Schema for every artifact |
 | `/openapi.json` | OpenAPI 3.1 description of this API |
 | `/data/csv/zip_locale_detail.csv` | Full dataset as CSV |
@@ -126,11 +127,14 @@ The heartbeat (`last_checked.txt`) keeps the scheduled workflow enabled, and `ch
 ├── scripts/record-failure.js      # Writes health.json on failed runs
 ├── test/update.test.js            # Unit tests for the pure helpers
 ├── test/data.test.js              # Artifact consistency tests
-├── assets/                        # Static site (CSS + JS modules)
+├── assets/                        # Static site
+│   ├── css/theme.css              # Design system (dark/light)
+│   └── js/                        # main / explorer / live / palette / theme / ui / utils
 ├── data/
 │   ├── zip_locale_detail.json     # Full dataset (generated)
 │   ├── zip_locale_detail.sqlite   # SQLite database (generated)
 │   ├── index.json                 # Codes + counts + freshness (generated)
+│   ├── zip_index.json             # ZIP → state lookup, ~470 KB (generated)
 │   ├── health.json                # Last run status (generated)
 │   ├── changes.json               # Latest diff (generated)
 │   ├── history.json               # Run history (generated)
@@ -147,7 +151,7 @@ The heartbeat (`last_checked.txt`) keeps the scheduled workflow enabled, and `ch
 └── package.json
 ```
 
-The explorer loads nothing until you pick a state or start typing — searching streams the state files in small batches, then caches them per dataset generation. `?state=NY&q=brooklyn` deep links work.
+The explorer loads nothing until you pick a state or start typing — searching streams the state files in small batches, then caches them per dataset generation. `?state=NY&q=brooklyn` deep links work. The page also ships a command palette (`⌘K` / `Ctrl+K`), an instant ZIP lookup, a live response playground, and a light/dark theme that follows your OS.
 
 ## Running locally
 

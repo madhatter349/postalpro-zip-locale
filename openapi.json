@@ -160,6 +160,32 @@
         }
       }
     },
+    "/data/zip_index.json": {
+      "get": {
+        "tags": ["Metadata"],
+        "summary": "ZIP to state lookup",
+        "description": "Map of every delivery ZIP to its state code (or an array when a ZIP spans multiple states). Useful for routing a lookup to the right state file.",
+        "operationId": "getZipIndex",
+        "responses": {
+          "200": {
+            "description": "ZIP keyed lookup map",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "oneOf": [
+                      { "type": "string", "pattern": "^[A-Z]{2}$" },
+                      { "type": "array", "items": { "type": "string" } }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/schema.json": {
       "get": {
         "tags": ["Metadata"],

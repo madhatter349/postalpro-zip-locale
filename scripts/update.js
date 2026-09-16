@@ -39,6 +39,7 @@ const OUTPUT_ALL = path.join(DATA_DIR, "zip_locale_detail.json");
 const OUTPUT_STATES_DIR = path.join(DATA_DIR, "states");
 const OUTPUT_CSV_DIR = path.join(DATA_DIR, "csv");
 const OUTPUT_SQLITE = path.join(DATA_DIR, "zip_locale_detail.sqlite");
+const OUTPUT_ZIP_INDEX = path.join(DATA_DIR, "zip_index.json");
 const OUTPUT_INDEX = path.join(DATA_DIR, "index.json");
 const OUTPUT_HEALTH = path.join(DATA_DIR, "health.json");
 const OUTPUT_CHANGES = path.join(DATA_DIR, "changes.json");
@@ -497,6 +498,27 @@ function groupByState(records) {
   return byState;
 }
 
+/**
+ * Build a ZIP -> state lookup. Values are a single code, or an array for the
+ * rare ZIP that spans multiple states.
+ */
+export function buildZipIndex(records) {
+  const map = new Map();
+  for (const record of records) {
+    if (!record.delivery_zipcode) continue;
+    let states = map.get(record.delivery_zipcode);
+    if (!states) map.set(record.delivery_zipcode, (states = new Set()));
+    if (record.physical_state) states.add(record.physical_state);
+  }
+
+  const out = {};
+  for (const [zip, states] of [...map.entries()].sort(([a], [b]) => a.localeCompare(b))) {
+    const list = [...states].sort();
+    out[zip] = list.length <= 1 ? list[0] ?? null : list;
+  }
+  return out;
+}
+
 function pruneStale(dir, keep) {
   if (!fs.existsSync(dir)) return;
   for (const file of fs.readdirSync(dir)) {
@@ -632,6 +654,9 @@ async function main() {
   writeFileAtomic(path.join(OUTPUT_CSV_DIR, "zip_locale_detail.csv"), toCsv(records));
   log("wrote full CSV");
 
+  writeJson(OUTPUT_ZIP_INDEX, buildZipIndex(records), false);
+  log("wrote ZIP index");
+
   const source = {
     url: link.url,
     published: pageDate ? pageDate.display : storedPublished,
@@ -701,6 +726,7 @@ async function main() {
       full: "data/zip_locale_detail.json",
       csv: "data/csv/zip_locale_detail.csv",
       sqlite: "data/zip_locale_detail.sqlite",
+      zip_index: "data/zip_index.json",
       index: "data/index.json",
       schema: "data/schema.json",
       health: "data/health.json",

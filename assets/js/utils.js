@@ -1,6 +1,6 @@
 /**
- * Shared utilities for the ZIP Locale explorer.
- * Pure functions — no DOM. Importable as an ES module.
+ * Shared pure utilities for the ZIP Locale explorer and site.
+ * No DOM access — safe to unit test and reuse anywhere.
  */
 
 const RE_ZIP = /^\d{5}$/;
@@ -26,27 +26,20 @@ function matchRecord(record, query) {
     record.physical_state,
     record.physical_zip,
     record.physical_zip4,
+    record.locale_key,
   ].filter(v => v != null && v !== "");
 
   const text = " " + fields.join(" ").toUpperCase() + " ";
 
   if (RE_ZIP.test(query)) {
-    // Leading 3-5 digit match on delivery ZIP (e.g. "100" matches 10001)
-    if (query.length >= 3) {
-      const zip = String(record.delivery_zipcode || "");
-      if (zip.startsWith(query)) return true;
-    }
-    // Exact ZIP+4 or zip4 match
-    if (String(record.delivery_zipcode || "") === query) return true;
+    const zip = String(record.delivery_zipcode || "");
+    if (zip.startsWith(query)) return true;
     if (String(record.physical_zip || "") === query) return true;
     if (String(record.physical_zip4 || "") === query) return true;
   }
 
-  if (RE_STATE.test(query)) {
-    if (record.physical_state === query) return true;
-  }
+  if (RE_STATE.test(query) && record.physical_state === query) return true;
 
-  // Substring across all fields
   return text.includes(query);
 }
 
@@ -59,7 +52,6 @@ function sortRecords(records, key, dir) {
     const av = getVal(a);
     const bv = getVal(b);
 
-    // Numeric comparison when both look numeric
     if (av !== "" && bv !== "" && !isNaN(Number(av)) && !isNaN(Number(bv))) {
       return (Number(av) - Number(bv)) * factor;
     }
@@ -67,7 +59,7 @@ function sortRecords(records, key, dir) {
   });
 }
 
-/** Paginate a sorted array. Returns { page, totalPages, items }. */
+/** Paginate a sorted array. Returns { page, totalPages, total, items }. */
 function paginate(records, page, perPage) {
   const total = records.length;
   const totalPages = Math.max(1, Math.ceil(total / perPage));
@@ -84,6 +76,31 @@ function paginate(records, page, perPage) {
 /** Format a number with thousands separators. */
 function fmt(n) {
   return Number(n).toLocaleString("en-US");
+}
+
+/** Format a byte count. */
+function fmtBytes(bytes) {
+  if (bytes == null || isNaN(bytes)) return "—";
+  if (bytes < 1024) return `${bytes} B`;
+  if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(1)} KB`;
+  return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+}
+
+/** Human-friendly relative time from an ISO string. */
+function timeAgo(iso) {
+  if (!iso) return "—";
+  const then = new Date(iso).getTime();
+  if (isNaN(then)) return "—";
+  const seconds = Math.max(0, Math.floor((Date.now() - then) / 1000));
+  if (seconds < 60) return "just now";
+  if (seconds < 3600) return `${Math.floor(seconds / 60)}m ago`;
+  if (seconds < 86400) return `${Math.floor(seconds / 3600)}h ago`;
+  if (seconds < 86400 * 30) return `${Math.floor(seconds / 86400)}d ago`;
+  return new Date(iso).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  });
 }
 
 /** Build a page-number window around the current page. */
@@ -133,6 +150,8 @@ export const ZLP_UTILS = {
   sortRecords,
   paginate,
   fmt,
+  fmtBytes,
+  timeAgo,
   pageWindow,
   debounce,
   esc,
