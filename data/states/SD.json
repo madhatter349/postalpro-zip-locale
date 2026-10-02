@@ -4181,15 +4181,15 @@
     "district_name": "IA-NE-SD",
     "district_no": "500",
     "delivery_zipcode": "57547",
-    "locale_name": "LONG VALLEY",
-    "physical_delivery_address": "27199 SD HIGHWAY 73",
-    "physical_city": "LONG VALLEY",
+    "locale_name": "MARTIN",
+    "physical_delivery_address": "506 3RD AVE",
+    "physical_city": "MARTIN",
     "physical_state": "SD",
-    "physical_zip": "57547",
+    "physical_zip": "57551",
     "physical_zip4": "9998",
     "zip_class_code": null,
-    "locale_key": "000424",
-    "locale_type": "C"
+    "locale_key": "W1A909",
+    "locale_type": "P"
   },
   {
     "area_name": "CENTRAL",

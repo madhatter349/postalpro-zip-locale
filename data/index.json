@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
-  "total_records": 42288,
-  "unique_zipcodes": 37105,
+  "total_records": 42282,
+  "unique_zipcodes": 37103,
   "state_count": 60,
-  "last_updated": "September 08, 2026",
-  "last_updated_iso": "2026-09-08",
-  "last_checked": "2026-10-01T12:17:39.224Z",
-  "generated_at": "2026-09-16T11:56:18.382Z",
+  "last_updated": "October 01, 2026",
+  "last_updated_iso": "2026-10-01",
+  "last_checked": "2026-10-02T11:46:08.891Z",
+  "generated_at": "2026-10-02T11:46:12.626Z",
   "source": {
-    "url": "https://postalpro.usps.com/mnt/glusterfs/2026-09/ZIP_Locale_Detail.xlsx",
-    "sha256": "8c7df9f02b5125f96e483ceeba543b3ceb4824a7ad1809bd53bc8f9d309fb02a",
-    "bytes": 4437342,
-    "last_modified": "Tue, 08 Sep 2026 18:13:09 GMT",
-    "published": "September 08, 2026"
+    "url": "https://postalpro.usps.com/mnt/glusterfs/2026-10/Zip_Locale_Detail.xlsx",
+    "sha256": "6e923786b70a5ab7ed93fd89cf0ffee3633c6daa58c86c6d4c8702dcd860bc07",
+    "bytes": 4380487,
+    "last_modified": "Thu, 01 Oct 2026 21:23:18 GMT",
+    "published": "October 01, 2026"
   },
   "state_breakdown": {
     "states": 50,
@@ -25,13 +25,13 @@
     "full": "data/zip_locale_detail.json",
     "csv": "data/csv/zip_locale_detail.csv",
     "sqlite": "data/zip_locale_detail.sqlite",
+    "zip_index": "data/zip_index.json",
     "index": "data/index.json",
     "schema": "data/schema.json",
     "health": "data/health.json",
     "changes": "data/changes.json",
     "history": "data/history.json",
-    "openapi": "openapi.json",
-    "zip_index": "data/zip_index.json"
+    "openapi": "openapi.json"
   },
   "states": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "state": "CA",
-      "count": 2571,
+      "count": 2570,
       "kind": "state"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "state": "FL",
-      "count": 1466,
+      "count": 1465,
       "kind": "state"
     },
     {
@@ -136,7 +136,7 @@
     },
     {
       "state": "KY",
-      "count": 1040,
+      "count": 1043,
       "kind": "state"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "state": "MD",
-      "count": 627,
+      "count": 628,
       "kind": "state"
     },
     {
@@ -171,12 +171,12 @@
     },
     {
       "state": "MN",
-      "count": 981,
+      "count": 980,
       "kind": "state"
     },
     {
       "state": "MO",
-      "count": 1289,
+      "count": 1288,
       "kind": "state"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "state": "NC",
-      "count": 1163,
+      "count": 1161,
       "kind": "state"
     },
     {
@@ -231,12 +231,12 @@
     },
     {
       "state": "NY",
-      "count": 2256,
+      "count": 2255,
       "kind": "state"
     },
     {
       "state": "OH",
-      "count": 1518,
+      "count": 1517,
       "kind": "state"
     },
     {
@@ -311,7 +311,7 @@
     },
     {
       "state": "VT",
-      "count": 321,
+      "count": 320,
       "kind": "state"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "state": "WV",
-      "count": 891,
+      "count": 890,
       "kind": "state"
     },
     {

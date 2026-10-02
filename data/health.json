@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "result": "unchanged",
-  "started_at": "2026-10-01T12:17:38.485Z",
-  "finished_at": "2026-10-01T12:17:39.224Z",
-  "duration_ms": 739,
-  "last_updated": "September 08, 2026",
-  "last_checked": "2026-10-01T12:17:39.224Z",
-  "total_records": 42288,
+  "result": "updated",
+  "started_at": "2026-10-02T11:46:05.180Z",
+  "finished_at": "2026-10-02T11:46:13.459Z",
+  "duration_ms": 8279,
+  "last_updated": "October 01, 2026",
+  "last_checked": "2026-10-02T11:46:08.891Z",
+  "total_records": 42282,
   "state_count": 60,
-  "unique_zipcodes": 37105,
+  "unique_zipcodes": 37103,
   "source": {
-    "url": "https://postalpro.usps.com/mnt/glusterfs/2026-09/ZIP_Locale_Detail.xlsx",
-    "sha256": "8c7df9f02b5125f96e483ceeba543b3ceb4824a7ad1809bd53bc8f9d309fb02a",
-    "bytes": 4437342,
-    "last_modified": "Tue, 08 Sep 2026 18:13:09 GMT",
-    "published": "September 08, 2026"
+    "url": "https://postalpro.usps.com/mnt/glusterfs/2026-10/Zip_Locale_Detail.xlsx",
+    "sha256": "6e923786b70a5ab7ed93fd89cf0ffee3633c6daa58c86c6d4c8702dcd860bc07",
+    "bytes": 4380487,
+    "last_modified": "Thu, 01 Oct 2026 21:23:18 GMT",
+    "published": "October 01, 2026"
   },
   "last_change": {
-    "added": 183,
-    "removed": 2234,
-    "changed": 16
+    "added": 29,
+    "removed": 35,
+    "changed": 7
   },
   "last_error": null
 }

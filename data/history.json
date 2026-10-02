@@ -7,5 +7,14 @@
     "removed": 2234,
     "changed": 16,
     "sha256": "8c7df9f02b5125f96e483ceeba543b3ceb4824a7ad1809bd53bc8f9d309fb02a"
+  },
+  {
+    "checked_at": "2026-10-02T11:46:12.626Z",
+    "published": "October 01, 2026",
+    "total_records": 42282,
+    "added": 29,
+    "removed": 35,
+    "changed": 7,
+    "sha256": "6e923786b70a5ab7ed93fd89cf0ffee3633c6daa58c86c6d4c8702dcd860bc07"
   }
 ]

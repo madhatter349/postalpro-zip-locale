@@ -5045,15 +5045,15 @@
     "district_name": "AZ-NM",
     "district_no": "852",
     "delivery_zipcode": "88202",
-    "locale_name": "ROSWELL ANX",
-    "physical_delivery_address": "497 W BRASHER RD",
+    "locale_name": "WALKER",
+    "physical_delivery_address": "5904 S MAIN ST",
     "physical_city": "ROSWELL",
     "physical_state": "NM",
     "physical_zip": "88203",
-    "physical_zip4": "9998",
+    "physical_zip4": "9991",
     "zip_class_code": "P",
-    "locale_key": "Z18230",
-    "locale_type": "4"
+    "locale_key": "Z14280",
+    "locale_type": "S"
   },
   {
     "area_name": "WESTPAC",

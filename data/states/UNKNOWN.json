@@ -1,18 +1,18 @@
 [
   {
-    "area_name": "WESTPAC",
-    "area_code": "4E",
-    "district_name": "CO-WY",
-    "district_no": "800",
-    "delivery_zipcode": "83122",
-    "locale_name": "GROVER",
-    "physical_delivery_address": "PO BOX 9998",
+    "area_name": "ATLANTIC",
+    "area_code": "4B",
+    "district_name": "ME-NH-VT",
+    "district_no": "040",
+    "delivery_zipcode": "05076",
+    "locale_name": "TOPSHAM DPOBU",
+    "physical_delivery_address": "749 VILLAGE RD",
     "physical_city": null,
     "physical_state": null,
-    "physical_zip": "83122",
-    "physical_zip4": "9998",
+    "physical_zip": "05040",
+    "physical_zip4": "9800",
     "zip_class_code": null,
-    "locale_key": "W1B398",
-    "locale_type": "P"
+    "locale_key": "021795",
+    "locale_type": "6"
   }
 ]
